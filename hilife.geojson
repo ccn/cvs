@@ -21272,6 +21272,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "L010",
+        "title": "北市痴心店",
+        "address": "台北市文山區指南路二段６４號(商學院一樓部分)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.576511,
+          24.986955
+        ],
+        "type": "Point"
+      },
+      "id": "L010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "M853",
         "title": "斗六莊敬店",
         "address": "雲林縣斗六市中正路２１２號",
