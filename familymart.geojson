@@ -252,25 +252,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "008650",
-        "title": "全家中壢仁美店",
-        "address": "桃園市中壢區中山東路三段203號1F",
-        "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.249891,
-          24.942747
-        ],
-        "type": "Point"
-      },
-      "id": "008650"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "008784",
         "title": "全家瑞光店",
         "address": "台北市內湖區瑞光路510號1樓",
@@ -52141,25 +52122,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016728",
-        "title": "全家五股六福店",
-        "address": "新北市五股區五福路70號1樓",
-        "post": "248",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.433059,
-          25.090093
-        ],
-        "type": "Point"
-      },
-      "id": "016728"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016733",
         "title": "全家基隆新安和店",
         "address": "基隆市安樂區安和一街124號",
@@ -58392,25 +58354,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017140",
-        "title": "全家淡水捷運站店",
-        "address": "新北市淡水區中正路1號（淡水站5號販賣店部分）",
-        "post": "251",
-        "all": null,
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.44555426,
-          25.16823193
-        ],
-        "type": "Point"
-      },
-      "id": "017140"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017141",
         "title": "全家大安海墘店",
         "address": "台中市大安區大安港路1021號",
@@ -59285,25 +59228,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017194",
-        "title": "全家竹北泰和店",
-        "address": "新竹縣竹北市泰和路169號",
-        "post": "302",
-        "all": "SWEETPOTATO,Photo,WiFi,Parking,Toilet,Rest,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.01,
-          24.84813
-        ],
-        "type": "Point"
-      },
-      "id": "017194"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017195",
         "title": "全家太保麻魚店",
         "address": "嘉義縣太保市中山路二段185號",
@@ -59570,6 +59494,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017211",
+        "title": "全家五股六福店",
+        "address": "新北市五股區五福路70號1樓",
+        "post": "248",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.433059,
+          25.090093
+        ],
+        "type": "Point"
+      },
+      "id": "017211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017213",
         "title": "全家埔里枇杷店",
         "address": "南投縣埔里鎮中華路1-1號1樓",
@@ -59642,6 +59585,25 @@
         "type": "Point"
       },
       "id": "017216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017217",
+        "title": "全家高雄新海店",
+        "address": "高雄市左營區海功路2號1樓",
+        "post": "813",
+        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.299068,
+          22.693738
+        ],
+        "type": "Point"
+      },
+      "id": "017217"
     },
     {
       "type": "Feature",
@@ -59741,6 +59703,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017229",
+        "title": "全家竹北泰和店",
+        "address": "新竹縣竹北市泰和路169號",
+        "post": "302",
+        "all": "SWEETPOTATO,Photo,WiFi,Parking,Toilet,Rest,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.01,
+          24.84813
+        ],
+        "type": "Point"
+      },
+      "id": "017229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017234",
         "title": "全家八德忠誠店",
         "address": "桃園市八德區忠孝街12號",
@@ -59756,6 +59737,25 @@
         "type": "Point"
       },
       "id": "017234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017247",
+        "title": "全家中央南路店",
+        "address": "台北市北投區中央南路二段15號1樓",
+        "post": "112",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500506,
+          25.125814
+        ],
+        "type": "Point"
+      },
+      "id": "017247"
     },
     {
       "type": "Feature",
@@ -59832,6 +59832,44 @@
         "type": "Point"
       },
       "id": "017255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017265",
+        "title": "全家台中天保店",
+        "address": "台中市西屯區中工三路214之1號、之2號1樓",
+        "post": "407",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,muffin,SharePot,Kantoni,SingleOrigin,TANHOU",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.617488,
+          24.175645
+        ],
+        "type": "Point"
+      },
+      "id": "017265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017272",
+        "title": "全家淡水捷運站店",
+        "address": "新北市淡水區中正路1號（淡水站5號販賣店部分）",
+        "post": "251",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44555426,
+          25.16823193
+        ],
+        "type": "Point"
+      },
+      "id": "017272"
     },
     {
       "type": "Feature",
@@ -60117,25 +60155,6 @@
         "type": "Point"
       },
       "id": "017474"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017484",
-        "title": "全家高雄新海店",
-        "address": "高雄市左營區海功路2號1樓",
-        "post": "813",
-        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.299068,
-          22.693738
-        ],
-        "type": "Point"
-      },
-      "id": "017484"
     },
     {
       "type": "Feature",
@@ -60554,25 +60573,6 @@
         "type": "Point"
       },
       "id": "017764"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017774",
-        "title": "全家台中天保店",
-        "address": "台中市西屯區中工三路214之1號、之2號1樓",
-        "post": "407",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,muffin,SharePot,Kantoni,SingleOrigin,TANHOU",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.617488,
-          24.175645
-        ],
-        "type": "Point"
-      },
-      "id": "017774"
     },
     {
       "type": "Feature",
