@@ -22,23 +22,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "110046",
-        "title": "博愛街",
-        "address": "新竹縣竹北市博愛街709號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.015699,
-          24.8437
-        ],
-        "type": "Point"
-      },
-      "id": "110046"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "110068",
         "title": "鳳文",
         "address": "高雄市鳳山區文英里文衡路50號1樓",
@@ -6801,23 +6784,6 @@
         "type": "Point"
       },
       "id": "120700"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "120711",
-        "title": "敦隆",
-        "address": "台北市大安區敦化南路2段182號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54832739083,
-          25.023666854354
-        ],
-        "type": "Point"
-      },
-      "id": "120711"
     },
     {
       "type": "Feature",
@@ -50750,6 +50716,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "185660",
+        "title": "新球庭",
+        "address": "高雄市新興區林森一路162號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304705,
+          22.630147
+        ],
+        "type": "Point"
+      },
+      "id": "185660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "185671",
         "title": "豐成",
         "address": "新北市板橋區三民路1段31巷89弄10號12號1樓",
@@ -51035,6 +51018,23 @@
         "type": "Point"
       },
       "id": "185855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "185866",
+        "title": "三中",
+        "address": "台中市西區忠明路54之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.661103,
+          24.159014
+        ],
+        "type": "Point"
+      },
+      "id": "185866"
     },
     {
       "type": "Feature",
