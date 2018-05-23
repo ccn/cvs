@@ -48965,6 +48965,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182498",
+        "title": "朴子橋",
+        "address": "嘉義縣六腳鄉正義村大橋頭190-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.25532953202,
+          23.517906594974
+        ],
+        "type": "Point"
+      },
+      "id": "182498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182683",
         "title": "新基隆一",
         "address": "基隆市仁愛區港西街5號",
