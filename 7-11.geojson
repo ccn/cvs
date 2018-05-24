@@ -3218,23 +3218,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "113724",
-        "title": "三中",
-        "address": "台中市西區忠明路54之1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.661103,
-          24.159014
-        ],
-        "type": "Point"
-      },
-      "id": "113724"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "113735",
         "title": "亞都",
         "address": "桃園市大溪區僑愛一街72巷15號",
@@ -4829,23 +4812,6 @@
         "type": "Point"
       },
       "id": "117173"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "117335",
-        "title": "復育",
-        "address": "新北市樹林區樹西里13鄰育英街146號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.419053,
-          24.989517
-        ],
-        "type": "Point"
-      },
-      "id": "117335"
     },
     {
       "type": "Feature",
@@ -7458,8 +7424,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.00050300035,
-          24.789363040297
+          120.997052,
+          24.789299
         ],
         "type": "Point"
       },
@@ -9158,8 +9124,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.984064,
-          24.774508
+          120.988136,
+          24.76835
         ],
         "type": "Point"
       },
@@ -40499,23 +40465,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "169554",
-        "title": "新球庭",
-        "address": "高雄市新興區林森一路162號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.304705,
-          22.630147
-        ],
-        "type": "Point"
-      },
-      "id": "169554"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "169565",
         "title": "北捷",
         "address": "台北市中正區忠孝西路1段49號B3樓",
@@ -48897,6 +48846,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182340",
+        "title": "王爺",
+        "address": "新竹縣湖口鄉中山路一段790號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.042774,
+          24.898835
+        ],
+        "type": "Point"
+      },
+      "id": "182340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182409",
         "title": "權大",
         "address": "台中市西區五權西路一段271號1樓2樓",
@@ -53313,6 +53279,23 @@
         "type": "Point"
       },
       "id": "188337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188348",
+        "title": "鑫魚池",
+        "address": "南投縣魚池鄉魚池街799號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.929851,
+          23.901178
+        ],
+        "type": "Point"
+      },
+      "id": "188348"
     },
     {
       "type": "Feature",
@@ -78779,23 +78762,6 @@
         "type": "Point"
       },
       "id": "967581"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "967592",
-        "title": "朴子橋",
-        "address": "嘉義縣六腳鄉正義村15鄰下雙溪161-2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.246624,
-          23.480036
-        ],
-        "type": "Point"
-      },
-      "id": "967592"
     },
     {
       "type": "Feature",
