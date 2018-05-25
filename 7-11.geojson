@@ -48659,6 +48659,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "181990",
+        "title": "梓官",
+        "address": "高雄市梓官區和平路278號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.30259959834,
+          22.591670365918
+        ],
+        "type": "Point"
+      },
+      "id": "181990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182007",
         "title": "台北灣",
         "address": "新北市淡水區新市一路一段108號1樓",
