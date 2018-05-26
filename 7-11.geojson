@@ -49016,6 +49016,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182812",
+        "title": "復育",
+        "address": "新北市樹林區復興路227號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.420016,
+          24.990862
+        ],
+        "type": "Point"
+      },
+      "id": "182812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184520",
         "title": "GRC",
         "address": "新竹市東區工業東三路1號1樓",
@@ -55795,23 +55812,6 @@
         "type": "Point"
       },
       "id": "852067"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "852207",
-        "title": "梓官",
-        "address": "高雄市梓官區和平路322號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.262847,
-          22.760162
-        ],
-        "type": "Point"
-      },
-      "id": "852207"
     },
     {
       "type": "Feature",
@@ -88690,23 +88690,6 @@
         "type": "Point"
       },
       "id": "993627"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "993638",
-        "title": "鑫魚池",
-        "address": "南投縣魚池鄉魚池街799號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.929851,
-          23.901178
-        ],
-        "type": "Point"
-      },
-      "id": "993638"
     },
     {
       "type": "Feature",
