@@ -24485,23 +24485,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "146687",
-        "title": "科工館",
-        "address": "高雄市三民區安發里平等路91號93號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.320798,
-          22.640491
-        ],
-        "type": "Point"
-      },
-      "id": "146687"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "146791",
         "title": "興都",
         "address": "新北市林口區文化二路一段378號1樓之一之二之三",
@@ -48982,6 +48965,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182719",
+        "title": "副都心",
+        "address": "新北市新莊區中央路287號289號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.452508,
+          25.058659
+        ],
+        "type": "Point"
+      },
+      "id": "182719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182731",
         "title": "合泰",
         "address": "嘉義縣大林鎮大美里19鄰大智一街1號",
@@ -51086,6 +51086,23 @@
         "type": "Point"
       },
       "id": "185914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "185936",
+        "title": "新汐農",
+        "address": "新北市汐止區樟樹一路113號115號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6419,
+          25.064096
+        ],
+        "type": "Point"
+      },
+      "id": "185936"
     },
     {
       "type": "Feature",
@@ -54694,6 +54711,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190352",
+        "title": "壢和",
+        "address": "桃園市中壢區中和路114號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2255,
+          24.95412
+        ],
+        "type": "Point"
+      },
+      "id": "190352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190363",
         "title": "寶德",
         "address": "台北市松山區八德路四段321號",
@@ -54707,6 +54741,23 @@
         "type": "Point"
       },
       "id": "190363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190396",
+        "title": "富新",
+        "address": "新北市新莊區瓊林南路118-5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.433739,
+          25.011274
+        ],
+        "type": "Point"
+      },
+      "id": "190396"
     },
     {
       "type": "Feature",
