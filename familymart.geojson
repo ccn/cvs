@@ -48854,25 +48854,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016524",
-        "title": "全家土城新德店",
-        "address": "新北市土城區中央路一段248之2號",
-        "post": "236",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.444425,
-          24.984739
-        ],
-        "type": "Point"
-      },
-      "id": "016524"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016525",
         "title": "全家高雄亞太店",
         "address": "高雄市苓雅區三多四路65號壹樓",
@@ -57195,25 +57176,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017093",
-        "title": "全家樹林三德店",
-        "address": "新北市樹林區中正路482號1樓",
-        "post": "238",
-        "all": "SWEETPOTATO,Toilet,Rest,SharePot,SingleOrigin,TANHOU",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.412623,
-          25.012943
-        ],
-        "type": "Point"
-      },
-      "id": "017093"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017095",
         "title": "全家台南三喜店",
         "address": "台南市南區喜樹路220號",
@@ -57223,8 +57185,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.177311,
-          22.941449
+          120.1772887324,
+          22.941471274316
         ],
         "type": "Point"
       },
@@ -59418,6 +59380,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017226",
+        "title": "全家土城新德店",
+        "address": "新北市土城區中央路一段248之2號",
+        "post": "236",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.444425,
+          24.984739
+        ],
+        "type": "Point"
+      },
+      "id": "017226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017228",
         "title": "全家中壢龍慈店",
         "address": "桃園市中壢區龍岡路三段275號1F",
@@ -59851,6 +59832,25 @@
         "type": "Point"
       },
       "id": "017288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017289",
+        "title": "全家樹林三德店",
+        "address": "新北市樹林區中正路482號1樓",
+        "post": "238",
+        "all": "SWEETPOTATO,Toilet,Rest,SharePot,SingleOrigin,TANHOU",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.412623,
+          25.012943
+        ],
+        "type": "Point"
+      },
+      "id": "017289"
     },
     {
       "type": "Feature",
