@@ -54745,6 +54745,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190374",
+        "title": "宏亞",
+        "address": "桃園市桃園區中平路102號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.292867,
+          24.987222
+        ],
+        "type": "Point"
+      },
+      "id": "190374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190396",
         "title": "富新",
         "address": "新北市新莊區瓊林南路118-5號",
@@ -54758,6 +54775,23 @@
         "type": "Point"
       },
       "id": "190396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190628",
+        "title": "臨沂",
+        "address": "台北市中正區文祥里臨沂街74號76號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.527801,
+          25.034531
+        ],
+        "type": "Point"
+      },
+      "id": "190628"
     },
     {
       "type": "Feature",
