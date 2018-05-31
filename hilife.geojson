@@ -6074,6 +6074,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3036",
+        "title": "屏縣屏欣店",
+        "address": "屏東縣鹽埔鄉新圍村維新路１１２之１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.557432733,
+          22.741426588923
+        ],
+        "type": "Point"
+      },
+      "id": "3036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "3042",
         "title": "中壢桃通店",
         "address": "桃園市中壢區中正路１０９６號",
@@ -7090,6 +7107,23 @@
         "type": "Point"
       },
       "id": "3195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3198",
+        "title": "屏縣大仁店",
+        "address": "屏東縣鹽埔鄉新二村維新路２０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5442066311,
+          22.727736114981
+        ],
+        "type": "Point"
+      },
+      "id": "3198"
     },
     {
       "type": "Feature",
@@ -18497,6 +18531,23 @@
         "type": "Point"
       },
       "id": "4436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4437",
+        "title": "竹北起飛店",
+        "address": "新竹縣竹北市仁義路１４８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.014671,
+          24.834429
+        ],
+        "type": "Point"
+      },
+      "id": "4437"
     },
     {
       "type": "Feature",
