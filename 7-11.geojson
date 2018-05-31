@@ -10392,23 +10392,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "126719",
-        "title": "新汐農",
-        "address": "新北市汐止區樟樹一路113號115號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.6419,
-          25.064096
-        ],
-        "type": "Point"
-      },
-      "id": "126719"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "126720",
         "title": "天仁",
         "address": "台中市沙鹿區斗抵里沙田路17之19號",
@@ -16814,23 +16797,6 @@
         "type": "Point"
       },
       "id": "135919"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "135931",
-        "title": "壢和",
-        "address": "桃園市中壢區中和路114號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.2255,
-          24.95412
-        ],
-        "type": "Point"
-      },
-      "id": "135931"
     },
     {
       "type": "Feature",
@@ -54456,6 +54422,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190190",
+        "title": "新陽",
+        "address": "新北市三重區三陽路62號64號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.484076,
+          25.058605
+        ],
+        "type": "Point"
+      },
+      "id": "190190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190204",
         "title": "潭欣",
         "address": "台中市潭子區光陽路142號",
@@ -54758,6 +54741,23 @@
         "type": "Point"
       },
       "id": "190374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190385",
+        "title": "鎮豐",
+        "address": "桃園市平鎮區南豐路99號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.208267,
+          24.900128
+        ],
+        "type": "Point"
+      },
+      "id": "190385"
     },
     {
       "type": "Feature",
@@ -82893,23 +82893,6 @@
         "type": "Point"
       },
       "id": "977636"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "977647",
-        "title": "富新",
-        "address": "新北市新莊區瓊林南路118-5號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.433739,
-          25.011274
-        ],
-        "type": "Point"
-      },
-      "id": "977647"
     },
     {
       "type": "Feature",
