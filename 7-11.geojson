@@ -41706,23 +41706,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170820",
-        "title": "宏亞",
-        "address": "桃園市桃園區中平路102號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.292867,
-          24.987222
-        ],
-        "type": "Point"
-      },
-      "id": "170820"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170831",
         "title": "景圓",
         "address": "新北市中和區圓通路162-1號162-2號1樓",
@@ -53198,6 +53181,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188245",
+        "title": "興頂",
+        "address": "新北市三重區中興北街177號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.469147,
+          25.056097
+        ],
+        "type": "Point"
+      },
+      "id": "188245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188256",
         "title": "佳冬",
         "address": "屏東縣佳冬鄉賴家村佳和路1號",
@@ -54490,23 +54490,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190237",
-        "title": "臨沂",
-        "address": "台北市中正區文祥里臨沂街74號76號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.527801,
-          25.034531
-        ],
-        "type": "Point"
-      },
-      "id": "190237"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190248",
         "title": "國勝",
         "address": "高雄市左營區富國路112號116號1樓",
@@ -54775,6 +54758,23 @@
         "type": "Point"
       },
       "id": "190396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190400",
+        "title": "重富",
+        "address": "新北市三重區溪尾街321號323號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.487972,
+          25.084338
+        ],
+        "type": "Point"
+      },
+      "id": "190400"
     },
     {
       "type": "Feature",
