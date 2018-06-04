@@ -8998,23 +8998,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3557",
-        "title": "北市港捷店",
-        "address": "台北市南港區經貿二路１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.61705230374,
-          25.055720476401
-        ],
-        "type": "Point"
-      },
-      "id": "3557"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3561",
         "title": "南縣大潭店",
         "address": "台南市七股區大潭村台潭２５號",
@@ -18174,6 +18157,23 @@
         "type": "Point"
       },
       "id": "4438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4451",
+        "title": "北市芮安店",
+        "address": "台北市松山區敦化北路２２２巷５０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.546844,
+          25.060165
+        ],
+        "type": "Point"
+      },
+      "id": "4451"
     },
     {
       "type": "Feature",
