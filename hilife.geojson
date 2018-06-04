@@ -73,23 +73,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2017",
-        "title": "八德桃鶯三店",
-        "address": "桃園市八德區桃鶯路７４號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.32743005646,
-          24.970578882986
-        ],
-        "type": "Point"
-      },
-      "id": "2017"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2025",
         "title": "新竹林森店",
         "address": "新竹市北區四維路１７號",
@@ -719,40 +702,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2144",
-        "title": "八德廣興店",
-        "address": "桃園市八德區廣興路７９８-１號、新興路２８０-１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.28405974835,
-          24.948752258764
-        ],
-        "type": "Point"
-      },
-      "id": "2144"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "2145",
-        "title": "八德松柏林店",
-        "address": "桃園市八德區大興路６７０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.30084087753,
-          24.943189092045
-        ],
-        "type": "Point"
-      },
-      "id": "2145"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2147",
         "title": "桃縣海口店",
         "address": "桃園市大園區國際路三段５８１號",
@@ -766,40 +715,6 @@
         "type": "Point"
       },
       "id": "2147"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "2151",
-        "title": "八德霄裡店",
-        "address": "桃園市八德區長興路７７３、７７５號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.26433444651,
-          24.933114410128
-        ],
-        "type": "Point"
-      },
-      "id": "2151"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "2153",
-        "title": "八德麻園店",
-        "address": "桃園市八德區介壽路二段４９２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.29719927434,
-          24.944563890126
-        ],
-        "type": "Point"
-      },
-      "id": "2153"
     },
     {
       "type": "Feature",
@@ -1450,23 +1365,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2279",
-        "title": "桃縣桃勇店",
-        "address": "桃園市八德區東勇街４０２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.30932633055,
-          24.96550541159
-        ],
-        "type": "Point"
-      },
-      "id": "2279"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2282",
         "title": "高市高順店",
         "address": "高雄市三民區建工路５８２號",
@@ -1871,23 +1769,6 @@
         "type": "Point"
       },
       "id": "2333"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "2336",
-        "title": "八德桃德店",
-        "address": "桃園市八德區中山路４２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.2843727869,
-          24.929195274205
-        ],
-        "type": "Point"
-      },
-      "id": "2336"
     },
     {
       "type": "Feature",
@@ -4238,23 +4119,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2741",
-        "title": "八德桃鑽店",
-        "address": "桃園市八德區興豐路８３８、８４０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.30018053086,
-          24.932998116976
-        ],
-        "type": "Point"
-      },
-      "id": "2741"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2743",
         "title": "北縣豐年店",
         "address": "新北市新莊區豐年街１１８之１號",
@@ -4697,23 +4561,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2819",
-        "title": "八德桃夢店",
-        "address": "桃園市八德區永豐路２３０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.27747219377,
-          24.966831564934
-        ],
-        "type": "Point"
-      },
-      "id": "2819"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2822",
         "title": "彰化彰鴻店",
         "address": "彰化縣彰化市泰和東街３７２號",
@@ -4778,23 +4625,6 @@
         "type": "Point"
       },
       "id": "2832"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "2834",
-        "title": "八德桃尊店",
-        "address": "桃園市八德區建國路８７１號壹樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.29106675096,
-          24.952947567771
-        ],
-        "type": "Point"
-      },
-      "id": "2834"
     },
     {
       "type": "Feature",
@@ -5836,23 +5666,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3025",
-        "title": "八德桃棒店",
-        "address": "桃園市八德區大福街８６號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.29999489365,
-          24.973262037429
-        ],
-        "type": "Point"
-      },
-      "id": "3025"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3027",
         "title": "平鎮桃爺店",
         "address": "桃園市平鎮區關爺西路１、１-１號",
@@ -6053,23 +5866,6 @@
         "type": "Point"
       },
       "id": "3055"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3056",
-        "title": "八德桃定店",
-        "address": "桃園市八德區東勇街１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.30649504016,
-          24.957669781868
-        ],
-        "type": "Point"
-      },
-      "id": "3056"
     },
     {
       "type": "Feature",
@@ -6397,23 +6193,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3099",
-        "title": "八德桃昂店",
-        "address": "桃園市八德區長興路５７６、５７８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.27050794629,
-          24.932914647933
-        ],
-        "type": "Point"
-      },
-      "id": "3099"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3101",
         "title": "永康南俊店",
         "address": "台南市永康區中正路８９０號一樓",
@@ -6495,23 +6274,6 @@
         "type": "Point"
       },
       "id": "3118"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3119",
-        "title": "八德桃爾店",
-        "address": "桃園市八德區廣福路２８１、２８３號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.29226898542,
-          24.959423878784
-        ],
-        "type": "Point"
-      },
-      "id": "3119"
     },
     {
       "type": "Feature",
@@ -7294,23 +7056,6 @@
         "type": "Point"
       },
       "id": "3271"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3276",
-        "title": "八德桃壯店",
-        "address": "桃園市八德區國際路８５號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.29267264591,
-          24.96150109304
-        ],
-        "type": "Point"
-      },
-      "id": "3276"
     },
     {
       "type": "Feature",
@@ -8352,23 +8097,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3456",
-        "title": "八德德榮店",
-        "address": "桃園市八德區龍江路３１３、３１５號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.2566461134,
-          24.927399324324
-        ],
-        "type": "Point"
-      },
-      "id": "3456"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3458",
         "title": "北縣米倉店",
         "address": "新北市八里區龍米路一段２１５、２１７號",
@@ -8484,23 +8212,6 @@
         "type": "Point"
       },
       "id": "3471"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3478",
-        "title": "八德德利店",
-        "address": "桃園市八德區力行街１１７-１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.29900128431,
-          24.975564916611
-        ],
-        "type": "Point"
-      },
-      "id": "3478"
     },
     {
       "type": "Feature",
@@ -9402,23 +9113,6 @@
         "type": "Point"
       },
       "id": "3617"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3619",
-        "title": "八德德萊店",
-        "address": "桃園市八德區和平路１４４６號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.32351688766,
-          24.970006459351
-        ],
-        "type": "Point"
-      },
-      "id": "3619"
     },
     {
       "type": "Feature",
@@ -15560,23 +15254,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4233",
-        "title": "八德和映店",
-        "address": "桃園市八德區和平路１０４６號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.320914,
-          24.962035
-        ],
-        "type": "Point"
-      },
-      "id": "4233"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4234",
         "title": "北市新樸實店",
         "address": "台北市松山區寧安街１２號(育達高職樸實樓一樓１０７教",
@@ -16083,23 +15760,6 @@
         "type": "Point"
       },
       "id": "4273"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4275",
-        "title": "八德大和店",
-        "address": "桃園市八德區和平路９８５號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.32032,
-          24.961638
-        ],
-        "type": "Point"
-      },
-      "id": "4275"
     },
     {
       "type": "Feature",
@@ -17426,23 +17086,6 @@
         "type": "Point"
       },
       "id": "4373"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4374",
-        "title": "八德御藏店",
-        "address": "桃園市八德區廣興路２３６號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.284919,
-          24.935457
-        ],
-        "type": "Point"
-      },
-      "id": "4374"
     },
     {
       "type": "Feature",
@@ -20061,23 +19704,6 @@
         "type": "Point"
       },
       "id": "F750"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "F751",
-        "title": "八德高城店",
-        "address": "桃園市八德區高城路６８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.2760215786,
-          24.978706107195
-        ],
-        "type": "Point"
-      },
-      "id": "F751"
     },
     {
       "type": "Feature",
