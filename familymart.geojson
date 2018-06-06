@@ -21646,25 +21646,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014333",
-        "title": "全家北港文仁店",
-        "address": "雲林縣北港鎮大同路554之1號",
-        "post": "651",
-        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.293213,
-          23.574567
-        ],
-        "type": "Point"
-      },
-      "id": "014333"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014336",
         "title": "全家土城金福店",
         "address": "新北市土城區福安街1號1-3樓全棟",
@@ -22934,25 +22915,6 @@
         "type": "Point"
       },
       "id": "014476"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014477",
-        "title": "全家北港天后店",
-        "address": "雲林縣北港鎮中山路90號",
-        "post": "651",
-        "all": "COFFEE,Photo,WiFi,icecream,Rest,oneice,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.304497,
-          23.566089
-        ],
-        "type": "Point"
-      },
-      "id": "014477"
     },
     {
       "type": "Feature",
@@ -38062,25 +38024,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015799",
-        "title": "全家北港財神店",
-        "address": "雲林縣北港鎮文仁路143號一樓",
-        "post": "651",
-        "all": "SWEETPOTATO,Photo,WiFi,Parking,Rest,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.300858,
-          23.578442
-        ],
-        "type": "Point"
-      },
-      "id": "015799"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015800",
         "title": "全家嘉義朝陽店",
         "address": "嘉義市東區垂楊路132號壹樓",
@@ -44845,25 +44788,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016276",
-        "title": "全家北港華勝店",
-        "address": "雲林縣北港鎮華勝路416號1樓",
-        "post": "651",
-        "all": "Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.299475,
-          23.583732
-        ],
-        "type": "Point"
-      },
-      "id": "016276"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016277",
         "title": "全家屏東廣興店",
         "address": "屏東縣屏東市廣東路722號",
@@ -46551,25 +46475,6 @@
         "type": "Point"
       },
       "id": "016396"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016397",
-        "title": "全家北港豐順店",
-        "address": "雲林縣北港鎮公園路73號1．2樓",
-        "post": "651",
-        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.302027,
-          23.575315
-        ],
-        "type": "Point"
-      },
-      "id": "016397"
     },
     {
       "type": "Feature",
@@ -51362,25 +51267,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016722",
-        "title": "全家新衡陽店",
-        "address": "台北市中正區衡陽路77號一樓",
-        "post": "100",
-        "all": "SWEETPOTATO,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.511054,
-          25.042355
-        ],
-        "type": "Point"
-      },
-      "id": "016722"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016723",
         "title": "全家八德建興店",
         "address": "桃園市八德區建國路59號1樓及2樓",
@@ -56055,25 +55941,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017050",
-        "title": "全家北港順風店",
-        "address": "雲林縣北港鎮中正路95號一樓、二樓",
-        "post": "651",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.301999,
-          23.569409
-        ],
-        "type": "Point"
-      },
-      "id": "017050"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017051",
         "title": "全家朴子嘉庚店",
         "address": "嘉義縣朴子市嘉朴路西段6號",
@@ -60003,6 +59870,25 @@
         "type": "Point"
       },
       "id": "017384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017386",
+        "title": "全家新衡陽店",
+        "address": "台北市中正區衡陽路77號一樓",
+        "post": "100",
+        "all": "SWEETPOTATO,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.511054,
+          25.042355
+        ],
+        "type": "Point"
+      },
+      "id": "017386"
     },
     {
       "type": "Feature",
