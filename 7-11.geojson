@@ -50988,6 +50988,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186043",
+        "title": "翔鳳",
+        "address": "新北市鶯歌區鶯桃路467號469號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.331982,
+          24.965841
+        ],
+        "type": "Point"
+      },
+      "id": "186043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
