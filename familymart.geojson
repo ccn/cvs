@@ -19727,25 +19727,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014114",
-        "title": "全家板橋正隆店",
-        "address": "新北市板橋區三民路二段正隆巷34號一樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.477198,
-          25.013589
-        ],
-        "type": "Point"
-      },
-      "id": "014114"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014117",
         "title": "全家大雅矽品店",
         "address": "台中市大雅區科雅路19號",
@@ -59076,6 +59057,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017233",
+        "title": "全家高雄運河店",
+        "address": "高雄市三民區自立一路71號",
+        "post": "807",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,veg,COFFEEDeliver,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.296755,
+          22.636309
+        ],
+        "type": "Point"
+      },
+      "id": "017233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017234",
         "title": "全家八德忠誠店",
         "address": "桃園市八德區忠孝街12號",
@@ -59211,7 +59211,7 @@
       "properties": {
         "id": "017242",
         "title": "全家新竹水木店",
-        "address": "新竹市東區光復路二段101號(水木餐廳1樓)",
+        "address": "新竹市東區光復路二段101號水木餐廳1樓",
         "post": "300",
         "all": null,
         "marker-color": "#01ac50"
@@ -59703,6 +59703,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017286",
+        "title": "全家樹林金安店",
+        "address": "新北市樹林區大安路585號1樓",
+        "post": "238",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.41187,
+          24.983337
+        ],
+        "type": "Point"
+      },
+      "id": "017286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017288",
         "title": "全家石碇雙溪店",
         "address": "新北市石碇區隆盛里雙溪58號",
@@ -59756,6 +59775,25 @@
         "type": "Point"
       },
       "id": "017290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017291",
+        "title": "全家台中大進店",
+        "address": "台中市南屯區公益路二段39號",
+        "post": "408",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.651535,
+          24.150592
+        ],
+        "type": "Point"
+      },
+      "id": "017291"
     },
     {
       "type": "Feature",
@@ -59893,6 +59931,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017313",
+        "title": "全家板橋正隆店",
+        "address": "新北市板橋區三民路二段正隆巷34號一樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.477198,
+          25.013589
+        ],
+        "type": "Point"
+      },
+      "id": "017313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017314",
         "title": "全家新莊狀元店",
         "address": "新北市新莊區中平路268號",
@@ -59908,25 +59965,6 @@
         "type": "Point"
       },
       "id": "017314"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017334",
-        "title": "全家台中大進店",
-        "address": "台中市南屯區公益路二段39號",
-        "post": "408",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.651535,
-          24.150592
-        ],
-        "type": "Point"
-      },
-      "id": "017334"
     },
     {
       "type": "Feature",
@@ -60383,25 +60421,6 @@
         "type": "Point"
       },
       "id": "017624"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017634",
-        "title": "全家高雄運河店",
-        "address": "高雄市三民區自立一路71號",
-        "post": "807",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,veg,COFFEEDeliver,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.296755,
-          22.636309
-        ],
-        "type": "Point"
-      },
-      "id": "017634"
     },
     {
       "type": "Feature",
