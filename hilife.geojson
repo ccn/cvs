@@ -16869,6 +16869,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4335",
+        "title": "潮州永春店",
+        "address": "屏東縣潮州鎮大同路７５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.532684,
+          22.5424
+        ],
+        "type": "Point"
+      },
+      "id": "4335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4337",
         "title": "潭子曇晨店",
         "address": "台中市潭子區甘蔗里勝利路２０９號",
@@ -17375,6 +17392,23 @@
         "type": "Point"
       },
       "id": "4370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4371",
+        "title": "潮州京洲店",
+        "address": "屏東縣潮州鎮南京路１５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.542976,
+          22.542653
+        ],
+        "type": "Point"
+      },
+      "id": "4371"
     },
     {
       "type": "Feature",
@@ -18168,8 +18202,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.546844,
-          25.060165
+          121.546943,
+          25.060063
         ],
         "type": "Point"
       },
