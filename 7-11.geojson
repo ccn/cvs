@@ -15662,23 +15662,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "132736",
-        "title": "翔鳳",
-        "address": "新北市鶯歌區鶯桃路467號469號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.331982,
-          24.965841
-        ],
-        "type": "Point"
-      },
-      "id": "132736"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "132747",
         "title": "興和",
         "address": "新北市中和區自立路187號189號1樓",
@@ -46024,6 +46007,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "179997",
+        "title": "高萱",
+        "address": "桃園市中壢區高?南路二段369號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.28779020268,
+          24.999121771645
+        ],
+        "type": "Point"
+      },
+      "id": "179997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180023",
         "title": "嘉林",
         "address": "嘉義市東區林森東路950號",
@@ -48893,6 +48893,40 @@
         "type": "Point"
       },
       "id": "182812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182823",
+        "title": "富丞",
+        "address": "桃園市蘆竹區中正北路599號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.280609,
+          25.04023
+        ],
+        "type": "Point"
+      },
+      "id": "182823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182971",
+        "title": "力成三",
+        "address": "新竹縣湖口鄉大同路15之1號6樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.999188,
+          24.87066
+        ],
+        "type": "Point"
+      },
+      "id": "182971"
     },
     {
       "type": "Feature",
