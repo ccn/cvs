@@ -22387,25 +22387,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014489",
-        "title": "全家北捷店",
-        "address": "台北市中正區忠孝西路一段47號B1F",
-        "post": "100",
-        "all": "SWEETPOTATO,twoice,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.516746,
-          25.04691
-        ],
-        "type": "Point"
-      },
-      "id": "014489"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014490",
         "title": "全家南海店",
         "address": "臺北市中正區南海路20號",
@@ -59477,7 +59458,7 @@
       "properties": {
         "id": "017328",
         "title": "全家龍廣店",
-        "address": "台北市萬華區廣州街203號1~2樓",
+        "address": "台北市萬華區廣州街203號1．2樓",
         "post": "108",
         "all": null,
         "marker-color": "#01ac50"
@@ -59560,8 +59541,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.50971595,
-          23.69171786
+          120.509883310988,
+          23.6919734523434
         ],
         "type": "Point"
       },
@@ -59667,7 +59648,7 @@
       "properties": {
         "id": "017342",
         "title": "全家澎湖和田店",
-        "address": "澎湖縣馬公市民權路2號1樓",
+        "address": "澎湖縣馬公市民權路2號一樓",
         "post": "880",
         "all": null,
         "marker-color": "#01ac50"
@@ -59724,7 +59705,7 @@
       "properties": {
         "id": "017346",
         "title": "全家中壢環西店",
-        "address": "桃園市中壢區環西路二段302號1~2樓",
+        "address": "桃園市中壢區環西路二段302號1樓、2樓",
         "post": "320",
         "all": null,
         "marker-color": "#01ac50"
@@ -59750,8 +59731,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.139884,
-          25.045428
+          121.140580956246,
+          25.0456997631539
         ],
         "type": "Point"
       },
@@ -59933,7 +59914,7 @@
       "properties": {
         "id": "017360",
         "title": "全家龜山新都店",
-        "address": "桃園市龜山區文青路357號1~2樓",
+        "address": "桃園市龜山區文青路357號1＆2樓",
         "post": "333",
         "all": null,
         "marker-color": "#01ac50"
@@ -60174,6 +60155,25 @@
         "type": "Point"
       },
       "id": "017377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017378",
+        "title": "全家北捷店",
+        "address": "台北市中正區忠孝西路一段47號B1F",
+        "post": "100",
+        "all": "SWEETPOTATO,twoice,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.516746,
+          25.04691
+        ],
+        "type": "Point"
+      },
+      "id": "017378"
     },
     {
       "type": "Feature",
