@@ -1824,23 +1824,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112282",
-        "title": "參龍",
-        "address": "台北市內湖區行善路64號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.576101,
-          25.056973
-        ],
-        "type": "Point"
-      },
-      "id": "112282"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112293",
         "title": "龍昌",
         "address": "桃園市龍潭區大昌路二段139之1號",
@@ -2687,23 +2670,6 @@
         "type": "Point"
       },
       "id": "113218"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "113229",
-        "title": "國青",
-        "address": "台北市大安區辛亥路3段30號(台大國青宿舍)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.544607387029,
-          25.0205018432615
-        ],
-        "type": "Point"
-      },
-      "id": "113229"
     },
     {
       "type": "Feature",
@@ -7604,23 +7570,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "121699",
-        "title": "華醫大",
-        "address": "台南市仁德區文華一街89號民生科技大樓一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.243631,
-          22.960882
-        ],
-        "type": "Point"
-      },
-      "id": "121699"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "121703",
         "title": "明得",
         "address": "高雄市苓雅區民主里憲政路100號1樓",
@@ -11068,23 +11017,6 @@
         "type": "Point"
       },
       "id": "127550"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "127561",
-        "title": "大社",
-        "address": "高雄市大社區翠屏里三民路304號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.347636,
-          22.728856
-        ],
-        "type": "Point"
-      },
-      "id": "127561"
     },
     {
       "type": "Feature",
@@ -39411,23 +39343,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167558",
-        "title": "榮泰",
-        "address": "新北市三峽區文化路63號65巷2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.37202,
-          24.936022
-        ],
-        "type": "Point"
-      },
-      "id": "167558"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167569",
         "title": "九份子",
         "address": "台南市安南區國安里九份子大道6號1樓",
@@ -42161,23 +42076,6 @@
         "type": "Point"
       },
       "id": "171373"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "171395",
-        "title": "好事登",
-        "address": "高雄市楠梓區中陽里鳳楠路227號之1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.329354,
-          22.725291
-        ],
-        "type": "Point"
-      },
-      "id": "171395"
     },
     {
       "type": "Feature",
@@ -47391,8 +47289,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.513974,
+          24.992169
         ],
         "type": "Point"
       },
@@ -48914,6 +48812,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182937",
+        "title": "美家",
+        "address": "桃園市中壢區中北路34號36號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.236507,
+          24.955816
+        ],
+        "type": "Point"
+      },
+      "id": "182937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182948",
         "title": "逢貿",
         "address": "台中市西屯區黎明路三段1218號",
@@ -48921,8 +48836,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.645974767231,
-          24.1925099550572
+          120.656146,
+          24.196041
         ],
         "type": "Point"
       },
@@ -53861,6 +53776,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188429",
+        "title": "德中",
+        "address": "高雄市楠梓區中和里德中路8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.280367,
+          22.721216
+        ],
+        "type": "Point"
+      },
+      "id": "188429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188430",
+        "title": "中德",
+        "address": "新竹縣北埔鄉北埔村中山路42號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.056012,
+          24.701939
+        ],
+        "type": "Point"
+      },
+      "id": "188430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188452",
         "title": "行龍",
         "address": "台北市內湖區行愛路128號",
@@ -55340,6 +55289,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190488",
+        "title": "汐旺",
+        "address": "新北市汐止區中興里6鄰中興路105號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.632281,
+          25.064794
+        ],
+        "type": "Point"
+      },
+      "id": "190488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190503",
         "title": "台科一",
         "address": "台北市大安區基隆路4段43號1樓",
@@ -55438,6 +55404,23 @@
         "type": "Point"
       },
       "id": "194147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194158",
+        "title": "進三廠(臨)",
+        "address": "桃園市蘆竹區長榮路168號4樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.28779020268101,
+          24.9991217716447
+        ],
+        "type": "Point"
+      },
+      "id": "194158"
     },
     {
       "type": "Feature",
@@ -60372,23 +60355,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "883968",
-        "title": "彩龍",
-        "address": "台北市內湖區行善路35號1F",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.576433,
-          25.056893
-        ],
-        "type": "Point"
-      },
-      "id": "883968"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "885115",
         "title": "新進",
         "address": "台南市新營區中正路33之14號15號",
@@ -64945,23 +64911,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "910493",
-        "title": "屏科",
-        "address": "屏東縣內埔鄉老埤村學府路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.613259,
-          22.643786
-        ],
-        "type": "Point"
-      },
-      "id": "910493"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "910530",
         "title": "京達",
         "address": "台中市豐原區中正路805號",
@@ -67240,23 +67189,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "921932",
-        "title": "行龍",
-        "address": "台北市內湖區行愛路128號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.580118,
-          25.063894
-        ],
-        "type": "Point"
-      },
-      "id": "921932"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "921965",
         "title": "羅亭",
         "address": "台北市中正區羅斯福路二段68號",
@@ -67678,23 +67610,6 @@
         "type": "Point"
       },
       "id": "922658"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "922669",
-        "title": "鄭州",
-        "address": "台北市大同區鄭州路3-2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.515741,
-          25.049012
-        ],
-        "type": "Point"
-      },
-      "id": "922669"
     },
     {
       "type": "Feature",
@@ -84746,23 +84661,6 @@
         "type": "Point"
       },
       "id": "981820"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "981897",
-        "title": "新龍俊",
-        "address": "新北市新莊區龍安路351號353號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.422859,
-          25.019149
-        ],
-        "type": "Point"
-      },
-      "id": "981897"
     },
     {
       "type": "Feature",
