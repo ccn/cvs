@@ -18756,6 +18756,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4462",
+        "title": "八德霸氣店",
+        "address": "桃園市八德區中山路１６６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.284346,
+          24.926839
+        ],
+        "type": "Point"
+      },
+      "id": "4462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
