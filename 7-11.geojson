@@ -55272,6 +55272,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190514",
+        "title": "信科",
+        "address": "高雄市左營區重信路601號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308657598443,
+          22.6859326946762
+        ],
+        "type": "Point"
+      },
+      "id": "190514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190606",
         "title": "潭欣",
         "address": "台中市潭子區光陽路142號",
