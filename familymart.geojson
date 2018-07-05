@@ -24249,6 +24249,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "014699",
+        "title": "全家深坑金典店",
+        "address": "新北市深坑區北深路二段77號",
+        "post": "222",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.618291,
+          25.003746
+        ],
+        "type": "Point"
+      },
+      "id": "014699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "014700",
         "title": "全家三重新福田店",
         "address": "新北市三重區三民街270號1樓",
@@ -26183,6 +26202,25 @@
         "type": "Point"
       },
       "id": "014887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "014888",
+        "title": "全家深坑北深店",
+        "address": "新北市深坑區北深路三段179號",
+        "post": "222",
+        "all": "SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.601592,
+          25.003565
+        ],
+        "type": "Point"
+      },
+      "id": "014888"
     },
     {
       "type": "Feature",
@@ -34125,6 +34163,25 @@
         "type": "Point"
       },
       "id": "015526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "015531",
+        "title": "全家深坑北福店",
+        "address": "新北市深坑區北深路三段239號",
+        "post": "222",
+        "all": "SWEETPOTATO,Toilet,Rest,veg,SharePot,SingleOrigin,TANHOU",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.599612,
+          25.004186
+        ],
+        "type": "Point"
+      },
+      "id": "015531"
     },
     {
       "type": "Feature",
@@ -53847,6 +53904,25 @@
         "type": "Point"
       },
       "id": "016990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "016992",
+        "title": "全家深坑埔新店",
+        "address": "新北市深坑區埔新街93號1樓",
+        "post": "222",
+        "all": "SWEETPOTATO,WiFi,Rest,muffin,COFFEEDeliver,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.619455,
+          25.002276
+        ],
+        "type": "Point"
+      },
+      "id": "016992"
     },
     {
       "type": "Feature",
