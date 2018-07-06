@@ -18705,6 +18705,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4453",
+        "title": "三峽隆慶店",
+        "address": "新北市三峽區大學路１７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.377458,
+          24.939994
+        ],
+        "type": "Point"
+      },
+      "id": "4453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4457",
         "title": "楊梅映玥店",
         "address": "桃園市楊梅區青山一街２０７、２０９、２１１號",
@@ -18769,6 +18786,23 @@
         "type": "Point"
       },
       "id": "4462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4466",
+        "title": "古坑劍湖山店",
+        "address": "雲林縣古坑鄉古坑鄉永光村大湖口６７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.57987,
+          23.616043
+        ],
+        "type": "Point"
+      },
+      "id": "4466"
     },
     {
       "type": "Feature",
