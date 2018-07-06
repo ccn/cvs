@@ -48965,6 +48965,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183398",
+        "title": "板鐵",
+        "address": "新北市板橋區縣民大道2段7號B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.463815,
+          25.014051
+        ],
+        "type": "Point"
+      },
+      "id": "183398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183402",
         "title": "民揚",
         "address": "新北市五股區新五路2段572號1樓",
@@ -55285,6 +55302,23 @@
         "type": "Point"
       },
       "id": "190514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190547",
+        "title": "鐏賢",
+        "address": "台北市北投區尊賢街247號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.506854362714,
+          25.1175401827255
+        ],
+        "type": "Point"
+      },
+      "id": "190547"
     },
     {
       "type": "Feature",
