@@ -12222,25 +12222,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013186",
-        "title": "全家龍井海大店",
-        "address": "台中市龍井區新興路東興巷46號、48號、50號",
-        "post": "434",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.593215,
-          24.181076
-        ],
-        "type": "Point"
-      },
-      "id": "013186"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013190",
         "title": "全家淡水濱海店",
         "address": "新北市淡水區濱海路一段308號",
@@ -50716,25 +50697,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016763",
-        "title": "全家嘉義興雅店",
-        "address": "嘉義市西區興雅路72號",
-        "post": "600",
-        "all": "COFFEE,SWEETPOTATO,Photo,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.434033,
-          23.483074
-        ],
-        "type": "Point"
-      },
-      "id": "016763"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016764",
         "title": "全家太平金城店",
         "address": "台中市太平區樹德路275號",
@@ -60482,6 +60444,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017415",
+        "title": "全家嘉義興雅店",
+        "address": "嘉義市西區興雅路72號",
+        "post": "600",
+        "all": "COFFEE,SWEETPOTATO,Photo,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.434033,
+          23.483074
+        ],
+        "type": "Point"
+      },
+      "id": "017415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017416",
         "title": "全家台南建平店",
         "address": "台南市安平區健康路三段10號一樓",
@@ -60539,6 +60520,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017436",
+        "title": "全家新埔埔德店",
+        "address": "新竹縣新埔鎮中正路629號1樓",
+        "post": "305",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.070603,
+          24.827683
+        ],
+        "type": "Point"
+      },
+      "id": "017436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017446",
         "title": "全家新店景大店",
         "address": "新北市新店區安忠路99號B2",
@@ -60554,6 +60554,25 @@
         "type": "Point"
       },
       "id": "017446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017450",
+        "title": "全家龍井海大店",
+        "address": "台中市龍井區新興路東興巷46號、48號、50號",
+        "post": "434",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.593215,
+          24.181076
+        ],
+        "type": "Point"
+      },
+      "id": "017450"
     },
     {
       "type": "Feature",
@@ -61143,25 +61162,6 @@
         "type": "Point"
       },
       "id": "017954"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017984",
-        "title": "全家新埔埔德店",
-        "address": "新竹縣新埔鎮中正路629號1樓",
-        "post": "305",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.070603,
-          24.827683
-        ],
-        "type": "Point"
-      },
-      "id": "017984"
     },
     {
       "type": "Feature",
