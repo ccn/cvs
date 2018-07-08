@@ -16648,23 +16648,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "135997",
-        "title": "信科",
-        "address": "高雄市左營區重信路601號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.308657598443,
-          22.6859326946762
-        ],
-        "type": "Point"
-      },
-      "id": "135997"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136004",
         "title": "南華",
         "address": "高雄市鳳山區五甲二路232號",
@@ -32305,23 +32288,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "159362",
-        "title": "鹿鳴",
-        "address": "台北市大安區羅斯福路4段1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.533697,
-          25.016984
-        ],
-        "type": "Point"
-      },
-      "id": "159362"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "159373",
         "title": "哨船頭",
         "address": "基隆市中正區義一路43號1樓",
@@ -42046,23 +42012,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171410",
-        "title": "鐏賢",
-        "address": "台北市北投區尊賢街247號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.506854362714,
-          25.1175401827255
-        ],
-        "type": "Point"
-      },
-      "id": "171410"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171421",
         "title": "統威",
         "address": "台北市松山區東興路13之1號",
@@ -48676,6 +48625,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182786",
+        "title": "花瓶岩",
+        "address": "屏東縣琉球鄉本福村中山路51-5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.378745,
+          22.348699
+        ],
+        "type": "Point"
+      },
+      "id": "182786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182812",
         "title": "復育",
         "address": "新北市樹林區復興路227號1樓",
@@ -48757,6 +48723,23 @@
         "type": "Point"
       },
       "id": "182904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182915",
+        "title": "雙嶺",
+        "address": "桃園市中壢區松義路111號113號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.166392,
+          24.960367
+        ],
+        "type": "Point"
+      },
+      "id": "182915"
     },
     {
       "type": "Feature",
@@ -55415,8 +55398,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.28779020268101,
-          24.9991217716447
+          121.28457,
+          25.058171
         ],
         "type": "Point"
       },
