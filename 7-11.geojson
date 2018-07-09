@@ -38119,6 +38119,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "166555",
+        "title": "桂花",
+        "address": "彰化縣鹿港鎮鹿東路150號1+2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.44254,
+          24.056537
+        ],
+        "type": "Point"
+      },
+      "id": "166555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "166588",
         "title": "屏醫",
         "address": "屏東縣屏東市自由路270號",
