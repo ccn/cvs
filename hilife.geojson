@@ -18739,6 +18739,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4458",
+        "title": "永康真愛店",
+        "address": "台南市永康區東橋七路１８５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.236899,
+          23.021194
+        ],
+        "type": "Point"
+      },
+      "id": "4458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4459",
         "title": "永康飛翔店",
         "address": "台南市永康區中正南路８５５號",
