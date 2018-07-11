@@ -39513,6 +39513,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "167721",
+        "title": "福林",
+        "address": "台中市西屯區福林路31巷150號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.612624,
+          24.185185
+        ],
+        "type": "Point"
+      },
+      "id": "167721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "167732",
         "title": "湖前",
         "address": "新北市汐止區明峰街120號1樓",
