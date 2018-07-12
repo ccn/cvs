@@ -53810,6 +53810,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188474",
+        "title": "富里",
+        "address": "台南市安南區安富里府安路5段154號155號156號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.198258,
+          23.022881
+        ],
+        "type": "Point"
+      },
+      "id": "188474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188511",
         "title": "民新",
         "address": "桃園市大園區民生南路167號",
