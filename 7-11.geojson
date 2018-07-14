@@ -37575,23 +37575,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "166119",
-        "title": "富里",
-        "address": "台南市安南區安富里府安路5段154號155號156號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.198258,
-          23.022881
-        ],
-        "type": "Point"
-      },
-      "id": "166119"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "166120",
         "title": "樂鑫",
         "address": "新北市中和區新生街146號",
@@ -46619,6 +46602,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "180757",
+        "title": "文成",
+        "address": "台南市北區文元里文成路775號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.194936,
+          23.012132
+        ],
+        "type": "Point"
+      },
+      "id": "180757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180779",
         "title": "福鹿",
         "address": "彰化縣福興鄉彰鹿路7段652.654號",
@@ -53030,13 +53030,13 @@
       "properties": {
         "id": "187932",
         "title": "馬賽",
-        "address": "宜蘭縣蘇澳鎮永樂里馬賽路151號",
+        "address": "宜蘭縣蘇澳鎮永榮里馬賽路151號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.833335,
-          24.624091
+          121.833799580479,
+          24.625291457103902
         ],
         "type": "Point"
       },
