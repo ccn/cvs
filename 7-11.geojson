@@ -48557,6 +48557,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182591",
+        "title": "米妃",
+        "address": "高雄市仁武區文武里中華路327-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.353213,
+          22.700799
+        ],
+        "type": "Point"
+      },
+      "id": "182591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182627",
         "title": "豐鎮",
         "address": "雲林縣西螺鎮平和南路352號",
