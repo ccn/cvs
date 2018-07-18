@@ -48438,6 +48438,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182580",
+        "title": "銅鑼圈",
+        "address": "桃園市龍潭區中豐路高平段402之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.206874,
+          24.833048
+        ],
+        "type": "Point"
+      },
+      "id": "182580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182591",
         "title": "米妃",
         "address": "高雄市仁武區文武里中華路327-1號",
@@ -48485,6 +48502,23 @@
         "type": "Point"
       },
       "id": "182683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182694",
+        "title": "苗龍",
+        "address": "苗栗縣後龍鎮造豐路333號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.831128,
+          24.605529
+        ],
+        "type": "Point"
+      },
+      "id": "182694"
     },
     {
       "type": "Feature",
