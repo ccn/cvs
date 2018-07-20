@@ -25641,23 +25641,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149088",
-        "title": "延埕",
-        "address": "台北市大同區延平北路2段159號161號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.511607,
-          25.058295
-        ],
-        "type": "Point"
-      },
-      "id": "149088"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149099",
         "title": "新民享",
         "address": "新北市中和區民享街91號",
@@ -51141,6 +51124,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "185969",
+        "title": "親親",
+        "address": "台中市北區錦洲里北屯路14號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.692009,
+          24.160239
+        ],
+        "type": "Point"
+      },
+      "id": "185969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "185981",
         "title": "新楊埔",
         "address": "桃園市楊梅區中興路47號1樓新興街66號1樓",
@@ -55272,6 +55272,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190536",
+        "title": "大榮",
+        "address": "台中市太平區中興東路189號191號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.722848,
+          24.131985
+        ],
+        "type": "Point"
+      },
+      "id": "190536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190547",
         "title": "鐏賢",
         "address": "台北市北投區尊賢街247號",
@@ -55285,6 +55302,23 @@
         "type": "Point"
       },
       "id": "190547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190581",
+        "title": "延埕",
+        "address": "台北市大同區延平北路2段159號161號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.511607,
+          25.058295
+        ],
+        "type": "Point"
+      },
+      "id": "190581"
     },
     {
       "type": "Feature",
@@ -85209,23 +85243,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "982812",
-        "title": "親親",
-        "address": "台中市北區錦洲里北屯路14號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.692009,
-          24.160239
-        ],
-        "type": "Point"
-      },
-      "id": "982812"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "982867",
         "title": "華耀",
         "address": "新竹市香山區明德路1號1樓",
@@ -85647,23 +85664,6 @@
         "type": "Point"
       },
       "id": "985718"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "985763",
-        "title": "大榮",
-        "address": "台中市太平區中興東路189號191號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.722848,
-          24.131985
-        ],
-        "type": "Point"
-      },
-      "id": "985763"
     },
     {
       "type": "Feature",
