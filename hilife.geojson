@@ -18705,6 +18705,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4456",
+        "title": "蘆竹華麗店",
+        "address": "桃園市蘆竹區大新路８１８、８２０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.243346,
+          25.023361
+        ],
+        "type": "Point"
+      },
+      "id": "4456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4457",
         "title": "楊梅映玥店",
         "address": "桃園市楊梅區青山一街２０７、２０９、２１１號",
