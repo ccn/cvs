@@ -20031,23 +20031,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "140623",
-        "title": "通盈",
-        "address": "台北市松山區南京東路五段315號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.566819404223,
-          25.0516509516713
-        ],
-        "type": "Point"
-      },
-      "id": "140623"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "140689",
         "title": "錢忠",
         "address": "台北市大安區忠孝東路四段26巷5號",
@@ -51328,6 +51311,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186168",
+        "title": "通盈",
+        "address": "台北市松山區南京東路五段315號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.566819404223,
+          25.0516509516713
+        ],
+        "type": "Point"
+      },
+      "id": "186168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -54762,23 +54762,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190178",
-        "title": "和捷",
-        "address": "新北市中和區和平街84號86號88號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.50757,
-          24.991281
-        ],
-        "type": "Point"
-      },
-      "id": "190178"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190189",
         "title": "動物園",
         "address": "台北市文山區新光路2段30號1樓",
@@ -55302,6 +55285,23 @@
         "type": "Point"
       },
       "id": "190547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190558",
+        "title": "和捷",
+        "address": "新北市中和區和平街84號86號88號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.50757,
+          24.991281
+        ],
+        "type": "Point"
+      },
+      "id": "190558"
     },
     {
       "type": "Feature",
