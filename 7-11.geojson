@@ -48863,6 +48863,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183239",
+        "title": "樂添",
+        "address": "基隆市安樂區樂利二街62巷291號2樓292號293號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.715001,
+          25.121377
+        ],
+        "type": "Point"
+      },
+      "id": "183239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183295",
         "title": "臣峰",
         "address": "新北市林口區文化北路一段62之1號",
@@ -52967,8 +52984,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.833799580479,
-          24.625291457103902
+          121.833121,
+          24.62393
         ],
         "type": "Point"
       },
