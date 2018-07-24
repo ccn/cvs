@@ -19538,23 +19538,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "139128",
-        "title": "橋鄰",
-        "address": "高雄市橋頭區仕隆里成功南路151號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.312981,
-          22.75195
-        ],
-        "type": "Point"
-      },
-      "id": "139128"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "139139",
         "title": "斗抵",
         "address": "台中市沙鹿區沙田路43-12號",
@@ -27048,23 +27031,6 @@
         "type": "Point"
       },
       "id": "151357"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "151379",
-        "title": "新雅竹",
-        "address": "新竹市北區湳雅街255號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.975549,
-          24.822008
-        ],
-        "type": "Point"
-      },
-      "id": "151379"
     },
     {
       "type": "Feature",
@@ -35705,23 +35671,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "164836",
-        "title": "建六",
-        "address": "新北市中和區建六路62號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.486109,
-          25.002031
-        ],
-        "type": "Point"
-      },
-      "id": "164836"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "164847",
         "title": "景順",
         "address": "新北市中和區中正路778號1樓",
@@ -41179,23 +41128,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170831",
-        "title": "景圓",
-        "address": "新北市中和區圓通路162-1號162-2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.497514,
-          24.995425
-        ],
-        "type": "Point"
-      },
-      "id": "170831"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170853",
         "title": "晏丞",
         "address": "新竹市東區振興路50號1樓",
@@ -46143,23 +46075,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "180447",
-        "title": "正林",
-        "address": "新北市林口區中正路201號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.391842,
-          25.077381
-        ],
-        "type": "Point"
-      },
-      "id": "180447"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "180470",
         "title": "尚群",
         "address": "桃園市八德區中山路181號",
@@ -47703,6 +47618,23 @@
         "type": "Point"
       },
       "id": "181635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "181657",
+        "title": "合興",
+        "address": "彰化縣埤頭鄉斗苑西路406號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.455918,
+          23.89254
+        ],
+        "type": "Point"
+      },
+      "id": "181657"
     },
     {
       "type": "Feature",
@@ -53674,6 +53606,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188393",
+        "title": "橋鄰",
+        "address": "高雄市橋頭區仕隆里成功南路151號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.312981,
+          22.75195
+        ],
+        "type": "Point"
+      },
+      "id": "188393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188407",
         "title": "德玉",
         "address": "新北市新店區安康路三段195號",
@@ -53759,6 +53708,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188463",
+        "title": "新雅竹",
+        "address": "新竹市北區湳雅街255號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.975549,
+          24.822008
+        ],
+        "type": "Point"
+      },
+      "id": "188463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188474",
         "title": "富里",
         "address": "台南市安南區安富里府安路5段154號155號156號",
@@ -53776,6 +53742,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188485",
+        "title": "建六",
+        "address": "新北市中和區建六路62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.486109,
+          25.002031
+        ],
+        "type": "Point"
+      },
+      "id": "188485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188511",
         "title": "民新",
         "address": "桃園市大園區民生南路167號",
@@ -53789,6 +53772,40 @@
         "type": "Point"
       },
       "id": "188511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188522",
+        "title": "正林",
+        "address": "新北市林口區中正路201號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.391842,
+          25.077381
+        ],
+        "type": "Point"
+      },
+      "id": "188522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188762",
+        "title": "景圓",
+        "address": "新北市中和區圓通路162-1號162-2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.497514,
+          24.995425
+        ],
+        "type": "Point"
+      },
+      "id": "188762"
     },
     {
       "type": "Feature",
