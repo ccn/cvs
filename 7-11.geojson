@@ -48829,6 +48829,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183343",
+        "title": "進一廠",
+        "address": "新竹縣寶山鄉園區三路123號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.994389996146,
+          24.7442468827681
+        ],
+        "type": "Point"
+      },
+      "id": "183343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183398",
         "title": "板鐵",
         "address": "新北市板橋區縣民大道2段7號B1",
@@ -48859,6 +48876,23 @@
         "type": "Point"
       },
       "id": "183402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183457",
+        "title": "國盛",
+        "address": "花蓮縣花蓮市國民九街56號58號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.60668,
+          23.994555
+        ],
+        "type": "Point"
+      },
+      "id": "183457"
     },
     {
       "type": "Feature",
