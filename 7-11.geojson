@@ -27834,23 +27834,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "152110",
-        "title": "鑽石",
-        "address": "桃園市龍潭區八德里梅龍路23鄰139號141號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.198706,
-          24.872904
-        ],
-        "type": "Point"
-      },
-      "id": "152110"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "152132",
         "title": "寶福",
         "address": "新北市新店區寶橋路78巷3號1F",
@@ -46330,23 +46313,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "180698",
-        "title": "洲子洋",
-        "address": "新北市五股區芳洲八路107號109號111號1.2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.446176,
-          25.088256
-        ],
-        "type": "Point"
-      },
-      "id": "180698"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "180702",
         "title": "東安",
         "address": "台東縣台東市杭州街288號1樓",
@@ -51311,6 +51277,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186191",
+        "title": "洲子洋",
+        "address": "新北市五股區芳洲八路107號109號111號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.446176,
+          25.088256
+        ],
+        "type": "Point"
+      },
+      "id": "186191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -53636,6 +53619,23 @@
         "type": "Point"
       },
       "id": "188371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188382",
+        "title": "鑽石",
+        "address": "桃園市龍潭區八德里梅龍路23鄰139號141號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.198706,
+          24.872904
+        ],
+        "type": "Point"
+      },
+      "id": "188382"
     },
     {
       "type": "Feature",
