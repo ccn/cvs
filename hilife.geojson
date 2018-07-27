@@ -18671,6 +18671,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4450",
+        "title": "台中豐富店",
+        "address": "台中市南屯區文心南三路３００號３０２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.649759,
+          24.133606
+        ],
+        "type": "Point"
+      },
+      "id": "4450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4451",
         "title": "北市芮安店",
         "address": "台北市松山區敦化北路２２２巷５０號",
