@@ -4014,25 +4014,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011551",
-        "title": "全家新竹德安店",
-        "address": "新竹市東區公道五路二段89號1樓",
-        "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.006735,
-          24.798144
-        ],
-        "type": "Point"
-      },
-      "id": "011551"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011558",
         "title": "全家三重集成店",
         "address": "新北市三重區環河南路254巷43號之1、2號",
@@ -57596,7 +57577,7 @@
       "properties": {
         "id": "017246",
         "title": "全家基隆武勝店",
-        "address": "基隆市安樂區武訓街72號1樓",
+        "address": "基隆市安樂區武訓街72號壹樓",
         "post": "204",
         "all": null,
         "marker-color": "#01ac50"
@@ -60535,6 +60516,25 @@
         "type": "Point"
       },
       "id": "017437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017439",
+        "title": "全家新竹德安店",
+        "address": "新竹市東區公道五路二段89號1樓",
+        "post": "300",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.006735,
+          24.798144
+        ],
+        "type": "Point"
+      },
+      "id": "017439"
     },
     {
       "type": "Feature",
