@@ -38544,23 +38544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167042",
-        "title": "悅來",
-        "address": "台北市內湖區五分街9號11號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.612443,
-          25.067765
-        ],
-        "type": "Point"
-      },
-      "id": "167042"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167053",
         "title": "東偕",
         "address": "台東縣台東市長沙街303巷1號",
@@ -51239,6 +51222,23 @@
         "type": "Point"
       },
       "id": "186168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186179",
+        "title": "悅來",
+        "address": "台北市內湖區五分街9號11號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.612443,
+          25.067765
+        ],
+        "type": "Point"
+      },
+      "id": "186179"
     },
     {
       "type": "Feature",
