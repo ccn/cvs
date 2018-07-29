@@ -48472,6 +48472,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182856",
+        "title": "港捷",
+        "address": "台北市南港區經貿二路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.617171,
+          25.056063
+        ],
+        "type": "Point"
+      },
+      "id": "182856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182890",
         "title": "鳳中",
         "address": "高雄市三民區建國三路285號1樓",
@@ -48751,8 +48768,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.994389996146,
-          24.7442468827681
+          120.996442,
+          24.775507
         ],
         "type": "Point"
       },
@@ -48795,6 +48812,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183435",
+        "title": "安保",
+        "address": "台北市內湖區安康路28號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.593711,
+          25.062409
+        ],
+        "type": "Point"
+      },
+      "id": "183435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183457",
         "title": "國盛",
         "address": "花蓮縣花蓮市國民九街56號58號1樓",
@@ -48825,6 +48859,23 @@
         "type": "Point"
       },
       "id": "183491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183619",
+        "title": "TBI",
+        "address": "新北市樹林區三多路139號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.414628,
+          25.007526
+        ],
+        "type": "Point"
+      },
+      "id": "183619"
     },
     {
       "type": "Feature",
@@ -53789,6 +53840,23 @@
         "type": "Point"
       },
       "id": "188522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188533",
+        "title": "圓武",
+        "address": "台北市中山區吉林路28號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.529979,
+          25.051479
+        ],
+        "type": "Point"
+      },
+      "id": "188533"
     },
     {
       "type": "Feature",
@@ -70279,23 +70347,6 @@
         "type": "Point"
       },
       "id": "936381"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "936428",
-        "title": "圓武",
-        "address": "台北市中山區吉林路28號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.529979,
-          25.051479
-        ],
-        "type": "Point"
-      },
-      "id": "936428"
     },
     {
       "type": "Feature",
