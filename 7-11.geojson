@@ -17396,23 +17396,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "136808",
-        "title": "重信",
-        "address": "高雄市左營區華夏路1182號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.309789,
-          22.684523
-        ],
-        "type": "Point"
-      },
-      "id": "136808"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136819",
         "title": "梅竹",
         "address": "新竹市東區光明里14鄰大學路56號58號60號",
@@ -20316,23 +20299,6 @@
         "type": "Point"
       },
       "id": "141187"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "141198",
-        "title": "新樹孝",
-        "address": "台中市太平區樹孝路48號50號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.716869,
-          24.151187
-        ],
-        "type": "Point"
-      },
-      "id": "141198"
     },
     {
       "type": "Feature",
@@ -48217,6 +48183,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182502",
+        "title": "新安發",
+        "address": "台南市安定區安加里安定407號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.236093,
+          23.120589
+        ],
+        "type": "Point"
+      },
+      "id": "182502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182546",
         "title": "辰佳",
         "address": "台南市永康區永大路二段11號",
@@ -51209,6 +51192,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186087",
+        "title": "榮總",
+        "address": "台北市北投區石牌路2段301號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.522754374424,
+          25.121492196286997
+        ],
+        "type": "Point"
+      },
+      "id": "186087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186113",
         "title": "彩虹市集",
         "address": "高雄市左營區菜公里高鐵路115號1樓",
@@ -53742,6 +53742,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188441",
+        "title": "新樹孝",
+        "address": "台中市太平區樹孝路48號50號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716869,
+          24.151187
+        ],
+        "type": "Point"
+      },
+      "id": "188441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188452",
         "title": "行龍",
         "address": "台北市內湖區行愛路128號",
@@ -55408,6 +55425,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190569",
+        "title": "重信",
+        "address": "高雄市左營區華夏路1182號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.309789,
+          22.684523
+        ],
+        "type": "Point"
+      },
+      "id": "190569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190581",
         "title": "延埕",
         "address": "台北市大同區延平北路2段159號161號",
@@ -56084,23 +56118,6 @@
         "type": "Point"
       },
       "id": "841001"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "841953",
-        "title": "榮總",
-        "address": "台北市北投區石牌路2段301號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.522754374424,
-          25.121492196286997
-        ],
-        "type": "Point"
-      },
-      "id": "841953"
     },
     {
       "type": "Feature",
