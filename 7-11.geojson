@@ -43083,23 +43083,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "174198",
-        "title": "福濱",
-        "address": "新北市三重區龍濱路51號53號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.502767,
-          25.068811
-        ],
-        "type": "Point"
-      },
-      "id": "174198"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "174202",
         "title": "時安",
         "address": "新北市新莊區建安街95號97號1樓",
@@ -46687,23 +46670,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181004",
-        "title": "宏順",
-        "address": "高雄市苓雅區三多一路108.110號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.332376,
-          22.623335
-        ],
-        "type": "Point"
-      },
-      "id": "181004"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181015",
         "title": "三越",
         "address": "台東縣台東市中華路一段169.171.173號1樓",
@@ -48604,6 +48570,23 @@
         "type": "Point"
       },
       "id": "183011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183033",
+        "title": "新北竹",
+        "address": "新竹縣竹北市博愛街358.360號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.008534,
+          24.836158
+        ],
+        "type": "Point"
+      },
+      "id": "183033"
     },
     {
       "type": "Feature",
@@ -51205,6 +51188,23 @@
         "type": "Point"
       },
       "id": "186087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186098",
+        "title": "宏順",
+        "address": "高雄市苓雅區三多一路108.110號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.332376,
+          22.623335
+        ],
+        "type": "Point"
+      },
+      "id": "186098"
     },
     {
       "type": "Feature",
@@ -53891,6 +53891,23 @@
         "type": "Point"
       },
       "id": "188762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188809",
+        "title": "福濱",
+        "address": "新北市三重區龍濱路51號53號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.502767,
+          25.068811
+        ],
+        "type": "Point"
+      },
+      "id": "188809"
     },
     {
       "type": "Feature",
@@ -74806,7 +74823,7 @@
       "type": "Feature",
       "properties": {
         "id": "953696",
-        "title": "合勤",
+        "title": "盟創",
         "address": "新竹縣寶山鄉創新二路6號",
         "marker-color": "#01ac50"
       },
@@ -80734,23 +80751,6 @@
         "type": "Point"
       },
       "id": "970657"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "970668",
-        "title": "新安發",
-        "address": "台南市安定區保西里410之3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.236093,
-          23.120834
-        ],
-        "type": "Point"
-      },
-      "id": "970668"
     },
     {
       "type": "Feature",
