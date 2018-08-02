@@ -60159,6 +60159,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017435",
+        "title": "全家蘆竹星馳店",
+        "address": "桃園市蘆竹區忠孝西路169巷2號",
+        "post": "338",
+        "all": "COFFEE,SWEETPOTATO,Rest,veg,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.289641,
+          25.040291
+        ],
+        "type": "Point"
+      },
+      "id": "017435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017436",
         "title": "全家新埔埔德店",
         "address": "新竹縣新埔鎮中正路629號1樓",
@@ -61428,25 +61447,6 @@
         "type": "Point"
       },
       "id": "017934"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017954",
-        "title": "全家蘆竹星馳店",
-        "address": "桃園市蘆竹區忠孝西路169巷2號",
-        "post": "338",
-        "all": "COFFEE,SWEETPOTATO,Rest,veg,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.289641,
-          25.040291
-        ],
-        "type": "Point"
-      },
-      "id": "017954"
     },
     {
       "type": "Feature",
