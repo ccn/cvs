@@ -18790,23 +18790,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4461",
-        "title": "萬華環州店",
-        "address": "台北市萬華區環河南路二段９６號１樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.495415,
-          25.036867
-        ],
-        "type": "Point"
-      },
-      "id": "4461"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4462",
         "title": "八德霸氣店",
         "address": "桃園市八德區中山路１６６號",
@@ -18854,6 +18837,23 @@
         "type": "Point"
       },
       "id": "4467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4472",
+        "title": "中山逸仙店",
+        "address": "台北市中山區中山北路二段４８巷７號B１(４號店鋪)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.521065,
+          25.055731
+        ],
+        "type": "Point"
+      },
+      "id": "4472"
     },
     {
       "type": "Feature",
