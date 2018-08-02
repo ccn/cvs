@@ -12,8 +12,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.65609977535,
-          24.1218717086184
+          120.565193,
+          24.123212
         ],
         "type": "Point"
       },
@@ -1253,8 +1253,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.17804950725099,
-          22.9521516198988
+          120.235005,
+          22.999763
         ],
         "type": "Point"
       },
@@ -4449,8 +4449,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.17804950725099,
-          22.9521516198988
+          120.252456,
+          22.998306
         ],
         "type": "Point"
       },
@@ -22367,8 +22367,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.65609977535,
-          24.1218717086184
+          120.634207,
+          24.344862
         ],
         "type": "Point"
       },
@@ -25943,23 +25943,6 @@
         "type": "Point"
       },
       "id": "149446"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "149468",
-        "title": "新北竹",
-        "address": "新竹縣竹北市博愛街328號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.008123,
-          24.83552
-        ],
-        "type": "Point"
-      },
-      "id": "149468"
     },
     {
       "type": "Feature",
@@ -47520,6 +47503,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "181691",
+        "title": "宥昌",
+        "address": "新竹縣芎林鄉文富街100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.076221,
+          24.776294
+        ],
+        "type": "Point"
+      },
+      "id": "181691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "181716",
         "title": "維妮",
         "address": "新北市新莊區四維路23號1樓",
@@ -48706,6 +48706,23 @@
         "type": "Point"
       },
       "id": "183239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183240",
+        "title": "員大",
+        "address": "彰化縣員林市員大路一段374號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.559888,
+          23.96911
+        ],
+        "type": "Point"
+      },
+      "id": "183240"
     },
     {
       "type": "Feature",
@@ -53164,23 +53181,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188083",
-        "title": "中城",
-        "address": "台中市大里區中興路一段328號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.692975,
-          24.090802
-        ],
-        "type": "Point"
-      },
-      "id": "188083"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188094",
         "title": "信吉",
         "address": "台北市信義區永吉路278巷58弄2號",
@@ -53517,23 +53517,6 @@
         "type": "Point"
       },
       "id": "188290"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "188315",
-        "title": "敦隆",
-        "address": "台北市大安區敦化南路2段182號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.548327390832,
-          25.023666854353902
-        ],
-        "type": "Point"
-      },
-      "id": "188315"
     },
     {
       "type": "Feature",
@@ -53878,6 +53861,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188740",
+        "title": "中城",
+        "address": "台中市大里區中興路一段328號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.692975,
+          24.090802
+        ],
+        "type": "Point"
+      },
+      "id": "188740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188762",
         "title": "景圓",
         "address": "新北市中和區圓通路162-1號162-2號1樓",
@@ -54095,23 +54095,6 @@
         "type": "Point"
       },
       "id": "189466"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "189477",
-        "title": "德天",
-        "address": "台北市士林區德行西路52號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.522989,
-          25.105272
-        ],
-        "type": "Point"
-      },
-      "id": "189477"
     },
     {
       "type": "Feature",
@@ -55459,6 +55442,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190570",
+        "title": "敦隆",
+        "address": "台北市大安區敦化南路2段182號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.548327390832,
+          25.023666854353902
+        ],
+        "type": "Point"
+      },
+      "id": "190570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190581",
         "title": "延埕",
         "address": "台北市大同區延平北路2段159號161號",
@@ -55472,6 +55472,23 @@
         "type": "Point"
       },
       "id": "190581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190592",
+        "title": "德天",
+        "address": "台北市士林區德行西路52號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.522989,
+          25.105272
+        ],
+        "type": "Point"
+      },
+      "id": "190592"
     },
     {
       "type": "Feature",
@@ -59342,8 +59359,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.17804950725099,
-          22.9521516198988
+          120.232151,
+          23.180454
         ],
         "type": "Point"
       },
@@ -68267,8 +68284,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.65609977535,
-          24.1218717086184
+          120.514149,
+          24.228671
         ],
         "type": "Point"
       },
@@ -83363,8 +83380,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.17804950725099,
-          22.9521516198988
+          120.252456,
+          22.998306
         ],
         "type": "Point"
       },
