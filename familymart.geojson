@@ -62,25 +62,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "003143",
-        "title": "全家草屯中正店",
-        "address": "南投縣草屯鎮中正路836號",
-        "post": "542",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,muffin,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.685899,
-          23.983561
-        ],
-        "type": "Point"
-      },
-      "id": "003143"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "003244",
         "title": "全家台中後龍店",
         "address": "台中市西區後龍街58號民權路302號",
@@ -571,25 +552,6 @@
         "type": "Point"
       },
       "id": "010187"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "010198",
-        "title": "全家霧峰九德店",
-        "address": "台中市霧峰區四德路204號",
-        "post": "413",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.691562,
-          24.066203
-        ],
-        "type": "Point"
-      },
-      "id": "010198"
     },
     {
       "type": "Feature",
@@ -33008,25 +32970,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015496",
-        "title": "全家彰化再安店",
-        "address": "彰化縣彰化市介壽南路16號、18號1樓",
-        "post": "500",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.5475643,
-          24.0677193
-        ],
-        "type": "Point"
-      },
-      "id": "015496"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015497",
         "title": "全家彰化八卦山店",
         "address": "彰化縣彰化市公園路一段46號",
@@ -44408,25 +44351,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016380",
-        "title": "全家彰化新三民店",
-        "address": "彰化縣彰化市三民路270號",
-        "post": "500",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,twoice,muffin,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.5439798883,
-          24.0855440996
-        ],
-        "type": "Point"
-      },
-      "id": "016380"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016381",
         "title": "全家社頭山腳店",
         "address": "彰化縣社頭鄉山腳路四段183號",
@@ -45449,25 +45373,6 @@
         "type": "Point"
       },
       "id": "016456"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016457",
-        "title": "全家台中草悟道店",
-        "address": "台中市西區公益路68號1樓",
-        "post": "403",
-        "all": "COFFEE,SWEETPOTATO,Rest,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.663946,
-          24.150998
-        ],
-        "type": "Point"
-      },
-      "id": "016457"
     },
     {
       "type": "Feature",
@@ -60482,6 +60387,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017451",
+        "title": "全家霧峰九德店",
+        "address": "台中市霧峰區四德路204號",
+        "post": "413",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.691562,
+          24.066203
+        ],
+        "type": "Point"
+      },
+      "id": "017451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017452",
         "title": "全家朴子四海店",
         "address": "嘉義縣朴子市應菜埔29-6號",
@@ -60573,6 +60497,25 @@
         "type": "Point"
       },
       "id": "017461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017462",
+        "title": "全家草屯中正店",
+        "address": "南投縣草屯鎮中正路836號",
+        "post": "542",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,muffin,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.685899,
+          23.983561
+        ],
+        "type": "Point"
+      },
+      "id": "017462"
     },
     {
       "type": "Feature",
@@ -60862,6 +60805,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017495",
+        "title": "全家草悟道店",
+        "address": "台中市西區公益路68號1樓",
+        "post": "403",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.663946,
+          24.150998
+        ],
+        "type": "Point"
+      },
+      "id": "017495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017503",
         "title": "全家新衡陽店",
         "address": "台北市中正區衡陽路77號一樓",
@@ -60953,6 +60915,44 @@
         "type": "Point"
       },
       "id": "017514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017515",
+        "title": "全家彰化再安店",
+        "address": "彰化縣彰化市介壽南路16號、18號1樓",
+        "post": "500",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5475643,
+          24.0677193
+        ],
+        "type": "Point"
+      },
+      "id": "017515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017516",
+        "title": "全家彰化新三民店",
+        "address": "彰化縣彰化市三民路270號",
+        "post": "500",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,twoice,muffin,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5439798883,
+          24.0855440996
+        ],
+        "type": "Point"
+      },
+      "id": "017516"
     },
     {
       "type": "Feature",
