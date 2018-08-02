@@ -16767,6 +16767,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4293",
+        "title": "鳳山步校店",
+        "address": "高雄市鳳山區鳳頂路１０００號１４２營舍一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.366277,
+          22.610452
+        ],
+        "type": "Point"
+      },
+      "id": "4293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4294",
         "title": "仁德二仁店",
         "address": "台南市仁德區二仁路一段９９號(含停車空間)",
