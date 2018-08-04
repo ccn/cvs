@@ -41740,23 +41740,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171362",
-        "title": "朝天宮",
-        "address": "雲林縣北港鎮東華里中山路150號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.304738,
-          23.567178
-        ],
-        "type": "Point"
-      },
-      "id": "171362"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171373",
         "title": "市民",
         "address": "台中市西區公益路157號",
@@ -53857,6 +53840,23 @@
         "type": "Point"
       },
       "id": "188533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188555",
+        "title": "朝天宮",
+        "address": "雲林縣北港鎮東華里中山路150號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304738,
+          23.567178
+        ],
+        "type": "Point"
+      },
+      "id": "188555"
     },
     {
       "type": "Feature",
