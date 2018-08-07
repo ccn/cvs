@@ -60881,6 +60881,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017497",
+        "title": "全家臨江店",
+        "address": "台北市大安區臨江街2巷2號",
+        "post": "106",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.556974,
+          25.02933
+        ],
+        "type": "Point"
+      },
+      "id": "017497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017499",
+        "title": "全家淡水市鎮店",
+        "address": "新北市淡水區中山北路二段185號1樓",
+        "post": "251",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44403429,
+          25.18515708
+        ],
+        "type": "Point"
+      },
+      "id": "017499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017503",
         "title": "全家新衡陽店",
         "address": "台北市中正區衡陽路77號一樓",
