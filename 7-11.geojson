@@ -13129,23 +13129,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "130660",
-        "title": "鼎鑫",
-        "address": "台南市關廟區中山路2段27號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.327067,
-          22.959925
-        ],
-        "type": "Point"
-      },
-      "id": "130660"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "130671",
         "title": "鈺勝",
         "address": "台南市北區小東路307巷75號77號1樓",
@@ -53895,6 +53878,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188773",
+        "title": "鼎富",
+        "address": "台南市關廟區南花里中正路881號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.33139,
+          22.96179
+        ],
+        "type": "Point"
+      },
+      "id": "188773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188784",
+        "title": "鼎鑫",
+        "address": "台南市關廟區中山路2段27號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.327067,
+          22.959925
+        ],
+        "type": "Point"
+      },
+      "id": "188784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188809",
         "title": "福濱",
         "address": "新北市三重區龍濱路51號53號1樓",
@@ -57563,23 +57580,6 @@
         "type": "Point"
       },
       "id": "863757"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "863768",
-        "title": "鼎富",
-        "address": "台南市關廟區南花里中正路881號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.33139,
-          22.96179
-        ],
-        "type": "Point"
-      },
-      "id": "863768"
     },
     {
       "type": "Feature",
