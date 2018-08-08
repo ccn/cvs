@@ -12526,25 +12526,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013354",
-        "title": "全家新屋富榮店",
-        "address": "桃園市新屋區新榮路206號",
-        "post": "327",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.16102027,
-          24.95718551
-        ],
-        "type": "Point"
-      },
-      "id": "013354"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013355",
         "title": "全家新竹濱海店",
         "address": "新竹市香山區西濱路二段601號",
@@ -20198,25 +20179,6 @@
         "type": "Point"
       },
       "id": "014340"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014342",
-        "title": "全家新屋車站店",
-        "address": "桃園市新屋區中山路361號1樓",
-        "post": "327",
-        "all": "COFFEE,SWEETPOTATO,Toilet,Rest,muffin,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.102456,
-          24.972855
-        ],
-        "type": "Point"
-      },
-      "id": "014342"
     },
     {
       "type": "Feature",
