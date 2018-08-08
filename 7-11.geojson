@@ -46687,23 +46687,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181082",
-        "title": "宜蘭站",
-        "address": "宜蘭縣宜蘭市光復路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.757958,
-          24.754578
-        ],
-        "type": "Point"
-      },
-      "id": "181082"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181107",
         "title": "珈多",
         "address": "新北市泰山區台麗街5號7號9號1樓",
@@ -51273,6 +51256,23 @@
         "type": "Point"
       },
       "id": "186179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186180",
+        "title": "宜蘭站",
+        "address": "宜蘭縣宜蘭市光復路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.757958,
+          24.754578
+        ],
+        "type": "Point"
+      },
+      "id": "186180"
     },
     {
       "type": "Feature",
