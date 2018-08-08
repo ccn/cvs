@@ -18620,6 +18620,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4433",
+        "title": "高市鼎盛店",
+        "address": "高雄市三民區大中一路２３３號一、二樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.323723,
+          22.67614
+        ],
+        "type": "Point"
+      },
+      "id": "4433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4436",
         "title": "永康巧遇店",
         "address": "台南市永康區永勝街１號",
