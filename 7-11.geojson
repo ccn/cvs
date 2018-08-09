@@ -25692,23 +25692,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149228",
-        "title": "中行",
-        "address": "新北市新店區中興路一段193號195號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.543231,
-          24.96522
-        ],
-        "type": "Point"
-      },
-      "id": "149228"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149239",
         "title": "佳福",
         "address": "新北市土城區青雲路152號",
@@ -53810,23 +53793,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188533",
-        "title": "圓武",
-        "address": "台北市中山區吉林路28號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.529979,
-          25.051479
-        ],
-        "type": "Point"
-      },
-      "id": "188533"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188555",
         "title": "朝天宮",
         "address": "雲林縣北港鎮東華里中山路150號",
@@ -53840,6 +53806,40 @@
         "type": "Point"
       },
       "id": "188555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188577",
+        "title": "中行",
+        "address": "新北市新店區中興路一段193號195號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.543231,
+          24.96522
+        ],
+        "type": "Point"
+      },
+      "id": "188577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188588",
+        "title": "圓武",
+        "address": "台北市中山區吉林路28號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.529979,
+          25.051479
+        ],
+        "type": "Point"
+      },
+      "id": "188588"
     },
     {
       "type": "Feature",
