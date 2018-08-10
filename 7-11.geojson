@@ -25505,23 +25505,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149055",
-        "title": "臨海",
-        "address": "高雄市鼓山區峰南里臨海一路21之3號附5",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.274124,
-          22.622131
-        ],
-        "type": "Point"
-      },
-      "id": "149055"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149099",
         "title": "新民享",
         "address": "新北市中和區民享街91號",
@@ -48604,6 +48587,23 @@
         "type": "Point"
       },
       "id": "183170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183181",
+        "title": "南化",
+        "address": "台南市南化區南化里128號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.476415,
+          23.043553
+        ],
+        "type": "Point"
+      },
+      "id": "183181"
     },
     {
       "type": "Feature",
