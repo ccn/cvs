@@ -18824,6 +18824,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4461",
+        "title": "萬華環州店",
+        "address": "台北市萬華區環河南路二段９６號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.495415,
+          25.036867
+        ],
+        "type": "Point"
+      },
+      "id": "4461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4462",
         "title": "八德霸氣店",
         "address": "桃園市八德區中山路１６６號",
@@ -18871,6 +18888,23 @@
         "type": "Point"
       },
       "id": "4467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4469",
+        "title": "東港海坪店",
+        "address": "屏東縣東港鎮中正路三段８７、８９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.472415,
+          22.486556
+        ],
+        "type": "Point"
+      },
+      "id": "4469"
     },
     {
       "type": "Feature",
