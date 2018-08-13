@@ -42432,25 +42432,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016242",
-        "title": "全家新市群創店",
-        "address": "台南市新市區環西路一段3號B1",
-        "post": "744",
-        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.276092,
-          23.091814
-        ],
-        "type": "Point"
-      },
-      "id": "016242"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016251",
         "title": "全家高雄果豐店",
         "address": "高雄市左營區果峰街12巷42號",
@@ -50465,25 +50446,6 @@
         "type": "Point"
       },
       "id": "016813"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016814",
-        "title": "全家芳苑寶成店",
-        "address": "彰化縣芳苑鄉三合村14鄰斗苑路三合段100號",
-        "post": "528",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.358513053889,
-          23.9013161150346
-        ],
-        "type": "Point"
-      },
-      "id": "016814"
     },
     {
       "type": "Feature",
@@ -58943,25 +58905,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017361",
-        "title": "全家龜山德明店",
-        "address": "桃園市龜山區德明路105號，107號1樓",
-        "post": "333",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,twoice,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.34398,
-          24.98932
-        ],
-        "type": "Point"
-      },
-      "id": "017361"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017362",
         "title": "全家龜山自強店",
         "address": "桃園市龜山區新興村38鄰自強南路71號73號1樓",
@@ -60843,6 +60786,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017493",
+        "title": "全家林園海洋店",
+        "address": "高雄市林園區漁港路87號",
+        "post": "832",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.398366,
+          22.486677
+        ],
+        "type": "Point"
+      },
+      "id": "017493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017494",
         "title": "全家泰山福興店",
         "address": "新北市泰山區福興一街60號一樓",
@@ -60877,6 +60839,25 @@
         "type": "Point"
       },
       "id": "017495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017496",
+        "title": "全家員林榮城店",
+        "address": "彰化縣員林市南平街188號",
+        "post": "510",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5658716,
+          23.9669551
+        ],
+        "type": "Point"
+      },
+      "id": "017496"
     },
     {
       "type": "Feature",
@@ -61147,6 +61128,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017529",
+        "title": "全家龜山德明店",
+        "address": "桃園市龜山區德明路105號，107號1樓",
+        "post": "333",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,twoice,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.34398,
+          24.98932
+        ],
+        "type": "Point"
+      },
+      "id": "017529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017534",
         "title": "全家永和永福店",
         "address": "新北市永和區永和路一段93號",
@@ -61162,6 +61162,25 @@
         "type": "Point"
       },
       "id": "017534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017535",
+        "title": "全家芳苑寶成店",
+        "address": "彰化縣芳苑鄉三合村14鄰斗苑路三合段100號",
+        "post": "528",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.358513053889,
+          23.9013161150346
+        ],
+        "type": "Point"
+      },
+      "id": "017535"
     },
     {
       "type": "Feature",
