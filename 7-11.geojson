@@ -48676,6 +48676,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183262",
+        "title": "建榮",
+        "address": "高雄市鼓山區建榮路180號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.276681,
+          22.660357
+        ],
+        "type": "Point"
+      },
+      "id": "183262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183295",
         "title": "臣峰",
         "address": "新北市林口區文化北路一段62之1號",
@@ -78444,7 +78461,7 @@
       "type": "Feature",
       "properties": {
         "id": "966061",
-        "title": "鼎豐",
+        "title": "車讚",
         "address": "台南市關廟區北花里中正路517號",
         "marker-color": "#01ac50"
       },
