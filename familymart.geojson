@@ -10455,25 +10455,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012990",
-        "title": "全家大里新捷勝店",
-        "address": "台中市大里區大明路512號1樓",
-        "post": "412",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,twoice,SharePot,Kantoni,SingleOrigin,TANHOU",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.674223,
-          24.115131
-        ],
-        "type": "Point"
-      },
-      "id": "012990"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012997",
         "title": "全家大里內新店",
         "address": "台中市大里區內新街54，56號1樓",
@@ -50127,25 +50108,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016795",
-        "title": "全家平鎮平東店",
-        "address": "桃園市平鎮區平東路571號1F",
-        "post": "324",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.242597,
-          24.91266
-        ],
-        "type": "Point"
-      },
-      "id": "016795"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016796",
         "title": "全家永和仁和店",
         "address": "新北市永和區仁愛路33號",
@@ -58411,6 +58373,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017331",
+        "title": "全家新市群科店",
+        "address": "台南市新市區環西路一段3號B1FＡ店（原宿區）",
+        "post": "744",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.276092,
+          23.091814
+        ],
+        "type": "Point"
+      },
+      "id": "017331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017332",
         "title": "全家吉安建國店",
         "address": "花蓮縣吉安鄉建國路一段42號",
@@ -58901,25 +58882,6 @@
         "type": "Point"
       },
       "id": "017360"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017362",
-        "title": "全家龜山自強店",
-        "address": "桃園市龜山區新興村38鄰自強南路71號73號1樓",
-        "post": "333",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,twoice,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.339403,
-          24.992842
-        ],
-        "type": "Point"
-      },
-      "id": "017362"
     },
     {
       "type": "Feature",
@@ -60900,6 +60862,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017500",
+        "title": "全家京暉店",
+        "address": "台北市松山區南京東路三段285號壹樓",
+        "post": "105",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.545801,
+          25.052
+        ],
+        "type": "Point"
+      },
+      "id": "017500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017501",
+        "title": "全家內科店",
+        "address": "台北市內湖區洲子街61號1樓（部份）",
+        "post": "114",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.572918,
+          25.079526
+        ],
+        "type": "Point"
+      },
+      "id": "017501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017503",
         "title": "全家新衡陽店",
         "address": "台北市中正區衡陽路77號一樓",
@@ -61147,6 +61147,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017530",
+        "title": "全家龜山自強店",
+        "address": "桃園市龜山區新興村38鄰自強南路71號73號1樓",
+        "post": "333",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,twoice,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.339403,
+          24.992842
+        ],
+        "type": "Point"
+      },
+      "id": "017530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017531",
+        "title": "全家平鎮平東店",
+        "address": "桃園市平鎮區平東路571號1F",
+        "post": "324",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.242597,
+          24.91266
+        ],
+        "type": "Point"
+      },
+      "id": "017531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017534",
         "title": "全家永和永福店",
         "address": "新北市永和區永和路一段93號",
@@ -61181,6 +61219,25 @@
         "type": "Point"
       },
       "id": "017535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017536",
+        "title": "全家大里新捷勝店",
+        "address": "台中市大里區大明路512號1樓",
+        "post": "412",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,twoice,SharePot,Kantoni,SingleOrigin,TANHOU",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.674223,
+          24.115131
+        ],
+        "type": "Point"
+      },
+      "id": "017536"
     },
     {
       "type": "Feature",
