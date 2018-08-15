@@ -48398,25 +48398,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016655",
-        "title": "全家明水店",
-        "address": "台北市中山區明水路581巷11號1樓",
-        "post": "104",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551168,
-          25.080138
-        ],
-        "type": "Point"
-      },
-      "id": "016655"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016658",
         "title": "全家永和永林店",
         "address": "新北市永和區竹林路37號",
@@ -61337,6 +61318,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017555",
+        "title": "全家明水店",
+        "address": "台北市中山區明水路581巷11號1樓",
+        "post": "104",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551168,
+          25.080138
+        ],
+        "type": "Point"
+      },
+      "id": "017555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017557",
+        "title": "全家蘆洲新虹展店",
+        "address": "新北市蘆洲區民義街22巷18號",
+        "post": "247",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.471654,
+          25.088129
+        ],
+        "type": "Point"
+      },
+      "id": "017557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017564",
         "title": "全家中壢環華店",
         "address": "桃園市中壢區中華路一段227號1樓",
@@ -61428,25 +61447,6 @@
         "type": "Point"
       },
       "id": "017604"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017614",
-        "title": "全家蘆洲新虹展店",
-        "address": "新北市蘆洲區民義街22巷18號",
-        "post": "247",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.471654,
-          25.088129
-        ],
-        "type": "Point"
-      },
-      "id": "017614"
     },
     {
       "type": "Feature",
