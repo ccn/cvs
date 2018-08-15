@@ -18926,6 +18926,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4475",
+        "title": "基隆風雲店",
+        "address": "基隆市信義區東光路３０之４號、３０之５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.768541,
+          25.130708
+        ],
+        "type": "Point"
+      },
+      "id": "4475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
