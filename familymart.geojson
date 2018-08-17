@@ -39829,25 +39829,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016062",
-        "title": "全家大發正氣店",
-        "address": "高雄市大寮區鳳林三路403之1號1樓",
-        "post": "831",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,twoice,COFFEEDeliver,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.396621,
-          22.602889
-        ],
-        "type": "Point"
-      },
-      "id": "016062"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016063",
         "title": "全家美濃中興店",
         "address": "高雄市美濃區中興路一段819號",
@@ -61067,6 +61048,25 @@
         "type": "Point"
       },
       "id": "017518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017523",
+        "title": "全家八德福壽店",
+        "address": "桃園市八德區介壽路一段392號1樓",
+        "post": "334",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.301415,
+          24.970714
+        ],
+        "type": "Point"
+      },
+      "id": "017523"
     },
     {
       "type": "Feature",
