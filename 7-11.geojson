@@ -13826,23 +13826,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "131261",
-        "title": "源德",
-        "address": "新北市淡水區水源街一段75之2號1樓B1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.444872,
-          25.172384
-        ],
-        "type": "Point"
-      },
-      "id": "131261"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "131272",
         "title": "寶雅",
         "address": "新竹縣寶山鄉大崎村大雅路二段103巷15號",
@@ -16134,23 +16117,6 @@
         "type": "Point"
       },
       "id": "135300"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "135311",
-        "title": "新化成",
-        "address": "新北市新莊區化成路213號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.465814,
-          25.051713
-        ],
-        "type": "Point"
-      },
-      "id": "135311"
     },
     {
       "type": "Feature",
@@ -48846,6 +48812,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183642",
+        "title": "汐園",
+        "address": "新北市汐止區大同路一段237之7號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.634892,
+          25.058001
+        ],
+        "type": "Point"
+      },
+      "id": "183642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184520",
         "title": "GRC",
         "address": "新竹市東區工業東三路1號1樓",
@@ -53912,6 +53895,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188751",
+        "title": "新化成",
+        "address": "新北市新莊區化成路213號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.465814,
+          25.051713
+        ],
+        "type": "Point"
+      },
+      "id": "188751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188762",
         "title": "景圓",
         "address": "新北市中和區圓通路162-1號162-2號1樓",
@@ -55404,6 +55404,23 @@
         "type": "Point"
       },
       "id": "190488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190499",
+        "title": "源德",
+        "address": "新北市淡水區水源街一段75之2號1樓B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.444872,
+          25.172384
+        ],
+        "type": "Point"
+      },
+      "id": "190499"
     },
     {
       "type": "Feature",
