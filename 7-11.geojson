@@ -4221,23 +4221,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "116147",
-        "title": "加祿堂",
-        "address": "屏東縣枋山鄉加祿村加祿路155號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.615584,
-          22.334223
-        ],
-        "type": "Point"
-      },
-      "id": "116147"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "116169",
         "title": "竹南和興",
         "address": "苗栗縣竹南鎮大埔里和興路191-1號",
@@ -16950,23 +16933,6 @@
         "type": "Point"
       },
       "id": "136370"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "136392",
-        "title": "大永博",
-        "address": "台北市中正區博愛路97號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.51164436388301,
-          25.0431539228778
-        ],
-        "type": "Point"
-      },
-      "id": "136392"
     },
     {
       "type": "Feature",
@@ -51243,6 +51209,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186157",
+        "title": "大永博",
+        "address": "台北市中正區博愛路97號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.51164436388301,
+          25.0431539228778
+        ],
+        "type": "Point"
+      },
+      "id": "186157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186168",
         "title": "通盈",
         "address": "台北市松山區南京東路五段315號",
@@ -53976,6 +53959,23 @@
         "type": "Point"
       },
       "id": "188809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188843",
+        "title": "加祿堂",
+        "address": "屏東縣枋山鄉加祿村加祿路155號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.615584,
+          22.334223
+        ],
+        "type": "Point"
+      },
+      "id": "188843"
     },
     {
       "type": "Feature",
