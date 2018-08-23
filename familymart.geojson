@@ -28469,7 +28469,7 @@
       "properties": {
         "id": "015128",
         "title": "全家桃園中埔店",
-        "address": "桃園市桃園區同德十街35號、中埔一街339巷1號",
+        "address": "桃園市桃園區同德十街35號、37號1樓",
         "post": "330",
         "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Kantoni",
         "marker-color": "#01ac50"
@@ -61029,6 +61029,25 @@
         "type": "Point"
       },
       "id": "017518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017522",
+        "title": "全家中壢青埔店",
+        "address": "桃園市中壢區青溪段467地號及其建物",
+        "post": "320",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.22513412,
+          24.96563047
+        ],
+        "type": "Point"
+      },
+      "id": "017522"
     },
     {
       "type": "Feature",
