@@ -19657,23 +19657,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "139667",
-        "title": "鑫城",
-        "address": "新北市土城區中華路1段94號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.444545,
-          24.987483
-        ],
-        "type": "Point"
-      },
-      "id": "139667"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "140014",
         "title": "佳茂",
         "address": "台中市潭子區中山路一段17號1樓",
@@ -48519,6 +48502,23 @@
         "type": "Point"
       },
       "id": "183136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183158",
+        "title": "鑫城",
+        "address": "新北市土城區中華路1段100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.444329,
+          24.987179
+        ],
+        "type": "Point"
+      },
+      "id": "183158"
     },
     {
       "type": "Feature",
