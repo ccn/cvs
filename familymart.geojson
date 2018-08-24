@@ -23812,25 +23812,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014729",
-        "title": "全家蘆竹海湖店",
-        "address": "桃園市蘆竹區海山路二段7、9號、11號1樓",
-        "post": "338",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,twoice,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.261147,
-          25.100585
-        ],
-        "type": "Point"
-      },
-      "id": "014729"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014738",
         "title": "全家鹽埔大仁店",
         "address": "屏東縣鹽埔鄉維新路20號（學生餐廳）",
@@ -29280,25 +29261,6 @@
         "type": "Point"
       },
       "id": "015183"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015184",
-        "title": "全家中和建業店",
-        "address": "新北市中和區立德街189號1樓",
-        "post": "235",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,muffin,COFFEEDeliver,SharePot,SUNMAI,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.484724,
-          25.009172
-        ],
-        "type": "Point"
-      },
-      "id": "015184"
     },
     {
       "type": "Feature",
@@ -61261,6 +61223,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017546",
+        "title": "全家龜山導航店",
+        "address": "桃園市龜山區華亞二路270號B1樓",
+        "post": "333",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.373806,
+          25.043207
+        ],
+        "type": "Point"
+      },
+      "id": "017546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017551",
         "title": "全家澎湖湖西店",
         "address": "澎湖縣湖西鄉湖西村湖西65號",
@@ -61432,6 +61413,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017578",
+        "title": "全家蘆竹海湖店",
+        "address": "桃園市蘆竹區海山路二段7、9號、11號1樓",
+        "post": "338",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,twoice,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.261147,
+          25.100585
+        ],
+        "type": "Point"
+      },
+      "id": "017578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017584",
         "title": "全家汐止農會店",
         "address": "新北市汐止區中正路106號1樓",
@@ -61466,6 +61466,25 @@
         "type": "Point"
       },
       "id": "017594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017603",
+        "title": "全家中和建業店",
+        "address": "新北市中和區立德街189號1樓",
+        "post": "235",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,muffin,COFFEEDeliver,SharePot,SUNMAI,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.484724,
+          25.009172
+        ],
+        "type": "Point"
+      },
+      "id": "017603"
     },
     {
       "type": "Feature",
