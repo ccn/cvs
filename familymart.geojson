@@ -309,25 +309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "009288",
-        "title": "全家三重自強店",
-        "address": "新北市三重區自強路三段16號",
-        "post": "241",
-        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.486913,
-          25.072062
-        ],
-        "type": "Point"
-      },
-      "id": "009288"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "009405",
         "title": "全家台東龍泉店",
         "address": "台東縣卑南鄉溫泉村龍泉路55號一樓之1",
@@ -59399,25 +59380,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017402",
-        "title": "全家高雄廣泉店",
-        "address": "高雄市苓雅區廣州一街127號一樓",
-        "post": "802",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.317559,
-          22.623042
-        ],
-        "type": "Point"
-      },
-      "id": "017402"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017403",
         "title": "全家台中國安一店",
         "address": "台中市西屯區國安一路169號",
@@ -61371,6 +61333,44 @@
         "type": "Point"
       },
       "id": "017565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017568",
+        "title": "全家高雄廣泉店",
+        "address": "高雄市苓雅區廣州一街127號一樓",
+        "post": "802",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.317559,
+          22.623042
+        ],
+        "type": "Point"
+      },
+      "id": "017568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017572",
+        "title": "全家三重自強店",
+        "address": "新北市三重區自強路三段16號",
+        "post": "241",
+        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.486913,
+          25.072062
+        ],
+        "type": "Point"
+      },
+      "id": "017572"
     },
     {
       "type": "Feature",
