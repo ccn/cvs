@@ -18909,6 +18909,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4473",
+        "title": "大安學霸店",
+        "address": "台北市大安區辛亥路三段３０號(研三宿舍)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.544248,
+          25.020399
+        ],
+        "type": "Point"
+      },
+      "id": "4473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4475",
         "title": "基隆風雲店",
         "address": "基隆市信義區東光路３０之４號、３０之５號",
