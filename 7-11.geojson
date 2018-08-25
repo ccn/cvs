@@ -14999,23 +14999,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "132286",
-        "title": "商華",
-        "address": "新竹縣竹東鎮東寧路三段25號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.088085060496,
-          24.737347858578
-        ],
-        "type": "Point"
-      },
-      "id": "132286"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "132297",
         "title": "空軍",
         "address": "新竹市北區中正路385號387號1樓",
@@ -40550,23 +40533,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170598",
-        "title": "站前店",
-        "address": "台北市中正區忠孝西路1段66號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.515294366617,
-          25.0460789330375
-        ],
-        "type": "Point"
-      },
-      "id": "170598"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170602",
         "title": "阿蓮",
         "address": "高雄市阿蓮區中山路15號17號19號",
@@ -48081,6 +48047,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182661",
+        "title": "重信",
+        "address": "高雄市左營區文川路195號.重建路2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.310458,
+          22.683145
+        ],
+        "type": "Point"
+      },
+      "id": "182661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182683",
         "title": "新基隆一",
         "address": "基隆市仁愛區港西街5號",
@@ -48791,6 +48774,40 @@
         "type": "Point"
       },
       "id": "183642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183697",
+        "title": "長城",
+        "address": "台北市中山區中山北路二段56號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.522566,
+          25.056417
+        ],
+        "type": "Point"
+      },
+      "id": "183697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183804",
+        "title": "吉濱",
+        "address": "花蓮縣吉安鄉南濱路一段651號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.59206,
+          23.927347
+        ],
+        "type": "Point"
+      },
+      "id": "183804"
     },
     {
       "type": "Feature",
@@ -53976,6 +53993,23 @@
         "type": "Point"
       },
       "id": "188843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188865",
+        "title": "商華",
+        "address": "新竹縣竹東鎮東寧路三段25號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.088085060496,
+          24.737347858578
+        ],
+        "type": "Point"
+      },
+      "id": "188865"
     },
     {
       "type": "Feature",
