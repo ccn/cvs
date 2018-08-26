@@ -54677,23 +54677,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189961",
-        "title": "復貴",
-        "address": "新北市三重區光復路2段146之2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.471965,
-          25.059969
-        ],
-        "type": "Point"
-      },
-      "id": "189961"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189983",
         "title": "樂利",
         "address": "台北市大安區樂利路76號78號1樓",
@@ -55489,6 +55472,23 @@
         "type": "Point"
       },
       "id": "190514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190525",
+        "title": "復貴",
+        "address": "新北市三重區光復路2段146之2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.471965,
+          25.059969
+        ],
+        "type": "Point"
+      },
+      "id": "190525"
     },
     {
       "type": "Feature",
