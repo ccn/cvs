@@ -48744,6 +48744,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183505",
+        "title": "壯志",
+        "address": "宜蘭縣壯圍鄉中央路二段311號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.786453,
+          24.747518
+        ],
+        "type": "Point"
+      },
+      "id": "183505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183619",
         "title": "TBI",
         "address": "新北市樹林區三多路139號1樓",
