@@ -48812,6 +48812,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183723",
+        "title": "迴龍站",
+        "address": "新北市新莊區中正路895號895號之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.41241,
+          25.022016
+        ],
+        "type": "Point"
+      },
+      "id": "183723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183804",
         "title": "吉濱",
         "address": "花蓮縣吉安鄉南濱路一段651號",
@@ -48825,6 +48842,23 @@
         "type": "Point"
       },
       "id": "183804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183859",
+        "title": "和碩二",
+        "address": "台北市北投區立德路150之3號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "183859"
     },
     {
       "type": "Feature",
@@ -51324,6 +51358,23 @@
         "type": "Point"
       },
       "id": "186191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186227",
+        "title": "樂群",
+        "address": "台中市西區林森路80號及樂群街81號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.671029,
+          24.137547
+        ],
+        "type": "Point"
+      },
+      "id": "186227"
     },
     {
       "type": "Feature",
@@ -59280,23 +59331,6 @@
         "type": "Point"
       },
       "id": "875303"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "875358",
-        "title": "樂群",
-        "address": "台中市西區林森路80號及樂群街81號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.671029,
-          24.137547
-        ],
-        "type": "Point"
-      },
-      "id": "875358"
     },
     {
       "type": "Feature",
