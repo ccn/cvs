@@ -48404,6 +48404,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183022",
+        "title": "新本館",
+        "address": "高雄市三民區大裕路119號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.328576,
+          22.65608
+        ],
+        "type": "Point"
+      },
+      "id": "183022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183033",
         "title": "新北竹",
         "address": "新竹縣竹北市博愛街358.360號1樓",
@@ -48689,6 +48706,23 @@
         "type": "Point"
       },
       "id": "183402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183424",
+        "title": "港昌",
+        "address": "台中市梧棲區港埠路一段986號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "183424"
     },
     {
       "type": "Feature",
@@ -55357,23 +55391,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190396",
-        "title": "富新",
-        "address": "新北市新莊區瓊林南路118-5號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.433739,
-          25.011274
-        ],
-        "type": "Point"
-      },
-      "id": "190396"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190400",
         "title": "重富",
         "address": "新北市三重區溪尾街321號323號1樓",
@@ -55727,6 +55744,23 @@
         "type": "Point"
       },
       "id": "190639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190651",
+        "title": "富新",
+        "address": "新北市新莊區瓊林南路118-5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.433739,
+          25.011274
+        ],
+        "type": "Point"
+      },
+      "id": "190651"
     },
     {
       "type": "Feature",
