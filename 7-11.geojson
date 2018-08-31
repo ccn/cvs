@@ -33189,23 +33189,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162210",
-        "title": "建平",
-        "address": "台南市安平區建平七街689號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.168897,
-          22.990075
-        ],
-        "type": "Point"
-      },
-      "id": "162210"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162221",
         "title": "護專",
         "address": "台北市北投區振興街31號",
@@ -47724,23 +47707,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182247",
-        "title": "金生",
-        "address": "金門縣金城鎮西門里民生路67.69號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          118.31868,
-          24.436197
-        ],
-        "type": "Point"
-      },
-      "id": "182247"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182269",
         "title": "光忠",
         "address": "台北市大安區復興南路一段107巷5弄1號1樓",
@@ -47873,23 +47839,6 @@
         "type": "Point"
       },
       "id": "182421"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "182465",
-        "title": "北車",
-        "address": "台北市中正區忠孝西路一段49號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517672368375,
-          25.0472009369198
-        ],
-        "type": "Point"
-      },
-      "id": "182465"
     },
     {
       "type": "Feature",
@@ -51311,6 +51260,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186146",
+        "title": "金生",
+        "address": "金門縣金城鎮西門里民生路67.69號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.31868,
+          24.436197
+        ],
+        "type": "Point"
+      },
+      "id": "186146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186157",
         "title": "大永博",
         "address": "台北市中正區博愛路97號1樓",
@@ -51396,6 +51362,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186216",
+        "title": "永勝",
+        "address": "台南市永康區六合里中華二路320號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.231988,
+          23.008609
+        ],
+        "type": "Point"
+      },
+      "id": "186216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186227",
         "title": "樂群",
         "address": "台中市西區林森路80號及樂群街81號",
@@ -51409,6 +51392,40 @@
         "type": "Point"
       },
       "id": "186227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186238",
+        "title": "北車",
+        "address": "台北市中正區忠孝西路一段49號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517672368375,
+          25.0472009369198
+        ],
+        "type": "Point"
+      },
+      "id": "186238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186249",
+        "title": "萬華站",
+        "address": "台北市萬華區康定路382號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500122,
+          25.033601
+        ],
+        "type": "Point"
+      },
+      "id": "186249"
     },
     {
       "type": "Feature",
@@ -54082,6 +54099,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188810",
+        "title": "建平",
+        "address": "台南市安平區建平七街689號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.168897,
+          22.990075
+        ],
+        "type": "Point"
+      },
+      "id": "188810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188843",
         "title": "加祿堂",
         "address": "屏東縣枋山鄉加祿村加祿路155號",
@@ -54112,6 +54146,23 @@
         "type": "Point"
       },
       "id": "188865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188898",
+        "title": "鼎賀",
+        "address": "台南市歸仁區大廟里大廟一街1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.277162,
+          22.997053
+        ],
+        "type": "Point"
+      },
+      "id": "188898"
     },
     {
       "type": "Feature",
@@ -54843,23 +54894,6 @@
         "type": "Point"
       },
       "id": "190019"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "190020",
-        "title": "永勝",
-        "address": "台南市永康區六合里中華二路320號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.231988,
-          23.008609
-        ],
-        "type": "Point"
-      },
-      "id": "190020"
     },
     {
       "type": "Feature",
@@ -61949,23 +61983,6 @@
         "type": "Point"
       },
       "id": "892582"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "892685",
-        "title": "萬華站",
-        "address": "台北市萬華區康定路382號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500122,
-          25.033601
-        ],
-        "type": "Point"
-      },
-      "id": "892685"
     },
     {
       "type": "Feature",
@@ -74767,23 +74784,6 @@
         "type": "Point"
       },
       "id": "953098"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "953135",
-        "title": "鼎賀",
-        "address": "台南市歸仁區大廟里大廟一街1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.277162,
-          22.997053
-        ],
-        "type": "Point"
-      },
-      "id": "953135"
     },
     {
       "type": "Feature",
