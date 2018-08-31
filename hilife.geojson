@@ -18875,6 +18875,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4470",
+        "title": "宜蘭青蔥店",
+        "address": "宜蘭縣三星鄉月眉村三星路四段４３６號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.653927,
+          24.666746
+        ],
+        "type": "Point"
+      },
+      "id": "4470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4472",
         "title": "中山逸仙店",
         "address": "台北市中山區中山北路二段４８巷７號B１(４號店鋪)",
@@ -18922,6 +18939,23 @@
         "type": "Point"
       },
       "id": "4475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4476",
+        "title": "松山松城店",
+        "address": "台北市松山區光復北路２３２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.555399,
+          25.056334
+        ],
+        "type": "Point"
+      },
+      "id": "4476"
     },
     {
       "type": "Feature",
