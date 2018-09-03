@@ -42267,23 +42267,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "173726",
-        "title": "湯城",
-        "address": "新北市三重區重新路5段609巷12號之9之10",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.468628,
-          25.046361
-        ],
-        "type": "Point"
-      },
-      "id": "173726"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "173737",
         "title": "家豐",
         "address": "新北市板橋區中山路二段137號1樓",
@@ -48666,8 +48649,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.535407,
+          24.24715
         ],
         "type": "Point"
       },
@@ -48812,6 +48795,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183756",
+        "title": "鑫富民",
+        "address": "台北市信義區忠孝東路四段181巷40弄22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.549773,
+          25.043896
+        ],
+        "type": "Point"
+      },
+      "id": "183756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183804",
         "title": "吉濱",
         "address": "花蓮縣吉安鄉南濱路一段651號",
@@ -48836,8 +48836,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.473369,
+          25.127216
         ],
         "type": "Point"
       },
@@ -54163,6 +54163,23 @@
         "type": "Point"
       },
       "id": "188898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188902",
+        "title": "湯城",
+        "address": "新北市三重區重新路5段609巷12號之9之10",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468628,
+          25.046361
+        ],
+        "type": "Point"
+      },
+      "id": "188902"
     },
     {
       "type": "Feature",
@@ -65706,23 +65723,6 @@
         "type": "Point"
       },
       "id": "912282"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "912307",
-        "title": "承啟",
-        "address": "台北市北投區福興里承德路七段76號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.510813,
-          25.111447
-        ],
-        "type": "Point"
-      },
-      "id": "912307"
     },
     {
       "type": "Feature",
