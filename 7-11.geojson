@@ -34192,23 +34192,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "163925",
-        "title": "里宬",
-        "address": "屏東縣里港鄉鐵店村鐵店路17-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.498063,
-          22.777947
-        ],
-        "type": "Point"
-      },
-      "id": "163925"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "163947",
         "title": "鳳福",
         "address": "新北市鶯歌區鶯桃路2段48號50號1樓",
@@ -45599,6 +45582,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "180333",
+        "title": "大仁",
+        "address": "台中市梧棲區頂寮里28鄰大仁路2段71號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.540511,
+          24.260919
+        ],
+        "type": "Point"
+      },
+      "id": "180333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180344",
         "title": "大千",
         "address": "苗栗縣苗栗市中正路903號1樓",
@@ -54112,6 +54112,23 @@
         "type": "Point"
       },
       "id": "188810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188832",
+        "title": "里宬",
+        "address": "屏東縣里港鄉鐵店村鐵店路17-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.498063,
+          22.777947
+        ],
+        "type": "Point"
+      },
+      "id": "188832"
     },
     {
       "type": "Feature",
