@@ -48200,6 +48200,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182867",
+        "title": "曾厝",
+        "address": "台中市霧峰區振興街32.36.38號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.697277,
+          24.066324
+        ],
+        "type": "Point"
+      },
+      "id": "182867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182890",
         "title": "鳳中",
         "address": "高雄市三民區建國三路285號1樓",
@@ -48723,6 +48740,23 @@
         "type": "Point"
       },
       "id": "183505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183608",
+        "title": "金桔",
+        "address": "宜蘭縣礁溪鄉玉龍路二段417號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "183608"
     },
     {
       "type": "Feature",
@@ -53993,6 +54027,23 @@
         "type": "Point"
       },
       "id": "188588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188599",
+        "title": "鑫青天",
+        "address": "台北市萬華區青年路144號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.502404356544,
+          25.021671847996
+        ],
+        "type": "Point"
+      },
+      "id": "188599"
     },
     {
       "type": "Feature",
@@ -85851,23 +85902,6 @@
         "type": "Point"
       },
       "id": "985626"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "985637",
-        "title": "鑫青天",
-        "address": "台北市萬華區青年路144號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.502404356544,
-          25.021671847996
-        ],
-        "type": "Point"
-      },
-      "id": "985637"
     },
     {
       "type": "Feature",
