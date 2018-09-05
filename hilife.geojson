@@ -4765,6 +4765,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "2809",
+        "title": "中縣中宜店",
+        "address": "台中市沙鹿區北勢東路５５７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.574420279276,
+          24.2275736723554
+        ],
+        "type": "Point"
+      },
+      "id": "2809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "2811",
         "title": "桃市桃仁店",
         "address": "桃園市桃園區大仁路５４、５６號",
@@ -7957,6 +7974,23 @@
         "type": "Point"
       },
       "id": "3365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3366",
+        "title": "中縣中航店",
+        "address": "台中市沙鹿區中航路一段３１０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.60144389602,
+          24.2583437670112
+        ],
+        "type": "Point"
+      },
+      "id": "3366"
     },
     {
       "type": "Feature",
@@ -21238,6 +21272,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "G813",
+        "title": "中縣靜宜店",
+        "address": "台中市沙鹿區臺灣大道七段２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.580515127757,
+          24.2200945925075
+        ],
+        "type": "Point"
+      },
+      "id": "G813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "G816",
         "title": "中縣中華店",
         "address": "台中市清水區中華路４０５、４０７號",
@@ -21251,6 +21302,23 @@
         "type": "Point"
       },
       "id": "G816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "G820",
+        "title": "中縣中山店",
+        "address": "台中市沙鹿區中山路２９４、２９６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.560349646878,
+          24.2385190934919
+        ],
+        "type": "Point"
+      },
+      "id": "G820"
     },
     {
       "type": "Feature",
