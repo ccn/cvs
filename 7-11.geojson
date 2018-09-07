@@ -55765,23 +55765,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190581",
-        "title": "延埕",
-        "address": "台北市大同區延平北路2段159號161號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.511607,
-          25.058295
-        ],
-        "type": "Point"
-      },
-      "id": "190581"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190592",
         "title": "德天",
         "address": "台北市士林區德行西路52號1樓",
@@ -55880,6 +55863,23 @@
         "type": "Point"
       },
       "id": "190651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190938",
+        "title": "延埕",
+        "address": "台北市大同區延平北路2段159號161號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.511607,
+          25.058295
+        ],
+        "type": "Point"
+      },
+      "id": "190938"
     },
     {
       "type": "Feature",
