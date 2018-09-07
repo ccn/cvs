@@ -17328,23 +17328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4338",
-        "title": "平溪菁桐店",
-        "address": "新北市平溪區靜安路二段１４７、１４９號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.722864,
-          25.023499
-        ],
-        "type": "Point"
-      },
-      "id": "4338"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4339",
         "title": "水上萬能店",
         "address": "嘉義縣水上鄉萬能路一號",
@@ -18956,6 +18939,23 @@
         "type": "Point"
       },
       "id": "4476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4477",
+        "title": "大甲甲旺店",
+        "address": "台中市大甲區甲后路五段２７１、２７３號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.633643,
+          24.344862
+        ],
+        "type": "Point"
+      },
+      "id": "4477"
     },
     {
       "type": "Feature",
