@@ -47231,6 +47231,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "181668",
+        "title": "大盛",
+        "address": "新北市新店區建國路167號169號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.53838,
+          24.979281
+        ],
+        "type": "Point"
+      },
+      "id": "181668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "181679",
         "title": "圳營",
         "address": "苗栗縣竹南鎮中正路114號1樓",
@@ -48047,6 +48064,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182720",
+        "title": "縣政府",
+        "address": "新竹縣竹北市光明六路10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "182720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182731",
         "title": "合泰",
         "address": "嘉義縣大林鎮大美里19鄰大智一街1號",
@@ -48744,6 +48778,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183527",
+        "title": "振陞",
+        "address": "桃園市龜山區振興路1301號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.379585,
+          25.033581
+        ],
+        "type": "Point"
+      },
+      "id": "183527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183608",
         "title": "金桔",
         "address": "宜蘭縣礁溪鄉玉龍路二段417號",
@@ -48751,8 +48802,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.795349,
+          24.817046
         ],
         "type": "Point"
       },
@@ -48859,6 +48910,23 @@
         "type": "Point"
       },
       "id": "183804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183848",
+        "title": "仟瑞",
+        "address": "台北市大同區民生西路84號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.520201,
+          25.057469
+        ],
+        "type": "Point"
+      },
+      "id": "183848"
     },
     {
       "type": "Feature",
@@ -90441,23 +90509,6 @@
         "type": "Point"
       },
       "id": "998116"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "999005",
-        "title": "大盛",
-        "address": "新北市新店區建國路133號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.53921,
-          24.978377
-        ],
-        "type": "Point"
-      },
-      "id": "999005"
     },
     {
       "type": "Feature",
