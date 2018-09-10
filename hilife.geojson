@@ -18501,6 +18501,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4428",
+        "title": "內埔屏科店",
+        "address": "屏東縣內埔鄉學府路１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.615921,
+          22.646873
+        ],
+        "type": "Point"
+      },
+      "id": "4428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4429",
         "title": "大園湖畔店",
         "address": "桃園市大園區華興路１５２、１５６號",
