@@ -48880,6 +48880,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183734",
+        "title": "立青",
+        "address": "台南市歸仁區南保里民權南路一段108號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.287621,
+          22.964769
+        ],
+        "type": "Point"
+      },
+      "id": "183734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183756",
         "title": "鑫富民",
         "address": "台北市信義區忠孝東路四段181巷40弄22號1樓",
