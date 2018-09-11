@@ -17124,23 +17124,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "136679",
-        "title": "廣正",
-        "address": "屏東縣屏東市北興里中正路443號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.49887,
-          22.689424
-        ],
-        "type": "Point"
-      },
-      "id": "136679"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136680",
         "title": "鎮昌",
         "address": "高雄市前鎮區鎮海里鎮海路17號1樓",
@@ -24702,23 +24685,6 @@
         "type": "Point"
       },
       "id": "148362"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "148373",
-        "title": "工業",
-        "address": "桃園市中壢區吉林路131號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.250415,
-          24.984032
-        ],
-        "type": "Point"
-      },
-      "id": "148373"
     },
     {
       "type": "Feature",
@@ -48829,6 +48795,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183620",
+        "title": "安華",
+        "address": "高雄市左營區明華一路126號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.30752,
+          22.663062
+        ],
+        "type": "Point"
+      },
+      "id": "183620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183642",
         "title": "汐園",
         "address": "新北市汐止區大同路一段237之7號1樓",
@@ -51549,6 +51532,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186250",
+        "title": "工業",
+        "address": "桃園市中壢區吉林路131號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.250415,
+          24.984032
+        ],
+        "type": "Point"
+      },
+      "id": "186250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -52684,23 +52684,6 @@
         "type": "Point"
       },
       "id": "187585"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "187600",
-        "title": "安華",
-        "address": "高雄市左營區明華一路120號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.307834,
-          22.662982
-        ],
-        "type": "Point"
-      },
-      "id": "187600"
     },
     {
       "type": "Feature",
@@ -54129,6 +54112,40 @@
         "type": "Point"
       },
       "id": "188599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188603",
+        "title": "廣正",
+        "address": "屏東縣屏東市北興里中正路443號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.49887,
+          22.689424
+        ],
+        "type": "Point"
+      },
+      "id": "188603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188625",
+        "title": "坎城",
+        "address": "高雄市三民區十全一路183號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308598,
+          22.64495
+        ],
+        "type": "Point"
+      },
+      "id": "188625"
     },
     {
       "type": "Feature",
@@ -60304,23 +60321,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "882127",
-        "title": "立青",
-        "address": "台南市歸仁區中山路3段1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.287741,
-          22.967389
-        ],
-        "type": "Point"
-      },
-      "id": "882127"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "882138",
         "title": "興南",
         "address": "嘉義縣民雄鄉興南村15鄰頭橋557之45",
@@ -61377,13 +61377,13 @@
       "properties": {
         "id": "888549",
         "title": "葉大",
-        "address": "彰化縣大村鄉山腳路112號",
+        "address": "彰化縣大村鄉學府路168號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.596557,
-          24.000644
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -65043,23 +65043,6 @@
         "type": "Point"
       },
       "id": "906782"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "906793",
-        "title": "坎城",
-        "address": "高雄市三民區十全一路183號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.308598,
-          22.64495
-        ],
-        "type": "Point"
-      },
-      "id": "906793"
     },
     {
       "type": "Feature",
