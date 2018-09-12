@@ -33189,23 +33189,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162298",
-        "title": "新上明",
-        "address": "高雄市左營區自由二路142-1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.308812,
-          22.661864
-        ],
-        "type": "Point"
-      },
-      "id": "162298"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162313",
         "title": "深坑",
         "address": "新北市深坑區北深路三段145號",
@@ -37350,23 +37333,6 @@
         "type": "Point"
       },
       "id": "166290"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "166304",
-        "title": "南西",
-        "address": "台北市大同區南京西路296號298號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.513754,
-          25.053845
-        ],
-        "type": "Point"
-      },
-      "id": "166304"
     },
     {
       "type": "Feature",
@@ -48710,6 +48676,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183480",
+        "title": "新上明",
+        "address": "高雄市左營區明誠二路318.320號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308507,
+          22.661267
+        ],
+        "type": "Point"
+      },
+      "id": "183480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183491",
         "title": "海神",
         "address": "新北市八里區中山路二段6號8號",
@@ -54146,6 +54129,23 @@
         "type": "Point"
       },
       "id": "188625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188636",
+        "title": "南西",
+        "address": "台北市大同區南京西路296號298號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.513754,
+          25.053845
+        ],
+        "type": "Point"
+      },
+      "id": "188636"
     },
     {
       "type": "Feature",
