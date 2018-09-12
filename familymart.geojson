@@ -52160,25 +52160,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017004",
-        "title": "全家鳳山自強店",
-        "address": "高雄市鳳山區自強二路147號，149號",
-        "post": "830",
-        "all": "COFFEE,Photo,WiFi,Toilet,Rest,twoice,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.327083,
-          22.596492
-        ],
-        "type": "Point"
-      },
-      "id": "017004"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017005",
         "title": "全家南投新中興店",
         "address": "南投縣南投市學藝路3號",
@@ -61713,6 +61694,25 @@
         "type": "Point"
       },
       "id": "017635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017636",
+        "title": "全家鳳山自強店",
+        "address": "高雄市鳳山區自強二路147號，149號",
+        "post": "830",
+        "all": "COFFEE,Photo,WiFi,Toilet,Rest,twoice,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.327083,
+          22.596492
+        ],
+        "type": "Point"
+      },
+      "id": "017636"
     },
     {
       "type": "Feature",
