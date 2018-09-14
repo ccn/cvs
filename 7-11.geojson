@@ -48795,6 +48795,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183675",
+        "title": "聯鑫",
+        "address": "台中市中區建國路143.145號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "183675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183697",
         "title": "長城",
         "address": "台北市中山區中山北路二段56號1樓",
@@ -53976,6 +53993,23 @@
         "type": "Point"
       },
       "id": "188485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188496",
+        "title": "新黎明",
+        "address": "台南市麻豆區興國路40-10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.247784,
+          23.180917
+        ],
+        "type": "Point"
+      },
+      "id": "188496"
     },
     {
       "type": "Feature",
@@ -71775,23 +71809,6 @@
         "type": "Point"
       },
       "id": "942755"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "942766",
-        "title": "新黎明",
-        "address": "台南市麻豆區興國路40-10號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.247784,
-          23.180917
-        ],
-        "type": "Point"
-      },
-      "id": "942766"
     },
     {
       "type": "Feature",
