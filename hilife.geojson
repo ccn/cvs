@@ -2931,7 +2931,7 @@
       "properties": {
         "id": "2520",
         "title": "中縣中幼店",
-        "address": "台中市大甲區中山路二段５８４-５號",
+        "address": "台中市大甲區中山路二段５８４－５號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19449,23 +19449,6 @@
         "type": "Point"
       },
       "id": "B876"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "B955",
-        "title": "北市慶泰店",
-        "address": "台北市中山區松江路１８６之１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.532857,
-          25.056709
-        ],
-        "type": "Point"
-      },
-      "id": "B955"
     },
     {
       "type": "Feature",
