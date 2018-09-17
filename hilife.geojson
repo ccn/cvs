@@ -18858,6 +18858,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4468",
+        "title": "北投北戰店",
+        "address": "台北市北投區學園路２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468989,
+          25.133976
+        ],
+        "type": "Point"
+      },
+      "id": "4468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4469",
         "title": "東港海坪店",
         "address": "屏東縣東港鎮中正路三段８７、８９號",
