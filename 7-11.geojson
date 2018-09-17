@@ -48802,8 +48802,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.685013,
+          24.137885
         ],
         "type": "Point"
       },
@@ -48927,6 +48927,23 @@
         "type": "Point"
       },
       "id": "183859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183882",
+        "title": "藍天",
+        "address": "新北市林口區公園路203號之1;203號之2",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.372481,
+          25.072749
+        ],
+        "type": "Point"
+      },
+      "id": "183882"
     },
     {
       "type": "Feature",
@@ -54014,6 +54031,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188500",
+        "title": "埔成",
+        "address": "彰化縣埔心鄉中正路一段137號139號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.547455,
+          23.951076
+        ],
+        "type": "Point"
+      },
+      "id": "188500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188511",
         "title": "民新",
         "address": "桃園市大園區民生南路167號",
@@ -55340,23 +55374,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190215",
-        "title": "鑫領千",
-        "address": "高雄市三民區民族一路94號96號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.314688,
-          22.643767
-        ],
-        "type": "Point"
-      },
-      "id": "190215"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190226",
         "title": "墘都",
         "address": "台北市內湖區內湖路一段669號",
@@ -55982,6 +55999,23 @@
         "type": "Point"
       },
       "id": "190651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190673",
+        "title": "鑫領千",
+        "address": "高雄市三民區民族一路94號96號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.314688,
+          22.643767
+        ],
+        "type": "Point"
+      },
+      "id": "190673"
     },
     {
       "type": "Feature",
@@ -85630,23 +85664,6 @@
         "type": "Point"
       },
       "id": "982694"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982731",
-        "title": "埔成",
-        "address": "彰化縣埔心鄉中正路一段137號139號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.547455,
-          23.951076
-        ],
-        "type": "Point"
-      },
-      "id": "982731"
     },
     {
       "type": "Feature",
