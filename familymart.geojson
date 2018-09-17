@@ -3387,25 +3387,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011472",
-        "title": "全家新市群創二店",
-        "address": "台南市新市區環西路二段2號",
-        "post": "744",
-        "all": "COFFEE,icecream,oneice,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.275935,
-          23.102531
-        ],
-        "type": "Point"
-      },
-      "id": "011472"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011489",
         "title": "全家新營國道南店",
         "address": "臺南市後壁區新厝69號",
@@ -59642,6 +59623,25 @@
         "type": "Point"
       },
       "id": "017481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017482",
+        "title": "全家新市群創二店",
+        "address": "台南市新市區環西路二段2號",
+        "post": "744",
+        "all": "COFFEE,icecream,oneice,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.275935,
+          23.102531
+        ],
+        "type": "Point"
+      },
+      "id": "017482"
     },
     {
       "type": "Feature",
