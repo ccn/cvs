@@ -24382,25 +24382,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014862",
-        "title": "全家鳥松星光店",
-        "address": "高雄市鳥松區大埤路123號一樓",
-        "post": "833",
-        "all": "COFFEE,SWEETPOTATO,Rest,veg,COFFEEDeliver,SharePot,Kantoni,TANHOU,FreshFruit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.357331,
-          22.647624
-        ],
-        "type": "Point"
-      },
-      "id": "014862"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014865",
         "title": "全家日新店",
         "address": "台北市大同區承德路二段39＆41號1樓",
@@ -48113,25 +48094,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016714",
-        "title": "全家文盛店",
-        "address": "台北市中正區汀州路三段173號",
-        "post": "100",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.532452,
-          25.015119
-        ],
-        "type": "Point"
-      },
-      "id": "016714"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016715",
         "title": "全家湖口文化店",
         "address": "新竹縣湖口鄉文化路32號",
@@ -59589,6 +59551,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017478",
+        "title": "全家板橋大雅店",
+        "address": "新北市板橋區南雅南路二段5號1樓",
+        "post": "220",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4545,
+          25.002897
+        ],
+        "type": "Point"
+      },
+      "id": "017478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017479",
         "title": "全家板橋宜宅店",
         "address": "新北市板橋區合宜路129號1樓",
@@ -61147,6 +61128,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017586",
+        "title": "全家仁德中一店",
+        "address": "台南市仁德區文華一街89號（活動中心）",
+        "post": "717",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.243336,
+          22.96097509
+        ],
+        "type": "Point"
+      },
+      "id": "017586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017587",
+        "title": "全家仁德中二店",
+        "address": "台南市仁德區文華ㄧ街89號（教學區）",
+        "post": "717",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.25174229,
+          22.97236549
+        ],
+        "type": "Point"
+      },
+      "id": "017587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017590",
         "title": "全家高雄山明店",
         "address": "高雄市小港區松和路2號",
@@ -61413,6 +61432,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017605",
+        "title": "全家文盛店",
+        "address": "台北市中正區汀州路三段173號",
+        "post": "100",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.532452,
+          25.015119
+        ],
+        "type": "Point"
+      },
+      "id": "017605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017608",
         "title": "全家苗栗自治店",
         "address": "苗栗縣苗栗市自治路162號",
@@ -61603,6 +61641,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017622",
+        "title": "全家德湖店",
+        "address": "台北市內湖區成功路四段62號1樓及B1",
+        "post": "114",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.592489,
+          25.08276
+        ],
+        "type": "Point"
+      },
+      "id": "017622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017629",
         "title": "全家屏東安心店",
         "address": "屏東縣屏東市安心四橫巷449號",
@@ -61713,6 +61770,25 @@
         "type": "Point"
       },
       "id": "017647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017649",
+        "title": "全家鳥松星光店",
+        "address": "高雄市鳥松區大埤路123號一樓",
+        "post": "833",
+        "all": "COFFEE,SWEETPOTATO,Rest,veg,COFFEEDeliver,SharePot,Kantoni,TANHOU,FreshFruit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.357331,
+          22.647624
+        ],
+        "type": "Point"
+      },
+      "id": "017649"
     },
     {
       "type": "Feature",
