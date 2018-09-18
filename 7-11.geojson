@@ -2045,23 +2045,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112547",
-        "title": "維禮",
-        "address": "新北市板橋區四維路278號280號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.463222,
-          25.02882
-        ],
-        "type": "Point"
-      },
-      "id": "112547"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112558",
         "title": "夏恩",
         "address": "雲林縣虎尾鎮立仁里復興路137號",
@@ -17243,23 +17226,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "136794",
-        "title": "桃全",
-        "address": "桃園市桃園區中正路324號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.30915221779699,
-          24.997923767286
-        ],
-        "type": "Point"
-      },
-      "id": "136794"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136819",
         "title": "梅竹",
         "address": "新竹市東區光明里14鄰大學路56號58號60號",
@@ -19262,23 +19228,6 @@
         "type": "Point"
       },
       "id": "139014"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "139025",
-        "title": "新楊欣",
-        "address": "桃園市楊梅區中山北路一段388號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.159053,
-          24.909006
-        ],
-        "type": "Point"
-      },
-      "id": "139025"
     },
     {
       "type": "Feature",
@@ -45633,6 +45582,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "180469",
+        "title": "豐積",
+        "address": "台中市大雅區科雅西路5號B2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.617928,
+          24.214309
+        ],
+        "type": "Point"
+      },
+      "id": "180469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180470",
         "title": "尚群",
         "address": "桃園市八德區中山路181號",
@@ -51158,6 +51124,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "185992",
+        "title": "新楊欣",
+        "address": "桃園市楊梅區中山北路一段388號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.159053,
+          24.909006
+        ],
+        "type": "Point"
+      },
+      "id": "185992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186009",
         "title": "敦親",
         "address": "台北市大安區辛亥路二段171巷8號",
@@ -53079,23 +53062,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187884",
-        "title": "民生北",
-        "address": "桃園市龜山區民生北路一段54號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.302972,
-          25.0337
-        ],
-        "type": "Point"
-      },
-      "id": "187884"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187895",
         "title": "八勇",
         "address": "桃園市八德區忠勇街197號",
@@ -54095,6 +54061,23 @@
         "type": "Point"
       },
       "id": "188555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188566",
+        "title": "民生北",
+        "address": "桃園市龜山區民生北路一段54號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.302972,
+          25.0337
+        ],
+        "type": "Point"
+      },
+      "id": "188566"
     },
     {
       "type": "Feature",
