@@ -33749,25 +33749,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015656",
-        "title": "全家台南新康華店",
-        "address": "台南市安平區健康三街235號",
-        "post": "708",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,twoice,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.168818,
-          22.990826
-        ],
-        "type": "Point"
-      },
-      "id": "015656"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015662",
         "title": "全家淡水聖大店",
         "address": "新北市淡水區淡金路四段499號1樓",
@@ -61755,6 +61736,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017640",
+        "title": "全家新豐松柏店",
+        "address": "新竹縣新豐鄉松柏街152號1樓",
+        "post": "304",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.98503,
+          24.865339
+        ],
+        "type": "Point"
+      },
+      "id": "017640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017647",
         "title": "全家永和仁保店",
         "address": "新北市永和區保福路二段103號1樓",
@@ -61846,6 +61846,25 @@
         "type": "Point"
       },
       "id": "017669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017672",
+        "title": "全家台南新康華店",
+        "address": "台南市安平區健康三街235號",
+        "post": "708",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,twoice,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.168818,
+          22.990826
+        ],
+        "type": "Point"
+      },
+      "id": "017672"
     },
     {
       "type": "Feature",
