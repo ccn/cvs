@@ -48761,6 +48761,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183653",
+        "title": "桃全",
+        "address": "桃園市桃園區中正路342號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.308919,
+          24.998154
+        ],
+        "type": "Point"
+      },
+      "id": "183653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183675",
         "title": "聯鑫",
         "address": "台中市中區建國路143.145號",
