@@ -61147,6 +61147,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017588",
+        "title": "全家台南美環店",
+        "address": "台南市中西區府前路二段277號",
+        "post": "700",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.189753,
+          22.991998
+        ],
+        "type": "Point"
+      },
+      "id": "017588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017590",
         "title": "全家高雄山明店",
         "address": "高雄市小港區松和路2號",
@@ -61257,6 +61276,25 @@
         "type": "Point"
       },
       "id": "017595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017596",
+        "title": "全家嘉義仁安店",
+        "address": "嘉義市西區仁愛路175號1樓",
+        "post": "600",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.442702,
+          23.46986
+        ],
+        "type": "Point"
+      },
+      "id": "017596"
     },
     {
       "type": "Feature",
@@ -61637,6 +61675,25 @@
         "type": "Point"
       },
       "id": "017622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017628",
+        "title": "全家交大研三店",
+        "address": "新竹市東區大學路1001號研三舍",
+        "post": "300",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.997314,
+          24.784428
+        ],
+        "type": "Point"
+      },
+      "id": "017628"
     },
     {
       "type": "Feature",
