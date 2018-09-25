@@ -48914,6 +48914,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183871",
+        "title": "中蘭",
+        "address": "金門縣金沙鎮環島北路三段482號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.387923,
+          24.465499
+        ],
+        "type": "Point"
+      },
+      "id": "183871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183882",
         "title": "藍天",
         "address": "新北市林口區公園路203號之1;203號之2",
@@ -48927,6 +48944,23 @@
         "type": "Point"
       },
       "id": "183882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184139",
+        "title": "統新",
+        "address": "台北市中正區臨沂街27巷10號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531407,
+          25.04084
+        ],
+        "type": "Point"
+      },
+      "id": "184139"
     },
     {
       "type": "Feature",
@@ -79408,23 +79442,6 @@
         "type": "Point"
       },
       "id": "967167"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "967189",
-        "title": "南亞三",
-        "address": "新北市泰山區南林路98號8樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.415139,
-          25.050108
-        ],
-        "type": "Point"
-      },
-      "id": "967189"
     },
     {
       "type": "Feature",
