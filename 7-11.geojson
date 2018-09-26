@@ -685,23 +685,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "110873",
-        "title": "新林口",
-        "address": "新北市林口區中正路90號92號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.394314,
-          25.077306
-        ],
-        "type": "Point"
-      },
-      "id": "110873"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "110884",
         "title": "桂冠",
         "address": "台中市西屯區四川路120號1樓",
@@ -48727,23 +48710,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183620",
-        "title": "安華",
-        "address": "高雄市左營區明華一路126號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.30752,
-          22.663062
-        ],
-        "type": "Point"
-      },
-      "id": "183620"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183642",
         "title": "汐園",
         "address": "新北市汐止區大同路一段237之7號1樓",
@@ -48876,6 +48842,23 @@
         "type": "Point"
       },
       "id": "183804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183815",
+        "title": "蜡藝館",
+        "address": "宜蘭縣蘇澳鎮海山西路500號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.828202,
+          24.616401
+        ],
+        "type": "Point"
+      },
+      "id": "183815"
     },
     {
       "type": "Feature",
@@ -52144,23 +52127,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187161",
-        "title": "十八甲",
-        "address": "新北市泰山區福興一街87號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.432009,
-          25.057739
-        ],
-        "type": "Point"
-      },
-      "id": "187161"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187183",
         "title": "百富祥",
         "address": "新竹市香山區香北路181號183號",
@@ -54235,6 +54201,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188658",
+        "title": "安華",
+        "address": "高雄市左營區明華一路126號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.30752,
+          22.663062
+        ],
+        "type": "Point"
+      },
+      "id": "188658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188669",
+        "title": "新林口",
+        "address": "新北市林口區中正路90號92號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.394314,
+          25.077306
+        ],
+        "type": "Point"
+      },
+      "id": "188669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188740",
         "title": "中城",
         "address": "台中市大里區中興路一段328號",
@@ -54435,6 +54435,23 @@
         "type": "Point"
       },
       "id": "188902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188946",
+        "title": "十八甲",
+        "address": "新北市泰山區福興一街87號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.432009,
+          25.057739
+        ],
+        "type": "Point"
+      },
+      "id": "188946"
     },
     {
       "type": "Feature",
@@ -55782,23 +55799,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190488",
-        "title": "汐旺",
-        "address": "新北市汐止區中興里6鄰中興路105號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.632281,
-          25.064794
-        ],
-        "type": "Point"
-      },
-      "id": "190488"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190499",
         "title": "源德",
         "address": "新北市淡水區水源街一段75之2號1樓B1",
@@ -56033,6 +56033,23 @@
         "type": "Point"
       },
       "id": "190651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190662",
+        "title": "汐旺",
+        "address": "新北市汐止區中興里6鄰中興路105號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.632281,
+          25.064794
+        ],
+        "type": "Point"
+      },
+      "id": "190662"
     },
     {
       "type": "Feature",
