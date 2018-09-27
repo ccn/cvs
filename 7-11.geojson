@@ -1773,23 +1773,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112259",
-        "title": "合生",
-        "address": "屏東縣潮州鎮中正路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.538562,
-          22.551451
-        ],
-        "type": "Point"
-      },
-      "id": "112259"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112260",
         "title": "新楠梓",
         "address": "高雄市楠梓區中陽里楠梓新路188號188-1號1樓",
@@ -41196,23 +41179,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171236",
-        "title": "宏義",
-        "address": "桃園市龜山區萬壽路1段378號380號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.400274283071,
-          25.017012833047502
-        ],
-        "type": "Point"
-      },
-      "id": "171236"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171247",
         "title": "鑫鑽",
         "address": "台中市南屯區文心南三路663號",
@@ -51566,6 +51532,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186283",
+        "title": "宏義",
+        "address": "桃園市龜山區萬壽路1段378號380號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.400274283071,
+          25.017012833047502
+        ],
+        "type": "Point"
+      },
+      "id": "186283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -54167,6 +54150,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188614",
+        "title": "新左營",
+        "address": "高雄市左營區左營大路14-5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.287634,
+          22.680154
+        ],
+        "type": "Point"
+      },
+      "id": "188614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188625",
         "title": "坎城",
         "address": "高雄市三民區十全一路183號",
@@ -54197,6 +54197,23 @@
         "type": "Point"
       },
       "id": "188636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188647",
+        "title": "合生",
+        "address": "屏東縣潮州鎮中正路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.538562,
+          22.551451
+        ],
+        "type": "Point"
+      },
+      "id": "188647"
     },
     {
       "type": "Feature",
@@ -54406,7 +54423,7 @@
       "type": "Feature",
       "properties": {
         "id": "188898",
-        "title": "鼎賀",
+        "title": "加賀",
         "address": "台南市歸仁區大廟里大廟一街1號",
         "marker-color": "#01ac50"
       },
@@ -63700,23 +63717,6 @@
         "type": "Point"
       },
       "id": "900924"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "900979",
-        "title": "新左營",
-        "address": "高雄市左營區左營大路14-5號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.287634,
-          22.680154
-        ],
-        "type": "Point"
-      },
-      "id": "900979"
     },
     {
       "type": "Feature",
