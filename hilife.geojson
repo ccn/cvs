@@ -18739,6 +18739,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4485",
+        "title": "新竹風采店",
+        "address": "新竹市北區北大路１５６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.968019,
+          24.809923
+        ],
+        "type": "Point"
+      },
+      "id": "4485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
