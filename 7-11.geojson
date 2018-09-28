@@ -46602,6 +46602,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "181314",
+        "title": "大金",
+        "address": "台中市大里區中興路一段255號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.692078,
+          24.090991
+        ],
+        "type": "Point"
+      },
+      "id": "181314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "181347",
         "title": "興源",
         "address": "桃園市桃園區大興西路2段82號1樓",
@@ -47843,6 +47860,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182672",
+        "title": "新楊欣",
+        "address": "桃園市楊梅區中山北路一段360號362號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "182672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182683",
         "title": "新基隆一",
         "address": "基隆市仁愛區港西街5號",
@@ -48642,6 +48676,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183583",
+        "title": "湖海",
+        "address": "桃園市蘆竹區濱海路一段335號337號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.260205,
+          25.115472
+        ],
+        "type": "Point"
+      },
+      "id": "183583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183608",
         "title": "金桔",
         "address": "宜蘭縣礁溪鄉玉龍路二段417號",
@@ -48778,6 +48829,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183745",
+        "title": "凱利",
+        "address": "桃園市平鎮區延平路3段413號415號417號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.198926,
+          24.932716
+        ],
+        "type": "Point"
+      },
+      "id": "183745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183756",
         "title": "鑫富民",
         "address": "台北市信義區忠孝東路四段181巷40弄22號1樓",
@@ -48897,6 +48965,57 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183893",
+        "title": "三重一",
+        "address": "新北市三重區正義南路133號135號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.49873,
+          25.057855
+        ],
+        "type": "Point"
+      },
+      "id": "183893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183930",
+        "title": "昕美",
+        "address": "雲林縣斗六市民生路170號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.542269,
+          23.711781
+        ],
+        "type": "Point"
+      },
+      "id": "183930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183974",
+        "title": "萬能科",
+        "address": "桃園市中壢區萬能路1之2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "183974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184139",
         "title": "統新",
         "address": "台北市中正區臨沂街27巷10號1樓",
@@ -48910,6 +49029,40 @@
         "type": "Point"
       },
       "id": "184139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184184",
+        "title": "金裕",
+        "address": "新北市土城區裕民路255號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184210",
+        "title": "鼻頭角",
+        "address": "新北市瑞芳區鼻頭路227之4號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184210"
     },
     {
       "type": "Feature",
@@ -51120,23 +51273,6 @@
         "type": "Point"
       },
       "id": "185981"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185992",
-        "title": "新楊欣",
-        "address": "桃園市楊梅區中山北路一段388號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.159053,
-          24.909006
-        ],
-        "type": "Point"
-      },
-      "id": "185992"
     },
     {
       "type": "Feature",
