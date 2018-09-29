@@ -2334,23 +2334,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112927",
-        "title": "仟翔",
-        "address": "苗栗縣竹南鎮龍山路2段275號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.873841,
-          24.700459
-        ],
-        "type": "Point"
-      },
-      "id": "112927"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112938",
         "title": "圓達",
         "address": "宜蘭縣礁溪鄉礁溪路7段65號69號",
@@ -23822,23 +23805,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "146838",
-        "title": "澄清湖",
-        "address": "高雄市鳥松區大華里本館路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.346809,
-          22.647536
-        ],
-        "type": "Point"
-      },
-      "id": "146838"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "146850",
         "title": "建錦",
         "address": "台北市中山區建國北路2段127號1樓B1樓",
@@ -33223,23 +33189,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162645",
-        "title": "大峽",
-        "address": "新北市三峽區大學路13鄰147號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.374088,
-          24.943962
-        ],
-        "type": "Point"
-      },
-      "id": "162645"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162667",
         "title": "長生",
         "address": "高雄市前金區五福三路54號",
@@ -33287,23 +33236,6 @@
         "type": "Point"
       },
       "id": "162748"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "162760",
-        "title": "喜悅",
-        "address": "台北市大安區復興南路2段82-1及82-2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.543243,
-          25.030944
-        ],
-        "type": "Point"
-      },
-      "id": "162760"
     },
     {
       "type": "Feature",
@@ -36143,23 +36075,6 @@
         "type": "Point"
       },
       "id": "165459"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "165460",
-        "title": "華薪",
-        "address": "桃園市中壢區新中北路二段179號181號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.261748,
-          24.956203
-        ],
-        "type": "Point"
-      },
-      "id": "165460"
     },
     {
       "type": "Feature",
@@ -41281,23 +41196,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171317",
-        "title": "萬應",
-        "address": "高雄市苓雅區四維四路190-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.294889,
-          22.614346
-        ],
-        "type": "Point"
-      },
-      "id": "171317"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171328",
         "title": "鳳屏",
         "address": "高雄市大寮區鳳屏一路564號",
@@ -42960,23 +42858,6 @@
         "type": "Point"
       },
       "id": "174419"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "174420",
-        "title": "金裕",
-        "address": "新北市土城區柑林里8鄰裕民路257之1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.454955,
-          24.98276
-        ],
-        "type": "Point"
-      },
-      "id": "174420"
     },
     {
       "type": "Feature",
@@ -48999,23 +48880,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183974",
-        "title": "萬能科",
-        "address": "桃園市中壢區萬能路1之2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "id": "183974"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184139",
         "title": "統新",
         "address": "台北市中正區臨沂街27巷10號1樓",
@@ -49063,6 +48927,23 @@
         "type": "Point"
       },
       "id": "184210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184287",
+        "title": "航站南",
+        "address": "桃園市大園區航站南路15號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184287"
     },
     {
       "type": "Feature",
@@ -51681,6 +51562,40 @@
         "type": "Point"
       },
       "id": "186283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186294",
+        "title": "萬應",
+        "address": "高雄市苓雅區四維四路190-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.294889,
+          22.614346
+        ],
+        "type": "Point"
+      },
+      "id": "186294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186319",
+        "title": "喜悅",
+        "address": "台北市大安區復興南路2段82-1及82-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.543243,
+          25.030944
+        ],
+        "type": "Point"
+      },
+      "id": "186319"
     },
     {
       "type": "Feature",
@@ -54541,6 +54456,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188854",
+        "title": "仟翔",
+        "address": "苗栗縣竹南鎮龍山路2段275號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.873841,
+          24.700459
+        ],
+        "type": "Point"
+      },
+      "id": "188854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188865",
         "title": "商華",
         "address": "新竹縣竹東鎮東寧路三段25號1樓",
@@ -54554,6 +54486,23 @@
         "type": "Point"
       },
       "id": "188865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188876",
+        "title": "大峽",
+        "address": "新北市三峽區大學路13鄰147號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.374088,
+          24.943962
+        ],
+        "type": "Point"
+      },
+      "id": "188876"
     },
     {
       "type": "Feature",
@@ -54605,6 +54554,23 @@
         "type": "Point"
       },
       "id": "188946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188968",
+        "title": "華薪",
+        "address": "桃園市中壢區新中北路二段179號181號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.261748,
+          24.956203
+        ],
+        "type": "Point"
+      },
+      "id": "188968"
     },
     {
       "type": "Feature",
