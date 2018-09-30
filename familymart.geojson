@@ -3254,25 +3254,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011525",
-        "title": "全家竹北俠隱店",
-        "address": "新竹縣竹北市莊敬六街7號",
-        "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.02734,
-          24.82105
-        ],
-        "type": "Point"
-      },
-      "id": "011525"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011528",
         "title": "全家碧湖店",
         "address": "台北市內湖區內湖路一段593號一樓及地下室",
@@ -33578,25 +33559,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015693",
-        "title": "全家彰化線西店",
-        "address": "彰化縣線西鄉線西村中央路二段418號1樓",
-        "post": "507",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Parking,Toilet,Rest,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.4651148,
-          24.1350204
-        ],
-        "type": "Point"
-      },
-      "id": "015693"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015695",
         "title": "全家台中福田店",
         "address": "台中市南區福田路15號1樓",
@@ -62074,6 +62036,25 @@
         "type": "Point"
       },
       "id": "017690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017691",
+        "title": "全家竹北俠隱店",
+        "address": "新竹縣竹北市莊敬六街7號",
+        "post": "302",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.02734,
+          24.82105
+        ],
+        "type": "Point"
+      },
+      "id": "017691"
     },
     {
       "type": "Feature",
