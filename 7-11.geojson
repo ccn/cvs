@@ -47748,8 +47748,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.157665,
+          24.908756
         ],
         "type": "Point"
       },
@@ -48298,6 +48298,23 @@
         "type": "Point"
       },
       "id": "183192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183206",
+        "title": "澄清湖",
+        "address": "高雄市鳳山區青年路二段596號.598巷2.4號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.348651,
+          22.646469
+        ],
+        "type": "Point"
+      },
+      "id": "183206"
     },
     {
       "type": "Feature",
@@ -48904,8 +48921,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.454831,
+          24.982921
         ],
         "type": "Point"
       },
@@ -48921,8 +48938,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.914165,
+          25.123987
         ],
         "type": "Point"
       },
@@ -48938,8 +48955,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.237021,
+          25.0811
         ],
         "type": "Point"
       },
@@ -52162,7 +52179,7 @@
       "type": "Feature",
       "properties": {
         "id": "187183",
-        "title": "百富祥",
+        "title": "豪運",
         "address": "新竹市香山區香北路181號183號",
         "marker-color": "#01ac50"
       },
