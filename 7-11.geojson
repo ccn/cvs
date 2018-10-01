@@ -48574,6 +48574,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183549",
+        "title": "群創八",
+        "address": "高雄市路竹區路科十路11號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "183549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183583",
         "title": "湖海",
         "address": "桃園市蘆竹區濱海路一段335號337號1樓",
@@ -48893,6 +48910,23 @@
         "type": "Point"
       },
       "id": "183930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183974",
+        "title": "萬能科",
+        "address": "桃園市中壢區萬能路1之2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "183974"
     },
     {
       "type": "Feature",
