@@ -33559,6 +33559,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "015693",
+        "title": "全家彰化線西店",
+        "address": "彰化縣線西鄉線西村中央路二段418號1樓",
+        "post": "507",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Parking,Toilet,Rest,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4651148,
+          24.1350204
+        ],
+        "type": "Point"
+      },
+      "id": "015693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "015695",
         "title": "全家台中福田店",
         "address": "台中市南區福田路15號1樓",
@@ -60757,8 +60776,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.25174229,
-          22.97236549
+          120.243314981438,
+          22.9609399377415
         ],
         "type": "Point"
       },
