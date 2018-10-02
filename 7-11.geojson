@@ -48302,23 +48302,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183206",
-        "title": "澄清湖",
-        "address": "高雄市鳳山區青年路二段596號.598巷2.4號1.2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.348651,
-          22.646469
-        ],
-        "type": "Point"
-      },
-      "id": "183206"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183239",
         "title": "樂添",
         "address": "基隆市安樂區樂利二街62巷291號2樓292號293號1樓",
@@ -48763,13 +48746,13 @@
       "properties": {
         "id": "183756",
         "title": "鑫富民",
-        "address": "台北市信義區忠孝東路四段181巷40弄22號1樓",
+        "address": "台北市大安區忠孝東路四段181巷40弄22號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.549773,
-          25.043896
+          0,
+          0
         ],
         "type": "Point"
       },
