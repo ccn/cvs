@@ -27596,23 +27596,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "153364",
-        "title": "花蓮站",
-        "address": "花蓮縣花蓮市國聯一路100號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.601268391603,
-          23.992933255235602
-        ],
-        "type": "Point"
-      },
-      "id": "153364"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "153375",
         "title": "玉里",
         "address": "花蓮縣玉里鎮中山路2段90號1樓",
@@ -47520,6 +47503,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182373",
+        "title": "國藝",
+        "address": "桃園市桃園區南平路185號187號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.302101,
+          25.019537
+        ],
+        "type": "Point"
+      },
+      "id": "182373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182384",
         "title": "榮豐",
         "address": "桃園市八德區興豐路2168號",
@@ -47907,6 +47907,23 @@
         "type": "Point"
       },
       "id": "182786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182801",
+        "title": "南山北",
+        "address": "桃園市蘆竹區南山北路2段426號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.274218,
+          25.107301
+        ],
+        "type": "Point"
+      },
+      "id": "182801"
     },
     {
       "type": "Feature",
