@@ -48200,6 +48200,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183077",
+        "title": "多多利",
+        "address": "屏東縣九如鄉九如路三段85號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.490599,
+          22.746762
+        ],
+        "type": "Point"
+      },
+      "id": "183077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183099",
         "title": "景和",
         "address": "台中市北屯區太原路三段907號",
