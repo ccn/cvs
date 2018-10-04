@@ -455,7 +455,7 @@
 {"id":"3341","name":"高縣萬大店","phone":"(07)7885005","latitude":22.6070027498452,"longitude":120.42695444362,"address":"高雄市大寮區琉球里２８鄰至學路２８８號","depository":"冷藏,空調,常溫","equipment":["coffee","wifi"],"City":"高雄市","Town":"大寮區"}
 {"id":"3344","name":"新竹力行店","phone":"(03)6590302","latitude":24.767395,"longitude":121.024926,"address":"新竹市東區力行路１６之１號６樓","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["coffee","wifi"],"City":"新竹市","Town":"東區"}
 {"id":"3347","name":"北縣鶯國店","phone":"(02)86776526","latitude":24.9727164940709,"longitude":121.337254567341,"address":"新北市鶯歌區大湖路５３２、５３４號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","recreation","restroom","wifi"],"City":"新北市","Town":"鶯歌區"}
-{"id":"3350","name":"高市高應大店","phone":"(07)3838825","latitude":22.6478847943739,"longitude":120.328840009978,"address":"高雄市三民區建工路４１５號","depository":"","equipment":["coffee","recreation"],"City":"高雄市","Town":"三民區"}
+{"id":"3350","name":"高市高應大店","phone":"(07)3838825","latitude":22.6478847943739,"longitude":120.328840009978,"address":"高雄市三民區建工路４１５號","depository":"冷藏,空調,常溫","equipment":["coffee","recreation"],"City":"高雄市","Town":"三民區"}
 {"id":"3351","name":"北市安孝店","phone":"(02)27752407","latitude":25.0418014326733,"longitude":121.542772423064,"address":"台北市大安區忠孝東路三段２８７號","depository":"冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","wifi"],"City":"台北市","Town":"大安區"}
 {"id":"3356","name":"高縣翁園店","phone":"(07)7836842","latitude":22.6115785651769,"longitude":120.413205410587,"address":"高雄市大寮區萬丹路１１１２號","depository":"冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","recreation","wifi"],"City":"高雄市","Town":"大寮區"}
 {"id":"3358","name":"北縣莊月店","phone":"(02)29926407","latitude":25.0436927174331,"longitude":121.448127041637,"address":"新北市新莊區中和街１９號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","wifi"],"City":"新北市","Town":"新莊區"}
@@ -1099,6 +1099,7 @@
 {"id":"4475","name":"基隆風雲店","phone":"(02)89796117","latitude":25.130708,"longitude":121.768541,"address":"基隆市信義區東光路３０之４號、３０之５號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee"],"City":"基隆市","Town":"信義區"}
 {"id":"4476","name":"松山松城店","phone":"(02)89782406","latitude":25.056334,"longitude":121.555399,"address":"台北市松山區光復北路２３２號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee"],"City":"台北市","Town":"松山區"}
 {"id":"4477","name":"大甲甲旺店","phone":"(04)23690398","latitude":24.344862,"longitude":120.633643,"address":"台中市大甲區甲后路五段２７１、２７３號一樓","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","recreation","restroom"],"City":"台中市","Town":"大甲區"}
+{"id":"4479","name":"八德星晴店","phone":"(03)2860898","latitude":24.929338,"longitude":121.287423,"address":"桃園市八德區興豐路３４０、３４２、３４４號。","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"桃園市","Town":"八德區"}
 {"id":"4480","name":"中壢星辰店","phone":"(03)2860657","latitude":24.97201,"longitude":121.255221,"address":"桃園市中壢區中華路一段３９０號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","recreation","restroom"],"City":"桃園市","Town":"中壢區"}
 {"id":"4485","name":"新竹風采店","phone":"(03)6591205","latitude":24.809923,"longitude":120.968019,"address":"新竹市北區北大路１５６號","depository":"常溫","equipment":[],"City":"新竹市","Town":"北區"}
 {"id":"A067","name":"北市社正店","phone":"(02)28163841","latitude":25.08877,"longitude":121.50928,"address":"台北市士林區社正路２７號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","recreation","wifi"],"City":"台北市","Town":"士林區"}

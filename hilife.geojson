@@ -18722,6 +18722,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4479",
+        "title": "八德星晴店",
+        "address": "桃園市八德區興豐路３４０、３４２、３４４號。",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.287423,
+          24.929338
+        ],
+        "type": "Point"
+      },
+      "id": "4479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4480",
         "title": "中壢星辰店",
         "address": "桃園市中壢區中華路一段３９０號",
