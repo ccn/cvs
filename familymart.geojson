@@ -60672,25 +60672,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017584",
-        "title": "全家汐止農會店",
-        "address": "新北市汐止區中正路106號1樓",
-        "post": "221",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.660915,
-          25.069536
-        ],
-        "type": "Point"
-      },
-      "id": "017584"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017585",
         "title": "全家永康學府店",
         "address": "台南市永康區中正路581號",
@@ -62055,6 +62036,25 @@
         "type": "Point"
       },
       "id": "017695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017700",
+        "title": "全家汐止農會店",
+        "address": "新北市汐止區中正路106號1樓",
+        "post": "221",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.660915,
+          25.069536
+        ],
+        "type": "Point"
+      },
+      "id": "017700"
     },
     {
       "type": "Feature",
