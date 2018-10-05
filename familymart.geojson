@@ -8650,25 +8650,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012822",
-        "title": "全家台中金美店",
-        "address": "台中市南屯區14鄰南屯路二段872號",
-        "post": "408",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,TANHOU",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.636427,
-          24.14118
-        ],
-        "type": "Point"
-      },
-      "id": "012822"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012823",
         "title": "全家草屯佑民店",
         "address": "南投縣草屯鎮正興街78號",
@@ -61204,25 +61185,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017620",
-        "title": "全家景中店",
-        "address": "台北市文山區景中街5號，七號一樓",
-        "post": "116",
-        "all": "SWEETPOTATO,WiFi,icecream,oneice,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.541735,
-          24.99306
-        ],
-        "type": "Point"
-      },
-      "id": "017620"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017621",
         "title": "全家土城吉美店",
         "address": "新北市土城區延吉街239號1樓",
@@ -61660,6 +61622,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017652",
+        "title": "全家台中金美店",
+        "address": "台中市南屯區14鄰南屯路二段872號",
+        "post": "408",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,TANHOU",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.636427,
+          24.14118
+        ],
+        "type": "Point"
+      },
+      "id": "017652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017653",
         "title": "全家虎尾立人店",
         "address": "雲林縣虎尾鎮復興路177號1＆2樓",
@@ -61789,6 +61770,25 @@
         "type": "Point"
       },
       "id": "017660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017661",
+        "title": "全家景中店",
+        "address": "台北市文山區景中街5號，七號一樓",
+        "post": "116",
+        "all": "SWEETPOTATO,WiFi,icecream,oneice,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.541735,
+          24.99306
+        ],
+        "type": "Point"
+      },
+      "id": "017661"
     },
     {
       "type": "Feature",
