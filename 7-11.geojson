@@ -16733,23 +16733,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "136277",
-        "title": "新鼎祥",
-        "address": "高雄市三民區鼎泰里民族一路543巷25號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.315226,
-          22.666367
-        ],
-        "type": "Point"
-      },
-      "id": "136277"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136288",
         "title": "工協",
         "address": "高雄市鳳山區埤頂里建國路一段79號1樓",
@@ -17358,23 +17341,6 @@
         "type": "Point"
       },
       "id": "136978"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "136989",
-        "title": "廟東",
-        "address": "高雄市左營區左營大路400號402號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.293393590212,
-          22.687291699200298
-        ],
-        "type": "Point"
-      },
-      "id": "136989"
     },
     {
       "type": "Feature",
@@ -47724,6 +47690,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182650",
+        "title": "廟東",
+        "address": "高雄市左營區左營大路340號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.292141,
+          22.686568
+        ],
+        "type": "Point"
+      },
+      "id": "182650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182661",
         "title": "重信",
         "address": "高雄市左營區文川路195號.重建路2號",
@@ -48336,6 +48319,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183206",
+        "title": "澄清湖",
+        "address": "高雄市鳳山區青年路二段596號.598巷2.4號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.348651,
+          22.646469
+        ],
+        "type": "Point"
+      },
+      "id": "183206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183239",
         "title": "樂添",
         "address": "基隆市安樂區樂利二街62巷291號2樓292號293號1樓",
@@ -48598,8 +48598,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.24989,
+          22.838624
         ],
         "type": "Point"
       },
@@ -48785,8 +48785,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.549773,
+          25.043896
         ],
         "type": "Point"
       },
@@ -48938,8 +48938,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.23015,
+          24.992295
         ],
         "type": "Point"
       },
@@ -49006,8 +49006,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.237021,
-          25.0811
+          121.238094,
+          25.080905
         ],
         "type": "Point"
       },
@@ -51647,6 +51647,23 @@
         "type": "Point"
       },
       "id": "186294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186308",
+        "title": "新鼎祥",
+        "address": "高雄市三民區鼎泰里民族一路543巷25號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.315226,
+          22.666367
+        ],
+        "type": "Point"
+      },
+      "id": "186308"
     },
     {
       "type": "Feature",
@@ -87228,23 +87245,6 @@
         "type": "Point"
       },
       "id": "990503"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "990525",
-        "title": "新彰成",
-        "address": "彰化縣彰化市大同里太平街97號及成功路85號87號89號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.541439,
-          24.077284
-        ],
-        "type": "Point"
-      },
-      "id": "990525"
     },
     {
       "type": "Feature",
