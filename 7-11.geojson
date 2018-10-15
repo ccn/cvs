@@ -21867,23 +21867,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "143080",
-        "title": "鳳山站",
-        "address": "高雄市鳳山區曹公路68號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.35768,
-          22.631331
-        ],
-        "type": "Point"
-      },
-      "id": "143080"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "143138",
         "title": "豐昌",
         "address": "彰化縣員林市永昌街86號1樓",
@@ -48377,8 +48360,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.243435,
+          24.939727
         ],
         "type": "Point"
       },
@@ -54520,6 +54503,23 @@
         "type": "Point"
       },
       "id": "188810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188821",
+        "title": "鹽埔",
+        "address": "屏東縣鹽埔鄉維新路134-3號136號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.557673,
+          22.742029
+        ],
+        "type": "Point"
+      },
+      "id": "188821"
     },
     {
       "type": "Feature",
@@ -62871,23 +62871,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "894153",
-        "title": "英荃",
-        "address": "台中市清水區中山路81號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.57237,
-          24.262268
-        ],
-        "type": "Point"
-      },
-      "id": "894153"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "894289",
         "title": "源隆",
         "address": "高雄市大寮區永芳里進學路74號76號",
@@ -70521,23 +70504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "934639",
-        "title": "鹽埔",
-        "address": "屏東縣鹽埔鄉維新路134-3號136號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.557673,
-          22.742029
-        ],
-        "type": "Point"
-      },
-      "id": "934639"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "934684",
         "title": "高樹",
         "address": "屏東縣高樹鄉興中路193號",
@@ -76216,23 +76182,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "956204",
-        "title": "高雄三",
-        "address": "高雄市三民區建國二路318號3樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.301912,
-          22.638574
-        ],
-        "type": "Point"
-      },
-      "id": "956204"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "956215",
         "title": "鎮陽",
         "address": "高雄市前鎮區鎮陽里前鎮街278號280號",
@@ -76280,23 +76229,6 @@
         "type": "Point"
       },
       "id": "956260"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "956282",
-        "title": "高雄一",
-        "address": "高雄市三民區建國二路318號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.301912,
-          22.638574
-        ],
-        "type": "Point"
-      },
-      "id": "956282"
     },
     {
       "type": "Feature",
