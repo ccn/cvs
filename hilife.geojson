@@ -18739,6 +18739,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4483",
+        "title": "林口築夢店",
+        "address": "新北市林口區仁愛路一段６１９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.389876,
+          25.076468
+        ],
+        "type": "Point"
+      },
+      "id": "4483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4485",
         "title": "新竹風采店",
         "address": "新竹市北區北大路１５６號",
