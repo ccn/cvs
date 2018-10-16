@@ -21884,23 +21884,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "143150",
-        "title": "鼎亨",
-        "address": "台南市東區德東街101號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.230607,
-          22.961828
-        ],
-        "type": "Point"
-      },
-      "id": "143150"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "143161",
         "title": "鑫省岡",
         "address": "高雄市岡山區台上里成功路82號1樓",
@@ -48149,6 +48132,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183044",
+        "title": "進三廠",
+        "address": "桃園市蘆竹區長榮路168號6樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.28457,
+          25.058171
+        ],
+        "type": "Point"
+      },
+      "id": "183044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183055",
         "title": "統佳",
         "address": "台北市中山區松江路237號1樓",
@@ -54673,6 +54673,40 @@
         "type": "Point"
       },
       "id": "188968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188980",
+        "title": "鼎利",
+        "address": "台南市關廟區南雄路二段210號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.328961,
+          22.964638
+        ],
+        "type": "Point"
+      },
+      "id": "188980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188991",
+        "title": "鼎亨",
+        "address": "台南市東區德東街101號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.230607,
+          22.961828
+        ],
+        "type": "Point"
+      },
+      "id": "188991"
     },
     {
       "type": "Feature",
@@ -64095,23 +64129,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "901732",
-        "title": "鼎利",
-        "address": "台南市關廟區南雄路二段210號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.328961,
-          22.964638
-        ],
-        "type": "Point"
-      },
-      "id": "901732"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "901776",
         "title": "東東",
         "address": "南投縣埔里鎮忠孝路138-140號",
@@ -72506,23 +72523,6 @@
         "type": "Point"
       },
       "id": "944016"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "944119",
-        "title": "新福林",
-        "address": "台北市士林區福林路191號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.532655,
-          25.096887
-        ],
-        "type": "Point"
-      },
-      "id": "944119"
     },
     {
       "type": "Feature",
