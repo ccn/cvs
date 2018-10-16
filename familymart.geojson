@@ -8023,25 +8023,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012716",
-        "title": "全家新店永安店",
-        "address": "新北市新店區安康路二段157號",
-        "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.510453,
-          24.959581
-        ],
-        "type": "Point"
-      },
-      "id": "012716"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012718",
         "title": "全家板橋金鑫店",
         "address": "新北市板橋區金門街376號1樓",
@@ -61337,25 +61318,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017647",
-        "title": "全家永和仁保店",
-        "address": "新北市永和區保福路二段103號1樓",
-        "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.510296,
-          25.013257
-        ],
-        "type": "Point"
-      },
-      "id": "017647"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017649",
         "title": "全家鳥松星光店",
         "address": "高雄市鳥松區大埤路123號一樓",
@@ -61869,6 +61831,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017697",
+        "title": "全家永和仁保店",
+        "address": "新北市永和區保福路二段103號1樓",
+        "post": "234",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.510296,
+          25.013257
+        ],
+        "type": "Point"
+      },
+      "id": "017697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017698",
         "title": "全家貴陽店",
         "address": "台北市萬華區貴陽街二段182號，184號",
@@ -62017,6 +61998,25 @@
         "type": "Point"
       },
       "id": "017716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017719",
+        "title": "全家長慶店",
+        "address": "台北市大同區長安西路258號1樓",
+        "post": "103",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.513331,
+          25.051645
+        ],
+        "type": "Point"
+      },
+      "id": "017719"
     },
     {
       "type": "Feature",
@@ -62188,6 +62188,25 @@
         "type": "Point"
       },
       "id": "017740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017741",
+        "title": "全家新店永安店",
+        "address": "新北市新店區安康路二段157號",
+        "post": "231",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.510453,
+          24.959581
+        ],
+        "type": "Point"
+      },
+      "id": "017741"
     },
     {
       "type": "Feature",
