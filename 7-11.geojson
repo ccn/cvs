@@ -47962,6 +47962,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182889",
+        "title": "映竹",
+        "address": "桃園市蘆竹區南竹路4段250號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.265569,
+          25.028626
+        ],
+        "type": "Point"
+      },
+      "id": "182889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182890",
         "title": "鳳中",
         "address": "高雄市三民區建國三路285號1樓",
@@ -48944,6 +48961,23 @@
         "type": "Point"
       },
       "id": "183974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184092",
+        "title": "駁藝",
+        "address": "高雄市鹽埕區大勇路29號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.282405,
+          22.621355
+        ],
+        "type": "Point"
+      },
+      "id": "184092"
     },
     {
       "type": "Feature",
