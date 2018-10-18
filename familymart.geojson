@@ -3558,25 +3558,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011661",
-        "title": "全家台中進學店",
-        "address": "台中市北區進化北路325號、327號一樓",
-        "post": "404",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.68139,
-          24.16293
-        ],
-        "type": "Point"
-      },
-      "id": "011661"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011680",
         "title": "全家中埔中華店",
         "address": "嘉義縣中埔鄉和睦村中華路678號",
@@ -43363,25 +43344,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016444",
-        "title": "全家太保嘉新店",
-        "address": "嘉義縣太保市中山路一段806號1樓、2樓",
-        "post": "612",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.377238,
-          23.498776
-        ],
-        "type": "Point"
-      },
-      "id": "016444"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016447",
         "title": "全家新竹荷蘭村店",
         "address": "新竹市北區武陵路175巷2號1樓",
@@ -61941,6 +61903,25 @@
         "type": "Point"
       },
       "id": "017709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017710",
+        "title": "全家太保嘉新店",
+        "address": "嘉義縣太保市中山路一段806號1樓、2樓",
+        "post": "612",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.377238,
+          23.498776
+        ],
+        "type": "Point"
+      },
+      "id": "017710"
     },
     {
       "type": "Feature",
