@@ -47282,6 +47282,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182177",
+        "title": "台南站",
+        "address": "台南市東區北門路二段4號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.212319,
+          22.997212
+        ],
+        "type": "Point"
+      },
+      "id": "182177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182199",
         "title": "保康",
         "address": "台中市豐原區保康路160號",
@@ -48434,6 +48451,23 @@
         "type": "Point"
       },
       "id": "183343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183354",
+        "title": "昌福",
+        "address": "新北市新莊區福壽街101號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.457895,
+          25.050535
+        ],
+        "type": "Point"
+      },
+      "id": "183354"
     },
     {
       "type": "Feature",
@@ -52195,23 +52229,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187105",
-        "title": "東鑽",
-        "address": "新竹縣竹東鎮北興路三段517號519號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.081675,
-          24.748622
-        ],
-        "type": "Point"
-      },
-      "id": "187105"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187116",
         "title": "長坤",
         "address": "新北市林口區文化一路一段43號1樓",
@@ -54707,6 +54724,23 @@
         "type": "Point"
       },
       "id": "188968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188979",
+        "title": "東鑽",
+        "address": "新竹縣竹東鎮北興路三段517號519號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.081675,
+          24.748622
+        ],
+        "type": "Point"
+      },
+      "id": "188979"
     },
     {
       "type": "Feature",
@@ -85443,23 +85477,6 @@
         "type": "Point"
       },
       "id": "982236"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982258",
-        "title": "新東油",
-        "address": "新竹縣竹東鎮仁愛里北興路二段7鄰3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.094112,
-          24.737894
-        ],
-        "type": "Point"
-      },
-      "id": "982258"
     },
     {
       "type": "Feature",
