@@ -5686,25 +5686,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012346",
-        "title": "全家桃園御賞店",
-        "address": "桃園市桃園區大興西路二段128號1樓",
-        "post": "330",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,oneice,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.296618,
-          25.010635
-        ],
-        "type": "Point"
-      },
-      "id": "012346"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012350",
         "title": "全家高雄武仁店",
         "address": "高雄市苓雅區武仁街95號一樓",
@@ -5758,25 +5739,6 @@
         "type": "Point"
       },
       "id": "012355"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "012359",
-        "title": "全家三重天台店",
-        "address": "新北市三重區重新路二段78號",
-        "post": "241",
-        "all": "SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,twoice,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.497259,
-          25.061897
-        ],
-        "type": "Point"
-      },
-      "id": "012359"
     },
     {
       "type": "Feature",
@@ -54459,6 +54421,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017212",
+        "title": "全家三重天台店",
+        "address": "新北市三重區重新路二段78號",
+        "post": "241",
+        "all": "SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,twoice,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.497259,
+          25.061897
+        ],
+        "type": "Point"
+      },
+      "id": "017212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017213",
         "title": "全家埔里枇杷店",
         "address": "南投縣埔里鎮中華路1-1號1樓",
@@ -62207,6 +62188,25 @@
         "type": "Point"
       },
       "id": "017744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017747",
+        "title": "全家桃園御賞店",
+        "address": "桃園市桃園區大興西路二段128號1樓",
+        "post": "330",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,oneice,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.296618,
+          25.010635
+        ],
+        "type": "Point"
+      },
+      "id": "017747"
     },
     {
       "type": "Feature",
