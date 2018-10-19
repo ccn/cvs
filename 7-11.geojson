@@ -46415,6 +46415,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "181325",
+        "title": "竹永",
+        "address": "新竹縣竹東鎮仁愛里北興路二段185號187號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "181325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "181347",
         "title": "興源",
         "address": "桃園市桃園區大興西路2段82號1樓",
@@ -51753,6 +51770,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186353",
+        "title": "香城",
+        "address": "台北市南港區南港路一段167號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.61330843831199,
+          25.0551779631611
+        ],
+        "type": "Point"
+      },
+      "id": "186353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -54660,6 +54694,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188887",
+        "title": "東耕",
+        "address": "台南市白河區河東里9鄰糞箕湖122-135號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.42531,
+          23.345468
+        ],
+        "type": "Point"
+      },
+      "id": "188887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188898",
         "title": "加賀",
         "address": "台南市歸仁區大廟里大廟一街1號",
@@ -55816,23 +55867,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190271",
-        "title": "漢陽",
-        "address": "台北市萬華區昆明街197號199號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.50418935836899,
-          25.0392089092117
-        ],
-        "type": "Point"
-      },
-      "id": "190271"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190282",
         "title": "景華",
         "address": "台北市文山區興東里景華街130號",
@@ -56390,6 +56424,23 @@
         "type": "Point"
       },
       "id": "190673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190927",
+        "title": "漢陽",
+        "address": "台北市萬華區昆明街197號199號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.50418935836899,
+          25.0392089092117
+        ],
+        "type": "Point"
+      },
+      "id": "190927"
     },
     {
       "type": "Feature",
@@ -79956,23 +80007,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "967628",
-        "title": "東耕",
-        "address": "台南市白河區河東里9鄰糞箕湖122-35號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.425419,
-          23.345273
-        ],
-        "type": "Point"
-      },
-      "id": "967628"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "967639",
         "title": "仁文",
         "address": "台南市東區仁和路57-7號59號1樓",
@@ -87330,23 +87364,6 @@
         "type": "Point"
       },
       "id": "990673"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "990709",
-        "title": "香城",
-        "address": "台北市南港區南港路一段167號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.61330843831199,
-          25.0551779631611
-        ],
-        "type": "Point"
-      },
-      "id": "990709"
     },
     {
       "type": "Feature",
