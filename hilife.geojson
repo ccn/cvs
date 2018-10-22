@@ -18773,6 +18773,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4495",
+        "title": "觀音紅糖店",
+        "address": "桃園市觀音區文化路坑尾段３７６巷１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.093126,
+          25.018964
+        ],
+        "type": "Point"
+      },
+      "id": "4495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
