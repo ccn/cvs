@@ -46422,8 +46422,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.090813,
+          24.741197
         ],
         "type": "Point"
       },
@@ -49084,6 +49084,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184276",
+        "title": "文正",
+        "address": "新北市新莊區中正路188號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.449732,
+          25.035667
+        ],
+        "type": "Point"
+      },
+      "id": "184276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184287",
         "title": "航站南",
         "address": "桃園市大園區航站南路15號B1樓",
@@ -49097,6 +49114,23 @@
         "type": "Point"
       },
       "id": "184287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184391",
+        "title": "愛琴灣",
+        "address": "新北市淡水區濱海路一段430號432號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.438378,
+          25.189883
+        ],
+        "type": "Point"
+      },
+      "id": "184391"
     },
     {
       "type": "Feature",
@@ -49403,23 +49437,6 @@
         "type": "Point"
       },
       "id": "184737"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184748",
-        "title": "松民",
-        "address": "台北市松山區三民路10號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.56388,
-          25.052392
-        ],
-        "type": "Point"
-      },
-      "id": "184748"
     },
     {
       "type": "Feature",
@@ -54469,6 +54486,23 @@
         "type": "Point"
       },
       "id": "188669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188681",
+        "title": "松民",
+        "address": "台北市松山區三民路10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.56388,
+          25.052392
+        ],
+        "type": "Point"
+      },
+      "id": "188681"
     },
     {
       "type": "Feature",
