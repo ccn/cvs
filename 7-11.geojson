@@ -32781,23 +32781,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "161826",
-        "title": "鳳駿",
-        "address": "高雄市鳳山區北門里鳳松路108.110.112號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.36168,
-          22.633851
-        ],
-        "type": "Point"
-      },
-      "id": "161826"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "161907",
         "title": "員成",
         "address": "彰化縣員林市中山路二段216號",
@@ -51800,6 +51783,23 @@
         "type": "Point"
       },
       "id": "186353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186375",
+        "title": "鳳駿",
+        "address": "高雄市鳳山區北門里鳳松路108.110.112號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.36168,
+          22.633851
+        ],
+        "type": "Point"
+      },
+      "id": "186375"
     },
     {
       "type": "Feature",
@@ -73067,23 +73067,6 @@
         "type": "Point"
       },
       "id": "946012"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "946171",
-        "title": "高雄二",
-        "address": "高雄市三民區九如二路349號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.302809,
-          22.640721
-        ],
-        "type": "Point"
-      },
-      "id": "946171"
     },
     {
       "type": "Feature",
