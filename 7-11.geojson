@@ -48421,6 +48421,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183273",
+        "title": "貴族",
+        "address": "桃園市桃園區南平路306號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.298597,
+          25.018424
+        ],
+        "type": "Point"
+      },
+      "id": "183273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183295",
         "title": "臣峰",
         "address": "新北市林口區文化北路一段62之1號",
