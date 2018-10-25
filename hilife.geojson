@@ -18739,6 +18739,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4481",
+        "title": "大里精采店",
+        "address": "台中市大里區中興路二段７８８、７９０、７９２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.687734,
+          24.120814
+        ],
+        "type": "Point"
+      },
+      "id": "4481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4483",
         "title": "林口築夢店",
         "address": "新北市林口區仁愛路一段６１９號",
