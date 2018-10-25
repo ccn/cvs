@@ -47520,6 +47520,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182432",
+        "title": "榮田",
+        "address": "台中市烏日區三榮路二段199號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.597058,
+          24.108294
+        ],
+        "type": "Point"
+      },
+      "id": "182432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182476",
         "title": "光泰",
         "address": "高雄市鳳山區光復路65號1樓(B室)1樓部分",
