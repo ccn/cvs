@@ -13856,25 +13856,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013697",
-        "title": "全家布袋港村店",
-        "address": "嘉義縣布袋鎮龍江路1號一樓",
-        "post": "625",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.16865,
-          23.377565
-        ],
-        "type": "Point"
-      },
-      "id": "013697"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013699",
         "title": "全家台中福爾摩店",
         "address": "台中市中區成功路11號",
@@ -62131,6 +62112,25 @@
         "type": "Point"
       },
       "id": "017741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017742",
+        "title": "全家大林民生店",
+        "address": "嘉義縣大林鎮中興路二段82號及空地約190坪",
+        "post": "622",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.468966,
+          23.602781
+        ],
+        "type": "Point"
+      },
+      "id": "017742"
     },
     {
       "type": "Feature",
