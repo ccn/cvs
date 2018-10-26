@@ -29160,23 +29160,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "154909",
-        "title": "國賓",
-        "address": "台北市中山區中山北路2段77巷3號5號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.523248,
-          25.05757
-        ],
-        "type": "Point"
-      },
-      "id": "154909"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "154910",
         "title": "大發",
         "address": "高雄市大寮區振成里鳳林三路322號324號1樓",
@@ -54524,6 +54507,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188670",
+        "title": "順苓",
+        "address": "高雄市小港區漢民路381號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.356743,
+          22.566984
+        ],
+        "type": "Point"
+      },
+      "id": "188670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188681",
         "title": "松民",
         "address": "台北市松山區三民路10號",
@@ -54537,6 +54537,23 @@
         "type": "Point"
       },
       "id": "188681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188717",
+        "title": "國賓",
+        "address": "台北市中山區中山北路2段77巷3號5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.523248,
+          25.05757
+        ],
+        "type": "Point"
+      },
+      "id": "188717"
     },
     {
       "type": "Feature",
@@ -60249,23 +60266,6 @@
         "type": "Point"
       },
       "id": "875646"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "875679",
-        "title": "順苓",
-        "address": "高雄市小港區漢民路381號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.356743,
-          22.566984
-        ],
-        "type": "Point"
-      },
-      "id": "875679"
     },
     {
       "type": "Feature",
