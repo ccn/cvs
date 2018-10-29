@@ -18790,6 +18790,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4490",
+        "title": "太保風鈴店",
+        "address": "嘉義縣太保市舊埤里１７鄰新埤５之１８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.337869,
+          23.496581
+        ],
+        "type": "Point"
+      },
+      "id": "4490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4495",
         "title": "觀音紅糖店",
         "address": "桃園市觀音區文化路坑尾段３７６巷１號",
