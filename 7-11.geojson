@@ -49135,6 +49135,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184298",
+        "title": "航站北",
+        "address": "桃園市大園區航站南路15號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.238094,
+          25.080905
+        ],
+        "type": "Point"
+      },
+      "id": "184298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184391",
         "title": "愛琴灣",
         "address": "新北市淡水區濱海路一段430號432號",
@@ -54439,23 +54456,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188577",
-        "title": "中行",
-        "address": "新北市新店區中興路一段193號195號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.543231,
-          24.96522
-        ],
-        "type": "Point"
-      },
-      "id": "188577"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188588",
         "title": "圓武",
         "address": "台北市中山區吉林路28號",
@@ -54643,6 +54643,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188706",
+        "title": "中行",
+        "address": "新北市新店區中興路一段193號195號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.543231,
+          24.96522
+        ],
+        "type": "Point"
+      },
+      "id": "188706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188717",
         "title": "國賓",
         "address": "台北市中山區中山北路2段77巷3號5號1樓",
@@ -54741,6 +54758,23 @@
         "type": "Point"
       },
       "id": "188784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188795",
+        "title": "華仁",
+        "address": "高雄市岡山區仁壽里仁壽路106號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.288624,
+          22.791017
+        ],
+        "type": "Point"
+      },
+      "id": "188795"
     },
     {
       "type": "Feature",
@@ -60487,23 +60521,6 @@
         "type": "Point"
       },
       "id": "880268"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "880316",
-        "title": "華仁",
-        "address": "高雄市岡山區仁壽里仁壽路106號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.288624,
-          22.791017
-        ],
-        "type": "Point"
-      },
-      "id": "880316"
     },
     {
       "type": "Feature",
