@@ -1297,23 +1297,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "111681",
-        "title": "八仙",
-        "address": "新北市八里區中華路二段292號296號298號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.404333,
-          25.14889
-        ],
-        "type": "Point"
-      },
-      "id": "111681"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "111717",
         "title": "鎮權",
         "address": "台中市沙鹿區鎮南路二段107號109號",
@@ -21404,23 +21387,6 @@
         "type": "Point"
       },
       "id": "142629"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "142630",
-        "title": "隆恩",
-        "address": "台中市西屯區大墩十八街116號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.647941769237,
-          24.1581148350323
-        ],
-        "type": "Point"
-      },
-      "id": "142630"
     },
     {
       "type": "Feature",
@@ -54962,6 +54928,23 @@
         "type": "Point"
       },
       "id": "188902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188924",
+        "title": "隆恩",
+        "address": "台中市西屯區大墩十八街116號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.647941769237,
+          24.1581148350323
+        ],
+        "type": "Point"
+      },
+      "id": "188924"
     },
     {
       "type": "Feature",
