@@ -18416,6 +18416,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4455",
+        "title": "員林鐵站店",
+        "address": "彰化縣員林市民權街５５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.570092,
+          23.959361
+        ],
+        "type": "Point"
+      },
+      "id": "4455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4456",
         "title": "蘆竹華麗店",
         "address": "桃園市蘆竹區大新路８１８、８２０號",
@@ -18820,6 +18837,23 @@
         "type": "Point"
       },
       "id": "4495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4506",
+        "title": "后里花博店",
+        "address": "台中市后里區寺山路４１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.736246,
+          24.298421
+        ],
+        "type": "Point"
+      },
+      "id": "4506"
     },
     {
       "type": "Feature",
