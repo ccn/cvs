@@ -25131,23 +25131,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149099",
-        "title": "新民享",
-        "address": "新北市中和區民享街91號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.474391,
-          25.001471
-        ],
-        "type": "Point"
-      },
-      "id": "149099"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149103",
         "title": "福康",
         "address": "台中市西屯區福林里福康路33號",
@@ -44596,6 +44579,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "180001",
+        "title": "環埔",
+        "address": "桃園市中壢區領航北路一段281號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.200719,
+          25.006441
+        ],
+        "type": "Point"
+      },
+      "id": "180001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180023",
         "title": "嘉林",
         "address": "嘉義市東區林森東路950號",
@@ -49050,6 +49050,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184209",
+        "title": "正仁",
+        "address": "高雄市新興區中正三路84號1.B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.307475,
+          22.631211
+        ],
+        "type": "Point"
+      },
+      "id": "184209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184210",
         "title": "鼻頭角",
         "address": "新北市瑞芳區鼻頭路227之4號1樓",
@@ -49148,6 +49165,23 @@
         "type": "Point"
       },
       "id": "184416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184519",
+        "title": "員全",
+        "address": "彰化縣埔心鄉員林大道七段22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.561811,
+          23.958235
+        ],
+        "type": "Point"
+      },
+      "id": "184519"
     },
     {
       "type": "Feature",
@@ -51868,6 +51902,23 @@
         "type": "Point"
       },
       "id": "186375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186386",
+        "title": "新民享",
+        "address": "新北市中和區民享街91號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.474391,
+          25.001471
+        ],
+        "type": "Point"
+      },
+      "id": "186386"
     },
     {
       "type": "Feature",
