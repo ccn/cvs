@@ -48982,6 +48982,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183996",
+        "title": "瑞景",
+        "address": "台北市內湖區瑞光路583巷30號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.568339,
+          25.080753
+        ],
+        "type": "Point"
+      },
+      "id": "183996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184092",
         "title": "駁藝",
         "address": "高雄市鹽埕區大勇路29號",
