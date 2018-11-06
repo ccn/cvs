@@ -5553,25 +5553,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012412",
-        "title": "全家長林店",
-        "address": "台北市中山區林森北路107巷54號",
-        "post": "104",
-        "all": "WiFi,Rest,veg,SharePot,SUNMAI,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.526742,
-          25.049799
-        ],
-        "type": "Point"
-      },
-      "id": "012412"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012413",
         "title": "全家汐止亞太二店",
         "address": "新北市汐止區新台五路一段82至116號、Ｄ8—2號",
@@ -56150,25 +56131,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017390",
-        "title": "全家新晴店",
-        "address": "台北市中山區農安街4-1號",
-        "post": "104",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52306,
-          25.064891
-        ],
-        "type": "Point"
-      },
-      "id": "017390"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017392",
         "title": "全家汐止和平店",
         "address": "新北市汐止區和平街48號",
@@ -60919,6 +60881,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017699",
+        "title": "全家長林店",
+        "address": "台北市中山區林森北路107巷54號",
+        "post": "104",
+        "all": "WiFi,Rest,veg,SharePot,SUNMAI,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.526742,
+          25.049799
+        ],
+        "type": "Point"
+      },
+      "id": "017699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017700",
         "title": "全家汐止農會店",
         "address": "新北市汐止區中正路106號1樓",
@@ -61124,6 +61105,25 @@
         "type": "Point"
       },
       "id": "017716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017717",
+        "title": "全家中和烘爐店",
+        "address": "新北市中和區興南路二段120號1樓",
+        "post": "235",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.504465,
+          24.983902
+        ],
+        "type": "Point"
+      },
+      "id": "017717"
     },
     {
       "type": "Feature",
@@ -61926,6 +61926,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017770",
+        "title": "全家蘆洲安宅店",
+        "address": "新北市蘆洲區長安街71號1樓",
+        "post": "247",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46264652,
+          25.07995466
+        ],
+        "type": "Point"
+      },
+      "id": "017770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017772",
         "title": "全家瑞芳傑魚坑店",
         "address": "新北市瑞芳區傑魚坑路62號",
@@ -62359,6 +62378,25 @@
         "type": "Point"
       },
       "id": "017810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017811",
+        "title": "全家新晴店",
+        "address": "台北市中山區農安街4-1號",
+        "post": "104",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52306,
+          25.064891
+        ],
+        "type": "Point"
+      },
+      "id": "017811"
     },
     {
       "type": "Feature",
