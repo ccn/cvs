@@ -8403,23 +8403,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "122717",
-        "title": "遊園",
-        "address": "台中市大肚區遊園路二段146號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.58039,
-          24.17195
-        ],
-        "type": "Point"
-      },
-      "id": "122717"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "122728",
         "title": "宮前",
         "address": "嘉義縣新港鄉宮前村新民路24鄰252號附1",
@@ -28878,8 +28861,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.28779020268101,
-          24.9991217716447
+          121.287863,
+          25.00917
         ],
         "type": "Point"
       },
@@ -48404,6 +48387,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183365",
+        "title": "英荃",
+        "address": "台中市清水區中山路39.41.43號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.571683,
+          24.260856
+        ],
+        "type": "Point"
+      },
+      "id": "183365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183376",
         "title": "臨海",
         "address": "高雄市鼓山區臨海二路8號",
@@ -55098,6 +55098,23 @@
         "type": "Point"
       },
       "id": "188991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189020",
+        "title": "遊園",
+        "address": "台中市大肚區遊園路二段146號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.58039,
+          24.17195
+        ],
+        "type": "Point"
+      },
+      "id": "189020"
     },
     {
       "type": "Feature",
