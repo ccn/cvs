@@ -48489,6 +48489,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183446",
+        "title": "北雄",
+        "address": "嘉義縣水上鄉粗溪村中山路二段381號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.399222,
+          23.435047
+        ],
+        "type": "Point"
+      },
+      "id": "183446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183457",
         "title": "國盛",
         "address": "花蓮縣花蓮市國民九街56號58號1樓",
