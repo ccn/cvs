@@ -5534,25 +5534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012411",
-        "title": "全家美林店",
-        "address": "台北市中山區新生北路二段62巷38-3號",
-        "post": "104",
-        "all": "COFFEE,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,SUNMAI,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.525868,
-          25.056139
-        ],
-        "type": "Point"
-      },
-      "id": "012411"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012413",
         "title": "全家汐止亞太二店",
         "address": "新北市汐止區新台五路一段82至116號、Ｄ8—2號",
@@ -60805,25 +60786,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017695",
-        "title": "全家新店寶中店",
-        "address": "新北市新店區寶中路77號",
-        "post": "231",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,TANHOU",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.547543,
-          24.980729
-        ],
-        "type": "Point"
-      },
-      "id": "017695"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017696",
         "title": "全家屏東公館店",
         "address": "屏東縣屏東市龍華路178號",
@@ -61314,6 +61276,25 @@
         "type": "Point"
       },
       "id": "017729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017730",
+        "title": "全家美林店",
+        "address": "台北市中山區新生北路二段62巷38-3號",
+        "post": "104",
+        "all": "COFFEE,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,SUNMAI,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525868,
+          25.056139
+        ],
+        "type": "Point"
+      },
+      "id": "017730"
     },
     {
       "type": "Feature",
@@ -61979,6 +61960,25 @@
         "type": "Point"
       },
       "id": "017773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017775",
+        "title": "全家新店寶中店",
+        "address": "新北市新店區寶中路77號",
+        "post": "231",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,TANHOU",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.547543,
+          24.980729
+        ],
+        "type": "Point"
+      },
+      "id": "017775"
     },
     {
       "type": "Feature",
