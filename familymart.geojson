@@ -61565,6 +61565,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017746",
+        "title": "全家梓官蚵仔寮店",
+        "address": "高雄市梓官區漁港二路13號",
+        "post": "826",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.254793,
+          22.727146
+        ],
+        "type": "Point"
+      },
+      "id": "017746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017747",
         "title": "全家桃園御賞店",
         "address": "桃園市桃園區大興西路二段128號1樓",
@@ -62150,6 +62169,25 @@
         "type": "Point"
       },
       "id": "017788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017790",
+        "title": "全家萬明店",
+        "address": "台北市萬華區漢口街二段67之2號1樓",
+        "post": "108",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.50551,
+          25.046114
+        ],
+        "type": "Point"
+      },
+      "id": "017790"
     },
     {
       "type": "Feature",
