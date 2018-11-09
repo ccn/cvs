@@ -49016,6 +49016,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184036",
+        "title": "善良",
+        "address": "台南市善化區中正路385號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.293927,
+          23.127722
+        ],
+        "type": "Point"
+      },
+      "id": "184036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184092",
         "title": "駁藝",
         "address": "高雄市鹽埕區大勇路29號",
@@ -56071,23 +56088,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190167",
-        "title": "德享",
-        "address": "桃園市平鎮區南勢里14鄰中豐路南勢二段377號379號381號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.211611,
-          24.909571
-        ],
-        "type": "Point"
-      },
-      "id": "190167"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190189",
         "title": "動物園",
         "address": "台北市文山區新光路2段30號1樓",
@@ -56747,6 +56747,23 @@
         "type": "Point"
       },
       "id": "190673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190710",
+        "title": "德享",
+        "address": "桃園市平鎮區南勢里14鄰中豐路南勢二段377號379號381號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.211611,
+          24.909571
+        ],
+        "type": "Point"
+      },
+      "id": "190710"
     },
     {
       "type": "Feature",
