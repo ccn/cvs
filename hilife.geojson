@@ -18382,23 +18382,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4451",
-        "title": "北市芮安店",
-        "address": "台北市松山區敦化北路２２２巷５０號及５２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.546943,
-          25.060063
-        ],
-        "type": "Point"
-      },
-      "id": "4451"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4453",
         "title": "三峽隆慶店",
         "address": "新北市三峽區大學路１７號及１９號",
@@ -18854,6 +18837,40 @@
         "type": "Point"
       },
       "id": "4506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4507",
+        "title": "古坑圓滿店",
+        "address": "雲林縣古坑鄉湳子村１鄰湳子２３之３２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.542808,
+          23.655853
+        ],
+        "type": "Point"
+      },
+      "id": "4507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4509",
+        "title": "羅東聖母店",
+        "address": "宜蘭縣羅東鎮中正南路１６０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.772118,
+          24.670818
+        ],
+        "type": "Point"
+      },
+      "id": "4509"
     },
     {
       "type": "Feature",
