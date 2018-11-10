@@ -48353,6 +48353,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183332",
+        "title": "京鑫",
+        "address": "南投縣草屯鎮中正路483號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.702811,
+          23.978593
+        ],
+        "type": "Point"
+      },
+      "id": "183332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183343",
         "title": "進一廠",
         "address": "新竹縣寶山鄉園區三路123號",
