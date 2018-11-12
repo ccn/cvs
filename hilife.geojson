@@ -18365,6 +18365,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4440",
+        "title": "台南采風店",
+        "address": "台南市中西區青年路１９４號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.210406,
+          22.991647
+        ],
+        "type": "Point"
+      },
+      "id": "4440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4450",
         "title": "台中豐富店",
         "address": "台中市南屯區文心南三路３００號３０２號",
