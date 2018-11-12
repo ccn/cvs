@@ -49237,6 +49237,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184427",
+        "title": "東中",
+        "address": "新竹市北區東門街194號1+B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.966879,
+          24.80452
+        ],
+        "type": "Point"
+      },
+      "id": "184427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184519",
         "title": "員全",
         "address": "彰化縣埔心鄉員林大道七段22號",
