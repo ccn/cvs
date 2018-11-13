@@ -16801,23 +16801,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "136451",
-        "title": "東中",
-        "address": "新竹市北區東門街167號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.966905,
-          24.80424
-        ],
-        "type": "Point"
-      },
-      "id": "136451"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136495",
         "title": "立國",
         "address": "桃園市桃園區中山東路51號1樓",
@@ -18671,23 +18654,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "138631",
-        "title": "一路發",
-        "address": "台中市清水區鰲峰路580號之15",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.548293,
-          24.264359
-        ],
-        "type": "Point"
-      },
-      "id": "138631"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138642",
         "title": "山興",
         "address": "桃園市龜山區山頂里明興街223號",
@@ -19262,23 +19228,6 @@
         "type": "Point"
       },
       "id": "139173"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "139195",
-        "title": "景鑫",
-        "address": "新北市中和區中正路683號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.484984,
-          24.998085
-        ],
-        "type": "Point"
-      },
-      "id": "139195"
     },
     {
       "type": "Feature",
@@ -41264,23 +41213,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171627",
-        "title": "海青",
-        "address": "高雄市鼓山區青海路641號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.276356,
-          22.651706
-        ],
-        "type": "Point"
-      },
-      "id": "171627"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171638",
         "title": "新寶清",
         "address": "台北市松山區南京東路五段334號336號1樓",
@@ -49084,6 +49016,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184140",
+        "title": "北岸",
+        "address": "澎湖縣馬公市西文里新店路359號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.580748,
+          23.563477
+        ],
+        "type": "Point"
+      },
+      "id": "184140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184162",
         "title": "正御",
         "address": "新竹市北區中正路309號1+B1樓",
@@ -51851,6 +51800,23 @@
         "type": "Point"
       },
       "id": "186250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186261",
+        "title": "一路發",
+        "address": "台中市清水區鰲峰路580號之15",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.548293,
+          24.264359
+        ],
+        "type": "Point"
+      },
+      "id": "186261"
     },
     {
       "type": "Feature",
@@ -54643,23 +54609,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188636",
-        "title": "南西",
-        "address": "台北市大同區南京西路296號298號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.513754,
-          25.053845
-        ],
-        "type": "Point"
-      },
-      "id": "188636"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188647",
         "title": "合生",
         "address": "屏東縣潮州鎮中正路1號",
@@ -55018,7 +54967,7 @@
       "type": "Feature",
       "properties": {
         "id": "188887",
-        "title": "東耕",
+        "title": "荷韻",
         "address": "台南市白河區河東里9鄰糞箕湖122-135號",
         "marker-color": "#01ac50"
       },
@@ -55064,6 +55013,23 @@
         "type": "Point"
       },
       "id": "188902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188913",
+        "title": "海青",
+        "address": "高雄市鼓山區青海路641號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.276356,
+          22.651706
+        ],
+        "type": "Point"
+      },
+      "id": "188913"
     },
     {
       "type": "Feature",
@@ -55200,6 +55166,23 @@
         "type": "Point"
       },
       "id": "189031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189086",
+        "title": "景鑫",
+        "address": "新北市中和區中正路683號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.484984,
+          24.998085
+        ],
+        "type": "Point"
+      },
+      "id": "189086"
     },
     {
       "type": "Feature",
@@ -56798,6 +56781,23 @@
         "type": "Point"
       },
       "id": "190710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190916",
+        "title": "南西",
+        "address": "台北市大同區南京西路296號298號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.513754,
+          25.053845
+        ],
+        "type": "Point"
+      },
+      "id": "190916"
     },
     {
       "type": "Feature",
