@@ -7168,25 +7168,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012677",
-        "title": "全家樹林德園店",
-        "address": "新北市樹林區八德街600及602號",
-        "post": "238",
-        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.397256849554,
-          24.9703605871428
-        ],
-        "type": "Point"
-      },
-      "id": "012677"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012681",
         "title": "全家台中署醫店",
         "address": "台中市西區三民路一段199號",
@@ -62473,6 +62454,25 @@
         "type": "Point"
       },
       "id": "017829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017830",
+        "title": "全家樹林德園店",
+        "address": "新北市樹林區八德街600及602號",
+        "post": "238",
+        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.397256849554,
+          24.9703605871428
+        ],
+        "type": "Point"
+      },
+      "id": "017830"
     },
     {
       "type": "Feature",
