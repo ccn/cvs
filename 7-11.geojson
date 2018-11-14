@@ -38748,6 +38748,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "167835",
+        "title": "興灣",
+        "address": "台南市永康區南灣里大灣東路63號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.261073,
+          22.998843
+        ],
+        "type": "Point"
+      },
+      "id": "167835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "167846",
         "title": "板維",
         "address": "新北市板橋區四維路345號347號1樓",
@@ -49171,13 +49188,13 @@
       "properties": {
         "id": "184416",
         "title": "凱富",
-        "address": "台北市中正區西園路一段278號1樓",
+        "address": "台北市萬華區西園路一段278號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.499288,
-          25.033843
+          0,
+          0
         ],
         "type": "Point"
       },
