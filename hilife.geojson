@@ -6960,7 +6960,7 @@
       "properties": {
         "id": "3187",
         "title": "竹縣富林店",
-        "address": "新竹縣芎林鄉文德路５１號",
+        "address": "新竹縣芎林鄉文德路５１號及綠獅段７１５-２地號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18837,6 +18837,23 @@
         "type": "Point"
       },
       "id": "4495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4496",
+        "title": "北斗七星店",
+        "address": "彰化縣北斗鎮復興路１４５-１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.527972,
+          23.875623
+        ],
+        "type": "Point"
+      },
+      "id": "4496"
     },
     {
       "type": "Feature",
