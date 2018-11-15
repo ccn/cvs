@@ -47333,6 +47333,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182395",
+        "title": "新彰成",
+        "address": "彰化縣彰化市太平街89號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "182395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182409",
         "title": "權大",
         "address": "台中市西區五權西路一段271號1樓2樓",
@@ -77266,23 +77283,6 @@
         "type": "Point"
       },
       "id": "958691"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "958761",
-        "title": "興灣",
-        "address": "台南市永康區大灣路591號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.261756,
-          23.000576
-        ],
-        "type": "Point"
-      },
-      "id": "958761"
     },
     {
       "type": "Feature",
