@@ -4221,23 +4221,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "116343",
-        "title": "金富多",
-        "address": "桃園市桃園區寶慶路428號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.290483204936,
-          25.0189438408454
-        ],
-        "type": "Point"
-      },
-      "id": "116343"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "116354",
         "title": "玉明",
         "address": "花蓮縣玉里鎮泰昌里中山路2段135號",
@@ -47469,6 +47452,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182524",
+        "title": "毓鄰",
+        "address": "台北市內湖區新湖二硌160號162號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.579607,
+          25.062924
+        ],
+        "type": "Point"
+      },
+      "id": "182524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182546",
         "title": "辰佳",
         "address": "台南市永康區永大路二段11號",
@@ -49210,8 +49210,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.499288,
+          25.033843
         ],
         "type": "Point"
       },
@@ -49471,23 +49471,6 @@
         "type": "Point"
       },
       "id": "184678"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184689",
-        "title": "安一",
-        "address": "基隆市安樂區安一路172及174號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.731893,
-          25.13268
-        ],
-        "type": "Point"
-      },
-      "id": "184689"
     },
     {
       "type": "Feature",
@@ -51936,6 +51919,23 @@
         "type": "Point"
       },
       "id": "186319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186320",
+        "title": "安一",
+        "address": "基隆市安樂區安一路172及174號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.731893,
+          25.13268
+        ],
+        "type": "Point"
+      },
+      "id": "186320"
     },
     {
       "type": "Feature",
@@ -55170,6 +55170,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "189019",
+        "title": "永福",
+        "address": "台南市中西區永福路二段65號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.200701,
+          22.991893
+        ],
+        "type": "Point"
+      },
+      "id": "189019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "189020",
         "title": "遊園",
         "address": "台中市大肚區遊園路二段146號1樓",
@@ -55574,23 +55591,6 @@
         "type": "Point"
       },
       "id": "189639"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "189662",
-        "title": "永福",
-        "address": "台南市中西區永福路二段65號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.200701,
-          22.991893
-        ],
-        "type": "Point"
-      },
-      "id": "189662"
     },
     {
       "type": "Feature",
