@@ -32832,23 +32832,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162483",
-        "title": "總站",
-        "address": "台北市信義區吳興街486號488號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.569502405202,
-          25.0234878532766
-        ],
-        "type": "Point"
-      },
-      "id": "162483"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162542",
         "title": "鶯歌",
         "address": "新北市鶯歌區國慶街139號",
@@ -38047,23 +38030,6 @@
         "type": "Point"
       },
       "id": "167293"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "167307",
-        "title": "德沅",
-        "address": "桃園市八德區介壽路2段455號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.297596,
-          24.94566
-        ],
-        "type": "Point"
-      },
-      "id": "167307"
     },
     {
       "type": "Feature",
@@ -49033,6 +48999,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184106",
+        "title": "龍億",
+        "address": "台中市龍井區沙田路五段143號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.546358,
+          24.196913
+        ],
+        "type": "Point"
+      },
+      "id": "184106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184139",
         "title": "統新",
         "address": "台北市中正區臨沂街27巷10號1樓",
@@ -51974,6 +51957,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186364",
+        "title": "總站",
+        "address": "台北市信義區吳興街486號488號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.569502405202,
+          25.0234878532766
+        ],
+        "type": "Point"
+      },
+      "id": "186364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186375",
         "title": "鳳駿",
         "address": "高雄市鳳山區北門里鳳松路108.110.112號1樓",
@@ -54677,23 +54677,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188669",
-        "title": "新林口",
-        "address": "新北市林口區中正路90號92號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.394314,
-          25.077306
-        ],
-        "type": "Point"
-      },
-      "id": "188669"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188670",
         "title": "順苓",
         "address": "高雄市小港區漢民路381號",
@@ -54758,6 +54741,23 @@
         "type": "Point"
       },
       "id": "188717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188728",
+        "title": "新林口",
+        "address": "新北市林口區中正路90號92號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.394314,
+          25.077306
+        ],
+        "type": "Point"
+      },
+      "id": "188728"
     },
     {
       "type": "Feature",
@@ -55217,6 +55217,23 @@
         "type": "Point"
       },
       "id": "189031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189053",
+        "title": "德沅",
+        "address": "桃園市八德區介壽路2段455號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.297596,
+          24.94566
+        ],
+        "type": "Point"
+      },
+      "id": "189053"
     },
     {
       "type": "Feature",
