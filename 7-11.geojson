@@ -37847,6 +37847,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "167145",
+        "title": "金富多",
+        "address": "桃園市桃園區寶慶路470號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.290173,
+          25.01923
+        ],
+        "type": "Point"
+      },
+      "id": "167145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "167156",
         "title": "金聖",
         "address": "新北市淡水區淡金路四段493號",
@@ -60946,23 +60963,6 @@
         "type": "Point"
       },
       "id": "881009"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "881179",
-        "title": "廣達",
-        "address": "宜蘭縣冬山鄉廣興村廣興路196號198號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.749217,
-          24.67
-        ],
-        "type": "Point"
-      },
-      "id": "881179"
     },
     {
       "type": "Feature",
