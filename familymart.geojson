@@ -62211,25 +62211,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017808",
-        "title": "全家中和連勝店",
-        "address": "新北市中和區連城路231號1樓及2樓",
-        "post": "235",
-        "all": "SWEETPOTATO,Photo,WiFi,Rest,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.494057,
-          24.997415
-        ],
-        "type": "Point"
-      },
-      "id": "017808"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017810",
         "title": "全家番路觸口店",
         "address": "嘉義縣番路鄉觸口村1-10號",
@@ -62530,6 +62511,25 @@
         "type": "Point"
       },
       "id": "017851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017865",
+        "title": "全家中和連勝店",
+        "address": "新北市中和區連城路231號1樓及2樓",
+        "post": "235",
+        "all": "SWEETPOTATO,Photo,WiFi,Rest,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.494057,
+          24.997415
+        ],
+        "type": "Point"
+      },
+      "id": "017865"
     },
     {
       "type": "Feature",
