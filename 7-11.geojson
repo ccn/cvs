@@ -18858,23 +18858,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "138860",
-        "title": "富仟",
-        "address": "新北市三重區五谷王北街139號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.476248,
-          25.052102
-        ],
-        "type": "Point"
-      },
-      "id": "138860"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138871",
         "title": "彌進",
         "address": "高雄市彌陀區彌陀里進學路33號",
@@ -47306,8 +47289,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.541764,
+          24.077317
         ],
         "type": "Point"
       },
@@ -49131,6 +49114,23 @@
         "type": "Point"
       },
       "id": "184210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184265",
+        "title": "彰溪",
+        "address": "彰化縣溪湖鎮彰水路二段臨555號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184265"
     },
     {
       "type": "Feature",
@@ -52055,6 +52055,23 @@
         "type": "Point"
       },
       "id": "186401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186412",
+        "title": "富仟",
+        "address": "新北市三重區五谷王北街139號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.476248,
+          25.052102
+        ],
+        "type": "Point"
+      },
+      "id": "186412"
     },
     {
       "type": "Feature",
