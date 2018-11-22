@@ -18093,6 +18093,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4420",
+        "title": "新竹藍海店",
+        "address": "新竹市北區榮濱路８１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.93078,
+          24.842865
+        ],
+        "type": "Point"
+      },
+      "id": "4420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4421",
         "title": "新社龍騰店",
         "address": "台中市新社區興社街二段３２-５號",
@@ -18854,6 +18871,23 @@
         "type": "Point"
       },
       "id": "4503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4505",
+        "title": "板橋樂群店",
+        "address": "新北市板橋區合宜路２３３號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.446652,
+          24.997791
+        ],
+        "type": "Point"
+      },
+      "id": "4505"
     },
     {
       "type": "Feature",
