@@ -19043,25 +19043,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014478",
-        "title": "全家台南東文店",
-        "address": "臺南市東區東門路三段168號",
-        "post": "701",
-        "all": "SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.233157,
-          22.978179
-        ],
-        "type": "Point"
-      },
-      "id": "014478"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014479",
         "title": "全家高雄建工店",
         "address": "高雄市三民區建元路11號1樓",
@@ -44201,15 +44182,15 @@
       "properties": {
         "id": "016581",
         "title": "全家泰山同興店",
-        "address": "新北市泰山區仁義路220巷8號1樓",
+        "address": "新北市泰山區仁義路220巷2號、8號1樓",
         "post": "243",
         "all": "SWEETPOTATO,Photo,WiFi,icecream,oneice,SharePot,SingleOrigin",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.432788,
-          25.053861
+          121.43286101,
+          25.0538853
         ],
         "type": "Point"
       },
@@ -58715,6 +58696,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017571",
+        "title": "全家台南東文店",
+        "address": "臺南市東區東門路三段168號",
+        "post": "701",
+        "all": "SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.233157,
+          22.978179
+        ],
+        "type": "Point"
+      },
+      "id": "017571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017572",
         "title": "全家三重自強店",
         "address": "新北市三重區自強路三段16號",
@@ -61960,6 +61960,25 @@
         "type": "Point"
       },
       "id": "017790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017791",
+        "title": "全家板橋懷治店",
+        "address": "新北市板橋區民治街117號1樓",
+        "post": "220",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.47834,
+          25.031069
+        ],
+        "type": "Point"
+      },
+      "id": "017791"
     },
     {
       "type": "Feature",
