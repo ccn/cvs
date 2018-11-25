@@ -49237,6 +49237,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184472",
+        "title": "墘運",
+        "address": "台北市內湖區洲子街12號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.575154,
+          25.078233
+        ],
+        "type": "Point"
+      },
+      "id": "184472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184519",
         "title": "員全",
         "address": "彰化縣埔心鄉員林大道七段22號",
@@ -56917,6 +56934,23 @@
         "type": "Point"
       },
       "id": "190938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192543",
+        "title": "廣達",
+        "address": "宜蘭縣冬山鄉廣興路166號168號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.749767,
+          24.670215
+        ],
+        "type": "Point"
+      },
+      "id": "192543"
     },
     {
       "type": "Feature",
