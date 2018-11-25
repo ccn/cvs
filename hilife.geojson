@@ -18943,6 +18943,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4524",
+        "title": "鳳山南訓店",
+        "address": "高雄市鳳山區維武路１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.3677,
+          22.613687
+        ],
+        "type": "Point"
+      },
+      "id": "4524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
