@@ -48183,6 +48183,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183217",
+        "title": "賴厝",
+        "address": "台中市北區漢口路四段102號1樓.地下樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.677556,
+          24.166932
+        ],
+        "type": "Point"
+      },
+      "id": "183217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183239",
         "title": "樂添",
         "address": "基隆市安樂區樂利二街62巷291號2樓292號293號1樓",
@@ -49199,6 +49216,23 @@
         "type": "Point"
       },
       "id": "184298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184357",
+        "title": "后里棧",
+        "address": "台中市后里區馬場路300號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.725133,
+          24.298556
+        ],
+        "type": "Point"
+      },
+      "id": "184357"
     },
     {
       "type": "Feature",
