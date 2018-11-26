@@ -49118,6 +49118,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184232",
+        "title": "星宇",
+        "address": "桃園市桃園區永安路739號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184265",
         "title": "彰溪",
         "address": "彰化縣溪湖鎮彰水路二段臨555號",
@@ -49250,6 +49267,23 @@
         "type": "Point"
       },
       "id": "184472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184494",
+        "title": "成昆",
+        "address": "台北市萬華區成都路68號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.505239,
+          25.042837
+        ],
+        "type": "Point"
+      },
+      "id": "184494"
     },
     {
       "type": "Feature",
