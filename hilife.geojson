@@ -18076,6 +18076,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4418",
+        "title": "士林花好店",
+        "address": "台北市士林區重慶北路四段７８號及８０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.51296,
+          25.082109
+        ],
+        "type": "Point"
+      },
+      "id": "4418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4419",
         "title": "桃園郵驛店",
         "address": "桃園市桃園區中正路１０３號",
