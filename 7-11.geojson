@@ -1639,13 +1639,13 @@
       "properties": {
         "id": "112134",
         "title": "后興",
-        "address": "台中市后里區甲后路742號",
+        "address": "台中市后里區甲后路一段1202號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.708939,
-          24.311232
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -47418,15 +47418,32 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182524",
-        "title": "毓鄰",
-        "address": "台北市內湖區新湖二硌160號162號1樓",
+        "id": "182513",
+        "title": "智慶",
+        "address": "彰化縣大村鄉大智路一段197號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.579607,
-          25.062924
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "182513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182524",
+        "title": "毓鄰",
+        "address": "台北市內湖區新湖二路160號162號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -48421,6 +48438,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183413",
+        "title": "八仙",
+        "address": "新北市八里區中華路2段290號292號296號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.404387,
+          25.148937
+        ],
+        "type": "Point"
+      },
+      "id": "183413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183424",
         "title": "港昌",
         "address": "台中市梧棲區港埠路一段986號",
@@ -49301,23 +49335,6 @@
         "type": "Point"
       },
       "id": "184472"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184494",
-        "title": "成昆",
-        "address": "台北市萬華區成都路68號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.505239,
-          25.042837
-        ],
-        "type": "Point"
-      },
-      "id": "184494"
     },
     {
       "type": "Feature",
