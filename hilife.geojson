@@ -18824,6 +18824,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4488",
+        "title": "屏東太陽城店",
+        "address": "屏東縣屏東市公勇路６２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.485446,
+          22.669066
+        ],
+        "type": "Point"
+      },
+      "id": "4488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4490",
         "title": "太保風鈴店",
         "address": "嘉義縣太保市舊埤里１７鄰新埤５之１８號",
@@ -18956,6 +18973,23 @@
         "type": "Point"
       },
       "id": "4509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4512",
+        "title": "汐止思鄉店",
+        "address": "新北市汐止區樟樹一路１５３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.64246,
+          25.067999
+        ],
+        "type": "Point"
+      },
+      "id": "4512"
     },
     {
       "type": "Feature",
