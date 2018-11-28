@@ -38629,6 +38629,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "167787",
+        "title": "橋和",
+        "address": "新北市中和區橋和路99號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "167787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "167798",
         "title": "趣淘",
         "address": "台南市楠西區密枝里密枝102之5號1樓",
@@ -48763,13 +48780,13 @@
       "properties": {
         "id": "183745",
         "title": "凱利",
-        "address": "桃園市平鎮區延平路3段413號415號417號1樓",
+        "address": "桃園市平鎮區延平路三段413號415號417號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.198926,
-          24.932716
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -49114,6 +49131,23 @@
         "type": "Point"
       },
       "id": "184162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184173",
+        "title": "鵝鑾鼻",
+        "address": "屏東縣恆春鎮鵝鑾里鵝鑾路245.247.249.257號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184173"
     },
     {
       "type": "Feature",
@@ -54660,23 +54694,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188555",
-        "title": "朝天宮",
-        "address": "雲林縣北港鎮東華里中山路150號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.304738,
-          23.567178
-        ],
-        "type": "Point"
-      },
-      "id": "188555"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188566",
         "title": "民生北",
         "address": "桃園市龜山區民生北路一段54號1樓",
@@ -55387,6 +55404,23 @@
         "type": "Point"
       },
       "id": "189086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189226",
+        "title": "朝天宮",
+        "address": "雲林縣北港鎮東華里中山路150號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304738,
+          23.567178
+        ],
+        "type": "Point"
+      },
+      "id": "189226"
     },
     {
       "type": "Feature",
@@ -57053,6 +57087,57 @@
         "type": "Point"
       },
       "id": "192554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192576",
+        "title": "鑫忠孝",
+        "address": "台北市大安區忠孝東路四段313號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.555898,
+          25.041614
+        ],
+        "type": "Point"
+      },
+      "id": "192576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192624",
+        "title": "浮洲",
+        "address": "新北市板橋區大觀路2段38巷22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "192624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192657",
+        "title": "意幼",
+        "address": "新北市新莊區後港一路173號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.432533,
+          25.028349
+        ],
+        "type": "Point"
+      },
+      "id": "192657"
     },
     {
       "type": "Feature",
