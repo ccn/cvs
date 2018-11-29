@@ -29738,6 +29738,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "155485",
+        "title": "樹科",
+        "address": "高雄市燕巢區橫山路90之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "155485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "155496",
         "title": "公岩",
         "address": "台北市北投區公館路259號1樓",
@@ -55323,6 +55340,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188935",
+        "title": "航園",
+        "address": "桃園市大園區中正東路102號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.200747,
+          25.06265
+        ],
+        "type": "Point"
+      },
+      "id": "188935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188946",
         "title": "十八甲",
         "address": "新北市泰山區福興一街87號",
@@ -56600,7 +56634,7 @@
       "properties": {
         "id": "190330",
         "title": "必成",
-        "address": "台北市信義區基隆路1段178號180號1樓",
+        "address": "台北市信義區基隆路一段178號180號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61439,23 +61473,6 @@
         "type": "Point"
       },
       "id": "881951"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "882024",
-        "title": "航園",
-        "address": "桃園市大園區中正東路102號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.200747,
-          25.06265
-        ],
-        "type": "Point"
-      },
-      "id": "882024"
     },
     {
       "type": "Feature",
@@ -89920,7 +89937,7 @@
       "properties": {
         "id": "993041",
         "title": "松高",
-        "address": "台北市信義區基隆路1段141號1樓",
+        "address": "台北市信義區基隆路一段141號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
