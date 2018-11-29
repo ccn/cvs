@@ -5211,25 +5211,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012350",
-        "title": "全家高雄武仁店",
-        "address": "高雄市苓雅區武仁街95號一樓",
-        "post": "802",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.334226,
-          22.62023
-        ],
-        "type": "Point"
-      },
-      "id": "012350"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012355",
         "title": "全家淡水旭陞店",
         "address": "新北市淡水區新生街53號1樓",
@@ -61713,6 +61694,25 @@
         "type": "Point"
       },
       "id": "017781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017782",
+        "title": "全家高雄武仁店",
+        "address": "高雄市苓雅區武仁街95號一樓",
+        "post": "802",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.334226,
+          22.62023
+        ],
+        "type": "Point"
+      },
+      "id": "017782"
     },
     {
       "type": "Feature",
