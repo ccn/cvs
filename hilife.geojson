@@ -7077,23 +7077,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3213",
-        "title": "台中中萊店",
-        "address": "台中市西屯區中清路二段１３８８號、１３９０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.658149796635,
-          24.1960019119648
-        ],
-        "type": "Point"
-      },
-      "id": "3213"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3218",
         "title": "新竹竹湳店",
         "address": "新竹市北區武陵路１２３號",
@@ -8739,23 +8722,6 @@
         "type": "Point"
       },
       "id": "3513"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3515",
-        "title": "宜蘭中道店",
-        "address": "宜蘭縣壯圍鄉功勞村１鄰中央路三段３１２巷７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.793845476665,
-          24.7605538325873
-        ],
-        "type": "Point"
-      },
-      "id": "3515"
     },
     {
       "type": "Feature",
@@ -18854,6 +18820,23 @@
         "type": "Point"
       },
       "id": "4490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4491",
+        "title": "左營典愛店",
+        "address": "高雄市左營區重和路２２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.313814,
+          22.683316
+        ],
+        "type": "Point"
+      },
+      "id": "4491"
     },
     {
       "type": "Feature",
