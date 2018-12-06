@@ -10188,23 +10188,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3722",
-        "title": "宜蘭轉運站店",
-        "address": "宜蘭縣宜蘭市林森路２０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.758659816664,
-          24.750826602094
-        ],
-        "type": "Point"
-      },
-      "id": "3722"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3725",
         "title": "高縣岡本店",
         "address": "高雄市岡山區本洲路５５-４７號",
@@ -18956,6 +18939,23 @@
         "type": "Point"
       },
       "id": "4509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4510",
+        "title": "八里倚天店",
+        "address": "新北市八里區中山路一段３３０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.412855,
+          25.159204
+        ],
+        "type": "Point"
+      },
+      "id": "4510"
     },
     {
       "type": "Feature",
