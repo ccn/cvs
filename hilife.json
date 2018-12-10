@@ -641,7 +641,7 @@
 {"id":"3829","name":"楊梅楊科店","phone":"(03)4812188","latitude":24.9015539728239,"longitude":121.181601587911,"address":"桃園市楊梅區梅獅路二段４４７、４４９號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","recreation"],"City":"桃園市","Town":"楊梅區"}
 {"id":"3830","name":"北市十信店","phone":"(02)28932370","latitude":25.1339175413625,"longitude":121.496451600908,"address":"台北市北投區北投路２段５５號","depository":"","equipment":[],"City":"台北市","Town":"北投區"}
 {"id":"3831","name":"大里光正店","phone":"(04)24916120","latitude":24.0942777932261,"longitude":120.715127579014,"address":"台中市大里區仁化路２４３、２４７號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","recreation","restroom","wifi"],"City":"台中市","Town":"大里區"}
-{"id":"3833","name":"高市海洋店","phone":"(07)3649427","latitude":22.728023818097,"longitude":120.315034950964,"address":"高雄市楠梓區海專路１４２號(國立海洋科技大學)","depository":"常溫","equipment":[],"City":"高雄市","Town":"楠梓區"}
+{"id":"3833","name":"高市海洋店","phone":"(07)3649427","latitude":22.728023818097,"longitude":120.315034950964,"address":"高雄市楠梓區海專路１４２號(國立海洋科技大學)","depository":"","equipment":[],"City":"高雄市","Town":"楠梓區"}
 {"id":"3835","name":"台中大坑口店","phone":"(04)23690642","latitude":24.1704620945671,"longitude":120.698882185877,"address":"台中市北屯區東山路一段３５號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","recreation","restroom","wifi"],"City":"台中市","Town":"北屯區"}
 {"id":"3836","name":"北市湖玉店","phone":"(02)26586383","latitude":25.0734313118924,"longitude":121.574428253416,"address":"台北市內湖區陽光街２９８號一樓部份","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","recreation","wifi"],"City":"台北市","Town":"內湖區"}
 {"id":"3837","name":"苗栗艾文店","phone":"(037)332337","latitude":24.5724754280125,"longitude":120.814769669014,"address":"苗栗縣苗栗市國華路７５０號","depository":"冷凍,冷藏,空調,常溫","equipment":["atm","coffee","photo","recreation","restroom","wifi"],"City":"苗栗縣","Town":"苗栗市"}
@@ -1115,6 +1115,7 @@
 {"id":"4510","name":"八里倚天店","phone":"(02)89794957","latitude":25.159204,"longitude":121.412855,"address":"新北市八里區中山路一段３３０號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"新北市","Town":"八里區"}
 {"id":"4512","name":"汐止思鄉店","phone":"(02)89794958","latitude":25.067999,"longitude":121.64246,"address":"新北市汐止區樟樹一路１５３號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"新北市","Town":"汐止區"}
 {"id":"4524","name":"鳳山南訓店","phone":"(07)2621132","latitude":22.613687,"longitude":120.3677,"address":"高雄市鳳山區維武路１號","depository":"","equipment":[],"City":"高雄市","Town":"鳳山區"}
+{"id":"4525","name":"壯圍中道店","phone":"()","latitude":24.760004,"longitude":121.795278,"address":"宜蘭縣壯圍鄉中央路三段３１２巷７號","depository":"常溫","equipment":[],"City":"宜蘭縣","Town":"壯圍鄉"}
 {"id":"A067","name":"北市社正店","phone":"(02)28163841","latitude":25.08877,"longitude":121.50928,"address":"台北市士林區社正路２７號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","recreation","wifi"],"City":"台北市","Town":"士林區"}
 {"id":"A163","name":"北市社子店","phone":"(02)28161783","latitude":25.087535,"longitude":121.507013,"address":"台北市士林區社子街６３巷２號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","recreation","wifi"],"City":"台北市","Town":"士林區"}
 {"id":"A186","name":"北市懷德店","phone":"(02)28235999","latitude":25.111298,"longitude":121.519234,"address":"台北市北投區懷德街５號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","recreation","wifi"],"City":"台北市","Town":"北投區"}
