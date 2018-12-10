@@ -1605,7 +1605,7 @@
       "properties": {
         "id": "112075",
         "title": "財神",
-        "address": "台南市東區中華東路2段171-177號",
+        "address": "台南市東區中華東路二段171-177號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -1962,7 +1962,7 @@
       "properties": {
         "id": "112503",
         "title": "嘉雅",
-        "address": "嘉義市東區大雅路2段421號1樓",
+        "address": "嘉義市東區大雅路二段421號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6195,7 +6195,7 @@
       "properties": {
         "id": "120386",
         "title": "東森",
-        "address": "台南市北區林森路3段76號78號",
+        "address": "台南市北區林森路三段76號78號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18248,7 +18248,7 @@
       "properties": {
         "id": "138251",
         "title": "淵中",
-        "address": "台南市安南區安中路3段435號437號",
+        "address": "台南市安南區安中路三段435號437號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25439,7 +25439,7 @@
       "properties": {
         "id": "149550",
         "title": "永華東",
-        "address": "台南市安平區永華路2段210號",
+        "address": "台南市安平區永華路二段210號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27921,7 +27921,7 @@
       "properties": {
         "id": "153825",
         "title": "環安",
-        "address": "台南市安南區長和路2段12巷272號",
+        "address": "台南市安南區長和路二段12巷272號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -32528,7 +32528,7 @@
       "properties": {
         "id": "161789",
         "title": "嘉凱",
-        "address": "台南市仁德區保安里保安路1段56巷55號",
+        "address": "台南市仁德區保安里保安路一段56巷55號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -35418,7 +35418,7 @@
       "properties": {
         "id": "165253",
         "title": "歸仁",
-        "address": "台南市歸仁區中山路2段60號",
+        "address": "台南市歸仁區中山路二段60號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36523,7 +36523,7 @@
       "properties": {
         "id": "166061",
         "title": "裕豐",
-        "address": "台南市東區東門路2段291號",
+        "address": "台南市東區東門路二段291號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -39362,7 +39362,7 @@
       "properties": {
         "id": "170185",
         "title": "文南",
-        "address": "台南市南區健康路2段270號",
+        "address": "台南市南區健康路二段270號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42643,7 +42643,7 @@
       "properties": {
         "id": "174567",
         "title": "安學",
-        "address": "台南市安南區南興里12鄰公學路5段685號一樓",
+        "address": "台南市安南區南興里12鄰公學路五段685號一樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42813,7 +42813,7 @@
       "properties": {
         "id": "174693",
         "title": "東發",
-        "address": "台南市東區中華東路3段379號",
+        "address": "台南市東區中華東路三段379號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -47170,8 +47170,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.665877,
+          24.036871
         ],
         "type": "Point"
       },
@@ -47493,8 +47493,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.690211,
+          24.18579
         ],
         "type": "Point"
       },
@@ -48591,6 +48591,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183572",
+        "title": "華興",
+        "address": "台北市文山區木柵路一段284號286號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.554982,
+          24.98799
+        ],
+        "type": "Point"
+      },
+      "id": "183572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183583",
         "title": "湖海",
         "address": "桃園市蘆竹區濱海路一段335號337號1樓",
@@ -49067,6 +49084,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184117",
+        "title": "內成",
+        "address": "宜蘭縣員山鄉員山路二段264號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.698425,
+          24.717009
+        ],
+        "type": "Point"
+      },
+      "id": "184117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184139",
         "title": "統新",
         "address": "台北市中正區臨沂街27巷10號1樓",
@@ -49159,8 +49193,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.517735,
+          24.259211
         ],
         "type": "Point"
       },
@@ -49369,6 +49403,23 @@
         "type": "Point"
       },
       "id": "184472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184494",
+        "title": "成昆",
+        "address": "台北市萬華區成都路68號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.505239,
+          25.042837
+        ],
+        "type": "Point"
+      },
+      "id": "184494"
     },
     {
       "type": "Feature",
@@ -50514,7 +50565,7 @@
       "properties": {
         "id": "185305",
         "title": "大欣",
-        "address": "台南市北區和緯路5段76號",
+        "address": "台南市北區和緯路五段76號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -52367,7 +52418,7 @@
       "properties": {
         "id": "186814",
         "title": "鴻林",
-        "address": "高雄市岡山區仁壽里公園西路3段131號133號",
+        "address": "高雄市岡山區仁壽里公園西路三段131號133號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -54016,7 +54067,7 @@
       "properties": {
         "id": "188061",
         "title": "群創三",
-        "address": "台南市新市區環西路2段2號1樓(群創三廠)",
+        "address": "台南市新市區環西路二段2號1樓(群創三廠)",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -54628,7 +54679,7 @@
       "properties": {
         "id": "188474",
         "title": "富里",
-        "address": "台南市安南區安富里府安路5段154號155號156號",
+        "address": "台南市安南區安富里府安路五段154號155號156號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -55053,7 +55104,7 @@
       "properties": {
         "id": "188784",
         "title": "鼎鑫",
-        "address": "台南市關廟區中山路2段27號1樓",
+        "address": "台南市關廟區中山路二段27號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -57348,7 +57399,7 @@
       "properties": {
         "id": "780827",
         "title": "和順",
-        "address": "台南市安南區安和路5段166號",
+        "address": "台南市安南區安和路五段166號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -57427,23 +57478,6 @@
         "type": "Point"
       },
       "id": "800125"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "801276",
-        "title": "華興",
-        "address": "台北市文山區木柵路一段168號170號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.552137,
-          24.987573
-        ],
-        "type": "Point"
-      },
-      "id": "801276"
     },
     {
       "type": "Feature",
@@ -57586,7 +57620,7 @@
       "properties": {
         "id": "822790",
         "title": "崇明",
-        "address": "台南市東區林森路1段184號",
+        "address": "台南市東區林森路一段184號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -59223,8 +59257,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.623328,
+          24.106232
         ],
         "type": "Point"
       },
@@ -59745,7 +59779,7 @@
       "properties": {
         "id": "865535",
         "title": "北門",
-        "address": "台南市東區北門路1段310號",
+        "address": "台南市東區北門路一段310號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62040,7 +62074,7 @@
       "properties": {
         "id": "883898",
         "title": "本原",
-        "address": "台南市安南區海佃路4段2號",
+        "address": "台南市安南區海佃路四段2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62975,7 +63009,7 @@
       "properties": {
         "id": "891213",
         "title": "德南",
-        "address": "台南市仁德區中正路2段224號",
+        "address": "台南市仁德區中正路二段224號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -67786,7 +67820,7 @@
       "properties": {
         "id": "915203",
         "title": "長榮",
-        "address": "台南市東區長榮路3段139號",
+        "address": "台南市東區長榮路三段139號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -70336,13 +70370,13 @@
       "properties": {
         "id": "930800",
         "title": "湖山",
-        "address": "新竹縣湖口鄉中山路二段489號",
+        "address": "新竹縣湖口鄉中山路三段489號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.054063,
+          24.918835
         ],
         "type": "Point"
       },
@@ -71968,7 +72002,7 @@
       "properties": {
         "id": "940254",
         "title": "怡安",
-        "address": "台南市安南區安和路2段27號之2",
+        "address": "台南市安南區安和路二段27號之2",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -73464,7 +73498,7 @@
       "properties": {
         "id": "944278",
         "title": "康榮",
-        "address": "台南市北區實踐里北門路3段2號",
+        "address": "台南市北區實踐里北門路三段2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -73651,7 +73685,7 @@
       "properties": {
         "id": "944577",
         "title": "本興",
-        "address": "台南市安南區公學路4段180號",
+        "address": "台南市安南區公學路四段180號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -74824,7 +74858,7 @@
       "properties": {
         "id": "950974",
         "title": "立東",
-        "address": "台南市東區東門路3段220號",
+        "address": "台南市東區東門路三段220號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -76490,7 +76524,7 @@
       "properties": {
         "id": "954080",
         "title": "奇蹟",
-        "address": "台南市永康區永大路3段299號",
+        "address": "台南市永康區永大路三段299號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -79346,7 +79380,7 @@
       "properties": {
         "id": "965105",
         "title": "淵安",
-        "address": "台南市安南區海佃路3段163號",
+        "address": "台南市安南區海佃路三段163號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -79924,7 +79958,7 @@
       "properties": {
         "id": "966290",
         "title": "安安",
-        "address": "台南市安南區安明路4段260-70號",
+        "address": "台南市安南區安明路四段260-70號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -80536,7 +80570,7 @@
       "properties": {
         "id": "967318",
         "title": "博元",
-        "address": "嘉義市西區博愛路2段572號",
+        "address": "嘉義市西區博愛路二段572號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -81845,7 +81879,7 @@
       "properties": {
         "id": "970299",
         "title": "柯達",
-        "address": "高雄市美濃區中正路2段819號821號1樓",
+        "address": "高雄市美濃區中正路二段819號821號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -83295,8 +83329,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.52654,
-          25.042476
+          121.526566,
+          25.042442
         ],
         "type": "Point"
       },
@@ -83681,7 +83715,7 @@
       "properties": {
         "id": "973014",
         "title": "新運河",
-        "address": "台南市中西區府前路2段239號1樓",
+        "address": "台南市中西區府前路二段239號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -85500,7 +85534,7 @@
       "properties": {
         "id": "980908",
         "title": "嘉保",
-        "address": "嘉義縣太保市麻寮里北港路2段511號",
+        "address": "嘉義縣太保市麻寮里北港路二段511號",
         "marker-color": "#01ac50"
       },
       "geometry": {
