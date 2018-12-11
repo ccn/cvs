@@ -8206,8 +8206,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.541348281239,
-          25.0625225013172
+          121.5412308374338,
+          25.062551384573
         ],
         "type": "Point"
       },
@@ -8342,8 +8342,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.73993,
-          25.13306
+          121.7399286588955,
+          25.1329980791534
         ],
         "type": "Point"
       },
@@ -17838,6 +17838,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4399",
+        "title": "台中愛萊店",
+        "address": "台中市西屯區中康街２、６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.658537,
+          24.195283
+        ],
+        "type": "Point"
+      },
+      "id": "4399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4401",
         "title": "水上志航店",
         "address": "嘉義縣水上鄉榮典路１-１號(嘉義空軍基地)",
@@ -19007,6 +19024,23 @@
         "type": "Point"
       },
       "id": "4525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4526",
+        "title": "鼓山華泰店",
+        "address": "高雄市鼓山區華榮路５６２號及華泰路２５７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.293588,
+          22.670105
+        ],
+        "type": "Point"
+      },
+      "id": "4526"
     },
     {
       "type": "Feature",
