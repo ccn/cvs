@@ -11405,25 +11405,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013497",
-        "title": "全家后里新中興店",
-        "address": "台中市后里區甲后路一段362號",
-        "post": "421",
-        "all": "COFFEE,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.726259758156,
-          24.3091675879475
-        ],
-        "type": "Point"
-      },
-      "id": "013497"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013498",
         "title": "全家花壇金花店",
         "address": "彰化縣花壇鄉中正路356號壹樓",
@@ -12788,25 +12769,6 @@
         "type": "Point"
       },
       "id": "013696"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "013699",
-        "title": "全家台中福爾摩店",
-        "address": "台中市中區成功路11號",
-        "post": "400",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.685425,
-          24.138452
-        ],
-        "type": "Point"
-      },
-      "id": "013699"
     },
     {
       "type": "Feature",
@@ -27969,25 +27931,6 @@
         "type": "Point"
       },
       "id": "015336"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015342",
-        "title": "全家中和新漳和店",
-        "address": "新北市中和區中和路24號1樓",
-        "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.499715,
-          25.001841
-        ],
-        "type": "Point"
-      },
-      "id": "015342"
     },
     {
       "type": "Feature",
@@ -62306,6 +62249,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017878",
+        "title": "全家台中福爾摩店",
+        "address": "台中市中區成功路11號",
+        "post": "400",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.685425,
+          24.138452
+        ],
+        "type": "Point"
+      },
+      "id": "017878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017880",
         "title": "全家松友店",
         "address": "台北市信義區信義路六段78號",
@@ -62515,6 +62477,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017903",
+        "title": "全家后里新中興店",
+        "address": "台中市后里區甲后路一段362號",
+        "post": "421",
+        "all": "COFFEE,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.726259758156,
+          24.3091675879475
+        ],
+        "type": "Point"
+      },
+      "id": "017903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017906",
         "title": "全家中和新正店",
         "address": "新北市中和區新生街190號1樓",
@@ -62644,6 +62625,25 @@
         "type": "Point"
       },
       "id": "017928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017932",
+        "title": "全家中和新漳和店",
+        "address": "新北市中和區中和路24號1樓",
+        "post": "235",
+        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.499715,
+          25.001841
+        ],
+        "type": "Point"
+      },
+      "id": "017932"
     },
     {
       "type": "Feature",
