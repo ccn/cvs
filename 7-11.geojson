@@ -27547,7 +27547,7 @@
       "properties": {
         "id": "153571",
         "title": "軍建",
-        "address": "台中市北屯區軍福13路198號",
+        "address": "台中市北屯區軍福十三路198號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36931,7 +36931,7 @@
       "properties": {
         "id": "166463",
         "title": "藝德",
-        "address": "桃園市桃園區同德11街98號100號",
+        "address": "桃園市桃園區同德十一街98號100號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -37237,7 +37237,7 @@
       "properties": {
         "id": "166740",
         "title": "澎興",
-        "address": "澎湖縣馬公市興仁里雙掛頭1之2號",
+        "address": "澎湖縣馬公市興仁里雙頭掛1之2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -39005,7 +39005,7 @@
       "properties": {
         "id": "169831",
         "title": "重義",
-        "address": "高雄市鹽埕區五福4路83號",
+        "address": "高雄市鹽埕區五福四路83號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41844,7 +41844,7 @@
       "properties": {
         "id": "173977",
         "title": "小金",
-        "address": "金門縣烈嶼鄉林湖村東林路156號",
+        "address": "金門縣烈嶼鄉林湖村東林街156號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -46774,7 +46774,7 @@
       "properties": {
         "id": "181808",
         "title": "萬運",
-        "address": "台北市萬華區西園硌一段153號地下室",
+        "address": "台北市萬華區西園路一段153號地下室",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -46921,6 +46921,23 @@
         "type": "Point"
       },
       "id": "181934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "181956",
+        "title": "逢科",
+        "address": "台中市西屯區青海路二段556號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.635916,
+          24.176258
+        ],
+        "type": "Point"
+      },
+      "id": "181956"
     },
     {
       "type": "Feature",
@@ -65967,7 +65984,7 @@
       "properties": {
         "id": "905354",
         "title": "興國",
-        "address": "高雄市三民區復興１路176號",
+        "address": "高雄市三民區復興一路176號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -66137,7 +66154,7 @@
       "properties": {
         "id": "906553",
         "title": "正濱",
-        "address": "基隆市中正區豊稔街27號",
+        "address": "基隆市中正區豐稔街27號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -67599,7 +67616,7 @@
       "properties": {
         "id": "913735",
         "title": "上安",
-        "address": "台中市西屯區至善路61路",
+        "address": "台中市西屯區至善路61號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -82559,7 +82576,7 @@
       "properties": {
         "id": "971328",
         "title": "鑫工和",
-        "address": "台中市西屯區協和里工業區38路30號1樓",
+        "address": "台中市西屯區協和里工業區三十八路30號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -85262,7 +85279,7 @@
       "properties": {
         "id": "980322",
         "title": "墩正",
-        "address": "台中市南屯區溝墘里大墩11街330號1樓",
+        "address": "台中市南屯區溝墘里大墩十一街330號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
