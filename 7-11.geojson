@@ -49016,6 +49016,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184047",
+        "title": "正鵬",
+        "address": "新北市新店區中正路688號690號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.534141,
+          24.990194
+        ],
+        "type": "Point"
+      },
+      "id": "184047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184058",
         "title": "合利",
         "address": "桃園市楊梅區楊湖路二段910號912號914號",
