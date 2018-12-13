@@ -44104,25 +44104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016624",
-        "title": "全家三重文興店",
-        "address": "新北市三重區文化南路16號1樓",
-        "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500198,
-          25.061938
-        ],
-        "type": "Point"
-      },
-      "id": "016624"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016626",
         "title": "全家苑裡金世界店",
         "address": "苗栗縣苑裡鎮世界路二段268號",
@@ -62435,6 +62416,25 @@
         "type": "Point"
       },
       "id": "017894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017896",
+        "title": "全家中壢導航店",
+        "address": "桃園市中壢區北園路24號",
+        "post": "320",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.242344,
+          24.980502
+        ],
+        "type": "Point"
+      },
+      "id": "017896"
     },
     {
       "type": "Feature",
