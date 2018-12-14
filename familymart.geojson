@@ -52597,25 +52597,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017234",
-        "title": "全家八德忠誠店",
-        "address": "桃園市八德區忠孝街12號",
-        "post": "334",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,twoice,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.299348,
-          24.960676
-        ],
-        "type": "Point"
-      },
-      "id": "017234"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017235",
         "title": "全家台東豐里店",
         "address": "台東縣台東市中華路三段257號1樓",
@@ -61945,6 +61926,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017855",
+        "title": "全家三重文化店",
+        "address": "新北市三重區文化南路8之4號1樓",
+        "post": "241",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500161,
+          25.062122
+        ],
+        "type": "Point"
+      },
+      "id": "017855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017856",
         "title": "全家興仁店",
         "address": "台北市大安區復興南路一段217號",
@@ -62093,6 +62093,25 @@
         "type": "Point"
       },
       "id": "017868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017869",
+        "title": "全家八德忠誠店",
+        "address": "桃園市八德區忠孝街12號",
+        "post": "334",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,twoice,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.299348,
+          24.960676
+        ],
+        "type": "Point"
+      },
+      "id": "017869"
     },
     {
       "type": "Feature",
@@ -62454,6 +62473,25 @@
         "type": "Point"
       },
       "id": "017898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017900",
+        "title": "全家嘉義藍潭店",
+        "address": "嘉義市東區大雅路二段557號",
+        "post": "600",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.469654,
+          23.477494
+        ],
+        "type": "Point"
+      },
+      "id": "017900"
     },
     {
       "type": "Feature",
