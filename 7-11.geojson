@@ -57380,6 +57380,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192853",
+        "title": "科有",
+        "address": "新竹市東區光復路一段531巷70-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.012237,
+          24.783287
+        ],
+        "type": "Point"
+      },
+      "id": "192853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "780399",
         "title": "中港",
         "address": "新北市新莊區中港路133號",
