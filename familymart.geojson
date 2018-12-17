@@ -58639,25 +58639,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017628",
-        "title": "全家交大研三店",
-        "address": "新竹市東區大學路1001號研三舍",
-        "post": "300",
-        "all": "SWEETPOTATO,twoice,Kantoni,SingleOrigin,SpicyKantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.997314,
-          24.784428
-        ],
-        "type": "Point"
-      },
-      "id": "017628"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017630",
         "title": "全家羅東北城店",
         "address": "宜蘭縣羅東鎮四育路71號",
@@ -62701,6 +62682,25 @@
         "type": "Point"
       },
       "id": "017936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017946",
+        "title": "全家交大新研三店",
+        "address": "新竹市東區大學路1001號研三舍",
+        "post": "302",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.994122,
+          24.784652
+        ],
+        "type": "Point"
+      },
+      "id": "017946"
     },
     {
       "type": "Feature",
