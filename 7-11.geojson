@@ -49390,6 +49390,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184449",
+        "title": "立揚",
+        "address": "桃園市桃園區正光路116號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.295375,
+          24.995612
+        ],
+        "type": "Point"
+      },
+      "id": "184449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184472",
         "title": "墘運",
         "address": "台北市內湖區洲子街12號1樓",
