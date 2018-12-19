@@ -5648,25 +5648,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012502",
-        "title": "全家德林店",
-        "address": "台北市中山區德惠街173號",
-        "post": "104",
-        "all": "SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531905,
-          25.06668
-        ],
-        "type": "Point"
-      },
-      "id": "012502"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012505",
         "title": "全家新店慈濟店",
         "address": "新北市新店區建國路289號B1慈濟醫院大愛美食坊",
@@ -62511,6 +62492,25 @@
         "type": "Point"
       },
       "id": "017906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017907",
+        "title": "全家德林店",
+        "address": "台北市中山區德惠街173號",
+        "post": "104",
+        "all": "SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531905,
+          25.06668
+        ],
+        "type": "Point"
+      },
+      "id": "017907"
     },
     {
       "type": "Feature",
