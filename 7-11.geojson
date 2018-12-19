@@ -25539,23 +25539,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149712",
-        "title": "新科享",
-        "address": "新竹市東區科學園路146號142-1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.011353,
-          24.783216
-        ],
-        "type": "Point"
-      },
-      "id": "149712"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149723",
         "title": "藝寶",
         "address": "新北市新莊區立信三街8號",
@@ -51940,6 +51923,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186205",
+        "title": "新盛",
+        "address": "高雄市前金區草江里七賢二路193號193之1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.295282592417,
+          22.632900509508698
+        ],
+        "type": "Point"
+      },
+      "id": "186205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186216",
         "title": "永勝",
         "address": "台南市永康區六合里中華二路320號1樓",
@@ -58923,23 +58923,6 @@
         "type": "Point"
       },
       "id": "860057"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "860208",
-        "title": "新盛",
-        "address": "高雄市前金區草江里七賢二路193號193之1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.295282592417,
-          22.632900509508698
-        ],
-        "type": "Point"
-      },
-      "id": "860208"
     },
     {
       "type": "Feature",
