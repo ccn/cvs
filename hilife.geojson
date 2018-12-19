@@ -2504,23 +2504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2437",
-        "title": "台中中工店",
-        "address": "台中市南屯區五權西路三段３５０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.606016009991,
-          24.1621309608917
-        ],
-        "type": "Point"
-      },
-      "id": "2437"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2442",
         "title": "北縣商港店",
         "address": "新北市八里區商港路４６、４８號",
@@ -15373,6 +15356,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4215",
+        "title": "金門環島店",
+        "address": "金門縣金湖鎮正義里夏興５-１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.3947005946125,
+          24.4394491850184
+        ],
+        "type": "Point"
+      },
+      "id": "4215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4217",
         "title": "北市羅捷店",
         "address": "台北市大安區羅斯福路三段２９７號一樓",
@@ -17845,8 +17845,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.658537,
-          24.195283
+          120.6586146411261,
+          24.1951307115703
         ],
         "type": "Point"
       },
@@ -18348,6 +18348,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4439",
+        "title": "金門金航店",
+        "address": "金門縣金湖鎮尚義機場２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.368337383635,
+          24.4359080513413
+        ],
+        "type": "Point"
+      },
+      "id": "4439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4440",
         "title": "台南采風店",
         "address": "台南市中西區青年路１９４號",
@@ -18616,6 +18633,23 @@
         "type": "Point"
       },
       "id": "4470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4471",
+        "title": "金門大學店",
+        "address": "金門縣金寧鄉大學路１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.32244592551,
+          24.4482552589019
+        ],
+        "type": "Point"
+      },
+      "id": "4471"
     },
     {
       "type": "Feature",
