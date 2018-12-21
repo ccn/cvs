@@ -12126,23 +12126,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "129844",
-        "title": "美新",
-        "address": "新北市新莊區復興路二段141號143號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.457574,
-          25.044528
-        ],
-        "type": "Point"
-      },
-      "id": "129844"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "130006",
         "title": "楊展",
         "address": "桃園市楊梅區校前路312號316號1樓",
@@ -15267,23 +15250,6 @@
         "type": "Point"
       },
       "id": "132758"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "132769",
-        "title": "喀哩",
-        "address": "台中市烏日區溪南路二段380號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.643435,
-          24.061163
-        ],
-        "type": "Point"
-      },
-      "id": "132769"
     },
     {
       "type": "Feature",
@@ -52280,6 +52246,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186423",
+        "title": "美新",
+        "address": "新北市新莊區復興路二段141號143號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.457574,
+          25.044528
+        ],
+        "type": "Point"
+      },
+      "id": "186423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186456",
         "title": "強泥",
         "address": "高雄市苓雅區自強三路2.6號新光路72.74號",
@@ -55608,6 +55591,23 @@
         "type": "Point"
       },
       "id": "189086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189112",
+        "title": "喀哩",
+        "address": "台中市烏日區溪南路二段380號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.643435,
+          24.061163
+        ],
+        "type": "Point"
+      },
+      "id": "189112"
     },
     {
       "type": "Feature",
@@ -67304,23 +67304,6 @@
         "type": "Point"
       },
       "id": "912798"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "912813",
-        "title": "華院",
-        "address": "台北市南港區研究院路三段234號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.610623,
-          25.03384
-        ],
-        "type": "Point"
-      },
-      "id": "912813"
     },
     {
       "type": "Feature",
