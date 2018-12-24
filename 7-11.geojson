@@ -49390,6 +49390,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184508",
+        "title": "大饌",
+        "address": "台北市士林區大東路35號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525235,
+          25.089475
+        ],
+        "type": "Point"
+      },
+      "id": "184508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184519",
         "title": "員全",
         "address": "彰化縣埔心鄉員林大道七段22號",
@@ -49964,23 +49981,6 @@
         "type": "Point"
       },
       "id": "184922"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184933",
-        "title": "博源",
-        "address": "台北市中正區思源街16號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531095,
-          25.014415
-        ],
-        "type": "Point"
-      },
-      "id": "184933"
     },
     {
       "type": "Feature",
@@ -55612,6 +55612,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "189167",
+        "title": "府城",
+        "address": "台南市安平區永華路二段532號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.17402,
+          22.990939
+        ],
+        "type": "Point"
+      },
+      "id": "189167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "189226",
         "title": "朝天宮",
         "address": "雲林縣北港鎮東華里中山路150號",
@@ -57261,6 +57278,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190743",
+        "title": "博源",
+        "address": "台北市中正區思源街16號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531095,
+          25.014415
+        ],
+        "type": "Point"
+      },
+      "id": "190743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190916",
         "title": "南西",
         "address": "台北市大同區南京西路296號298號1樓",
@@ -57393,6 +57427,40 @@
         "type": "Point"
       },
       "id": "192657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192749",
+        "title": "高雄一",
+        "address": "高雄市三民區建國二路318號B1西側",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302111,
+          22.63962
+        ],
+        "type": "Point"
+      },
+      "id": "192749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192761",
+        "title": "原億",
+        "address": "新北市三重區仁和街95號97號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.497992,
+          25.07403
+        ],
+        "type": "Point"
+      },
+      "id": "192761"
     },
     {
       "type": "Feature",
@@ -61439,23 +61507,6 @@
         "type": "Point"
       },
       "id": "881386"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "881489",
-        "title": "府城",
-        "address": "台南市安平區永華路二段532號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.17402,
-          22.990939
-        ],
-        "type": "Point"
-      },
-      "id": "881489"
     },
     {
       "type": "Feature",
