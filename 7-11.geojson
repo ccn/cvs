@@ -32152,23 +32152,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "161206",
-        "title": "東隆",
-        "address": "屏東縣東港鎮頂中里延平路107號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.448653,
-          22.467673
-        ],
-        "type": "Point"
-      },
-      "id": "161206"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "161217",
         "title": "新劍潭",
         "address": "台北市士林區福港街246號",
@@ -43576,23 +43559,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "177429",
-        "title": "軍總",
-        "address": "台北市中正區汀州路三段129號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.530801376896,
-          25.0163358289325
-        ],
-        "type": "Point"
-      },
-      "id": "177429"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "177430",
         "title": "延慶",
         "address": "高雄市三民區中民里永年街48號50號52號1樓",
@@ -52314,6 +52280,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186504",
+        "title": "東隆",
+        "address": "屏東縣東港鎮頂中里延平路107號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.448653,
+          22.467673
+        ],
+        "type": "Point"
+      },
+      "id": "186504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -55625,6 +55608,23 @@
         "type": "Point"
       },
       "id": "189167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189178",
+        "title": "軍總",
+        "address": "台北市中正區汀州路三段129號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.530801376896,
+          25.0163358289325
+        ],
+        "type": "Point"
+      },
+      "id": "189178"
     },
     {
       "type": "Feature",
