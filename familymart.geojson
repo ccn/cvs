@@ -19442,25 +19442,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014605",
-        "title": "全家潮州車頭店",
-        "address": "屏東縣潮州鎮新生路77號",
-        "post": "920",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.538471,
-          22.549255
-        ],
-        "type": "Point"
-      },
-      "id": "014605"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014611",
         "title": "全家土城德清店",
         "address": "新北市土城區明德路一段103號1樓",
@@ -58483,6 +58464,25 @@
         "type": "Point"
       },
       "id": "017636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017637",
+        "title": "全家潮州車頭店",
+        "address": "屏東縣潮州鎮新生路77號",
+        "post": "920",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.538471,
+          22.549255
+        ],
+        "type": "Point"
+      },
+      "id": "017637"
     },
     {
       "type": "Feature",
