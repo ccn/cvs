@@ -48965,6 +48965,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184070",
+        "title": "永宜",
+        "address": "新北市中和區宜安路118巷22號24號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184092",
         "title": "駁藝",
         "address": "高雄市鹽埕區大勇路29號",
@@ -57393,6 +57410,23 @@
         "type": "Point"
       },
       "id": "192576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192602",
+        "title": "九州",
+        "address": "新北市新莊區五工二路60號62巷1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.460582,
+          25.065794
+        ],
+        "type": "Point"
+      },
+      "id": "192602"
     },
     {
       "type": "Feature",
