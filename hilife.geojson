@@ -19028,6 +19028,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4522",
+        "title": "楊梅梅溪店",
+        "address": "桃園市楊梅區中山北路一段３８８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1589612478504,
+          24.9089300427593
+        ],
+        "type": "Point"
+      },
+      "id": "4522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4524",
         "title": "鳳山南訓店",
         "address": "高雄市鳳山區維武路１號",
