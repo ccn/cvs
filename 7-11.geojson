@@ -4408,23 +4408,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "116701",
-        "title": "福祿",
-        "address": "桃園市蘆竹區五福六路45號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.296997,
-          25.054576
-        ],
-        "type": "Point"
-      },
-      "id": "116701"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "116734",
         "title": "鄭子寮",
         "address": "台南市北區成德里38鄰北成路442號",
@@ -28701,23 +28684,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "154769",
-        "title": "永富",
-        "address": "基隆市七堵區永富路99號101號103號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.71205,
-          25.098388
-        ],
-        "type": "Point"
-      },
-      "id": "154769"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "154792",
         "title": "榮總一",
         "address": "高雄市左營區大中一路386號",
@@ -49254,6 +49220,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184313",
+        "title": "蘆興",
+        "address": "新北市蘆洲區長樂路2之6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46459,
+          25.084282
+        ],
+        "type": "Point"
+      },
+      "id": "184313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184357",
         "title": "后里棧",
         "address": "台中市后里區馬場路300號B1樓",
@@ -55578,6 +55561,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "189064",
+        "title": "新唐",
+        "address": "新竹市東區研新三路4號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.990386993375,
+          24.7795570060566
+        ],
+        "type": "Point"
+      },
+      "id": "189064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189075",
+        "title": "永富",
+        "address": "基隆市七堵區永富路99號101號103號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.71205,
+          25.098388
+        ],
+        "type": "Point"
+      },
+      "id": "189075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "189086",
         "title": "景鑫",
         "address": "新北市中和區中正路683號",
@@ -57495,6 +57512,23 @@
         "type": "Point"
       },
       "id": "192761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192794",
+        "title": "五福",
+        "address": "桃園市蘆竹區五福一路202號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.294327,
+          25.054331
+        ],
+        "type": "Point"
+      },
+      "id": "192794"
     },
     {
       "type": "Feature",
@@ -83777,23 +83811,6 @@
         "type": "Point"
       },
       "id": "972929"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "972985",
-        "title": "新唐",
-        "address": "新竹市東區研新三路4號2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.990386993375,
-          24.7795570060566
-        ],
-        "type": "Point"
-      },
-      "id": "972985"
     },
     {
       "type": "Feature",
