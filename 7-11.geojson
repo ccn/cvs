@@ -17260,23 +17260,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "137096",
-        "title": "天台",
-        "address": "新北市三重區仁德里正義南路13號15號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.497892,
-          25.061661
-        ],
-        "type": "Point"
-      },
-      "id": "137096"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "137100",
         "title": "瑞江",
         "address": "台北市內湖區瑞陽里江南街71巷16弄76號",
@@ -23886,23 +23869,6 @@
         "type": "Point"
       },
       "id": "148063"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "148085",
-        "title": "雅津",
-        "address": "台中市北區天津路二段7號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.673003,
-          24.170193
-        ],
-        "type": "Point"
-      },
-      "id": "148085"
     },
     {
       "type": "Feature",
@@ -44341,23 +44307,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "180067",
-        "title": "行義",
-        "address": "台北市北投區石牌路二段348巷1號3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.525004,
-          25.123024
-        ],
-        "type": "Point"
-      },
-      "id": "180067"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "180089",
         "title": "亮亞",
         "address": "桃園市蘆竹區大福路189號",
@@ -46972,6 +46921,23 @@
         "type": "Point"
       },
       "id": "182236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182258",
+        "title": "復忠",
+        "address": "台北市大安區光復南路98之3號98之5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.557517,
+          25.044105
+        ],
+        "type": "Point"
+      },
+      "id": "182258"
     },
     {
       "type": "Feature",
@@ -52297,6 +52263,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186526",
+        "title": "行義",
+        "address": "台北市北投區石牌路二段348巷1號3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525004,
+          25.123024
+        ],
+        "type": "Point"
+      },
+      "id": "186526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -55625,6 +55608,23 @@
         "type": "Point"
       },
       "id": "189112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189123",
+        "title": "天台",
+        "address": "新北市三重區仁德里正義南路13號15號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.497892,
+          25.061661
+        ],
+        "type": "Point"
+      },
+      "id": "189123"
     },
     {
       "type": "Feature",
