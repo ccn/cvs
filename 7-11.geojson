@@ -17175,23 +17175,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "137029",
-        "title": "新泰順",
-        "address": "台北市大安區泰順街13號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531544,
-          25.025102
-        ],
-        "type": "Point"
-      },
-      "id": "137029"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "137030",
         "title": "新竹民",
         "address": "新竹市東區民族路114號116號1樓",
@@ -23686,23 +23669,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "147369",
-        "title": "世貿",
-        "address": "桃園市桃園區中正路1087號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.297951,
-          25.016886
-        ],
-        "type": "Point"
-      },
-      "id": "147369"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "147440",
         "title": "重華",
         "address": "新北市三重區五華街181號185號1樓",
@@ -26385,23 +26351,6 @@
         "type": "Point"
       },
       "id": "151531"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "151542",
-        "title": "聰明",
-        "address": "台北市松山區寶清街34號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.567732,
-          25.052698
-        ],
-        "type": "Point"
-      },
-      "id": "151542"
     },
     {
       "type": "Feature",
@@ -35892,23 +35841,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "165714",
-        "title": "彰美",
-        "address": "彰化縣和美鎮彰美路三段385號387號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.51738,
-          24.102642
-        ],
-        "type": "Point"
-      },
-      "id": "165714"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "165725",
         "title": "立言",
         "address": "新北市中和區中正路872號",
@@ -37656,23 +37588,6 @@
         "type": "Point"
       },
       "id": "167167"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "167189",
-        "title": "真親切",
-        "address": "新北市新店區中央路212號214號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.529886,
-          24.9735
-        ],
-        "type": "Point"
-      },
-      "id": "167189"
     },
     {
       "type": "Feature",
@@ -48904,8 +48819,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.510941,
+          24.998657
         ],
         "type": "Point"
       },
@@ -52042,6 +51957,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186331",
+        "title": "聰明",
+        "address": "台北市松山區寶清街34號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567732,
+          25.052698
+        ],
+        "type": "Point"
+      },
+      "id": "186331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186342",
         "title": "添丁",
         "address": "新北市永和區永貞路365號367號1樓",
@@ -52191,6 +52123,23 @@
         "type": "Point"
       },
       "id": "186423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186434",
+        "title": "新泰順",
+        "address": "台北市大安區泰順街13號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531544,
+          25.025102
+        ],
+        "type": "Point"
+      },
+      "id": "186434"
     },
     {
       "type": "Feature",
@@ -55629,6 +55578,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "189145",
+        "title": "彰美",
+        "address": "彰化縣和美鎮彰美路三段385號387號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.51738,
+          24.102642
+        ],
+        "type": "Point"
+      },
+      "id": "189145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "189167",
         "title": "府城",
         "address": "台南市安平區永華路二段532號",
@@ -57312,6 +57278,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190732",
+        "title": "俊友",
+        "address": "新竹市東區林森路81號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.967353,
+          24.800866
+        ],
+        "type": "Point"
+      },
+      "id": "190732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190743",
         "title": "博源",
         "address": "台北市中正區思源街16號",
@@ -57325,6 +57308,23 @@
         "type": "Point"
       },
       "id": "190743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190765",
+        "title": "真親切",
+        "address": "新北市新店區中央路212號214號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.529886,
+          24.9735
+        ],
+        "type": "Point"
+      },
+      "id": "190765"
     },
     {
       "type": "Feature",
@@ -62323,23 +62323,6 @@
         "type": "Point"
       },
       "id": "885609"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "885621",
-        "title": "俊友",
-        "address": "新竹市東區林森路81號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.967353,
-          24.800866
-        ],
-        "type": "Point"
-      },
-      "id": "885621"
     },
     {
       "type": "Feature",
@@ -70891,23 +70874,6 @@
         "type": "Point"
       },
       "id": "931652"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "931674",
-        "title": "綠松",
-        "address": "雲林縣虎尾鎮博愛路47-6號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.436637,
-          23.714186
-        ],
-        "type": "Point"
-      },
-      "id": "931674"
     },
     {
       "type": "Feature",
