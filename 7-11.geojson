@@ -29670,6 +29670,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "155636",
+        "title": "亞醫二",
+        "address": "新北市板橋區南雅南路二段21號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.452772,
+          24.997265
+        ],
+        "type": "Point"
+      },
+      "id": "155636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "155647",
         "title": "千甲",
         "address": "新竹市東區千甲路235號",
@@ -32658,23 +32675,6 @@
         "type": "Point"
       },
       "id": "162748"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "162782",
-        "title": "航廈",
-        "address": "桃園市大園區航站南路9號B2",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.23312016512,
-          25.077051044182
-        ],
-        "type": "Point"
-      },
-      "id": "162782"
     },
     {
       "type": "Feature",
@@ -44936,6 +44936,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "180551",
+        "title": "港務",
+        "address": "台中市梧棲區中和里15鄰中橫一路12號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.523768,
+          24.257648
+        ],
+        "type": "Point"
+      },
+      "id": "180551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180573",
         "title": "國力",
         "address": "桃園市桃園區國際路二段426號428號1樓",
@@ -46870,6 +46887,23 @@
         "type": "Point"
       },
       "id": "182269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182270",
+        "title": "鑫德",
+        "address": "台中市太平區新興路85-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.710417,
+          24.158999
+        ],
+        "type": "Point"
+      },
+      "id": "182270"
     },
     {
       "type": "Feature",
@@ -48829,6 +48863,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184081",
+        "title": "亞新灣",
+        "address": "高雄市前鎮區林森四路255號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.305213,
+          22.610348
+        ],
+        "type": "Point"
+      },
+      "id": "184081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184092",
         "title": "駁藝",
         "address": "高雄市鹽埕區大勇路29號",
@@ -49033,6 +49084,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184254",
+        "title": "雅津",
+        "address": "台中市北區天津路二段9號.11號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.672987,
+          24.170204
+        ],
+        "type": "Point"
+      },
+      "id": "184254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184265",
         "title": "彰溪",
         "address": "彰化縣溪湖鎮彰水路二段臨555號",
@@ -49131,6 +49199,23 @@
         "type": "Point"
       },
       "id": "184357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184380",
+        "title": "虎欣",
+        "address": "雲林縣虎尾鎮林森路一段287.289.291號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.437574,
+          23.713237
+        ],
+        "type": "Point"
+      },
+      "id": "184380"
     },
     {
       "type": "Feature",
@@ -52225,6 +52310,23 @@
         "type": "Point"
       },
       "id": "186526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186537",
+        "title": "敦頂",
+        "address": "台北市大安區忠孝東路四段101巷7號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.548128,
+          25.04213
+        ],
+        "type": "Point"
+      },
+      "id": "186537"
     },
     {
       "type": "Feature",
@@ -57482,6 +57584,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192705",
+        "title": "金鑫",
+        "address": "新竹市東區金城一路50-9號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.004523,
+          24.795049
+        ],
+        "type": "Point"
+      },
+      "id": "192705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192749",
         "title": "高雄一",
         "address": "高雄市三民區建國二路318號B1西側",
@@ -57546,6 +57665,40 @@
         "type": "Point"
       },
       "id": "192853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192989",
+        "title": "雲梯",
+        "address": "嘉義縣梅山鄉太平村下坑仔5.6.7號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.600139,
+          23.559485
+        ],
+        "type": "Point"
+      },
+      "id": "192989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193029",
+        "title": "美麗島",
+        "address": "高雄市新興區中山一路115號(美麗島站內)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.301312,
+          22.631532
+        ],
+        "type": "Point"
+      },
+      "id": "193029"
     },
     {
       "type": "Feature",
@@ -62068,23 +62221,6 @@
         "type": "Point"
       },
       "id": "883278"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "883304",
-        "title": "敦頂",
-        "address": "台北市大安區忠孝東路四段101巷7號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.548128,
-          25.04213
-        ],
-        "type": "Point"
-      },
-      "id": "883304"
     },
     {
       "type": "Feature",
