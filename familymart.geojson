@@ -33179,25 +33179,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015891",
-        "title": "全家陽大店",
-        "address": "台北市北投區立農街二段155號1樓",
-        "post": "112",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,muffin,SharePot,Kantoni,SpicyKantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.513305,
-          25.119675
-        ],
-        "type": "Point"
-      },
-      "id": "015891"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015892",
         "title": "全家金園店",
         "address": "臺北市萬華區西園路二段140巷42號",
@@ -62454,6 +62435,25 @@
         "type": "Point"
       },
       "id": "017939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017940",
+        "title": "全家新光醫院店",
+        "address": "台北市士林區文昌路95號地下三層",
+        "post": "111",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.520296,
+          25.096316
+        ],
+        "type": "Point"
+      },
+      "id": "017940"
     },
     {
       "type": "Feature",
