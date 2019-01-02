@@ -57669,6 +57669,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192978",
+        "title": "長安營",
+        "address": "台南市仁德區保仁路195號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.220292,
+          22.959603
+        ],
+        "type": "Point"
+      },
+      "id": "192978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192989",
         "title": "雲梯",
         "address": "嘉義縣梅山鄉太平村下坑仔5.6.7號",
