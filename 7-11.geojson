@@ -57584,6 +57584,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192680",
+        "title": "本鈿",
+        "address": "彰化縣花壇鄉文德村彰員路二段臨1138號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "192680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192705",
         "title": "金鑫",
         "address": "新竹市東區金城一路50-9號",
@@ -61411,13 +61428,13 @@
       "properties": {
         "id": "880073",
         "title": "太魯閣",
-        "address": "花蓮縣秀林鄉富世村富世路150號152-1號",
+        "address": "花蓮縣秀林鄉富世村富世路152號152-1號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.625846,
-          24.151315
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -83152,23 +83169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "971638",
-        "title": "本鈿",
-        "address": "彰化縣花壇鄉彰員路二段1208號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.547224,
-          24.042712
-        ],
-        "type": "Point"
-      },
-      "id": "971638"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "971672",
         "title": "鑫太原",
         "address": "台北市大同區太原路40號42號44號",
@@ -87738,23 +87738,6 @@
         "type": "Point"
       },
       "id": "989422"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "990019",
-        "title": "睿豐",
-        "address": "台東縣台東市知本里知本路三段7號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.056903,
-          22.705976
-        ],
-        "type": "Point"
-      },
-      "id": "990019"
     },
     {
       "type": "Feature",
