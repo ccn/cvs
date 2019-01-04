@@ -62097,6 +62097,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017913",
+        "title": "全家台中白金店",
+        "address": "台中市西屯區工業區一路70號",
+        "post": "407",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.614223,
+          24.177389
+        ],
+        "type": "Point"
+      },
+      "id": "017913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017915",
+        "title": "全家南投老家店",
+        "address": "南投縣南投市南崗一路28號",
+        "post": "540",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.684379,
+          23.900691
+        ],
+        "type": "Point"
+      },
+      "id": "017915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017921",
         "title": "全家桃園鶴岡店",
         "address": "桃園市桃園區大興西路二段139巷77號",
@@ -62416,6 +62454,44 @@
         "type": "Point"
       },
       "id": "017940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017941",
+        "title": "全家台中五權一店",
+        "address": "台中市北區五權路356號1樓",
+        "post": "404",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.680846,
+          24.152407
+        ],
+        "type": "Point"
+      },
+      "id": "017941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017943",
+        "title": "全家梧棲海星星店",
+        "address": "台中市梧棲區八德路一段2號",
+        "post": "435",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.53334882,
+          24.26426564
+        ],
+        "type": "Point"
+      },
+      "id": "017943"
     },
     {
       "type": "Feature",
