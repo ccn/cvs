@@ -24043,23 +24043,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "148270",
-        "title": "龍運",
-        "address": "桃園市龍潭區中正路105號1樓及107巷1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.215873150143,
-          24.8680853145569
-        ],
-        "type": "Point"
-      },
-      "id": "148270"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "148281",
         "title": "康葫",
         "address": "台北市內湖區民權東路六段296巷3號1樓",
@@ -57414,6 +57397,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190754",
+        "title": "龍運",
+        "address": "桃園市龍潭區中正路105號1樓及107巷1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.215873150143,
+          24.8680853145569
+        ],
+        "type": "Point"
+      },
+      "id": "190754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190765",
         "title": "真親切",
         "address": "新北市新店區中央路212號214號",
@@ -57591,8 +57591,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.547368,
+          24.041429
         ],
         "type": "Point"
       },
@@ -57648,6 +57648,23 @@
         "type": "Point"
       },
       "id": "192761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192772",
+        "title": "光尚",
+        "address": "高雄市苓雅區光華一路226號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.31366,
+          22.629506
+        ],
+        "type": "Point"
+      },
+      "id": "192772"
     },
     {
       "type": "Feature",
@@ -57727,8 +57744,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.301312,
-          22.631532
+          120.302303,
+          22.630895
         ],
         "type": "Point"
       },
