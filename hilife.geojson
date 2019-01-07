@@ -19028,6 +19028,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4516",
+        "title": "梧棲向上店",
+        "address": "台中市梧棲區向上路八段９６７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.528416,
+          24.221845
+        ],
+        "type": "Point"
+      },
+      "id": "4516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4522",
         "title": "楊梅梅溪店",
         "address": "桃園市楊梅區中山北路一段３８８號",
