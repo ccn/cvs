@@ -19980,23 +19980,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141486",
-        "title": "領航",
-        "address": "桃園市中壢區領航北路二段239號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.205245,
-          25.010353
-        ],
-        "type": "Point"
-      },
-      "id": "141486"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141501",
         "title": "香湖",
         "address": "嘉義市西區香湖里文化路8鄰700號",
@@ -20350,23 +20333,6 @@
         "type": "Point"
       },
       "id": "141811"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "141822",
-        "title": "重樂",
-        "address": "新北市三重區三信路196號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.487197,
-          25.085472
-        ],
-        "type": "Point"
-      },
-      "id": "141822"
     },
     {
       "type": "Feature",
@@ -34205,23 +34171,6 @@
         "type": "Point"
       },
       "id": "164559"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "164560",
-        "title": "新龍壽",
-        "address": "桃園市桃園區龍壽街20號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.269657,
-          24.978398
-        ],
-        "type": "Point"
-      },
-      "id": "164560"
     },
     {
       "type": "Feature",
@@ -55629,6 +55578,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "189101",
+        "title": "新龍壽",
+        "address": "桃園市桃園區龍壽街20號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.269657,
+          24.978398
+        ],
+        "type": "Point"
+      },
+      "id": "189101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "189112",
         "title": "喀哩",
         "address": "台中市烏日區溪南路二段380號1樓",
@@ -55676,6 +55642,23 @@
         "type": "Point"
       },
       "id": "189145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189156",
+        "title": "領航",
+        "address": "桃園市中壢區領航北路二段239號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.205245,
+          25.010353
+        ],
+        "type": "Point"
+      },
+      "id": "189156"
     },
     {
       "type": "Feature",
@@ -57431,6 +57414,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190802",
+        "title": "重樂",
+        "address": "新北市三重區三信路196號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.487197,
+          25.085472
+        ],
+        "type": "Point"
+      },
+      "id": "190802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190916",
         "title": "南西",
         "address": "台北市大同區南京西路296號298號1樓",
@@ -57669,6 +57669,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192783",
+        "title": "唯勝",
+        "address": "台南市中西區民權路三段150號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.19616,
+          22.997338
+        ],
+        "type": "Point"
+      },
+      "id": "192783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192794",
         "title": "五福",
         "address": "桃園市蘆竹區五福一路202號1樓",
@@ -57682,6 +57699,23 @@
         "type": "Point"
       },
       "id": "192794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192842",
+        "title": "后旺",
+        "address": "台中市后里區甲后路二段742號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.688056,
+          24.31477
+        ],
+        "type": "Point"
+      },
+      "id": "192842"
     },
     {
       "type": "Feature",
@@ -59609,7 +59643,7 @@
       "properties": {
         "id": "863447",
         "title": "鼎好",
-        "address": "台中市烏日區中山路三段289號",
+        "address": "台中市烏日區中山路二段289號",
         "marker-color": "#01ac50"
       },
       "geometry": {
