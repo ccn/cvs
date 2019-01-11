@@ -17107,23 +17107,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "136956",
-        "title": "新清水",
-        "address": "台中市清水區五權路16號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.570654,
-          24.276218
-        ],
-        "type": "Point"
-      },
-      "id": "136956"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136967",
         "title": "中泰",
         "address": "新北市新莊區中港一街10號10-1號",
@@ -23733,23 +23716,6 @@
         "type": "Point"
       },
       "id": "147989"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "148007",
-        "title": "德偉",
-        "address": "新北市中和區中興街162號164號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.499828,
-          24.991505
-        ],
-        "type": "Point"
-      },
-      "id": "148007"
     },
     {
       "type": "Feature",
@@ -49594,23 +49560,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184690",
-        "title": "康喜",
-        "address": "台北市文山區興隆路三段42號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.555654,
-          25.000271
-        ],
-        "type": "Point"
-      },
-      "id": "184690"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184715",
         "title": "聖保祿",
         "address": "桃園市桃園區福安里建新街68號",
@@ -57499,6 +57448,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190787",
+        "title": "新清水",
+        "address": "台中市清水區五權路16號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.570654,
+          24.276218
+        ],
+        "type": "Point"
+      },
+      "id": "190787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190802",
         "title": "重樂",
         "address": "新北市三重區三信路196號1樓",
@@ -57886,6 +57852,40 @@
         "type": "Point"
       },
       "id": "194136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200550",
+        "title": "德偉",
+        "address": "新北市中和區中興街162號164號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.499828,
+          24.991505
+        ],
+        "type": "Point"
+      },
+      "id": "200550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200561",
+        "title": "康喜",
+        "address": "台北市文山區興隆路三段42號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.555654,
+          25.000271
+        ],
+        "type": "Point"
+      },
+      "id": "200561"
     },
     {
       "type": "Feature",
@@ -61586,8 +61586,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.625715,
+          24.151477
         ],
         "type": "Point"
       },
