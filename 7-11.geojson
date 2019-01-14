@@ -43168,23 +43168,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "177245",
-        "title": "三洋",
-        "address": "新北市新莊區中正路677號679號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.426334,
-          25.029829
-        ],
-        "type": "Point"
-      },
-      "id": "177245"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "177256",
         "title": "藍昌",
         "address": "高雄市楠梓區後昌路1187號1189號",
@@ -55731,6 +55714,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "189189",
+        "title": "三洋",
+        "address": "新北市新莊區中正路677號679號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.426334,
+          25.029829
+        ],
+        "type": "Point"
+      },
+      "id": "189189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "189226",
         "title": "朝天宮",
         "address": "雲林縣北港鎮東華里中山路150號",
@@ -57652,6 +57652,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192691",
+        "title": "樂有",
+        "address": "彰化縣埔鹽鄉大有村員鹿路三段臨139號之9",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.448618,
+          24.017949
+        ],
+        "type": "Point"
+      },
+      "id": "192691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192705",
         "title": "金鑫",
         "address": "新竹市東區金城一路50-9號",
@@ -57835,6 +57852,23 @@
         "type": "Point"
       },
       "id": "193029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194033",
+        "title": "鑫大立(臨)",
+        "address": "台中市南屯區精科路11號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.60389,
+          24.14745
+        ],
+        "type": "Point"
+      },
+      "id": "194033"
     },
     {
       "type": "Feature",
