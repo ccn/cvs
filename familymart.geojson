@@ -56644,25 +56644,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017571",
-        "title": "全家台南東文店",
-        "address": "臺南市東區東門路三段168號",
-        "post": "701",
-        "all": "SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.233157,
-          22.978179
-        ],
-        "type": "Point"
-      },
-      "id": "017571"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017572",
         "title": "全家三重自強店",
         "address": "新北市三重區自強路三段16號",
@@ -61166,25 +61147,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017878",
-        "title": "全家台中福爾摩店",
-        "address": "台中市中區成功路11號",
-        "post": "400",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.685425,
-          24.138452
-        ],
-        "type": "Point"
-      },
-      "id": "017878"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017879",
         "title": "全家興仁店",
         "address": "台北市大安區復興南路一段217號",
@@ -62211,25 +62173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017945",
-        "title": "全家永康五福店",
-        "address": "台南市永康區中華路508號",
-        "post": "710",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,COFFEEDeliver,SharePot,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.231722,
-          23.012332
-        ],
-        "type": "Point"
-      },
-      "id": "017945"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017946",
         "title": "全家交大新研三店",
         "address": "新竹市東區大學路1001號研三舍",
@@ -62933,6 +62876,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017997",
+        "title": "全家永康五福店",
+        "address": "台南市永康區中華路508號",
+        "post": "710",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,COFFEEDeliver,SharePot,Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.231722,
+          23.012332
+        ],
+        "type": "Point"
+      },
+      "id": "017997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017998",
         "title": "全家潭子矽品店",
         "address": "台中市潭子區中山路三段153號1樓（矽品中山廠）",
@@ -63252,6 +63214,25 @@
         "type": "Point"
       },
       "id": "018044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018071",
+        "title": "全家台南東文店",
+        "address": "臺南市東區東門路三段168號",
+        "post": "701",
+        "all": "SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.233157,
+          22.978179
+        ],
+        "type": "Point"
+      },
+      "id": "018071"
     },
     {
       "type": "Feature",
