@@ -56904,23 +56904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190374",
-        "title": "宏亞",
-        "address": "桃園市桃園區中平路102號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.292867,
-          24.987222
-        ],
-        "type": "Point"
-      },
-      "id": "190374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190385",
         "title": "鎮豐",
         "address": "桃園市平鎮區南豐路99號",
@@ -57444,6 +57427,23 @@
         "type": "Point"
       },
       "id": "190765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190776",
+        "title": "宏亞",
+        "address": "桃園市桃園區中平路102號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.292867,
+          24.987222
+        ],
+        "type": "Point"
+      },
+      "id": "190776"
     },
     {
       "type": "Feature",
