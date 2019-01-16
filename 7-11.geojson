@@ -47690,6 +47690,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182993",
+        "title": "宗聖",
+        "address": "雲林縣北港鎮大同路511-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.29307,
+          23.574294
+        ],
+        "type": "Point"
+      },
+      "id": "182993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183011",
         "title": "京城",
         "address": "台北市松山區南京東路四段75之2號1樓",
@@ -57805,15 +57822,32 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "192978",
-        "title": "長安營",
-        "address": "台南市仁德區保仁路195號",
+        "id": "192897",
+        "title": "泰安",
+        "address": "苗栗縣泰安鄉錦水村圓墩83-2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.220292,
-          22.959603
+          120.95299,
+          24.46817
+        ],
+        "type": "Point"
+      },
+      "id": "192897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192978",
+        "title": "長安營",
+        "address": "台南市仁德區保仁路195號(營區內)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
         ],
         "type": "Point"
       },
