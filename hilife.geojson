@@ -7929,7 +7929,7 @@
       "properties": {
         "id": "3389",
         "title": "竹縣湖丰店",
-        "address": "新竹縣湖口鄉光復東路３３５-１號",
+        "address": "新竹縣湖口鄉光復東路３３５、３３５-１號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18871,6 +18871,40 @@
         "type": "Point"
       },
       "id": "4496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4501",
+        "title": "左營榮華店",
+        "address": "高雄市左營區大中一路３８６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.322599,
+          22.678413
+        ],
+        "type": "Point"
+      },
+      "id": "4501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4502",
+        "title": "安定保旺店",
+        "address": "台南市安定區安加里１２鄰安定４１０號之３",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.236181,
+          23.120852
+        ],
+        "type": "Point"
+      },
+      "id": "4502"
     },
     {
       "type": "Feature",
