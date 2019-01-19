@@ -49271,6 +49271,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184461",
+        "title": "瑞德",
+        "address": "台北市中正區新生南硌一段170巷14之3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531253,
+          25.034191
+        ],
+        "type": "Point"
+      },
+      "id": "184461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184472",
         "title": "墘運",
         "address": "台北市內湖區洲子街12號1樓",
@@ -49454,23 +49471,6 @@
         "type": "Point"
       },
       "id": "184612"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184623",
-        "title": "崴信",
-        "address": "桃園市桃園區信光路22號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.307567,
-          25.006246
-        ],
-        "type": "Point"
-      },
-      "id": "184623"
     },
     {
       "type": "Feature",
@@ -57920,6 +57920,23 @@
         "type": "Point"
       },
       "id": "194136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200549",
+        "title": "崴信",
+        "address": "桃園市桃園區信光路22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.307567,
+          25.006246
+        ],
+        "type": "Point"
+      },
+      "id": "200549"
     },
     {
       "type": "Feature",
