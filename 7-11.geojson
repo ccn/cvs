@@ -57618,6 +57618,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192613",
+        "title": "高雄三",
+        "address": "高雄市三民區建國二路318號B1東側",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302111,
+          22.63962
+        ],
+        "type": "Point"
+      },
+      "id": "192613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192624",
         "title": "浮洲",
         "address": "新北市板橋區大觀路一段38巷22號1樓",
@@ -57903,23 +57920,6 @@
         "type": "Point"
       },
       "id": "194033"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "194136",
-        "title": "新竹友達(臨時店)",
-        "address": "新竹市東區力行二路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.019447,
-          24.773828
-        ],
-        "type": "Point"
-      },
-      "id": "194136"
     },
     {
       "type": "Feature",
