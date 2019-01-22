@@ -57669,6 +57669,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192679",
+        "title": "番路",
+        "address": "嘉義縣番路鄉下坑村菜公店92號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "192679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192680",
         "title": "本鈿",
         "address": "彰化縣花壇鄉文德村彰員路二段臨1138號",
@@ -57716,6 +57733,23 @@
         "type": "Point"
       },
       "id": "192705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192716",
+        "title": "糖友",
+        "address": "彰化縣和美鎮中圍里彰新路三段臨368號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "192716"
     },
     {
       "type": "Feature",
