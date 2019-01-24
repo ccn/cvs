@@ -1372,8 +1372,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.802337,
-          21.942779
+          120.8019293042297,
+          21.9431472091843
         ],
         "type": "Point"
       },
@@ -7039,23 +7039,6 @@
         "type": "Point"
       },
       "id": "3206"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3207",
-        "title": "北市正館店",
-        "address": "台北市中正區館前路４５號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.515085,
-          25.045118
-        ],
-        "type": "Point"
-      },
-      "id": "3207"
     },
     {
       "type": "Feature",
@@ -14411,8 +14394,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.503835,
-          23.336414
+          120.5038564576721,
+          23.3365814696413
         ],
         "type": "Point"
       },
@@ -19062,6 +19045,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4523",
+        "title": "土城童話店",
+        "address": "新北市土城區清水路２１９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.460575,
+          24.982147
+        ],
+        "type": "Point"
+      },
+      "id": "4523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4524",
         "title": "鳳山南訓店",
         "address": "高雄市鳳山區維武路１號",
@@ -19113,6 +19113,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4532",
+        "title": "沙鹿竹林店",
+        "address": "台中市沙鹿區中山路１１７、１１７－１、１１７－２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5708129096136,
+          24.2377916472476
+        ],
+        "type": "Point"
+      },
+      "id": "4532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4536",
         "title": "中和景德店",
         "address": "新北市中和區景德街９１號",
@@ -19126,6 +19143,23 @@
         "type": "Point"
       },
       "id": "4536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4540",
+        "title": "湖口福氣店",
+        "address": "新竹縣湖口鄉新興路８５８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0130649165212,
+          24.8841082288971
+        ],
+        "type": "Point"
+      },
+      "id": "4540"
     },
     {
       "type": "Feature",
