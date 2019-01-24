@@ -57839,6 +57839,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192808",
+        "title": "大南庄",
+        "address": "苗栗縣南庄鄉南江村5鄰東江75-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.002708,
+          24.594811
+        ],
+        "type": "Point"
+      },
+      "id": "192808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192842",
         "title": "后旺",
         "address": "台中市后里區甲后路二段742號一樓",
