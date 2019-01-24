@@ -54288,25 +54288,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017434",
-        "title": "全家大園果林店",
-        "address": "桃園市大園區？林村拔子林23之83號",
-        "post": "337",
-        "all": "SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.259177,
-          25.074496
-        ],
-        "type": "Point"
-      },
-      "id": "017434"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017435",
         "title": "全家蘆竹星馳店",
         "address": "桃園市蘆竹區忠孝西路169巷2號",
@@ -59627,25 +59608,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017794",
-        "title": "全家新橋店",
-        "address": "臺北市大同區延平北路三段25之3號",
-        "post": "103",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.511223,
-          25.064474
-        ],
-        "type": "Point"
-      },
-      "id": "017794"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017795",
         "title": "全家永和民有店",
         "address": "新北市永和區民有街73號1樓",
@@ -62059,6 +62021,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017956",
+        "title": "全家高雄中福店",
+        "address": "高雄市苓雅區興中一路18號壹樓",
+        "post": "802",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.316465,
+          22.619842
+        ],
+        "type": "Point"
+      },
+      "id": "017956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017958",
         "title": "全家高雄南衙店",
         "address": "高雄市前鎮區草衙二路337號",
@@ -63085,6 +63066,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018033",
+        "title": "全家新化正孝店",
+        "address": "台南市新化區忠孝路158號",
+        "post": "712",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302787,
+          23.037627
+        ],
+        "type": "Point"
+      },
+      "id": "018033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018034",
         "title": "全家中和新愛店",
         "address": "新北市中和區仁愛街9號1樓",
@@ -63218,6 +63218,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018047",
+        "title": "全家宜蘭縣府店",
+        "address": "宜蘭縣宜蘭市中山路一段346號一至二樓",
+        "post": "260",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.765444,
+          24.730758
+        ],
+        "type": "Point"
+      },
+      "id": "018047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018049",
         "title": "全家仁德二仁店",
         "address": "台南市仁德區中正西路21號",
@@ -63294,6 +63313,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018082",
+        "title": "全家新橋店",
+        "address": "臺北市大同區延平北路三段25之3號",
+        "post": "103",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.511223,
+          25.064474
+        ],
+        "type": "Point"
+      },
+      "id": "018082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018084",
         "title": "全家台南土城店",
         "address": "台南市安南區城西街一段64號、66號1樓",
@@ -63328,6 +63366,25 @@
         "type": "Point"
       },
       "id": "018094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018098",
+        "title": "全家大園果林店",
+        "address": "桃園市大園區？林村拔子林23之83號",
+        "post": "337",
+        "all": "SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.259177,
+          25.074496
+        ],
+        "type": "Point"
+      },
+      "id": "018098"
     },
     {
       "type": "Feature",
