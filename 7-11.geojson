@@ -33818,23 +33818,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "164342",
-        "title": "觀湘",
-        "address": "桃園市觀音區忠孝路705號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.132536,
-          25.062632
-        ],
-        "type": "Point"
-      },
-      "id": "164342"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "164353",
         "title": "德力",
         "address": "桃園市八德區大福里介壽路一段134號136號",
@@ -37826,6 +37809,23 @@
         "type": "Point"
       },
       "id": "167499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "167503",
+        "title": "觀湘",
+        "address": "桃園市觀音區忠孝路767號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.132205,
+          25.063168
+        ],
+        "type": "Point"
+      },
+      "id": "167503"
     },
     {
       "type": "Feature",
@@ -43510,13 +43510,13 @@
       "properties": {
         "id": "179595",
         "title": "台東新站",
-        "address": "台東市岩灣路101巷598號",
+        "address": "台東縣台東市岩灣路101巷598號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.122684,
-          22.792699
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -46534,23 +46534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181864",
-        "title": "森鑽",
-        "address": "台北市中山區林森北路101號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.525012,
-          25.050136
-        ],
-        "type": "Point"
-      },
-      "id": "181864"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181875",
         "title": "江翠",
         "address": "新北市板橋區文化路二段417巷8號1樓10號1樓2樓",
@@ -48778,6 +48761,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184003",
+        "title": "富達",
+        "address": "宜蘭縣頭城鎮青雲路一段225號227號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.795056,
+          24.839476
+        ],
+        "type": "Point"
+      },
+      "id": "184003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184036",
         "title": "善良",
         "address": "台南市善化區中正路385號1樓",
@@ -49186,6 +49186,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184379",
+        "title": "睿豐",
+        "address": "台東縣台東市大和路8-1.16-1號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.056688,
+          22.705831
+        ],
+        "type": "Point"
+      },
+      "id": "184379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184380",
         "title": "虎欣",
         "address": "雲林縣虎尾鎮林森路一段287.289.291號",
@@ -49301,6 +49318,23 @@
         "type": "Point"
       },
       "id": "184472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184483",
+        "title": "君富",
+        "address": "桃園市桃園區富國路555號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.283893,
+          25.017897
+        ],
+        "type": "Point"
+      },
+      "id": "184483"
     },
     {
       "type": "Feature",
@@ -52293,6 +52327,23 @@
         "type": "Point"
       },
       "id": "186537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186548",
+        "title": "森鑽",
+        "address": "台北市中山區林森北路101號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525012,
+          25.050136
+        ],
+        "type": "Point"
+      },
+      "id": "186548"
     },
     {
       "type": "Feature",
@@ -55612,6 +55663,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "189097",
+        "title": "航榮",
+        "address": "桃園市蘆竹區南崁路二段473號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.266409,
+          25.062444
+        ],
+        "type": "Point"
+      },
+      "id": "189097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "189101",
         "title": "新龍壽",
         "address": "桃園市桃園區龍壽街20號",
@@ -57652,6 +57720,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192646",
+        "title": "育溪",
+        "address": "南投縣埔里鎮安七街89-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.95381,
+          23.966772
+        ],
+        "type": "Point"
+      },
+      "id": "192646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192657",
         "title": "意幼",
         "address": "新北市新莊區後港一路173號1樓",
@@ -57856,6 +57941,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192831",
+        "title": "東站",
+        "address": "台東縣台東市岩灣路101巷598號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "192831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192842",
         "title": "后旺",
         "address": "台中市后里區甲后路二段742號一樓",
@@ -57907,6 +58009,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192901",
+        "title": "芮霖",
+        "address": "桃園市蘆竹區中興路536之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.255081,
+          25.009598
+        ],
+        "type": "Point"
+      },
+      "id": "192901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192945",
+        "title": "侯硐",
+        "address": "新北市瑞芳區柴寮路40號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.827516,
+          25.086865
+        ],
+        "type": "Point"
+      },
+      "id": "192945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192978",
         "title": "長安營",
         "address": "台南市仁德區保仁路195號(營區內)",
@@ -57954,6 +58090,91 @@
         "type": "Point"
       },
       "id": "193029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193041",
+        "title": "京山",
+        "address": "台北市中山區南京東路二段100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531864,
+          25.051856
+        ],
+        "type": "Point"
+      },
+      "id": "193041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193063",
+        "title": "新店",
+        "address": "新北市新店區碧潭路14號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.534732,
+          24.956341
+        ],
+        "type": "Point"
+      },
+      "id": "193063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193111",
+        "title": "海音",
+        "address": "高雄市苓雅區海邊路48.48-1.48-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.293699,
+          22.618295
+        ],
+        "type": "Point"
+      },
+      "id": "193111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193122",
+        "title": "北大門",
+        "address": "新竹市北區北門街96號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.965836,
+          24.806914
+        ],
+        "type": "Point"
+      },
+      "id": "193122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193214",
+        "title": "立軒",
+        "address": "新北市林口區文化一路一段200號202號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.379119,
+          25.075418
+        ],
+        "type": "Point"
+      },
+      "id": "193214"
     },
     {
       "type": "Feature",
@@ -61813,23 +62034,6 @@
         "type": "Point"
       },
       "id": "880349"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "880372",
-        "title": "航榮",
-        "address": "桃園市蘆竹區南崁路二段473號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.266409,
-          25.062444
-        ],
-        "type": "Point"
-      },
-      "id": "880372"
     },
     {
       "type": "Feature",
