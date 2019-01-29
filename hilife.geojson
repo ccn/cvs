@@ -19147,6 +19147,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4537",
+        "title": "林口世運店",
+        "address": "新北市林口區文化二路一段３９２-１號、３９２-２號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3754451941945,
+          25.0775551655716
+        ],
+        "type": "Point"
+      },
+      "id": "4537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4538",
+        "title": "林口童樂店",
+        "address": "新北市林口區仁愛路二段４９２-１號、４９２-２號一樓全",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3766958861068,
+          25.0755454587984
+        ],
+        "type": "Point"
+      },
+      "id": "4538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4540",
         "title": "湖口福氣店",
         "address": "新竹縣湖口鄉新興路８５８號",
@@ -19160,6 +19194,23 @@
         "type": "Point"
       },
       "id": "4540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4553",
+        "title": "內湖大發店",
+        "address": "台北市內湖區舊宗路一段１２８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5776692937388,
+          25.0613105750869
+        ],
+        "type": "Point"
+      },
+      "id": "4553"
     },
     {
       "type": "Feature",
