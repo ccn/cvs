@@ -48438,6 +48438,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183664",
+        "title": "布龍",
+        "address": "嘉義縣布袋鎮龍江路1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.168566,
+          23.377608
+        ],
+        "type": "Point"
+      },
+      "id": "183664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183675",
         "title": "聯鑫",
         "address": "台中市中區建國路143.145號",
@@ -57567,6 +57584,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190835",
+        "title": "保長",
+        "address": "雲林縣斗六市雲林路二段76號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.534492,
+          23.705377
+        ],
+        "type": "Point"
+      },
+      "id": "190835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190916",
         "title": "南西",
         "address": "台北市大同區南京西路296號298號1樓",
@@ -57665,6 +57699,23 @@
         "type": "Point"
       },
       "id": "192576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192587",
+        "title": "和興",
+        "address": "屏東縣屏東市復興南路一段153.155號1樓.和生路一段900號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "192587"
     },
     {
       "type": "Feature",
@@ -57992,6 +58043,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192864",
+        "title": "貝殼",
+        "address": "高雄市旗津區復興里旗津三路356.358號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.27594,
+          22.601371
+        ],
+        "type": "Point"
+      },
+      "id": "192864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192897",
         "title": "泰安",
         "address": "苗栗縣泰安鄉錦水村圓墩83-2號",
@@ -58022,6 +58090,23 @@
         "type": "Point"
       },
       "id": "192901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192923",
+        "title": "華壢",
+        "address": "桃園市中壢區中華路一段288號290號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.257846,
+          24.973009
+        ],
+        "type": "Point"
+      },
+      "id": "192923"
     },
     {
       "type": "Feature",
@@ -58077,6 +58162,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193018",
+        "title": "川金",
+        "address": "新北市淡水區淡金路一段567號569號571號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.452979,
+          25.180328
+        ],
+        "type": "Point"
+      },
+      "id": "193018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193029",
         "title": "美麗島",
         "address": "高雄市新興區中山一路115號(美麗島站內)",
@@ -58128,6 +58230,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193074",
+        "title": "鑫驛",
+        "address": "南投縣埔里鎮中山路四段106號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.933023,
+          23.967141
+        ],
+        "type": "Point"
+      },
+      "id": "193074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193100",
+        "title": "京佳",
+        "address": "台北市松山區南京東路五段229號231號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.564605,
+          25.051596
+        ],
+        "type": "Point"
+      },
+      "id": "193100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193111",
         "title": "海音",
         "address": "高雄市苓雅區海邊路48.48-1.48-2號",
@@ -58162,6 +58298,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193144",
+        "title": "員道",
+        "address": "新竹縣竹東鎮員山路218之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.039113,
+          24.783206
+        ],
+        "type": "Point"
+      },
+      "id": "193144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193188",
+        "title": "安坑",
+        "address": "新北市新店區安民街346號348號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517009,
+          24.975566
+        ],
+        "type": "Point"
+      },
+      "id": "193188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193214",
         "title": "立軒",
         "address": "新北市林口區文化一路一段200號202號1樓2樓",
@@ -58175,6 +58345,40 @@
         "type": "Point"
       },
       "id": "193214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193269",
+        "title": "大錢站",
+        "address": "桃園市桃園區中華路5號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.311302,
+          24.990965
+        ],
+        "type": "Point"
+      },
+      "id": "193269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193328",
+        "title": "合安",
+        "address": "新北市板橋區合宜路111號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.448381,
+          24.999369
+        ],
+        "type": "Point"
+      },
+      "id": "193328"
     },
     {
       "type": "Feature",
@@ -89727,23 +89931,6 @@
         "type": "Point"
       },
       "id": "991920"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "991931",
-        "title": "保長",
-        "address": "雲林縣斗六市雲林路二段76號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.534492,
-          23.705377
-        ],
-        "type": "Point"
-      },
-      "id": "991931"
     },
     {
       "type": "Feature",
