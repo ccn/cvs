@@ -19233,25 +19233,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014702",
-        "title": "全家桃園寶山店",
-        "address": "桃園市桃園區寶山街375．377號1樓",
-        "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.312113,
-          25.010397
-        ],
-        "type": "Point"
-      },
-      "id": "014702"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014705",
         "title": "全家永康華興店",
         "address": "台南市永康區華興街148號1樓",
@@ -63442,6 +63423,25 @@
         "type": "Point"
       },
       "id": "018098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018106",
+        "title": "全家桃園寶山店",
+        "address": "桃園市桃園區寶山街375．377號1樓",
+        "post": "330",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.312113,
+          25.010397
+        ],
+        "type": "Point"
+      },
+      "id": "018106"
     },
     {
       "type": "Feature",
