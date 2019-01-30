@@ -7417,23 +7417,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "121703",
-        "title": "明得",
-        "address": "高雄市苓雅區民主里憲政路100號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.32542661033601,
-          22.6355285192789
-        ],
-        "type": "Point"
-      },
-      "id": "121703"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "121725",
         "title": "有寶",
         "address": "桃園市桃園區寶山街209號1樓",
@@ -49169,6 +49152,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184302",
+        "title": "富宇",
+        "address": "台中市北屯區建和路二段273.275號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184313",
         "title": "蘆興",
         "address": "新北市蘆洲區長樂路2之6號1樓",
@@ -56904,23 +56904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190318",
-        "title": "興復",
-        "address": "台北市中山區興安街112號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54313138713201,
-          25.055987967207802
-        ],
-        "type": "Point"
-      },
-      "id": "190318"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190329",
         "title": "仁森",
         "address": "新北市林口區粉寮路一段64號",
@@ -57601,6 +57584,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190905",
+        "title": "興復",
+        "address": "台北市中山區興安街112號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.54313138713201,
+          25.055987967207802
+        ],
+        "type": "Point"
+      },
+      "id": "190905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190916",
         "title": "南西",
         "address": "台北市大同區南京西路296號298號1樓",
@@ -57716,6 +57716,23 @@
         "type": "Point"
       },
       "id": "192587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192598",
+        "title": "豐園",
+        "address": "高雄市左營區新上里新庄仔路828.830.832.834號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.313267,
+          22.668571
+        ],
+        "type": "Point"
+      },
+      "id": "192598"
     },
     {
       "type": "Feature",
@@ -58043,23 +58060,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "192864",
-        "title": "貝殼",
-        "address": "高雄市旗津區復興里旗津三路356.358號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.27594,
-          22.601371
-        ],
-        "type": "Point"
-      },
-      "id": "192864"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "192897",
         "title": "泰安",
         "address": "苗栗縣泰安鄉錦水村圓墩83-2號",
@@ -58209,6 +58209,23 @@
         "type": "Point"
       },
       "id": "193041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193052",
+        "title": "中義",
+        "address": "高雄市新興區六合一路27號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.312092,
+          22.632201
+        ],
+        "type": "Point"
+      },
+      "id": "193052"
     },
     {
       "type": "Feature",
