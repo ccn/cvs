@@ -43762,25 +43762,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016759",
-        "title": "全家斗南林子店",
-        "address": "雲林縣斗南鎮林子201號",
-        "post": "630",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.48419595,
-          23.65480786
-        ],
-        "type": "Point"
-      },
-      "id": "016759"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016760",
         "title": "全家台南安慶店",
         "address": "台南市安南區大安街728號一樓",
@@ -62686,25 +62667,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018034",
-        "title": "全家中和新愛店",
-        "address": "新北市中和區仁愛街9號1樓",
-        "post": "235",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.510656,
-          24.989327
-        ],
-        "type": "Point"
-      },
-      "id": "018034"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018035",
         "title": "全家汐止鑫湖店",
         "address": "新北市汐止區康寧街141巷18號",
@@ -63461,6 +63423,25 @@
         "type": "Point"
       },
       "id": "018106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018107",
+        "title": "全家斗南林子店",
+        "address": "雲林縣斗南鎮林子201號",
+        "post": "630",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.48419595,
+          23.65480786
+        ],
+        "type": "Point"
+      },
+      "id": "018107"
     },
     {
       "type": "Feature",
