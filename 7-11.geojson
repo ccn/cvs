@@ -58298,6 +58298,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193085",
+        "title": "穀昌",
+        "address": "南投縣名間鄉彰南路450號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "193085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193100",
         "title": "京佳",
         "address": "台北市松山區南京東路五段229號231號1樓",
