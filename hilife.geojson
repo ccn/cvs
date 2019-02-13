@@ -29,8 +29,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.910554108944,
-          24.6865481616519
+          120.9104682782555,
+          24.6865237909306
         ],
         "type": "Point"
       },
@@ -18773,6 +18773,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4487",
+        "title": "桃園農工店",
+        "address": "桃園市桃園區成功路二段１４４號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.319926,
+          24.994949
+        ],
+        "type": "Point"
+      },
+      "id": "4487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4488",
         "title": "屏東太陽城店",
         "address": "屏東縣屏東市公勇路６２號",
@@ -19211,6 +19228,23 @@
         "type": "Point"
       },
       "id": "4553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4556",
+        "title": "信義首府店",
+        "address": "台北市信義區市府路１號(B２便利生活空間)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5637829574262,
+          25.0375957195144
+        ],
+        "type": "Point"
+      },
+      "id": "4556"
     },
     {
       "type": "Feature",
@@ -21517,8 +21551,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.560349646878,
-          24.2385190934919
+          120.5601551867244,
+          24.2384836300095
         ],
         "type": "Point"
       },
