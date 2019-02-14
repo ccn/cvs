@@ -19215,6 +19215,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4549",
+        "title": "金門伯玉店",
+        "address": "金門縣金湖鎮伯玉路三段３７９號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.3762061729638,
+          24.446391650423
+        ],
+        "type": "Point"
+      },
+      "id": "4549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4553",
         "title": "內湖大發店",
         "address": "台北市內湖區舊宗路一段１２８號",
