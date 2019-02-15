@@ -32849,23 +32849,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "163615",
-        "title": "霖口",
-        "address": "新北市林口區中山路250號250之3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.385929,
-          25.079591
-        ],
-        "type": "Point"
-      },
-      "id": "163615"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "163626",
         "title": "林宏",
         "address": "新北市新莊區成功街1號",
@@ -52242,6 +52225,23 @@
         "type": "Point"
       },
       "id": "186489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186490",
+        "title": "霖口",
+        "address": "新北市林口區中山路250號250之3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.385929,
+          25.079591
+        ],
+        "type": "Point"
+      },
+      "id": "186490"
     },
     {
       "type": "Feature",
