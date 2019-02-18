@@ -8658,23 +8658,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "123031",
-        "title": "敏盛",
-        "address": "桃園市桃園區經國路168號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.306107,
-          25.016283
-        ],
-        "type": "Point"
-      },
-      "id": "123031"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "123042",
         "title": "新繼光",
         "address": "台中市中區中山路69號1樓",
@@ -19755,23 +19738,6 @@
         "type": "Point"
       },
       "id": "141257"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "141268",
-        "title": "嘉新",
-        "address": "新北市中和區員山路419號421號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.480944,
-          25.003314
-        ],
-        "type": "Point"
-      },
-      "id": "141268"
     },
     {
       "type": "Feature",
@@ -56598,23 +56564,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190086",
-        "title": "盧奉",
-        "address": "桃園市蘆竹區奉化路25號27號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.286419,
-          25.040823
-        ],
-        "type": "Point"
-      },
-      "id": "190086"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190097",
         "title": "德誠",
         "address": "台北市士林區德行東路106號108號1樓",
@@ -57567,6 +57516,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190868",
+        "title": "敏盛",
+        "address": "桃園市桃園區經國路168號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.306107,
+          25.016283
+        ],
+        "type": "Point"
+      },
+      "id": "190868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190880",
         "title": "隆城",
         "address": "新北市土城區學士路17號",
@@ -58485,6 +58451,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198529",
+        "title": "盧奉",
+        "address": "桃園市蘆竹區奉化路25號27號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.286419,
+          25.040823
+        ],
+        "type": "Point"
+      },
+      "id": "198529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198541",
         "title": "長坤",
         "address": "新北市林口區文化一路一段43號1樓",
@@ -58549,6 +58532,23 @@
         "type": "Point"
       },
       "id": "200561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200572",
+        "title": "嘉新",
+        "address": "新北市中和區員山路419號421號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.480944,
+          25.003314
+        ],
+        "type": "Point"
+      },
+      "id": "200572"
     },
     {
       "type": "Feature",
