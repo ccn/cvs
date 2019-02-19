@@ -385,25 +385,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "010563",
-        "title": "全家南州壽元店",
-        "address": "屏東縣南州鄉勝利路5-10號1樓",
-        "post": "926",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Parking,Rest,twoice,SharePot,Kantoni,SingleOrigin,SpicyKantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.538129,
-          22.491491
-        ],
-        "type": "Point"
-      },
-      "id": "010563"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "010573",
         "title": "全家湖口新工業店",
         "address": "新竹縣湖口鄉工業一路36號1樓",
@@ -63351,6 +63332,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018109",
+        "title": "全家松茂店",
+        "address": "台北市中山區松江路127之1號1樓及地下室",
+        "post": "104",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.533337,
+          25.053603
+        ],
+        "type": "Point"
+      },
+      "id": "018109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018111",
         "title": "全家新廣州店",
         "address": "台北市萬華區廣州街235-1號",
@@ -63537,6 +63537,25 @@
         "type": "Point"
       },
       "id": "018134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018142",
+        "title": "全家南州壽元店",
+        "address": "屏東縣南州鄉勝利路5-10號1樓",
+        "post": "926",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Parking,Rest,twoice,SharePot,Kantoni,SingleOrigin,SpicyKantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.538129,
+          22.491491
+        ],
+        "type": "Point"
+      },
+      "id": "018142"
     },
     {
       "type": "Feature",
