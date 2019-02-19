@@ -43593,23 +43593,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "179746",
-        "title": "新瓦屋",
-        "address": "新竹縣竹北市文興路一段172.176號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.027027,
-          24.811069
-        ],
-        "type": "Point"
-      },
-      "id": "179746"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "179757",
         "title": "阿里山",
         "address": "嘉義縣阿里山鄉中山村南阿里山55號",
@@ -52297,6 +52280,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186607",
+        "title": "新瓦屋",
+        "address": "新竹縣竹北市文興路一段172.176號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.027027,
+          24.811069
+        ],
+        "type": "Point"
+      },
+      "id": "186607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -57482,6 +57482,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190824",
+        "title": "金東山",
+        "address": "彰化縣員林市南東里山腳路四段1號3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.600438,
+          23.963931
+        ],
+        "type": "Point"
+      },
+      "id": "190824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190835",
         "title": "保長",
         "address": "雲林縣斗六市雲林路二段76號1樓",
@@ -58549,6 +58566,23 @@
         "type": "Point"
       },
       "id": "200572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200583",
+        "title": "鐵興",
+        "address": "新竹縣竹北市文興路一段246號248號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.028318,
+          24.810244
+        ],
+        "type": "Point"
+      },
+      "id": "200583"
     },
     {
       "type": "Feature",
@@ -71864,23 +71898,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "931711",
-        "title": "金東山",
-        "address": "彰化縣員林市南東里山腳路四段1號3號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.600438,
-          23.963931
-        ],
-        "type": "Point"
-      },
-      "id": "931711"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "931825",
         "title": "尖豐",
         "address": "苗栗縣頭份市尖山里尖豐路320巷316號1樓",
@@ -84865,23 +84882,6 @@
         "type": "Point"
       },
       "id": "975087"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "975157",
-        "title": "鐵興",
-        "address": "新竹縣竹北市文興路一段246號248號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.028318,
-          24.810244
-        ],
-        "type": "Point"
-      },
-      "id": "975157"
     },
     {
       "type": "Feature",
