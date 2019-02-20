@@ -19309,25 +19309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014743",
-        "title": "全家寶元店",
-        "address": "台北市萬華區寶興街40號",
-        "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.493322,
-          25.027289
-        ],
-        "type": "Point"
-      },
-      "id": "014743"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014745",
         "title": "全家館中店",
         "address": "台北市中正區羅斯福路三段316巷8弄1號1樓",
@@ -63556,6 +63537,25 @@
         "type": "Point"
       },
       "id": "018142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018147",
+        "title": "全家寶元店",
+        "address": "台北市萬華區寶興街40號",
+        "post": "108",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.493322,
+          25.027289
+        ],
+        "type": "Point"
+      },
+      "id": "018147"
     },
     {
       "type": "Feature",
