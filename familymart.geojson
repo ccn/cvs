@@ -14274,25 +14274,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014012",
-        "title": "全家永和新廷店",
-        "address": "新北市永和區福和路320號1樓",
-        "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SUNMAI,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.515668,
-          25.007376
-        ],
-        "type": "Point"
-      },
-      "id": "014012"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014013",
         "title": "全家中和摩天店",
         "address": "新北市中和區景平路182號1樓",
@@ -16645,25 +16626,6 @@
         "type": "Point"
       },
       "id": "014370"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014371",
-        "title": "全家汐止鑫峰店",
-        "address": "新北市汐止區明峰街162號",
-        "post": "221",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.629153,
-          25.070539
-        ],
-        "type": "Point"
-      },
-      "id": "014371"
     },
     {
       "type": "Feature",
@@ -63541,6 +63503,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018143",
+        "title": "全家汐止鑫峰店",
+        "address": "新北市汐止區明峰街162號",
+        "post": "221",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.629153,
+          25.070539
+        ],
+        "type": "Point"
+      },
+      "id": "018143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018147",
         "title": "全家寶元店",
         "address": "台北市萬華區寶興街40號",
@@ -63575,6 +63556,25 @@
         "type": "Point"
       },
       "id": "018174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018175",
+        "title": "全家永和新廷店",
+        "address": "新北市永和區福和路320號1樓",
+        "post": "234",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SUNMAI,SingleOrigin",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.515668,
+          25.007376
+        ],
+        "type": "Point"
+      },
+      "id": "018175"
     },
     {
       "type": "Feature",
