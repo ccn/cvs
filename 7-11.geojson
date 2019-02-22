@@ -52960,23 +52960,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187275",
-        "title": "登冠",
-        "address": "桃園市龜山區文化二路52巷53號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.366185,
-          25.056229
-        ],
-        "type": "Point"
-      },
-      "id": "187275"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187286",
         "title": "西安",
         "address": "台北市北投區大興街44號46號1樓",
@@ -58498,6 +58481,23 @@
         "type": "Point"
       },
       "id": "198541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198574",
+        "title": "登冠",
+        "address": "桃園市龜山區文化二路52巷53號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.366185,
+          25.056229
+        ],
+        "type": "Point"
+      },
+      "id": "198574"
     },
     {
       "type": "Feature",
