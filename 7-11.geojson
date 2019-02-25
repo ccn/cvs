@@ -47911,6 +47911,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183309",
+        "title": "鑫國語",
+        "address": "台北市中正區南昌路一段135號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.518534,
+          25.02967
+        ],
+        "type": "Point"
+      },
+      "id": "183309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183332",
         "title": "京鑫",
         "address": "南投縣草屯鎮中正路483號",
@@ -47992,6 +48009,23 @@
         "type": "Point"
       },
       "id": "183376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183387",
+        "title": "正發",
+        "address": "高雄市大寮區會社里鳳林三路421號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.396312,
+          22.603419
+        ],
+        "type": "Point"
+      },
+      "id": "183387"
     },
     {
       "type": "Feature",
@@ -49199,6 +49233,23 @@
         "type": "Point"
       },
       "id": "184449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184450",
+        "title": "德民",
+        "address": "高雄市楠梓區海專路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.310102,
+          22.727336
+        ],
+        "type": "Point"
+      },
+      "id": "184450"
     },
     {
       "type": "Feature",
@@ -58192,6 +58243,23 @@
         "type": "Point"
       },
       "id": "193029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193030",
+        "title": "森吉",
+        "address": "台北市中山區林森北路624號626號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525603,
+          25.067269
+        ],
+        "type": "Point"
+      },
+      "id": "193030"
     },
     {
       "type": "Feature",
@@ -92447,23 +92515,6 @@
         "type": "Point"
       },
       "id": "999751"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "999809",
-        "title": "德民",
-        "address": "高雄市楠梓區德民路156號158號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.310212,
-          22.726805
-        ],
-        "type": "Point"
-      },
-      "id": "999809"
     },
     {
       "type": "Feature",
