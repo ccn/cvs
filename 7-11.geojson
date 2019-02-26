@@ -58502,6 +58502,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193557",
+        "title": "八德",
+        "address": "台北市中正區臨沂街1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.53089,
+          25.043516
+        ],
+        "type": "Point"
+      },
+      "id": "193557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194033",
         "title": "鑫大立(臨)",
         "address": "台中市南屯區精科路11號2樓",
@@ -58515,6 +58532,74 @@
         "type": "Point"
       },
       "id": "194033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196785",
+        "title": "泰安一(臨)",
+        "address": "台中市后里區安眉路113號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.711483,
+          24.330415
+        ],
+        "type": "Point"
+      },
+      "id": "196785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196796",
+        "title": "泰安二(臨)",
+        "address": "台中市后里區安眉路113號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.711483,
+          24.330415
+        ],
+        "type": "Point"
+      },
+      "id": "196796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196800",
+        "title": "泰安三(臨)",
+        "address": "台中市后里區九甲七路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716729,
+          24.328875
+        ],
+        "type": "Point"
+      },
+      "id": "196800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196811",
+        "title": "泰安綻(臨)",
+        "address": "台中市后里區九甲七路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716729,
+          24.328875
+        ],
+        "type": "Point"
+      },
+      "id": "196811"
     },
     {
       "type": "Feature",
