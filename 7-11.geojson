@@ -52331,6 +52331,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186593",
+        "title": "仁智",
+        "address": "新竹縣湖口鄉仁和路38號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.012598,
+          24.873929
+        ],
+        "type": "Point"
+      },
+      "id": "186593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186607",
         "title": "新瓦屋",
         "address": "新竹縣竹北市文興路一段172.176號1樓",
@@ -58094,6 +58111,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192875",
+        "title": "港勝",
+        "address": "台北市南港區經貿二路2號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.616344,
+          25.056311
+        ],
+        "type": "Point"
+      },
+      "id": "192875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192897",
         "title": "泰安",
         "address": "苗栗縣泰安鄉錦水村圓墩83-2號",
@@ -58515,23 +58549,6 @@
         "type": "Point"
       },
       "id": "193557"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "194033",
-        "title": "鑫大立(臨)",
-        "address": "台中市南屯區精科路11號2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.60389,
-          24.14745
-        ],
-        "type": "Point"
-      },
-      "id": "194033"
     },
     {
       "type": "Feature",
@@ -84933,23 +84950,6 @@
         "type": "Point"
       },
       "id": "973047"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "973081",
-        "title": "仁智",
-        "address": "新竹縣湖口鄉仁和路38號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.012598,
-          24.873929
-        ],
-        "type": "Point"
-      },
-      "id": "973081"
     },
     {
       "type": "Feature",
