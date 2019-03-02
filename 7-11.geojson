@@ -31013,23 +31013,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "159306",
-        "title": "武江",
-        "address": "新北市板橋區光武街2巷2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.468301,
-          25.024767
-        ],
-        "type": "Point"
-      },
-      "id": "159306"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "159317",
         "title": "宜安",
         "address": "新北市中和區宜安路103號1樓",
@@ -43746,23 +43729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "179872",
-        "title": "鑫站",
-        "address": "台北市大同區長安西路52之1號B1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.520071,
-          25.050319
-        ],
-        "type": "Point"
-      },
-      "id": "179872"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "179883",
         "title": "新滬站",
         "address": "新北市淡水區中正路1號",
@@ -47673,6 +47639,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183114",
+        "title": "工站",
+        "address": "台中市南屯區五權西路三段350號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.60621,
+          24.162281
+        ],
+        "type": "Point"
+      },
+      "id": "183114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183125",
         "title": "明美",
         "address": "台北市中山區敬業一路130號1樓",
@@ -49675,23 +49658,6 @@
         "type": "Point"
       },
       "id": "184793"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184807",
-        "title": "台南蔡",
-        "address": "台南市永康區中正南路628號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.233705,
-          23.03806
-        ],
-        "type": "Point"
-      },
-      "id": "184807"
     },
     {
       "type": "Feature",
@@ -52259,6 +52225,23 @@
         "type": "Point"
       },
       "id": "186504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186515",
+        "title": "新慶陽",
+        "address": "台北市大同區重慶北路二段60號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5138,
+          25.055701
+        ],
+        "type": "Point"
+      },
+      "id": "186515"
     },
     {
       "type": "Feature",
@@ -58553,6 +58536,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193616",
+        "title": "F18",
+        "address": "台南市安定區北園二路8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.263442,
+          23.116543
+        ],
+        "type": "Point"
+      },
+      "id": "193616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196785",
         "title": "泰安一(臨)",
         "address": "台中市后里區安眉路113號",
@@ -58655,6 +58655,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198552",
+        "title": "台南蔡",
+        "address": "台南市永康區中正南路628號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.233705,
+          23.03806
+        ],
+        "type": "Point"
+      },
+      "id": "198552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198574",
         "title": "登冠",
         "address": "桃園市龜山區文化二路52巷53號一樓",
@@ -58668,6 +58685,23 @@
         "type": "Point"
       },
       "id": "198574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198596",
+        "title": "武江",
+        "address": "新北市板橋區光武街2巷2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468301,
+          25.024767
+        ],
+        "type": "Point"
+      },
+      "id": "198596"
     },
     {
       "type": "Feature",
@@ -58753,6 +58787,23 @@
         "type": "Point"
       },
       "id": "200583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200620",
+        "title": "鑫站",
+        "address": "台北市大同區長安西路52之1號B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.520071,
+          25.050319
+        ],
+        "type": "Point"
+      },
+      "id": "200620"
     },
     {
       "type": "Feature",
@@ -81244,23 +81295,6 @@
         "type": "Point"
       },
       "id": "966430"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "966474",
-        "title": "新慶陽",
-        "address": "台北市大同區重慶北路二段60號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5138,
-          25.055701
-        ],
-        "type": "Point"
-      },
-      "id": "966474"
     },
     {
       "type": "Feature",
