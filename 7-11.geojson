@@ -58519,6 +58519,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193535",
+        "title": "松鐵",
+        "address": "台北市信義區松山路11號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.577914,
+          25.049192
+        ],
+        "type": "Point"
+      },
+      "id": "193535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193557",
         "title": "八德",
         "address": "台北市中正區臨沂街1號1樓",
