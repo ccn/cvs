@@ -58179,6 +58179,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192967",
+        "title": "神采",
+        "address": "台中市神岡區中山路773號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.678186,
+          24.249668
+        ],
+        "type": "Point"
+      },
+      "id": "192967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192978",
         "title": "長安營",
         "address": "台南市仁德區保仁路195號(營區內)",
