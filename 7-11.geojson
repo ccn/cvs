@@ -46007,6 +46007,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "181602",
+        "title": "大硯",
+        "address": "新竹縣竹北市文興路311號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.021537,
+          24.814304
+        ],
+        "type": "Point"
+      },
+      "id": "181602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "181613",
         "title": "松京",
         "address": "台北市中山區南京東路二段144號1樓",
@@ -50695,23 +50712,6 @@
         "type": "Point"
       },
       "id": "185497"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185501",
-        "title": "哈蜜",
-        "address": "台北市大同區重慶北路三段309號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.514002,
-          25.073896
-        ],
-        "type": "Point"
-      },
-      "id": "185501"
     },
     {
       "type": "Feature",
@@ -58587,6 +58587,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194125",
+        "title": "友達五(臨時店)",
+        "address": "新竹市東區力行路23號6樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.020219,
+          24.762283
+        ],
+        "type": "Point"
+      },
+      "id": "194125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196785",
         "title": "泰安一(臨)",
         "address": "台中市后里區安眉路113號",
@@ -58821,6 +58838,23 @@
         "type": "Point"
       },
       "id": "200583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200608",
+        "title": "哈蜜",
+        "address": "台北市大同區重慶北路三段309號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.514002,
+          25.073896
+        ],
+        "type": "Point"
+      },
+      "id": "200608"
     },
     {
       "type": "Feature",
