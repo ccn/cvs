@@ -18144,23 +18144,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "138295",
-        "title": "光南",
-        "address": "苗栗縣竹南鎮光復路265號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.87936,
-          24.691386
-        ],
-        "type": "Point"
-      },
-      "id": "138295"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138332",
         "title": "蘆讚",
         "address": "新北市蘆洲區中山二路184號",
@@ -46772,6 +46755,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182351",
+        "title": "光南",
+        "address": "苗栗縣竹南鎮照南里光復路342號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.879554,
+          24.691292
+        ],
+        "type": "Point"
+      },
+      "id": "182351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182373",
         "title": "國藝",
         "address": "桃園市桃園區南平路185號187號1樓",
@@ -52348,6 +52348,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186630",
+        "title": "鎮陽",
+        "address": "高雄市前鎮區鎮陽里前鎮街278號280號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308274,
+          22.592166
+        ],
+        "type": "Point"
+      },
+      "id": "186630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -54609,23 +54626,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188430",
-        "title": "中德",
-        "address": "新竹縣北埔鄉北埔村中山路42號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.056012,
-          24.701939
-        ],
-        "type": "Point"
-      },
-      "id": "188430"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188441",
         "title": "新樹孝",
         "address": "台中市太平區樹孝路48號50號1樓",
@@ -55693,23 +55693,6 @@
         "type": "Point"
       },
       "id": "189123"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "189145",
-        "title": "彰美",
-        "address": "彰化縣和美鎮彰美路三段385號387號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.51738,
-          24.102642
-        ],
-        "type": "Point"
-      },
-      "id": "189145"
     },
     {
       "type": "Feature",
@@ -56921,23 +56904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190385",
-        "title": "鎮豐",
-        "address": "桃園市平鎮區南豐路99號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.208267,
-          24.900128
-        ],
-        "type": "Point"
-      },
-      "id": "190385"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190400",
         "title": "重富",
         "address": "新北市三重區溪尾街321號323號1樓",
@@ -57380,6 +57346,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190721",
+        "title": "中德",
+        "address": "新竹縣北埔鄉北埔村中山路42號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.056012,
+          24.701939
+        ],
+        "type": "Point"
+      },
+      "id": "190721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190732",
         "title": "俊友",
         "address": "新竹市東區林森路81號",
@@ -57467,7 +57450,7 @@
       "properties": {
         "id": "190787",
         "title": "新清水",
-        "address": "台中市清水區五權路16號",
+        "address": "台中市清水區五權路16號1樓、民有路1號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -57478,6 +57461,23 @@
         "type": "Point"
       },
       "id": "190787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190798",
+        "title": "鎮豐",
+        "address": "桃園市平鎮區南豐路99號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.208267,
+          24.900128
+        ],
+        "type": "Point"
+      },
+      "id": "190798"
     },
     {
       "type": "Feature",
@@ -57584,9 +57584,26 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "190879",
+        "title": "彰美",
+        "address": "彰化縣和美鎮彰美路三段385號387號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.51738,
+          24.102642
+        ],
+        "type": "Point"
+      },
+      "id": "190879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "190880",
         "title": "隆城",
-        "address": "新北市土城區學士路17號",
+        "address": "新北市土城區學士路15巷2號17號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58434,6 +58451,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193133",
+        "title": "萬安",
+        "address": "彰化縣彰化市三民路341號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.545639,
+          24.086168
+        ],
+        "type": "Point"
+      },
+      "id": "193133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193144",
         "title": "員道",
         "address": "新竹縣竹東鎮員山路218之1號",
@@ -58498,6 +58532,23 @@
         "type": "Point"
       },
       "id": "193269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193292",
+        "title": "福懋興",
+        "address": "雲林縣斗六市石榴路317號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.588016,
+          23.727302
+        ],
+        "type": "Point"
+      },
+      "id": "193292"
     },
     {
       "type": "Feature",
@@ -64295,23 +64346,6 @@
         "type": "Point"
       },
       "id": "890793"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "890896",
-        "title": "萬安",
-        "address": "彰化縣彰化市三民路329號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.545332703017,
-          24.086225583007998
-        ],
-        "type": "Point"
-      },
-      "id": "890896"
     },
     {
       "type": "Feature",
@@ -78422,23 +78456,6 @@
         "type": "Point"
       },
       "id": "956167"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "956215",
-        "title": "鎮陽",
-        "address": "高雄市前鎮區鎮陽里前鎮街278號280號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.308274,
-          22.592166
-        ],
-        "type": "Point"
-      },
-      "id": "956215"
     },
     {
       "type": "Feature",
