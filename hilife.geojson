@@ -8301,23 +8301,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3447",
-        "title": "基隆隆鑽店",
-        "address": "基隆市仁愛區港西街７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.7399286588955,
-          25.1329980791534
-        ],
-        "type": "Point"
-      },
-      "id": "3447"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3449",
         "title": "北市山擎店",
         "address": "台北市中山區天祥路７０號",
@@ -12687,23 +12670,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4001",
-        "title": "板橋神采店",
-        "address": "新北市板橋區貴興路８０號一樓部份及８２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.455994,
-          25.002826
-        ],
-        "type": "Point"
-      },
-      "id": "4001"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4002",
         "title": "台中同興店",
         "address": "台中市北屯區同榮路６８號",
@@ -16072,7 +16038,7 @@
       "properties": {
         "id": "4277",
         "title": "大寮興會結店",
-        "address": "高雄市大寮區會結路３７-３號",
+        "address": "高雄市大寮區華中南路１０６６號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19062,6 +19028,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4530",
+        "title": "大社翠屏店",
+        "address": "高雄市大社區翠屏路８４巷４-２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.3510903341796,
+          22.7292642957783
+        ],
+        "type": "Point"
+      },
+      "id": "4530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4532",
         "title": "沙鹿竹林店",
         "address": "台中市沙鹿區中山路１１７、１１７－１、１１７－２號",
@@ -19154,8 +19137,8 @@
       },
       "geometry": {
         "coordinates": [
-          118.3762061729638,
-          24.446391650423
+          118.3761203422753,
+          24.446215844591
         ],
         "type": "Point"
       },
@@ -19171,12 +19154,29 @@
       },
       "geometry": {
         "coordinates": [
-          121.5776692937388,
-          25.0613105750869
+          121.578050167419,
+          25.0611599340565
         ],
         "type": "Point"
       },
       "id": "4553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4555",
+        "title": "歸仁武東店",
+        "address": "台南市歸仁區中正南路三段２４２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2704076721598,
+          22.9123591529464
+        ],
+        "type": "Point"
+      },
+      "id": "4555"
     },
     {
       "type": "Feature",
@@ -20911,23 +20911,6 @@
         "type": "Point"
       },
       "id": "F367"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "F384",
-        "title": "桃縣崎頂店",
-        "address": "桃園市大溪區介壽路９１８、９２０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.283921992993,
-          24.8992885305804
-        ],
-        "type": "Point"
-      },
-      "id": "F384"
     },
     {
       "type": "Feature",
