@@ -23805,23 +23805,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "148199",
-        "title": "季欣",
-        "address": "新北市泰山區全興路109號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.433772,
-          25.056753
-        ],
-        "type": "Point"
-      },
-      "id": "148199"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "148203",
         "title": "銀光",
         "address": "高雄市苓雅區林圍里光華一路263號",
@@ -46772,6 +46755,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182362",
+        "title": "永成",
+        "address": "台南市南區佛壇里明興路1322號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.184632,
+          22.923219
+        ],
+        "type": "Point"
+      },
+      "id": "182362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182373",
         "title": "國藝",
         "address": "桃園市桃園區南平路185號187號1樓",
@@ -58638,6 +58638,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193742",
+        "title": "永騰",
+        "address": "新北市永和區信義路7號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.514608,
+          25.011904
+        ],
+        "type": "Point"
+      },
+      "id": "193742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194125",
         "title": "友達五(臨時店)",
         "address": "新竹市東區力行路23號6樓",
@@ -58910,6 +58927,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200619",
+        "title": "新中工",
+        "address": "台中市西屯區工業區一路58之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.614555,
+          24.179681
+        ],
+        "type": "Point"
+      },
+      "id": "200619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200620",
         "title": "鑫站",
         "address": "台北市大同區長安西路52之1號B1",
@@ -58923,6 +58957,23 @@
         "type": "Point"
       },
       "id": "200620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200642",
+        "title": "季欣",
+        "address": "新北市泰山區全興路109號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.433772,
+          25.056753
+        ],
+        "type": "Point"
+      },
+      "id": "200642"
     },
     {
       "type": "Feature",
@@ -75005,23 +75056,6 @@
         "type": "Point"
       },
       "id": "944511"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "944533",
-        "title": "新中工",
-        "address": "台中市西屯區工業區一路58之1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.614555,
-          24.179681
-        ],
-        "type": "Point"
-      },
-      "id": "944533"
     },
     {
       "type": "Feature",
