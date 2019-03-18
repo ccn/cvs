@@ -19215,6 +19215,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4563",
+        "title": "神岡元富店",
+        "address": "台中市神岡區大富路１８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6956127341298,
+          24.2477512702918
+        ],
+        "type": "Point"
+      },
+      "id": "4563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
