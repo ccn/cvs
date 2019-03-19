@@ -11072,23 +11072,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3857",
-        "title": "北縣湯城店",
-        "address": "新北市三重區重新路五段６０９巷１６之７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.467850716857,
-          25.0464663109853
-        ],
-        "type": "Point"
-      },
-      "id": "3857"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3858",
         "title": "宜蘭隘城店",
         "address": "宜蘭縣蘇澳鎮海山西路２７０號",
@@ -12026,7 +12009,7 @@
       "properties": {
         "id": "3953",
         "title": "五股郁芳店",
-        "address": "新北市五股區成泰路三段１７５、１７５-１號",
+        "address": "新北市五股區成泰路三段１７５號",
         "marker-color": "#01ac50"
       },
       "geometry": {
