@@ -48200,6 +48200,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183516",
+        "title": "真潭",
+        "address": "台南市歸仁區大潭里中正南路三段22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.271982,
+          22.915965
+        ],
+        "type": "Point"
+      },
+      "id": "183516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183527",
         "title": "振陞",
         "address": "桃園市龜山區振興路1301號1樓",
@@ -58651,6 +58668,23 @@
         "type": "Point"
       },
       "id": "193742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193775",
+        "title": "興富",
+        "address": "花蓮縣富里鄉中山路61號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.247367,
+          23.173567
+        ],
+        "type": "Point"
+      },
+      "id": "193775"
     },
     {
       "type": "Feature",
