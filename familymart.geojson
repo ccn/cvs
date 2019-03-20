@@ -27536,25 +27536,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015555",
-        "title": "全家三重金勇店",
-        "address": "新北市三重區中正北路378號1樓",
-        "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.476727,
-          25.069685
-        ],
-        "type": "Point"
-      },
-      "id": "015555"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015562",
         "title": "全家新店安和店",
         "address": "新北市新店區永平街89號1樓",
@@ -63765,6 +63746,25 @@
         "type": "Point"
       },
       "id": "018274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018688",
+        "title": "全家三重金勇店",
+        "address": "新北市三重區中正北路378號1樓",
+        "post": "241",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.476727,
+          25.069685
+        ],
+        "type": "Point"
+      },
+      "id": "018688"
     },
     {
       "type": "Feature",
