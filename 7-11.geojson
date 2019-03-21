@@ -58604,6 +58604,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193487",
+        "title": "豐富",
+        "address": "新竹縣竹北市復興三路一段105號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.030448,
+          24.812181
+        ],
+        "type": "Point"
+      },
+      "id": "193487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193535",
         "title": "松鐵",
         "address": "台北市信義區松山路11號B1樓",
@@ -58634,6 +58651,23 @@
         "type": "Point"
       },
       "id": "193557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193605",
+        "title": "大益",
+        "address": "桃園市觀音區濱海路大潭段22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.069881,
+          25.030719
+        ],
+        "type": "Point"
+      },
+      "id": "193605"
     },
     {
       "type": "Feature",
