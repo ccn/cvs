@@ -26928,25 +26928,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015488",
-        "title": "全家遼寧店",
-        "address": "台北市中山區長安東路二段216號",
-        "post": "104",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.542416,
-          25.048204
-        ],
-        "type": "Point"
-      },
-      "id": "015488"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015490",
         "title": "全家觀音敬業店",
         "address": "桃園市觀音區成功路一段551，553，555號1樓",
@@ -63651,6 +63632,25 @@
         "type": "Point"
       },
       "id": "018205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018207",
+        "title": "全家遼寧店",
+        "address": "台北市中山區長安東路二段216號",
+        "post": "104",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.542416,
+          25.048204
+        ],
+        "type": "Point"
+      },
+      "id": "018207"
     },
     {
       "type": "Feature",
