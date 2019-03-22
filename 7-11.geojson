@@ -48489,6 +48489,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183778",
+        "title": "佳立",
+        "address": "台南市佳里區佳東路361號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.182572,
+          23.161775
+        ],
+        "type": "Point"
+      },
+      "id": "183778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183790",
         "title": "維禮",
         "address": "新北市板橋區四維路276號278號1樓",
@@ -55914,23 +55931,6 @@
         "type": "Point"
       },
       "id": "189374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "189396",
-        "title": "鑫騰龍",
-        "address": "桃園市龜山區萬壽路一段110號112號114號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.407023,
-          25.018638
-        ],
-        "type": "Point"
-      },
-      "id": "189396"
     },
     {
       "type": "Feature",
