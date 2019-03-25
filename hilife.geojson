@@ -17498,6 +17498,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4385",
+        "title": "大溪高介店",
+        "address": "桃園市大溪區介壽路７５６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2843891398811,
+          24.9040293624701
+        ],
+        "type": "Point"
+      },
+      "id": "4385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4386",
         "title": "北市北運店",
         "address": "台北市中正區市民大道一段１６８號",
@@ -17732,6 +17749,23 @@
         "type": "Point"
       },
       "id": "4405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4406",
+        "title": "板橋稚暉店",
+        "address": "新北市板橋區貴興路８９號、９１號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.456486,
+          25.002744
+        ],
+        "type": "Point"
+      },
+      "id": "4406"
     },
     {
       "type": "Feature",
@@ -18854,6 +18888,23 @@
         "type": "Point"
       },
       "id": "4507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4508",
+        "title": "霧峰四德店",
+        "address": "台中市霧峰區四德路４７７之２號、之２之１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.676126,
+          24.063839
+        ],
+        "type": "Point"
+      },
+      "id": "4508"
     },
     {
       "type": "Feature",
