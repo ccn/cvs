@@ -47707,6 +47707,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183147",
+        "title": "聖昌",
+        "address": "宜蘭縣羅東鎮站前南路260號262號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.774414,
+          24.672976
+        ],
+        "type": "Point"
+      },
+      "id": "183147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183158",
         "title": "鑫城",
         "address": "新北市土城區中華路一段100號1樓",
@@ -49845,23 +49862,6 @@
         "type": "Point"
       },
       "id": "184900"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184911",
-        "title": "美生",
-        "address": "台中市西區美村路一段54號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.661556,
-          24.153279
-        ],
-        "type": "Point"
-      },
-      "id": "184911"
     },
     {
       "type": "Feature",
@@ -52395,6 +52395,23 @@
         "type": "Point"
       },
       "id": "186630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186674",
+        "title": "美生",
+        "address": "台中市西區美村路一段54號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.661556,
+          24.153279
+        ],
+        "type": "Point"
+      },
+      "id": "186674"
     },
     {
       "type": "Feature",
@@ -58128,6 +58145,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192864",
+        "title": "貝殼",
+        "address": "高雄市旗津區復興里旗津三路356.358號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.27594,
+          22.601371
+        ],
+        "type": "Point"
+      },
+      "id": "192864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192875",
         "title": "港勝",
         "address": "台北市南港區經貿二路2號B1樓",
@@ -58689,6 +58723,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193731",
+        "title": "鑫成",
+        "address": "台北市士林區至誠路二段82號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.527802,
+          25.101557
+        ],
+        "type": "Point"
+      },
+      "id": "193731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193742",
         "title": "永騰",
         "address": "新北市永和區信義路7號1樓",
@@ -58719,6 +58770,23 @@
         "type": "Point"
       },
       "id": "193775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193878",
+        "title": "香蘭",
+        "address": "台東縣太麻里鄉太麻里街575號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.996458,
+          22.599514
+        ],
+        "type": "Point"
+      },
+      "id": "193878"
     },
     {
       "type": "Feature",
@@ -86480,23 +86548,6 @@
         "type": "Point"
       },
       "id": "979311"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "980012",
-        "title": "佳立",
-        "address": "台南市佳里區新生東路1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.18231,
-          23.162222
-        ],
-        "type": "Point"
-      },
-      "id": "980012"
     },
     {
       "type": "Feature",
