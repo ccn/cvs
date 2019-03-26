@@ -32645,23 +32645,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "163497",
-        "title": "銘豐",
-        "address": "新竹縣竹北市嘉豐五路一段1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.031313,
-          24.815608
-        ],
-        "type": "Point"
-      },
-      "id": "163497"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "163501",
         "title": "樂天",
         "address": "南投縣南投市南陽路476號",
@@ -58145,23 +58128,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "192864",
-        "title": "貝殼",
-        "address": "高雄市旗津區復興里旗津三路356.358號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.27594,
-          22.601371
-        ],
-        "type": "Point"
-      },
-      "id": "192864"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "192875",
         "title": "港勝",
         "address": "台北市南港區經貿二路2號B1樓",
@@ -58957,6 +58923,23 @@
         "type": "Point"
       },
       "id": "198596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198622",
+        "title": "銘豐",
+        "address": "新竹縣竹北市嘉豐五路一段1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.031313,
+          24.815608
+        ],
+        "type": "Point"
+      },
+      "id": "198622"
     },
     {
       "type": "Feature",
