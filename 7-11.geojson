@@ -52382,6 +52382,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186663",
+        "title": "實踐大學",
+        "address": "台北市中山區大直街70號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.546189,
+          25.083755
+        ],
+        "type": "Point"
+      },
+      "id": "186663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186674",
         "title": "美生",
         "address": "台中市西區美村路一段54號",
@@ -56513,23 +56530,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190031",
-        "title": "建綸",
-        "address": "台北市大安區仁愛路四段151巷27號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551922392981,
-          25.039776910453497
-        ],
-        "type": "Point"
-      },
-      "id": "190031"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190042",
         "title": "羅斯福",
         "address": "台北市文山區羅斯福路五段216號",
@@ -57465,23 +57465,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190787",
-        "title": "新清水",
-        "address": "台中市清水區五權路16號1樓、民有路1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.570654,
-          24.276218
-        ],
-        "type": "Point"
-      },
-      "id": "190787"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190798",
         "title": "鎮豐",
         "address": "桃園市平鎮區南豐路99號",
@@ -57886,6 +57869,23 @@
         "type": "Point"
       },
       "id": "192657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192668",
+        "title": "順舜",
+        "address": "桃園市蘆竹區南順六街22號24號26號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.290084,
+          25.039327
+        ],
+        "type": "Point"
+      },
+      "id": "192668"
     },
     {
       "type": "Feature",
@@ -58519,6 +58519,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193199",
+        "title": "喬興",
+        "address": "台南市西港區慶安里新興街8-77.8-78號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.202635,
+          23.117135
+        ],
+        "type": "Point"
+      },
+      "id": "193199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193214",
         "title": "立軒",
         "address": "新北市林口區文化一路一段200號202號1樓2樓",
@@ -58532,6 +58549,23 @@
         "type": "Point"
       },
       "id": "193214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193247",
+        "title": "慶林",
+        "address": "台北市信義區虎林街151號153號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.57669,
+          25.039499
+        ],
+        "type": "Point"
+      },
+      "id": "193247"
     },
     {
       "type": "Feature",
@@ -58583,6 +58617,40 @@
         "type": "Point"
       },
       "id": "193328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193384",
+        "title": "建綸",
+        "address": "台北市大安區仁愛路四段151巷33號忠孝東路四段216巷32弄19號21號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551972,
+          25.040086
+        ],
+        "type": "Point"
+      },
+      "id": "193384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193443",
+        "title": "寶山街",
+        "address": "桃園市桃園區寶山街280號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.314477,
+          25.011844
+        ],
+        "type": "Point"
+      },
+      "id": "193443"
     },
     {
       "type": "Feature",
@@ -58736,6 +58804,23 @@
         "type": "Point"
       },
       "id": "193775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193786",
+        "title": "新羅興",
+        "address": "宜蘭縣羅東鎮興東路23之2號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.768066,
+          24.677141
+        ],
+        "type": "Point"
+      },
+      "id": "193786"
     },
     {
       "type": "Feature",
@@ -58940,6 +59025,23 @@
         "type": "Point"
       },
       "id": "198622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198633",
+        "title": "新清水",
+        "address": "台中市清水區五權路16號1樓、民有路1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.570654,
+          24.276218
+        ],
+        "type": "Point"
+      },
+      "id": "198633"
     },
     {
       "type": "Feature",
@@ -76127,23 +76229,6 @@
         "type": "Point"
       },
       "id": "950538"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "950550",
-        "title": "實踐大學",
-        "address": "台北市中山區大直街70號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.546189,
-          25.083755
-        ],
-        "type": "Point"
-      },
-      "id": "950550"
     },
     {
       "type": "Feature",
