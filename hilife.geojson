@@ -18977,6 +18977,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4520",
+        "title": "永靖九分店",
+        "address": "彰化縣永靖鄉九分路４５２號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.561444,
+          23.934528
+        ],
+        "type": "Point"
+      },
+      "id": "4520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4522",
         "title": "楊梅梅溪店",
         "address": "桃園市楊梅區中山北路一段３８８號",
@@ -19317,6 +19334,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4571",
+        "title": "桃園快樂店",
+        "address": "桃園市桃園區大有路７２６、７２８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3159743201718,
+          25.0186117858998
+        ],
+        "type": "Point"
+      },
+      "id": "4571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4573",
         "title": "中和浪漫店",
         "address": "新北市中和區工專路３８號",
@@ -19330,6 +19364,23 @@
         "type": "Point"
       },
       "id": "4573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4577",
+        "title": "大社中里店",
+        "address": "高雄市大社區中里里三民路９６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.3504870809222,
+          22.7227922143994
+        ],
+        "type": "Point"
+      },
+      "id": "4577"
     },
     {
       "type": "Feature",
