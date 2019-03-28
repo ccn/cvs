@@ -20069,25 +20069,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014915",
-        "title": "全家高雄建武店",
-        "address": "高雄市三民區建興路79號1樓",
-        "post": "807",
-        "all": "COFFEE,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.329104,
-          22.642448
-        ],
-        "type": "Point"
-      },
-      "id": "014915"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014916",
         "title": "全家鳳山鳳東店",
         "address": "高雄市鳳山區鳳東路520號",
@@ -61451,25 +61432,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018064",
-        "title": "全家褒忠聚寶店",
-        "address": "雲林縣褒忠鄉中正路131號1樓",
-        "post": "634",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.312409,
-          23.694684
-        ],
-        "type": "Point"
-      },
-      "id": "018064"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018065",
         "title": "全家彰化新彰基店",
         "address": "彰化縣彰化市博愛街101號1樓",
@@ -62724,6 +62686,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018138",
+        "title": "全家新秀傳店",
+        "address": "彰化縣彰化市南平街61巷51號",
+        "post": "500",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.540315,
+          24.065441
+        ],
+        "type": "Point"
+      },
+      "id": "018138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018139",
         "title": "全家台發店",
         "address": "台北市松山區八德路三段30號壹樓（如附圖）",
@@ -63389,25 +63370,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018177",
-        "title": "全家新竹新四維店",
-        "address": "新竹市東區中華路三段8號1、2樓",
-        "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,muffin,SharePot,Kantoni,TANHOU,FreshFruit,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.963152,
-          24.797285
-        ],
-        "type": "Point"
-      },
-      "id": "018177"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018178",
         "title": "全家大里河堤店",
         "address": "台中市大里區立中街9號",
@@ -63423,6 +63385,25 @@
         "type": "Point"
       },
       "id": "018178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018179",
+        "title": "全家高雄福心店",
+        "address": "高雄市新興區復興一路49號壹樓",
+        "post": "800",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.307939,
+          22.629935
+        ],
+        "type": "Point"
+      },
+      "id": "018179"
     },
     {
       "type": "Feature",
@@ -63560,6 +63541,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018190",
+        "title": "全家新竹新四維店",
+        "address": "新竹市東區中華路三段8號1、2樓",
+        "post": "300",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,muffin,SharePot,Kantoni,TANHOU,FreshFruit,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.963152,
+          24.797285
+        ],
+        "type": "Point"
+      },
+      "id": "018190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018191",
         "title": "全家后里旺安店",
         "address": "台中市后里區公安路105號一樓",
@@ -63575,6 +63575,25 @@
         "type": "Point"
       },
       "id": "018191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018192",
+        "title": "全家褒忠聚寶店",
+        "address": "雲林縣褒忠鄉中正路131號1樓",
+        "post": "634",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.312409,
+          23.694684
+        ],
+        "type": "Point"
+      },
+      "id": "018192"
     },
     {
       "type": "Feature",
@@ -63708,6 +63727,25 @@
         "type": "Point"
       },
       "id": "018214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018219",
+        "title": "全家高雄建武店",
+        "address": "高雄市三民區建興路79號1樓",
+        "post": "807",
+        "all": "COFFEE,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.329104,
+          22.642448
+        ],
+        "type": "Point"
+      },
+      "id": "018219"
     },
     {
       "type": "Feature",
