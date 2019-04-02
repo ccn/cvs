@@ -14887,8 +14887,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.492118,
-          25.079699
+          121.4922386994057,
+          25.0796042561797
         ],
         "type": "Point"
       },
@@ -18960,6 +18960,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4514",
+        "title": "林口老師店",
+        "address": "新北市林口區自強二街８、１０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.39746,
+          25.078367
+        ],
+        "type": "Point"
+      },
+      "id": "4514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4516",
         "title": "梧棲向上店",
         "address": "台中市梧棲區向上路八段９６７號",
@@ -18990,6 +19007,23 @@
         "type": "Point"
       },
       "id": "4520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4521",
+        "title": "龍潭客棧店",
+        "address": "桃園市龍潭區中原路二段５７５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1938339914017,
+          24.832923197756
+        ],
+        "type": "Point"
+      },
+      "id": "4521"
     },
     {
       "type": "Feature",
@@ -19347,6 +19381,23 @@
         "type": "Point"
       },
       "id": "4571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4572",
+        "title": "蘆竹海湖店",
+        "address": "桃園市蘆竹區海湖東路２９５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2697131956835,
+          25.1043057771676
+        ],
+        "type": "Point"
+      },
+      "id": "4572"
     },
     {
       "type": "Feature",
