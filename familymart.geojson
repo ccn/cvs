@@ -6123,25 +6123,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012852",
-        "title": "全家台南德東店",
-        "address": "台南市東區德東街83號全棟",
-        "post": "701",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.229718,
-          22.961775
-        ],
-        "type": "Point"
-      },
-      "id": "012852"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012856",
         "title": "全家淡水淡海店",
         "address": "新北市淡水區中正路一段62巷2號",
@@ -63822,6 +63803,25 @@
         "type": "Point"
       },
       "id": "018247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018253",
+        "title": "全家台南德東店",
+        "address": "台南市東區德東街83號全棟",
+        "post": "701",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.229718,
+          22.961775
+        ],
+        "type": "Point"
+      },
+      "id": "018253"
     },
     {
       "type": "Feature",
