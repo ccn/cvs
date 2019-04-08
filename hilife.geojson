@@ -19419,6 +19419,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4576",
+        "title": "民雄頭橋店",
+        "address": "嘉義縣民雄鄉興南村工業一路２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4361158074324,
+          23.5198612876091
+        ],
+        "type": "Point"
+      },
+      "id": "4576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4577",
         "title": "大社中里店",
         "address": "高雄市大社區中里里三民路９６號",
