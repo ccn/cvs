@@ -40448,23 +40448,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171719",
-        "title": "先嗇宮",
-        "address": "新北市三重區光復路一段25號27號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.472229,
-          25.047657
-        ],
-        "type": "Point"
-      },
-      "id": "171719"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171720",
         "title": "欣福",
         "address": "台北市內湖區民權東路六段120巷7弄8號",
@@ -58791,6 +58774,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193801",
+        "title": "桃捷高",
+        "address": "桃園市中壢區高鐡北路一段5號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "193801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193878",
         "title": "香蘭",
         "address": "台東縣太麻里鄉太麻里街575號",
@@ -58923,6 +58923,23 @@
         "type": "Point"
       },
       "id": "197043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197054",
+        "title": "先嗇宮",
+        "address": "新北市三重區光復路一段25號27號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.472229,
+          25.047657
+        ],
+        "type": "Point"
+      },
+      "id": "197054"
     },
     {
       "type": "Feature",
