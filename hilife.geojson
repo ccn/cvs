@@ -19402,6 +19402,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4574",
+        "title": "士林月圓店",
+        "address": "台北市士林區磺溪街２３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5229159819592,
+          25.1063269241351
+        ],
+        "type": "Point"
+      },
+      "id": "4574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4576",
         "title": "民雄頭橋店",
         "address": "嘉義縣民雄鄉興南村工業一路２號",
