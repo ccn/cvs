@@ -58094,6 +58094,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193007",
+        "title": "埔嵩",
+        "address": "新竹縣新埔鎮田新路292號296號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "193007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193018",
         "title": "川金",
         "address": "新北市淡水區淡金路一段567號569號571號1樓",
