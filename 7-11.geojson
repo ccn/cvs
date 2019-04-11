@@ -57941,6 +57941,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192886",
+        "title": "向興",
+        "address": "台中市西區向上路一段95號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.663283,
+          24.1466
+        ],
+        "type": "Point"
+      },
+      "id": "192886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192897",
         "title": "泰安",
         "address": "苗栗縣泰安鄉錦水村圓墩83-2號",
@@ -58101,8 +58118,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.080375,
+          24.824655
         ],
         "type": "Point"
       },
