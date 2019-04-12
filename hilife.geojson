@@ -18773,6 +18773,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4497",
+        "title": "竹北晨晞店",
+        "address": "新竹縣竹北市光明六路３７１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.001505635582,
+          24.8323305513206
+        ],
+        "type": "Point"
+      },
+      "id": "4497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4501",
         "title": "左營榮華店",
         "address": "高雄市左營區大中一路３８６號",
@@ -18973,6 +18990,23 @@
         "type": "Point"
       },
       "id": "4516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4517",
+        "title": "龍井茄投店",
+        "address": "台中市龍井區茄投路１之１號壹樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.534593,
+          24.177421
+        ],
+        "type": "Point"
+      },
+      "id": "4517"
     },
     {
       "type": "Feature",
@@ -19330,6 +19364,23 @@
         "type": "Point"
       },
       "id": "4564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4565",
+        "title": "左營自誠店",
+        "address": "高雄市左營區自由二路１４２之１號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.3089451804912,
+          22.6618166370688
+        ],
+        "type": "Point"
+      },
+      "id": "4565"
     },
     {
       "type": "Feature",
