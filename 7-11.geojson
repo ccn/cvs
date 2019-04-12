@@ -56734,23 +56734,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190455",
-        "title": "明水",
-        "address": "台北市中山區明水路636號樂群三路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551324,
-          25.082822
-        ],
-        "type": "Point"
-      },
-      "id": "190455"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190466",
         "title": "板信",
         "address": "新北市板橋區信義路142號144號146號1樓",
@@ -58349,6 +58332,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193177",
+        "title": "寶湖",
+        "address": "台北市內湖區民權東路六段180巷6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.59256,
+          25.068081
+        ],
+        "type": "Point"
+      },
+      "id": "193177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193188",
         "title": "安坑",
         "address": "新北市新店區安民街346號348號1樓",
@@ -58810,7 +58810,7 @@
       "properties": {
         "id": "193801",
         "title": "桃捷高",
-        "address": "桃園市中壢區高鐡北路一段5號B1樓",
+        "address": "桃園市中壢區高鐵北路一段5號B1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58940,6 +58940,23 @@
         "type": "Point"
       },
       "id": "196811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197032",
+        "title": "明水",
+        "address": "台北市中山區明水路636號樂群三路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551324,
+          25.082822
+        ],
+        "type": "Point"
+      },
+      "id": "197032"
     },
     {
       "type": "Feature",
