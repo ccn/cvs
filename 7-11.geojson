@@ -58672,6 +58672,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193580",
+        "title": "蘆愛",
+        "address": "桃園市蘆竹區仁愛路一段464之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.295268,
+          25.051087
+        ],
+        "type": "Point"
+      },
+      "id": "193580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193605",
         "title": "大益",
         "address": "桃園市觀音區濱海路大潭段22號",
@@ -58702,6 +58719,40 @@
         "type": "Point"
       },
       "id": "193616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193627",
+        "title": "乾坤科",
+        "address": "新竹縣寶山鄉研發二路2號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.00035,
+          24.775081
+        ],
+        "type": "Point"
+      },
+      "id": "193627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193661",
+        "title": "龍和",
+        "address": "台北市大安區和平東路二段197號199號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.542241,
+          25.025232
+        ],
+        "type": "Point"
+      },
+      "id": "193661"
     },
     {
       "type": "Feature",
