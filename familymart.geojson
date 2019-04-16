@@ -8118,25 +8118,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013225",
-        "title": "全家中和自強店",
-        "address": "新北市中和區莒光路131號",
-        "post": "235",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,veg,oneice,muffin,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.472629,
-          25.001821
-        ],
-        "type": "Point"
-      },
-      "id": "013225"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013226",
         "title": "全家板橋富山店",
         "address": "新北市板橋區三民路一段94號，96號",
@@ -22710,25 +22691,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015171",
-        "title": "全家新竹新美店",
-        "address": "新竹市北區田美三街47號",
-        "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.97671,
-          24.816377
-        ],
-        "type": "Point"
-      },
-      "id": "015171"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015172",
         "title": "全家湖口文和店",
         "address": "新竹縣湖口鄉仁和路178號180號",
@@ -29261,25 +29223,6 @@
         "type": "Point"
       },
       "id": "015801"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015802",
-        "title": "全家永康新科店",
-        "address": "台南市永康區中正七街27號、29號一樓",
-        "post": "710",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,veg,COFFEEDeliver,SharePot,SUNMAI,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.240051,
-          23.04004
-        ],
-        "type": "Point"
-      },
-      "id": "015802"
     },
     {
       "type": "Feature",
@@ -43173,25 +43116,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016873",
-        "title": "全家中和民德店",
-        "address": "新北市中和區壽德街26號1樓",
-        "post": "235",
-        "all": "COFFEE,SWEETPOTATO,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.466456,
-          24.99435
-        ],
-        "type": "Point"
-      },
-      "id": "016873"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016875",
         "title": "全家三重龍明店",
         "address": "新北市三重區龍濱路168號1樓",
@@ -52517,25 +52441,6 @@
         "type": "Point"
       },
       "id": "017506"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017507",
-        "title": "全家土城城堡店",
-        "address": "新北市土城區福仁街50巷1號",
-        "post": "236",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.439596,
-          24.975089
-        ],
-        "type": "Point"
-      },
-      "id": "017507"
     },
     {
       "type": "Feature",
@@ -63408,6 +63313,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018225",
+        "title": "全家竹北新溪店",
+        "address": "新竹縣竹北市環北路五段398號（配送用）",
+        "post": "302",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.997375,
+          24.836026
+        ],
+        "type": "Point"
+      },
+      "id": "018225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018226",
         "title": "全家台中益豐店",
         "address": "台中市南屯區向上路三段335號",
@@ -63959,6 +63883,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018302",
+        "title": "全家中和民德店",
+        "address": "新北市中和區壽德街26號1樓",
+        "post": "235",
+        "all": "COFFEE,SWEETPOTATO,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.466456,
+          24.99435
+        ],
+        "type": "Point"
+      },
+      "id": "018302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018303",
+        "title": "全家中和自強店",
+        "address": "新北市中和區莒光路131號",
+        "post": "235",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,veg,oneice,muffin,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.472629,
+          25.001821
+        ],
+        "type": "Point"
+      },
+      "id": "018303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018304",
         "title": "全家八德貴族店",
         "address": "桃園市八德區介壽路二段309號",
@@ -64016,6 +63978,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018330",
+        "title": "全家土城城堡店",
+        "address": "新北市土城區福仁街50巷1號",
+        "post": "236",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.439596,
+          24.975089
+        ],
+        "type": "Point"
+      },
+      "id": "018330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018334",
         "title": "全家三重溪尾店",
         "address": "新北市三重區溪尾街160號1樓",
@@ -64050,6 +64031,25 @@
         "type": "Point"
       },
       "id": "018344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018384",
+        "title": "全家新竹新美店",
+        "address": "新竹市北區田美三街47號",
+        "post": "300",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.97671,
+          24.816377
+        ],
+        "type": "Point"
+      },
+      "id": "018384"
     },
     {
       "type": "Feature",
