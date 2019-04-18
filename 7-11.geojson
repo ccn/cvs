@@ -46806,23 +46806,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182672",
-        "title": "新楊欣",
-        "address": "桃園市楊梅區中山北路一段360號362號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.157665,
-          24.908756
-        ],
-        "type": "Point"
-      },
-      "id": "182672"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182683",
         "title": "新基隆一",
         "address": "基隆市仁愛區港西街5號",
@@ -58451,6 +58434,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193281",
+        "title": "鑫大立",
+        "address": "台中市南屯區精科路11號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.60389,
+          24.14745
+        ],
+        "type": "Point"
+      },
+      "id": "193281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193292",
         "title": "福懋興",
         "address": "雲林縣斗六市石榴路317號",
@@ -58866,12 +58866,29 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.214621,
+          25.013844
         ],
         "type": "Point"
       },
       "id": "193801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193856",
+        "title": "莊壢",
+        "address": "桃園市中壢區莊敬路199號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.257317,
+          24.966461
+        ],
+        "type": "Point"
+      },
+      "id": "193856"
     },
     {
       "type": "Feature",
@@ -59388,13 +59405,13 @@
       "properties": {
         "id": "200608",
         "title": "哈蜜",
-        "address": "台北市大同區重慶北路三段309號",
+        "address": "台北市大同區重慶北路三段309、311號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.514002,
-          25.073896
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -59518,6 +59535,23 @@
         "type": "Point"
       },
       "id": "200675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200723",
+        "title": "新楊欣",
+        "address": "桃園市楊梅區中山北路一段360號362號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.157665,
+          24.908756
+        ],
+        "type": "Point"
+      },
+      "id": "200723"
     },
     {
       "type": "Feature",
