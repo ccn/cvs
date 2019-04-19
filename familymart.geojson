@@ -60406,25 +60406,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018054",
-        "title": "全家虎尾工專店",
-        "address": "雲林縣虎尾鎮立德路2號",
-        "post": "632",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.424937,
-          23.703323
-        ],
-        "type": "Point"
-      },
-      "id": "018054"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018056",
         "title": "全家新竹大富店",
         "address": "新竹市北區西大路527號",
@@ -63256,6 +63237,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018221",
+        "title": "全家墾丁大街店",
+        "address": "屏東縣恆春鎮墾丁路148號",
+        "post": "946",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.799051,
+          21.945227
+        ],
+        "type": "Point"
+      },
+      "id": "018221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018222",
         "title": "全家國父紀念館店",
         "address": "台北市大安區光復南路292號（範圍如附圖）",
@@ -63271,6 +63271,25 @@
         "type": "Point"
       },
       "id": "018222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018223",
+        "title": "全家樹林東興店",
+        "address": "新北市樹林區東興街22號1樓",
+        "post": "238",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.410326,
+          24.977829
+        ],
+        "type": "Point"
+      },
+      "id": "018223"
     },
     {
       "type": "Feature",
@@ -63674,6 +63693,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018248",
+        "title": "全家安富店",
+        "address": "台北市大安區安和路一段49巷10號",
+        "post": "106",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551614,
+          25.038461
+        ],
+        "type": "Point"
+      },
+      "id": "018248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018250",
         "title": "全家冬山義新店",
         "address": "宜蘭縣冬山鄉義成路三段409號",
@@ -63769,6 +63807,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018257",
+        "title": "全家大社萬津店",
+        "address": "高雄市大社區萬金路八號一樓",
+        "post": "815",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.344035,
+          22.748837
+        ],
+        "type": "Point"
+      },
+      "id": "018257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018262",
         "title": "全家永和國艷店",
         "address": "新北市永和區民樂街39巷2號1樓",
@@ -63860,6 +63917,25 @@
         "type": "Point"
       },
       "id": "018284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018289",
+        "title": "全家虎尾工專店",
+        "address": "雲林縣虎尾鎮立德路2號",
+        "post": "632",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.424937,
+          23.703323
+        ],
+        "type": "Point"
+      },
+      "id": "018289"
     },
     {
       "type": "Feature",
