@@ -36086,25 +36086,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016327",
-        "title": "全家龜山陸光店",
-        "address": "桃園市龜山區陸光路98號1樓",
-        "post": "333",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.330963,
-          24.996065
-        ],
-        "type": "Point"
-      },
-      "id": "016327"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016328",
         "title": "全家新竹香山店",
         "address": "新竹市香山區中華路五段678號1樓",
@@ -58981,6 +58962,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017957",
+        "title": "全家高雄臨一店",
+        "address": "高雄市鼓山區臨海一路21之3號附5",
+        "post": "804",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.273724,
+          22.621426
+        ],
+        "type": "Point"
+      },
+      "id": "017957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017958",
         "title": "全家高雄南衙店",
         "address": "高雄市前鎮區草衙二路337號",
@@ -63351,6 +63351,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018227",
+        "title": "全家彰化金馬金店",
+        "address": "彰化縣彰化市彰美路一段臨282號",
+        "post": "500",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5359209,
+          24.0904248
+        ],
+        "type": "Point"
+      },
+      "id": "018227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018228",
+        "title": "全家金門金發店",
+        "address": "金門縣金湖鎮環島南路四段480號1樓",
+        "post": "891",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.39689,
+          24.439243
+        ],
+        "type": "Point"
+      },
+      "id": "018228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018229",
         "title": "全家新生南路店",
         "address": "台北市大安區新生南路一段163號",
@@ -63708,6 +63746,25 @@
         "type": "Point"
       },
       "id": "018248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018249",
+        "title": "全家高雄心衙店",
+        "address": "高雄市前鎮區新衙路351號",
+        "post": "806",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.31580471,
+          22.58156235
+        ],
+        "type": "Point"
+      },
+      "id": "018249"
     },
     {
       "type": "Feature",
@@ -64145,6 +64202,25 @@
         "type": "Point"
       },
       "id": "018384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018514",
+        "title": "全家龜山陸光店",
+        "address": "桃園市龜山區陸光路98號1樓",
+        "post": "333",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.330963,
+          24.996065
+        ],
+        "type": "Point"
+      },
+      "id": "018514"
     },
     {
       "type": "Feature",
