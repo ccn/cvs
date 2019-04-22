@@ -58485,6 +58485,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193339",
+        "title": "福興",
+        "address": "新北市泰山區全興路165號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.434209,
+          25.05612
+        ],
+        "type": "Point"
+      },
+      "id": "193339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193384",
         "title": "建綸",
         "address": "台北市大安區仁愛路四段151巷33號忠孝東路四段216巷32弄19號21號",
