@@ -5876,25 +5876,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012808",
-        "title": "全家新忠隆店",
-        "address": "台北市信義區忠孝東路五段71巷8號壹樓",
-        "post": "110",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.567217,
-          25.04179
-        ],
-        "type": "Point"
-      },
-      "id": "012808"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012810",
         "title": "全家豐原太陽店",
         "address": "台中市豐原區豐陽路109號",
@@ -24663,25 +24644,6 @@
         "type": "Point"
       },
       "id": "015331"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015334",
-        "title": "全家貢寮澳底一店",
-        "address": "新北市貢寮區大澳街1之1、3號1樓",
-        "post": "228",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.92485623,
-          25.05568035
-        ],
-        "type": "Point"
-      },
-      "id": "015334"
     },
     {
       "type": "Feature",
@@ -55542,25 +55504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017728",
-        "title": "全家高雄輔仁店",
-        "address": "高雄市苓雅區正大路79號；輔仁路229號",
-        "post": "802",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.333992,
-          22.632829
-        ],
-        "type": "Point"
-      },
-      "id": "017728"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017729",
         "title": "全家淡水青水店",
         "address": "新北市淡水區清水街9-5號一樓",
@@ -62876,6 +62819,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018196",
+        "title": "全家高雄輔仁店",
+        "address": "高雄市苓雅區正大路79號；輔仁路229號",
+        "post": "802",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.333992,
+          22.632829
+        ],
+        "type": "Point"
+      },
+      "id": "018196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018197",
         "title": "全家中壢過嶺店",
         "address": "桃園市中壢區松義路100號1樓",
@@ -63921,6 +63883,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018270",
+        "title": "全家高雄文川店",
+        "address": "高雄市左營區曾子路300號（配送用）",
+        "post": "813",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304949,
+          22.681669
+        ],
+        "type": "Point"
+      },
+      "id": "018270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018272",
         "title": "全家錦民店",
         "address": "台北市中山區民權東路二段152巷14號",
@@ -64012,6 +63993,44 @@
         "type": "Point"
       },
       "id": "018294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018300",
+        "title": "全家新忠隆店",
+        "address": "台北市信義區忠孝東路五段71巷8號壹樓",
+        "post": "110",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567217,
+          25.04179
+        ],
+        "type": "Point"
+      },
+      "id": "018300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018301",
+        "title": "全家貢寮澳底一店",
+        "address": "新北市貢寮區大澳街1之1、3號1樓",
+        "post": "228",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.92485623,
+          25.05568035
+        ],
+        "type": "Point"
+      },
+      "id": "018301"
     },
     {
       "type": "Feature",
