@@ -3422,23 +3422,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "114118",
-        "title": "一揚",
-        "address": "高雄市路竹區國昌路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.260952,
-          22.854014
-        ],
-        "type": "Point"
-      },
-      "id": "114118"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "114130",
         "title": "恆春",
         "address": "屏東縣恆春鎮網紗里省北路45號47號49號1樓",
@@ -22071,23 +22054,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "143998",
-        "title": "興義",
-        "address": "台北市萬華區興義街6號8號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.491663348948,
-          25.026766865943802
-        ],
-        "type": "Point"
-      },
-      "id": "143998"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "144016",
         "title": "秀傳",
         "address": "彰化縣彰化市中山路一段546號1樓",
@@ -33338,23 +33304,6 @@
         "type": "Point"
       },
       "id": "164249"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "164272",
-        "title": "吉仕多",
-        "address": "台中市太平區樹德路255號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.712446,
-          24.157508
-        ],
-        "type": "Point"
-      },
-      "id": "164272"
     },
     {
       "type": "Feature",
@@ -52178,6 +52127,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "186711",
+        "title": "興義",
+        "address": "台北市萬華區興義街6號8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.491663348948,
+          25.026766865943802
+        ],
+        "type": "Point"
+      },
+      "id": "186711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "186733",
         "title": "祥裕",
         "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
@@ -58859,6 +58825,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193797",
+        "title": "君悅",
+        "address": "台中市北屯區軍福十三路68號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.731713,
+          24.170742
+        ],
+        "type": "Point"
+      },
+      "id": "193797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193801",
         "title": "桃捷高",
         "address": "桃園市中壢區高鐵北路一段5號B1樓",
@@ -59131,6 +59114,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198563",
+        "title": "吉仕多",
+        "address": "台中市太平區樹德路255號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.712446,
+          24.157508
+        ],
+        "type": "Point"
+      },
+      "id": "198563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198574",
         "title": "登冠",
         "address": "桃園市龜山區文化二路52巷53號一樓",
@@ -59297,6 +59297,23 @@
         "type": "Point"
       },
       "id": "198699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198703",
+        "title": "一揚",
+        "address": "高雄市路竹區國昌路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.260952,
+          22.854014
+        ],
+        "type": "Point"
+      },
+      "id": "198703"
     },
     {
       "type": "Feature",
