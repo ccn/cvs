@@ -19130,6 +19130,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4533",
+        "title": "觀音蓮花店",
+        "address": "桃園市觀音區新華路一段９４０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.12212119678,
+          24.9995322511543
+        ],
+        "type": "Point"
+      },
+      "id": "4533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4536",
         "title": "中和景德店",
         "address": "新北市中和區景德街９１號",
