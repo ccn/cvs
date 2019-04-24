@@ -6294,25 +6294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012898",
-        "title": "全家板橋廣和店",
-        "address": "新北市板橋區廣和街79號1樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.462735,
-          24.992158
-        ],
-        "type": "Point"
-      },
-      "id": "012898"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012901",
         "title": "全家佳里延平店",
         "address": "台南市佳里區延平路468-2號",
@@ -24644,6 +24625,25 @@
         "type": "Point"
       },
       "id": "015331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "015334",
+        "title": "全家貢寮澳底一店",
+        "address": "新北市貢寮區大澳街1之1、3號1樓",
+        "post": "228",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.92485623,
+          25.05568035
+        ],
+        "type": "Point"
+      },
+      "id": "015334"
     },
     {
       "type": "Feature",
@@ -47410,25 +47410,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017174",
-        "title": "全家中和南興店",
-        "address": "新北市中和區興南路二段5號",
-        "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SpicyKantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508148,
-          24.986204
-        ],
-        "type": "Point"
-      },
-      "id": "017174"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017175",
         "title": "全家名門店",
         "address": "臺北市文山區和平東路四段95、97號1樓",
@@ -55348,25 +55329,6 @@
         "type": "Point"
       },
       "id": "017714"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017715",
-        "title": "全家宜蘭神農店",
-        "address": "宜蘭縣宜蘭市神農路一段102號；農權路257，25",
-        "post": "260",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.749526,
-          24.74683
-        ],
-        "type": "Point"
-      },
-      "id": "017715"
     },
     {
       "type": "Feature",
@@ -63883,6 +63845,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018269",
+        "title": "全家芎林五龍店",
+        "address": "新竹縣芎林鄉五和街126號",
+        "post": "307",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.119694,
+          24.734918
+        ],
+        "type": "Point"
+      },
+      "id": "018269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018270",
         "title": "全家高雄文川店",
         "address": "高雄市左營區曾子路300號（配送用）",
@@ -63940,21 +63921,21 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018284",
-        "title": "全家芎林五龍店",
-        "address": "新竹縣芎林鄉五和街126號",
-        "post": "307",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "id": "018279",
+        "title": "全家板橋廣和店",
+        "address": "新北市板橋區廣和街79號1樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.119694,
-          24.734918
+          121.462735,
+          24.992158
         ],
         "type": "Point"
       },
-      "id": "018284"
+      "id": "018279"
     },
     {
       "type": "Feature",
@@ -64016,25 +63997,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018301",
-        "title": "全家貢寮澳底一店",
-        "address": "新北市貢寮區大澳街1之1、3號1樓",
-        "post": "228",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.92485623,
-          25.05568035
-        ],
-        "type": "Point"
-      },
-      "id": "018301"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018302",
         "title": "全家中和民德店",
         "address": "新北市中和區壽德街26號1樓",
@@ -64092,6 +64054,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018305",
+        "title": "全家宜蘭神農店",
+        "address": "宜蘭縣宜蘭市神農路一段102號；農權路257，25",
+        "post": "260",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.749526,
+          24.74683
+        ],
+        "type": "Point"
+      },
+      "id": "018305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018312",
         "title": "全家土庫建國店",
         "address": "雲林縣土庫鎮建國路137號",
@@ -64126,6 +64107,25 @@
         "type": "Point"
       },
       "id": "018314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018318",
+        "title": "全家中和南興店",
+        "address": "新北市中和區興南路二段5號",
+        "post": "235",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.508148,
+          24.986204
+        ],
+        "type": "Point"
+      },
+      "id": "018318"
     },
     {
       "type": "Feature",
