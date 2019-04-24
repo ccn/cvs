@@ -46721,23 +46721,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182661",
-        "title": "重信",
-        "address": "高雄市左營區文川路195號.重建路2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.310458,
-          22.683145
-        ],
-        "type": "Point"
-      },
-      "id": "182661"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182683",
         "title": "新基隆一",
         "address": "基隆市仁愛區港西街5號",
@@ -52038,6 +52021,23 @@
         "type": "Point"
       },
       "id": "186607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186618",
+        "title": "重信",
+        "address": "高雄市左營區文川路195號.重建路2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.310458,
+          22.683145
+        ],
+        "type": "Point"
+      },
+      "id": "186618"
     },
     {
       "type": "Feature",
