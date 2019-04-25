@@ -19317,6 +19317,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4560",
+        "title": "三重大院店",
+        "address": "新北市三重區安和路１０５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5008007509221,
+          25.0700279687753
+        ],
+        "type": "Point"
+      },
+      "id": "4560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4561",
         "title": "北投行義店",
         "address": "台北市北投區行義路１２８-１號",
