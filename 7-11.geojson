@@ -57550,6 +57550,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192635",
+        "title": "苑景",
+        "address": "苗栗縣苑裡鎮山柑里九鄰山柑92之7號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.665754,
+          24.400671
+        ],
+        "type": "Point"
+      },
+      "id": "192635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192646",
         "title": "育溪",
         "address": "南投縣埔里鎮安七街89-1號",
@@ -57835,6 +57852,23 @@
         "type": "Point"
       },
       "id": "192853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192864",
+        "title": "貝殼",
+        "address": "高雄市旗津區復興里旗津三路356.358號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.27594,
+          22.601371
+        ],
+        "type": "Point"
+      },
+      "id": "192864"
     },
     {
       "type": "Feature",
@@ -59427,8 +59461,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.514052,
+          25.073903
         ],
         "type": "Point"
       },
