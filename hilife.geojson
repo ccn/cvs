@@ -19521,6 +19521,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4580",
+        "title": "梧棲火力店",
+        "address": "台中市梧棲區臨港路三段１７６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5147050440111,
+          24.2298801086626
+        ],
+        "type": "Point"
+      },
+      "id": "4580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4588",
+        "title": "龍潭國保店",
+        "address": "桃園市龍潭區中正路４７１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2193318838819,
+          24.8577873060583
+        ],
+        "type": "Point"
+      },
+      "id": "4588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
