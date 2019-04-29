@@ -19028,23 +19028,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "140014",
-        "title": "佳茂",
-        "address": "台中市潭子區中山路一段17號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.702328,
-          24.190462
-        ],
-        "type": "Point"
-      },
-      "id": "140014"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "140025",
         "title": "義明",
         "address": "高雄市三民區寶國里義華路171號",
@@ -47486,6 +47469,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183284",
+        "title": "晨曦",
+        "address": "基隆市暖暖區東勢街6之52號6之53號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.738805,
+          25.095421
+        ],
+        "type": "Point"
+      },
+      "id": "183284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183295",
         "title": "臣峰",
         "address": "新北市林口區文化北路一段62之1號",
@@ -52106,6 +52106,23 @@
         "type": "Point"
       },
       "id": "186674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186696",
+        "title": "鐏賢",
+        "address": "台北市北投區尊賢街247號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.506854362714,
+          25.1175401827255
+        ],
+        "type": "Point"
+      },
+      "id": "186696"
     },
     {
       "type": "Feature",
@@ -56785,23 +56802,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190547",
-        "title": "鐏賢",
-        "address": "台北市北投區尊賢街247號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.506854362714,
-          25.1175401827255
-        ],
-        "type": "Point"
-      },
-      "id": "190547"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190558",
         "title": "和捷",
         "address": "新北市中和區和平街84號86號88號1樓",
@@ -58502,6 +58502,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193362",
+        "title": "東尚",
+        "address": "苗栗縣頭份市東民路163號及和平路251號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.902667,
+          24.686928
+        ],
+        "type": "Point"
+      },
+      "id": "193362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193384",
         "title": "建綸",
         "address": "台北市大安區仁愛路四段151巷33號忠孝東路四段216巷32弄19號21號",
@@ -58893,6 +58910,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193834",
+        "title": "樂多",
+        "address": "金門縣金寧鄉伯玉路二段229號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.338985,
+          24.440419
+        ],
+        "type": "Point"
+      },
+      "id": "193834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193856",
         "title": "莊壢",
         "address": "桃園市中壢區莊敬路199號",
@@ -58944,6 +58978,74 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193960",
+        "title": "科興",
+        "address": "台北市大安區復興南路二段271巷2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.54388,
+          25.025634
+        ],
+        "type": "Point"
+      },
+      "id": "193960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194000",
+        "title": "君品",
+        "address": "新北市淡水區北新路141巷56.58號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.448409,
+          25.179608
+        ],
+        "type": "Point"
+      },
+      "id": "194000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194011",
+        "title": "日昇",
+        "address": "新北市中和區中和路326號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.50977,
+          25.001035
+        ],
+        "type": "Point"
+      },
+      "id": "194011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194044",
+        "title": "和億",
+        "address": "新北市淡水區濱海路一段306巷60弄35.41號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.442213,
+          25.191642
+        ],
+        "type": "Point"
+      },
+      "id": "194044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194125",
         "title": "友達五(臨時店)",
         "address": "新竹市東區力行路23號6樓",
@@ -58957,6 +59059,23 @@
         "type": "Point"
       },
       "id": "194125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194206",
+        "title": "同州",
+        "address": "台北市中正區同安街62號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.521071,
+          25.023381
+        ],
+        "type": "Point"
+      },
+      "id": "194206"
     },
     {
       "type": "Feature",
@@ -59076,6 +59195,23 @@
         "type": "Point"
       },
       "id": "197054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197065",
+        "title": "佳茂",
+        "address": "台中市潭子區中山路一段17號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.702328,
+          24.190462
+        ],
+        "type": "Point"
+      },
+      "id": "197065"
     },
     {
       "type": "Feature",
