@@ -5632,23 +5632,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "119607",
-        "title": "英雄館",
-        "address": "台北市中正區長沙街一段20號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508594,
-          25.040309
-        ],
-        "type": "Point"
-      },
-      "id": "119607"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "119618",
         "title": "達勇",
         "address": "高雄市三民區九如二路345-1號",
@@ -24655,23 +24638,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149332",
-        "title": "崇學",
-        "address": "台南市東區崇善路168號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.223208,
-          22.980527
-        ],
-        "type": "Point"
-      },
-      "id": "149332"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149387",
         "title": "昌富",
         "address": "高雄市三民區大豐一路151號153號",
@@ -32743,23 +32709,6 @@
         "type": "Point"
       },
       "id": "163822"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "163844",
-        "title": "富源",
-        "address": "桃園市觀音區富源里57之1號2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.150996,
-          24.964835
-        ],
-        "type": "Point"
-      },
-      "id": "163844"
     },
     {
       "type": "Feature",
@@ -46160,23 +46109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182214",
-        "title": "欣花園",
-        "address": "台中市北屯區華美西街二段478號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.668773,
-          24.175761
-        ],
-        "type": "Point"
-      },
-      "id": "182214"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182225",
         "title": "迎和",
         "address": "桃園市八德區金和路52號",
@@ -50967,23 +50899,6 @@
         "type": "Point"
       },
       "id": "185925"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185936",
-        "title": "新汐農",
-        "address": "新北市汐止區樟樹一路113號115號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.6419,
-          25.064096
-        ],
-        "type": "Point"
-      },
-      "id": "185936"
     },
     {
       "type": "Feature",
@@ -59352,6 +59267,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198600",
+        "title": "崇學",
+        "address": "台南市東區崇善路168號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.223208,
+          22.980527
+        ],
+        "type": "Point"
+      },
+      "id": "198600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198622",
         "title": "銘豐",
         "address": "新竹縣竹北市嘉豐五路一段1號1樓",
@@ -59484,6 +59416,23 @@
         "type": "Point"
       },
       "id": "198703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198714",
+        "title": "富源",
+        "address": "桃園市觀音區富源里57之1號2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.150996,
+          24.964835
+        ],
+        "type": "Point"
+      },
+      "id": "198714"
     },
     {
       "type": "Feature",
@@ -59726,6 +59675,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200701",
+        "title": "欣花園",
+        "address": "台中市北屯區華美西街二段478號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.668773,
+          24.175761
+        ],
+        "type": "Point"
+      },
+      "id": "200701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200712",
+        "title": "英雄館",
+        "address": "台北市中正區長沙街一段20號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.508594,
+          25.040309
+        ],
+        "type": "Point"
+      },
+      "id": "200712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200723",
         "title": "新楊欣",
         "address": "桃園市楊梅區中山北路一段360號362號1樓",
@@ -59739,6 +59722,23 @@
         "type": "Point"
       },
       "id": "200723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200745",
+        "title": "新汐農",
+        "address": "新北市汐止區樟樹一路113號115號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6419,
+          25.064096
+        ],
+        "type": "Point"
+      },
+      "id": "200745"
     },
     {
       "type": "Feature",
@@ -86888,23 +86888,6 @@
         "type": "Point"
       },
       "id": "978374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "978400",
-        "title": "龍池",
-        "address": "桃園市龍潭區中豐路上林段121號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.208231,
-          24.862774
-        ],
-        "type": "Point"
-      },
-      "id": "978400"
     },
     {
       "type": "Feature",
