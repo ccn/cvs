@@ -27035,23 +27035,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "153696",
-        "title": "中高一",
-        "address": "台中市烏日區站區二路8號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.616152,
-          24.112143
-        ],
-        "type": "Point"
-      },
-      "id": "153696"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "153700",
         "title": "昌和",
         "address": "台中市北屯區東山路一段146之39號",
@@ -27065,23 +27048,6 @@
         "type": "Point"
       },
       "id": "153700"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "153711",
-        "title": "中高二",
-        "address": "台中市烏日區站區二路8號2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.616152,
-          24.112143
-        ],
-        "type": "Point"
-      },
-      "id": "153711"
     },
     {
       "type": "Feature",
@@ -59675,6 +59641,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200686",
+        "title": "天東",
+        "address": "台北市士林區中山北路七段14巷2-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531242,
+          25.118703
+        ],
+        "type": "Point"
+      },
+      "id": "200686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200701",
         "title": "欣花園",
         "address": "台中市北屯區華美西街二段478號",
@@ -73904,23 +73887,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "935850",
-        "title": "天東",
-        "address": "台北市士林區中山北路七段14巷2-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531242,
-          25.118703
-        ],
-        "type": "Point"
-      },
-      "id": "935850"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "935883",
         "title": "德賢",
         "address": "高雄市楠梓區翠屏里德賢路594號596號",
@@ -78643,23 +78609,6 @@
         "type": "Point"
       },
       "id": "953995"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "954013",
-        "title": "台中高鐵",
-        "address": "台中市烏日區站區二路8號2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.616152,
-          24.112143
-        ],
-        "type": "Point"
-      },
-      "id": "954013"
     },
     {
       "type": "Feature",
