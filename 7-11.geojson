@@ -37099,6 +37099,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "167374",
+        "title": "龍池",
+        "address": "桃園市龍潭區中豐路上林段187號189號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.206605,
+          24.861565
+        ],
+        "type": "Point"
+      },
+      "id": "167374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "167385",
         "title": "新加昌",
         "address": "高雄市楠梓區加昌路275.277號",
@@ -55816,23 +55833,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189709",
-        "title": "巧聖",
-        "address": "台中市大里區西榮里益民路二段137號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.68496,
-          24.106931
-        ],
-        "type": "Point"
-      },
-      "id": "189709"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189710",
         "title": "長塑",
         "address": "台北市松山區敦化北路199巷2弄9號1樓",
@@ -59399,6 +59399,23 @@
         "type": "Point"
       },
       "id": "198714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198725",
+        "title": "巧聖",
+        "address": "台中市大里區西榮里益民路二段137號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.68496,
+          24.106931
+        ],
+        "type": "Point"
+      },
+      "id": "198725"
     },
     {
       "type": "Feature",
