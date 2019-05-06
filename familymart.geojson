@@ -6256,25 +6256,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012952",
-        "title": "全家甘州店",
-        "address": "台北市大同區歸綏街181之2號",
-        "post": "103",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,TANHOU,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.513038,
-          25.058305
-        ],
-        "type": "Point"
-      },
-      "id": "012952"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012953",
         "title": "全家永吉二店",
         "address": "台北市信義區永吉路223號",
@@ -20787,25 +20768,6 @@
         "type": "Point"
       },
       "id": "015077"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015078",
-        "title": "全家仁武澄合店",
-        "address": "高雄市仁武區仁雄路35號一樓",
-        "post": "814",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.350981,
-          22.680611
-        ],
-        "type": "Point"
-      },
-      "id": "015078"
     },
     {
       "type": "Feature",
@@ -44237,25 +44199,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017022",
-        "title": "全家板橋興盛店",
-        "address": "新北市板橋區文聖街161號1樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.478933,
-          25.02746
-        ],
-        "type": "Point"
-      },
-      "id": "017022"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017023",
         "title": "全家板橋僑一店",
         "address": "新北市板橋區僑中一街124巷9弄1號",
@@ -61679,25 +61622,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018194",
-        "title": "全家永康復華店",
-        "address": "台南市永康區復國一路477號1樓",
-        "post": "710",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.244789,
-          23.015095
-        ],
-        "type": "Point"
-      },
-      "id": "018194"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018195",
         "title": "全家高雄德中店",
         "address": "高雄市楠梓區德中路110號",
@@ -62990,6 +62914,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018266",
+        "title": "全家甘州店",
+        "address": "台北市大同區歸綏街181之2號",
+        "post": "103",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,TANHOU,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.513038,
+          25.058305
+        ],
+        "type": "Point"
+      },
+      "id": "018266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018267",
         "title": "全家板橋民族店",
         "address": "新北市板橋區民族路61號",
@@ -63294,6 +63237,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018291",
+        "title": "全家永康復華店",
+        "address": "台南市永康區復國一路477號1樓",
+        "post": "710",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.244789,
+          23.015095
+        ],
+        "type": "Point"
+      },
+      "id": "018291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018292",
         "title": "全家仁武仁德店",
         "address": "高雄市仁武區仁德巷68號",
@@ -63366,6 +63328,25 @@
         "type": "Point"
       },
       "id": "018298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018299",
+        "title": "全家淡水海都店",
+        "address": "新北市淡水區新市五路三段312號",
+        "post": "251",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.437444,
+          25.197772
+        ],
+        "type": "Point"
+      },
+      "id": "018299"
     },
     {
       "type": "Feature",
@@ -63594,6 +63575,25 @@
         "type": "Point"
       },
       "id": "018312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018313",
+        "title": "全家湖捷店",
+        "address": "台北市內湖區成功路四段178號1樓",
+        "post": "114",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.59378,
+          25.083452
+        ],
+        "type": "Point"
+      },
+      "id": "018313"
     },
     {
       "type": "Feature",
@@ -64035,6 +64035,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018414",
+        "title": "全家板橋興盛店",
+        "address": "新北市板橋區文聖街161號1樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.478933,
+          25.02746
+        ],
+        "type": "Point"
+      },
+      "id": "018414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018434",
         "title": "全家三峽文化店",
         "address": "新北市三峽區文化路117號1樓",
@@ -64145,6 +64164,25 @@
         "type": "Point"
       },
       "id": "018494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018504",
+        "title": "全家仁武澄合店",
+        "address": "高雄市仁武區仁雄路35號一樓",
+        "post": "814",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.350981,
+          22.680611
+        ],
+        "type": "Point"
+      },
+      "id": "018504"
     },
     {
       "type": "Feature",
