@@ -18773,6 +18773,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4500",
+        "title": "苗栗發財店",
+        "address": "苗栗縣苗栗市文聖里文發路９０９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.815149,
+          24.58994
+        ],
+        "type": "Point"
+      },
+      "id": "4500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4501",
         "title": "左營榮華店",
         "address": "高雄市左營區大中一路３８６號",
@@ -19534,6 +19551,23 @@
         "type": "Point"
       },
       "id": "4580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4583",
+        "title": "太保前潭店",
+        "address": "嘉義縣太保市前潭里後潭１６０、１６０之１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.3462280557449,
+          23.4520392638481
+        ],
+        "type": "Point"
+      },
+      "id": "4583"
     },
     {
       "type": "Feature",
