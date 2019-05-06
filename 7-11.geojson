@@ -47129,6 +47129,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183088",
+        "title": "青山",
+        "address": "新北市汐止區新興路83-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.657776,
+          25.061888
+        ],
+        "type": "Point"
+      },
+      "id": "183088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183099",
         "title": "景和",
         "address": "台中市北屯區太原路三段907號",
@@ -47839,6 +47856,23 @@
         "type": "Point"
       },
       "id": "183619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183631",
+        "title": "廣美",
+        "address": "新北市中和區中和路52號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500538,
+          25.000898
+        ],
+        "type": "Point"
+      },
+      "id": "183631"
     },
     {
       "type": "Feature",
@@ -58485,6 +58519,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193498",
+        "title": "禾安",
+        "address": "桃園市平鎮區平德路295號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.202329,
+          24.929703
+        ],
+        "type": "Point"
+      },
+      "id": "193498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193524",
         "title": "港麗",
         "address": "台北市南港區忠孝東路七段369號2樓",
@@ -59471,23 +59522,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200572",
-        "title": "嘉新",
-        "address": "新北市中和區員山路419號421號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.480944,
-          25.003314
-        ],
-        "type": "Point"
-      },
-      "id": "200572"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200583",
         "title": "鐵興",
         "address": "新竹縣竹北市文興路一段246號248號一樓",
@@ -59671,6 +59705,23 @@
         "type": "Point"
       },
       "id": "200686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200697",
+        "title": "嘉新",
+        "address": "新北市中和區員山路419號421號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.480944,
+          25.003314
+        ],
+        "type": "Point"
+      },
+      "id": "200697"
     },
     {
       "type": "Feature",
