@@ -20150,23 +20150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141947",
-        "title": "玉成",
-        "address": "台北市南港區南港路三段9號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.59194942264199,
-          25.054033959555998
-        ],
-        "type": "Point"
-      },
-      "id": "141947"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141969",
         "title": "新亞洲",
         "address": "新北市土城區亞洲路110號112號1樓",
@@ -58889,6 +58872,23 @@
         "type": "Point"
       },
       "id": "193878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193926",
+        "title": "東加",
+        "address": "台中市北屯區東山路一段185號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "193926"
     },
     {
       "type": "Feature",
