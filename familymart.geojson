@@ -63864,6 +63864,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018335",
+        "title": "全家汐止遠雄二店",
+        "address": "新北市汐止區新台五路一段99號B1樓",
+        "post": "221",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.64824782,
+          25.06161993
+        ],
+        "type": "Point"
+      },
+      "id": "018335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018339",
         "title": "全家樹林新保安店",
         "address": "新北市樹林區保安街二段215號1樓",
