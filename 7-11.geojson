@@ -59012,6 +59012,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194262",
+        "title": "豐竹",
+        "address": "台中市大里區健民路97號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.729652,
+          24.092061
+        ],
+        "type": "Point"
+      },
+      "id": "194262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194354",
+        "title": "玉成",
+        "address": "台北市南港區西新里南港路三段3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.592162,
+          25.054043
+        ],
+        "type": "Point"
+      },
+      "id": "194354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196785",
         "title": "泰安一(臨)",
         "address": "台中市后里區安眉路113號",
