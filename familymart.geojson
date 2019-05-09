@@ -651,25 +651,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "010949",
-        "title": "全家澎湖鑫科店",
-        "address": "澎湖縣馬公市三多路118號",
-        "post": "880",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,muffin,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          119.578066618838,
-          23.5773588896231
-        ],
-        "type": "Point"
-      },
-      "id": "010949"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "010980",
         "title": "全家北鑫店",
         "address": "台北市南港區中坡南路15號",
@@ -56570,7 +56551,7 @@
       "properties": {
         "id": "017874",
         "title": "全家大昌店",
-        "address": "臺北市中正區南昌路一段67號",
+        "address": "台北市中正區南昌路一段67號",
         "post": "100",
         "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
@@ -63062,6 +63043,25 @@
         "type": "Point"
       },
       "id": "018274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018275",
+        "title": "全家澎湖鑫科店",
+        "address": "澎湖縣馬公市三多路118號",
+        "post": "880",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,muffin,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.578066618838,
+          23.5773588896231
+        ],
+        "type": "Point"
+      },
+      "id": "018275"
     },
     {
       "type": "Feature",
