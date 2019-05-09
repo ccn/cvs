@@ -48831,13 +48831,13 @@
       "properties": {
         "id": "184461",
         "title": "瑞德",
-        "address": "台北市中正區新生南硌一段170巷14之3號1樓",
+        "address": "台北市中正區新生南路一段170巷14之3號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.531253,
-          25.034191
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -58519,6 +58519,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193513",
+        "title": "潭秀",
+        "address": "台中市潭子區雅潭路一段60號62號64號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.70346,
+          24.216009
+        ],
+        "type": "Point"
+      },
+      "id": "193513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193524",
         "title": "港麗",
         "address": "台北市南港區忠孝東路七段369號2樓",
@@ -58883,8 +58900,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.708327,
+          24.170529
         ],
         "type": "Point"
       },
