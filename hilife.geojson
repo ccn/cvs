@@ -19572,6 +19572,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4587",
+        "title": "八德積福店",
+        "address": "桃園市八德區廣福路４５６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2879839637919,
+          24.9600594535737
+        ],
+        "type": "Point"
+      },
+      "id": "4587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4588",
         "title": "龍潭國保店",
         "address": "桃園市龍潭區中正路４７１號",
