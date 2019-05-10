@@ -765,25 +765,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011021",
-        "title": "全家至善店",
-        "address": "台北市士林區至善路二段268號一樓",
-        "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551115,
-          25.100569
-        ],
-        "type": "Point"
-      },
-      "id": "011021"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011029",
         "title": "全家新莊新泰店",
         "address": "新北市新莊區新泰路146號",
@@ -9355,15 +9336,15 @@
       "properties": {
         "id": "013520",
         "title": "全家中壢中央一店",
-        "address": "桃園市中壢區中大路300號（女十四舍B1）",
+        "address": "桃園市中壢區中大路300號（松果餐廳）",
         "post": "320",
         "all": "COFFEE,SWEETPOTATO,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.19343873558326,
-          24.967140589286917
+          121.195305,
+          24.968256
         ],
         "type": "Point"
       },
@@ -17139,25 +17120,6 @@
         "type": "Point"
       },
       "id": "014657"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014659",
-        "title": "全家大通店",
-        "address": "台北市中山區伊通街39號1樓",
-        "post": "104",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.534905,
-          25.050701
-        ],
-        "type": "Point"
-      },
-      "id": "014659"
     },
     {
       "type": "Feature",
@@ -63670,6 +63632,25 @@
         "type": "Point"
       },
       "id": "018319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018320",
+        "title": "全家至善店",
+        "address": "台北市士林區至善路二段268號一樓",
+        "post": "111",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551115,
+          25.100569
+        ],
+        "type": "Point"
+      },
+      "id": "018320"
     },
     {
       "type": "Feature",
