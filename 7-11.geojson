@@ -40210,23 +40210,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171650",
-        "title": "潭秀",
-        "address": "台中市潭子區雅潭路一段167號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.700875,
-          24.216058
-        ],
-        "type": "Point"
-      },
-      "id": "171650"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171683",
         "title": "永明",
         "address": "台北市中山區明水路397巷7弄25號1樓",
@@ -58940,6 +58923,23 @@
         "type": "Point"
       },
       "id": "193960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193971",
+        "title": "鈺興",
+        "address": "南投縣竹山鎮集山路三段912.914號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.68422,
+          23.757954
+        ],
+        "type": "Point"
+      },
+      "id": "193971"
     },
     {
       "type": "Feature",
@@ -85517,13 +85517,13 @@
       "properties": {
         "id": "972435",
         "title": "育樂",
-        "address": "台南市東區大學里勝利路116號",
+        "address": "台南市東區大學里勝利路118號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.218233,
-          22.995716
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -91461,23 +91461,6 @@
         "type": "Point"
       },
       "id": "992510"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "992521",
-        "title": "竹慶",
-        "address": "南投縣竹山鎮竹山路92號94號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.683987,
-          23.755554
-        ],
-        "type": "Point"
-      },
-      "id": "992521"
     },
     {
       "type": "Feature",
