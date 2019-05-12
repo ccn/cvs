@@ -32039,25 +32039,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016094",
-        "title": "全家大甲甲讚店",
-        "address": "台中市大甲區蔣公路173號",
-        "post": "437",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.621167,
-          24.346453
-        ],
-        "type": "Point"
-      },
-      "id": "016094"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016095",
         "title": "全家樹林學誠店",
         "address": "新北市樹林區大義路196＆198號",
@@ -57613,25 +57594,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017947",
-        "title": "全家新莊瓊泰店",
-        "address": "新北市新莊區瓊泰路71號1樓",
-        "post": "242",
-        "all": "COFFEE,SWEETPOTATO,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.443141,
-          25.02898
-        ],
-        "type": "Point"
-      },
-      "id": "017947"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017948",
         "title": "全家竹南金大埔店",
         "address": "苗栗縣竹南鎮科專七路221號",
@@ -63902,6 +63864,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018345",
+        "title": "全家新莊瓊泰店",
+        "address": "新北市新莊區瓊泰路71號1樓",
+        "post": "242",
+        "all": "COFFEE,SWEETPOTATO,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.443141,
+          25.02898
+        ],
+        "type": "Point"
+      },
+      "id": "018345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018350",
         "title": "全家板橋新翠店",
         "address": "新北市板橋區懷德街127巷23弄7號1樓",
@@ -63917,6 +63898,25 @@
         "type": "Point"
       },
       "id": "018350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018359",
+        "title": "全家大甲甲讚店",
+        "address": "台中市大甲區蔣公路173號",
+        "post": "437",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.621167,
+          24.346453
+        ],
+        "type": "Point"
+      },
+      "id": "018359"
     },
     {
       "type": "Feature",
