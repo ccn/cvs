@@ -20218,23 +20218,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "142065",
-        "title": "瑞陽",
-        "address": "台中市南屯區河南路四段442號446號1,2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.637351762396,
-          24.1503438078087
-        ],
-        "type": "Point"
-      },
-      "id": "142065"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "142087",
         "title": "金央",
         "address": "金門縣金寧鄉伯玉路一段222之8號1樓",
@@ -50580,23 +50563,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "185730",
-        "title": "台中東山",
-        "address": "台中市北屯區軍功里東山路一段221號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.71504581322999,
-          24.1744138924895
-        ],
-        "type": "Point"
-      },
-      "id": "185730"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "185741",
         "title": "東平驛",
         "address": "台中市中區台灣大道一段531號",
@@ -52004,6 +51970,23 @@
         "type": "Point"
       },
       "id": "186674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186685",
+        "title": "瑞陽",
+        "address": "台中市南屯區河南路四段442號446號1,2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.637351762396,
+          24.1503438078087
+        ],
+        "type": "Point"
+      },
+      "id": "186685"
     },
     {
       "type": "Feature",
@@ -58825,6 +58808,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193823",
+        "title": "京吉",
+        "address": "高雄市仁武區京吉三路103號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.342356,
+          22.684299
+        ],
+        "type": "Point"
+      },
+      "id": "193823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193834",
         "title": "樂多",
         "address": "金門縣金寧鄉伯玉路二段229號",
@@ -58995,6 +58995,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194055",
+        "title": "福澳港",
+        "address": "連江縣南竿鄉福澳村129號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.943576,
+          26.160201
+        ],
+        "type": "Point"
+      },
+      "id": "194055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194125",
         "title": "友達五(臨時店)",
         "address": "新竹市東區力行路23號6樓",
@@ -59025,6 +59042,23 @@
         "type": "Point"
       },
       "id": "194206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194239",
+        "title": "加灣",
+        "address": "花蓮縣秀林鄉景美村加灣178之20號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.612685,
+          24.090965
+        ],
+        "type": "Point"
+      },
+      "id": "194239"
     },
     {
       "type": "Feature",
@@ -59726,23 +59760,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200675",
-        "title": "新極景",
-        "address": "新北市新店區北新路二段252-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.542865,
-          24.978
-        ],
-        "type": "Point"
-      },
-      "id": "200675"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200686",
         "title": "天東",
         "address": "台北市士林區中山北路七段14巷2-1號",
@@ -59841,6 +59858,23 @@
         "type": "Point"
       },
       "id": "200745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202523",
+        "title": "新極景",
+        "address": "新北市新店區北新路二段252-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.542865,
+          24.978
+        ],
+        "type": "Point"
+      },
+      "id": "202523"
     },
     {
       "type": "Feature",
