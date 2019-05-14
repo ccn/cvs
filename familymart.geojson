@@ -22729,25 +22729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015245",
-        "title": "全家台東大同店",
-        "address": "台東縣台東市大同路163號1樓",
-        "post": "950",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.1532355,
-          22.7530891
-        ],
-        "type": "Point"
-      },
-      "id": "015245"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015246",
         "title": "全家萬中店",
         "address": "台北市萬華區漢口街二段22號",
@@ -24055,25 +24036,6 @@
         "type": "Point"
       },
       "id": "015359"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015366",
-        "title": "全家蘆竹興仁店",
-        "address": "桃園市蘆竹區上興路190號",
-        "post": "338",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.260588,
-          25.018989
-        ],
-        "type": "Point"
-      },
-      "id": "015366"
     },
     {
       "type": "Feature",
@@ -58639,25 +58601,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018021",
-        "title": "全家竹崎灣橋店",
-        "address": "嘉義縣竹崎鄉灣橋村五間厝3之6號",
-        "post": "604",
-        "all": "COFFEE,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.501832,
-          23.493028
-        ],
-        "type": "Point"
-      },
-      "id": "018021"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018022",
         "title": "全家新店德順店",
         "address": "新北市新店區安德街120巷6號",
@@ -59034,25 +58977,6 @@
         "type": "Point"
       },
       "id": "018047"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018049",
-        "title": "全家仁德二仁店",
-        "address": "台南市仁德區中正西路21號",
-        "post": "717",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.224659,
-          22.918098
-        ],
-        "type": "Point"
-      },
-      "id": "018049"
     },
     {
       "type": "Feature",
@@ -63104,6 +63028,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018287",
+        "title": "全家竹崎灣橋店",
+        "address": "嘉義縣竹崎鄉灣橋村五間厝3之6號",
+        "post": "604",
+        "all": "COFFEE,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.501832,
+          23.493028
+        ],
+        "type": "Point"
+      },
+      "id": "018287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018288",
         "title": "全家東石蚵庄店",
         "address": "嘉義縣東石鄉東石村東石5號附6",
@@ -63731,6 +63674,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018329",
+        "title": "全家蘆竹興仁店",
+        "address": "桃園市蘆竹區上興路190號",
+        "post": "338",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.260588,
+          25.018989
+        ],
+        "type": "Point"
+      },
+      "id": "018329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018330",
         "title": "全家土城城堡店",
         "address": "新北市土城區福仁街50巷1號",
@@ -63955,6 +63917,25 @@
         "type": "Point"
       },
       "id": "018364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018365",
+        "title": "全家仁德二仁店",
+        "address": "台南市仁德區中正西路21號",
+        "post": "717",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.224659,
+          22.918098
+        ],
+        "type": "Point"
+      },
+      "id": "018365"
     },
     {
       "type": "Feature",
@@ -64259,6 +64240,25 @@
         "type": "Point"
       },
       "id": "018544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018554",
+        "title": "全家台東大同店",
+        "address": "台東縣台東市大同路163號1樓",
+        "post": "950",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1532355,
+          22.7530891
+        ],
+        "type": "Point"
+      },
+      "id": "018554"
     },
     {
       "type": "Feature",
