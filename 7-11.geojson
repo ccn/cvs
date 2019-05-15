@@ -37031,6 +37031,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "167341",
+        "title": "成龍",
+        "address": "桃園市中壢區龍岡路三段192號194號196號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.23397,
+          24.935387
+        ],
+        "type": "Point"
+      },
+      "id": "167341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "167352",
         "title": "小巨蛋",
         "address": "台北市松山區南京東路四段2號",
@@ -57669,6 +57686,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192819",
+        "title": "和慶",
+        "address": "台南市安南區安中路一段701巷33.35號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.195169,
+          23.041697
+        ],
+        "type": "Point"
+      },
+      "id": "192819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192831",
         "title": "東站",
         "address": "台東縣台東市岩灣路101巷598號",
@@ -59093,6 +59127,23 @@
         "type": "Point"
       },
       "id": "194354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194664",
+        "title": "中高站",
+        "address": "台中市烏日區站區二路8號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.616152,
+          24.112143
+        ],
+        "type": "Point"
+      },
+      "id": "194664"
     },
     {
       "type": "Feature",
