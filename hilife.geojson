@@ -14234,23 +14234,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4147",
-        "title": "白河關嶺店",
-        "address": "台南市白河區關嶺里關子嶺３９-１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.5038564576721,
-          23.3365814696413
-        ],
-        "type": "Point"
-      },
-      "id": "4147"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4149",
         "title": "平鎮資通店",
         "address": "桃園市平鎮區中豐路山頂段３５８號",
@@ -14349,23 +14332,6 @@
         "type": "Point"
       },
       "id": "4155"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4156",
-        "title": "萬巒萬金店",
-        "address": "屏東縣萬巒鄉萬金村營區路１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.622356,
-          22.609474
-        ],
-        "type": "Point"
-      },
-      "id": "4156"
     },
     {
       "type": "Feature",
@@ -19249,6 +19215,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4552",
+        "title": "新莊福慧店",
+        "address": "新北市新莊區化成路５１９號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4649483177909,
+          25.0636363584511
+        ],
+        "type": "Point"
+      },
+      "id": "4552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4553",
         "title": "內湖大發店",
         "address": "台北市內湖區舊宗路一段１２８號",
@@ -19936,8 +19919,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.52490864418,
-          25.0600802170702
+          121.5248871865078,
+          25.0601810502818
         ],
         "type": "Point"
       },
@@ -20565,8 +20548,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.469689259226,
-          25.0492966182352
+          121.4696007463285,
+          25.0493476467698
         ],
         "type": "Point"
       },
@@ -22135,23 +22118,6 @@
         "type": "Point"
       },
       "id": "L003"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "L004",
-        "title": "中和遇見店",
-        "address": "新北市中和區工專路１４１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508349,
-          24.979152
-        ],
-        "type": "Point"
-      },
-      "id": "L004"
     },
     {
       "type": "Feature",
