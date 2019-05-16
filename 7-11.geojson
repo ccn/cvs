@@ -48819,8 +48819,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.531253,
+          25.034191
         ],
         "type": "Point"
       },
@@ -59148,6 +59148,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194686",
+        "title": "鐵站二",
+        "address": "新竹縣竹北市高鐵七路6號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.040257,
+          24.808452
+        ],
+        "type": "Point"
+      },
+      "id": "194686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196785",
         "title": "泰安一(臨)",
         "address": "台中市后里區安眉路113號",
@@ -64074,23 +64091,6 @@
         "type": "Point"
       },
       "id": "882080"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "882105",
-        "title": "瑞登",
-        "address": "台中市北屯區松安里松竹路二段193號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.695206,
-          24.183072
-        ],
-        "type": "Point"
-      },
-      "id": "882105"
     },
     {
       "type": "Feature",
@@ -85607,8 +85607,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.218392,
+          22.995913
         ],
         "type": "Point"
       },
