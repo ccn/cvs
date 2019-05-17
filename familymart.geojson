@@ -32476,25 +32476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016132",
-        "title": "全家汐止保興店",
-        "address": "新北市汐止區保一街39號",
-        "post": "221",
-        "all": "COFFEE,SWEETPOTATO,WiFi,veg,SharePot,TANHOU,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.674216,
-          25.08018
-        ],
-        "type": "Point"
-      },
-      "id": "016132"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016136",
         "title": "全家西港南海店",
         "address": "台南市西港區慶安路206號",
@@ -36671,25 +36652,6 @@
         "type": "Point"
       },
       "id": "016455"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016456",
-        "title": "全家紫新店",
-        "address": "台北市內湖區康寧路ㄧ段37號ㄧ樓",
-        "post": "114",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.591658897346,
-          25.0804974860244
-        ],
-        "type": "Point"
-      },
-      "id": "016456"
     },
     {
       "type": "Feature",
@@ -63427,6 +63389,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018315",
+        "title": "全家台中俊美店",
+        "address": "台中市西屯區西屯路二段297之16號1樓全部",
+        "post": "407",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.640506,
+          24.178647
+        ],
+        "type": "Point"
+      },
+      "id": "018315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018317",
         "title": "全家雙連站店",
         "address": "台北市大同區民生西路47號B1（雙連站3號販賣店）",
@@ -63921,6 +63902,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018378",
+        "title": "全家台中高鐵店",
+        "address": "台中市烏日區站區二路8號1樓",
+        "post": "414",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.615688,
+          24.11321
+        ],
+        "type": "Point"
+      },
+      "id": "018378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018384",
         "title": "全家新竹新美店",
         "address": "新竹市北區田美三街47號",
@@ -64335,6 +64335,44 @@
         "type": "Point"
       },
       "id": "018688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018714",
+        "title": "全家汐止保興店",
+        "address": "新北市汐止區保一街39號",
+        "post": "221",
+        "all": "COFFEE,SWEETPOTATO,WiFi,veg,SharePot,TANHOU,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.674216,
+          25.08018
+        ],
+        "type": "Point"
+      },
+      "id": "018714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018724",
+        "title": "全家紫新店",
+        "address": "台北市內湖區康寧路ㄧ段37號ㄧ樓",
+        "post": "114",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.591658897346,
+          25.0804974860244
+        ],
+        "type": "Point"
+      },
+      "id": "018724"
     },
     {
       "type": "Feature",
