@@ -13112,23 +13112,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "130969",
-        "title": "夢公園",
-        "address": "台南市學甲區中山路187號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.175894,
-          23.235381
-        ],
-        "type": "Point"
-      },
-      "id": "130969"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "130970",
         "title": "裕文",
         "address": "台南市東區裕學路1號",
@@ -47452,23 +47435,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183354",
-        "title": "昌福",
-        "address": "新北市新莊區福壽街101號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.457895,
-          25.050535
-        ],
-        "type": "Point"
-      },
-      "id": "183354"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183365",
         "title": "英荃",
         "address": "台中市清水區中山路39.41.43號",
@@ -51919,6 +51885,23 @@
         "type": "Point"
       },
       "id": "186618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186629",
+        "title": "昌福",
+        "address": "新北市新莊區福壽街101號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.457895,
+          25.050535
+        ],
+        "type": "Point"
+      },
+      "id": "186629"
     },
     {
       "type": "Feature",
@@ -59165,6 +59148,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194701",
+        "title": "保鐵",
+        "address": "嘉義縣太保市高鐵西路168號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196785",
         "title": "泰安一(臨)",
         "address": "台中市后里區安眉路113號",
@@ -59620,6 +59620,23 @@
         "type": "Point"
       },
       "id": "198725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198769",
+        "title": "夢公園",
+        "address": "台南市學甲區中山路187號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.175894,
+          23.235381
+        ],
+        "type": "Point"
+      },
+      "id": "198769"
     },
     {
       "type": "Feature",
