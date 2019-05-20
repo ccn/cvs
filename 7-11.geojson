@@ -47962,6 +47962,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183767",
+        "title": "華社",
+        "address": "高雄市大社區中華路16-66號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.352278,
+          22.727412
+        ],
+        "type": "Point"
+      },
+      "id": "183767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183778",
         "title": "佳立",
         "address": "台南市佳里區佳東路361號",
@@ -58957,6 +58974,23 @@
         "type": "Point"
       },
       "id": "193971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193993",
+        "title": "和平",
+        "address": "台中市和平區東關路三段161之2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.883301,
+          24.174602
+        ],
+        "type": "Point"
+      },
+      "id": "193993"
     },
     {
       "type": "Feature",
