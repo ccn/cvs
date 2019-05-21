@@ -838,23 +838,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2151",
-        "title": "八德霄裡店",
-        "address": "桃園市八德區長興路７７３、７７５號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.264334446506,
-          24.9331144101284
-        ],
-        "type": "Point"
-      },
-      "id": "2151"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2153",
         "title": "八德麻園店",
         "address": "桃園市八德區介壽路二段４９２號",
@@ -5095,8 +5078,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.42701703031,
-          24.9921963154887
+          121.4269231529945,
+          24.9919969683018
         ],
         "type": "Point"
       },
