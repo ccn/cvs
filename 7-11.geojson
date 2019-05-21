@@ -11276,23 +11276,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "128483",
-        "title": "金峰",
-        "address": "新北市土城區明峰街9號11號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.465681,
-          24.985886
-        ],
-        "type": "Point"
-      },
-      "id": "128483"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "128494",
         "title": "稻埕",
         "address": "台北市大同區南京西路436號1F",
@@ -23920,23 +23903,6 @@
         "type": "Point"
       },
       "id": "148683"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "148694",
-        "title": "青雲",
-        "address": "新北市土城區青雲路499號501號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.458911,
-          24.973376
-        ],
-        "type": "Point"
-      },
-      "id": "148694"
     },
     {
       "type": "Feature",
@@ -46466,6 +46432,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182557",
+        "title": "太舜",
+        "address": "台中市潭子區潭興路二段350號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.710031,
+          24.210588
+        ],
+        "type": "Point"
+      },
+      "id": "182557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182579",
         "title": "大屯",
         "address": "雲林縣虎尾鎮西屯里大屯349號",
@@ -59335,6 +59318,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197102",
+        "title": "金峰",
+        "address": "新北市土城區明峰街9號11號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.465681,
+          24.985886
+        ],
+        "type": "Point"
+      },
+      "id": "197102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198518",
         "title": "新聖母",
         "address": "宜蘭縣羅東鎮中正南路160號(聖母醫院內)",
@@ -59930,23 +59930,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200712",
-        "title": "英雄館",
-        "address": "台北市中正區長沙街一段20號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508594,
-          25.040309
-        ],
-        "type": "Point"
-      },
-      "id": "200712"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200723",
         "title": "新楊欣",
         "address": "桃園市楊梅區中山北路一段360號362號1樓",
@@ -59977,6 +59960,57 @@
         "type": "Point"
       },
       "id": "200745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200767",
+        "title": "青雲",
+        "address": "新北市土城區青雲路499號501號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.458911,
+          24.973376
+        ],
+        "type": "Point"
+      },
+      "id": "200767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200789",
+        "title": "台北4",
+        "address": "台北市中正區北平西路3號(東北站)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517868,
+          25.048114
+        ],
+        "type": "Point"
+      },
+      "id": "200789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202512",
+        "title": "英雄館",
+        "address": "台北市中正區長沙街一段20號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.508594,
+          25.040309
+        ],
+        "type": "Point"
+      },
+      "id": "202512"
     },
     {
       "type": "Feature",
@@ -80466,23 +80500,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "960454",
-        "title": "台北4",
-        "address": "台北市中正區北平西路3號(東北站)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517868,
-          25.048114
-        ],
-        "type": "Point"
-      },
-      "id": "960454"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "960487",
         "title": "潮洋",
         "address": "台中市西屯區市政路596號",
@@ -89625,23 +89642,6 @@
         "type": "Point"
       },
       "id": "989411"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "989422",
-        "title": "崇信",
-        "address": "基隆市信義區東信路166號168號1F",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.764738553781,
-          25.128301215230902
-        ],
-        "type": "Point"
-      },
-      "id": "989422"
     },
     {
       "type": "Feature",
