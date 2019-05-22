@@ -46500,6 +46500,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182605",
+        "title": "湯城",
+        "address": "新北市三重區重新路5段609巷16之7 號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46742,
+          25.046768
+        ],
+        "type": "Point"
+      },
+      "id": "182605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182616",
         "title": "川越",
         "address": "台中市北屯區昌平東六路121號",
@@ -54966,23 +54983,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188902",
-        "title": "湯城",
-        "address": "新北市三重區重新路五段609巷12號之9之10",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.468628,
-          25.046361
-        ],
-        "type": "Point"
-      },
-      "id": "188902"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188913",
         "title": "海青",
         "address": "高雄市鼓山區青海路641號1樓",
@@ -58723,6 +58723,74 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193694",
+        "title": "泰安一",
+        "address": "台中市后里區安眉路113號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.711483,
+          24.330415
+        ],
+        "type": "Point"
+      },
+      "id": "193694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193708",
+        "title": "泰安綻",
+        "address": "台中市后里區九甲七路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716729,
+          24.328875
+        ],
+        "type": "Point"
+      },
+      "id": "193708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193719",
+        "title": "泰安二",
+        "address": "台中市后里區安眉路113號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.711483,
+          24.330415
+        ],
+        "type": "Point"
+      },
+      "id": "193719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193720",
+        "title": "泰安三",
+        "address": "台中市后里區九甲七路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716729,
+          24.328875
+        ],
+        "type": "Point"
+      },
+      "id": "193720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193731",
         "title": "鑫成",
         "address": "台北市士林區至誠路二段82號1樓",
@@ -59127,6 +59195,23 @@
         "type": "Point"
       },
       "id": "194354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194479",
+        "title": "崇信",
+        "address": "基隆市信義區東信路212-4,214號1F",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194479"
     },
     {
       "type": "Feature",
