@@ -7980,13 +7980,13 @@
       "properties": {
         "id": "122430",
         "title": "金龍",
-        "address": "台北市內湖區內湖路二段407號409號1樓",
+        "address": "台北市內湖區內湖路二段407號409號411號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.593309424743,
-          25.0846150663268
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -9884,13 +9884,13 @@
       "properties": {
         "id": "126616",
         "title": "立行",
-        "address": "新北市三重區力行路二段160號",
+        "address": "新北市三重區力行路二段158號160號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.482769,
-          25.076486
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -32868,13 +32868,13 @@
       "properties": {
         "id": "164076",
         "title": "豆腐岬",
-        "address": "宜蘭縣蘇澳鎮南寧路41號42號",
+        "address": "宜蘭縣蘇澳鎮南寧路41號.42號42-1號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.867538,
-          24.58125
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -42082,13 +42082,13 @@
       "properties": {
         "id": "174914",
         "title": "內海",
-        "address": "桃園市大園區內海里下厝9之9號1樓",
+        "address": "桃園市大園區民生路183號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.183698,
-          25.07913
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -45357,6 +45357,23 @@
         "type": "Point"
       },
       "id": "181521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "181532",
+        "title": "真新",
+        "address": "台南市麻豆區油車里油車24之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.245321,
+          23.189968
+        ],
+        "type": "Point"
+      },
+      "id": "181532"
     },
     {
       "type": "Feature",
@@ -53285,13 +53302,13 @@
       "properties": {
         "id": "187747",
         "title": "瑞興",
-        "address": "台中市豐原區中正路497號",
+        "address": "台中市豐原區中正路499號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.710839,
-          24.250332
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -54203,13 +54220,13 @@
       "properties": {
         "id": "188371",
         "title": "僑一",
-        "address": "新北市板橋區僑中一街104號",
+        "address": "新北市板橋區僑中一街104號106號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.446608,
-          25.01174
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -58757,40 +58774,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193719",
-        "title": "泰安二",
-        "address": "台中市后里區安眉路113號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.711483,
-          24.330415
-        ],
-        "type": "Point"
-      },
-      "id": "193719"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "193720",
-        "title": "泰安三",
-        "address": "台中市后里區九甲七路400號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.716729,
-          24.328875
-        ],
-        "type": "Point"
-      },
-      "id": "193720"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193731",
         "title": "鑫成",
         "address": "台北市士林區至誠路二段82號1樓",
@@ -59114,6 +59097,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194088",
+        "title": "衛國",
+        "address": "台南市東區林森路二段192巷24弄5號.7號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.22536,
+          22.989228
+        ],
+        "type": "Point"
+      },
+      "id": "194088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194103",
+        "title": "橋鈺",
+        "address": "台南市永康區東橋七路369號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194125",
         "title": "友達五(臨時店)",
         "address": "新竹市東區力行路23號6樓",
@@ -59212,6 +59229,23 @@
         "type": "Point"
       },
       "id": "194479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194653",
+        "title": "中高鐵",
+        "address": "台中市烏日區站區二路8號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.616152,
+          24.112143
+        ],
+        "type": "Point"
+      },
+      "id": "194653"
     },
     {
       "type": "Feature",
@@ -61819,13 +61853,13 @@
       "properties": {
         "id": "861430",
         "title": "順越",
-        "address": "屏東縣內埔鄉南寧路19號",
+        "address": "屏東縣內埔鄉南寧路19、21號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.565357,
-          22.617291
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -66001,13 +66035,13 @@
       "properties": {
         "id": "892560",
         "title": "埔鹽",
-        "address": "彰化縣埔鹽鄉彰水路二段36號38號",
+        "address": "彰化縣埔鹽鄉彰水路二段36號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.476815,
-          23.996445
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -66239,13 +66273,13 @@
       "properties": {
         "id": "893345",
         "title": "新仁華",
-        "address": "台中市大里區仁化路460號",
+        "address": "台中市大里區仁化路460.462號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.703572,
-          24.096092
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -82627,13 +82661,13 @@
       "properties": {
         "id": "966902",
         "title": "久昌",
-        "address": "高雄市楠梓區久昌里盛昌街26號",
+        "address": "高雄市楠梓區久昌里盛昌街26,28號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.283916,
-          22.710638
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -87965,13 +87999,13 @@
       "properties": {
         "id": "981233",
         "title": "極品",
-        "address": "基隆市仁愛區仁三路19號21號1樓",
+        "address": "基隆市仁愛區仁三路19號21號1,2樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.743684537957,
-          25.1280612149085
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -88747,13 +88781,13 @@
       "properties": {
         "id": "982568",
         "title": "鑫佳慶",
-        "address": "台中市太平區大源二街1號3號1F",
+        "address": "台中市太平區大源二街1號1F",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.725167,
-          24.1445
+          0,
+          0
         ],
         "type": "Point"
       },
