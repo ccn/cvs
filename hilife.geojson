@@ -22424,6 +22424,57 @@
         "type": "Point"
       },
       "id": "U295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "V001",
+        "title": "首府騰雲店",
+        "address": "台北市信義區市府路１號B２",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5638825178412,
+          25.0375583532077
+        ],
+        "type": "Point"
+      },
+      "id": "V001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "V002",
+        "title": "首府和盟店",
+        "address": "台北市信義區市府路１號B２",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5642138073945,
+          25.0375399261374
+        ],
+        "type": "Point"
+      },
+      "id": "V002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "V003",
+        "title": "首府依德店",
+        "address": "台北市信義區市府路１號B２",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5641421116242,
+          25.0373667955373
+        ],
+        "type": "Point"
+      },
+      "id": "V003"
     }
   ]
 }
