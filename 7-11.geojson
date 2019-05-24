@@ -51481,23 +51481,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "186342",
-        "title": "添丁",
-        "address": "新北市永和區永貞路365號367號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508707,
-          25.007836
-        ],
-        "type": "Point"
-      },
-      "id": "186342"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "186353",
         "title": "香城",
         "address": "台北市南港區南港路一段167號1樓",
@@ -59216,23 +59199,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194479",
-        "title": "崇信",
-        "address": "基隆市信義區東信路212-4,214號1F",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.763079,
-          25.128223
-        ],
-        "type": "Point"
-      },
-      "id": "194479"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194653",
         "title": "中高鐵",
         "address": "台中市烏日區站區二路8號2樓",
@@ -60113,6 +60079,23 @@
         "type": "Point"
       },
       "id": "200789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200790",
+        "title": "添丁",
+        "address": "新北市永和區永貞路365號367號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.508707,
+          25.007836
+        ],
+        "type": "Point"
+      },
+      "id": "200790"
     },
     {
       "type": "Feature",
