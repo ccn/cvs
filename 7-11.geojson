@@ -22911,8 +22911,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.295546,
+          24.95955
         ],
         "type": "Point"
       },
@@ -25019,8 +25019,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.908522,
+          24.750915
         ],
         "type": "Point"
       },
@@ -44688,8 +44688,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.156732,
+          22.757858
         ],
         "type": "Point"
       },
@@ -54956,8 +54956,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.42531,
+          23.345468
         ],
         "type": "Point"
       },
@@ -58560,8 +58560,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.405896,
+          25.018376
         ],
         "type": "Point"
       },
@@ -58753,6 +58753,40 @@
         "type": "Point"
       },
       "id": "193708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193719",
+        "title": "泰安二",
+        "address": "台中市后里區安眉路113號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.711483,
+          24.330415
+        ],
+        "type": "Point"
+      },
+      "id": "193719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193720",
+        "title": "泰安三",
+        "address": "台中市后里區九甲七路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716729,
+          24.328875
+        ],
+        "type": "Point"
+      },
+      "id": "193720"
     },
     {
       "type": "Feature",
@@ -59104,8 +59138,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.2351,
+          23.024685
         ],
         "type": "Point"
       },
@@ -59165,6 +59199,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194240",
+        "title": "三隆",
+        "address": "高雄市大寮區光明路二段810號1F",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.417881,
+          22.601094
+        ],
+        "type": "Point"
+      },
+      "id": "194240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194262",
         "title": "豐竹",
         "address": "台中市大里區健民路97號",
@@ -59182,6 +59233,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194309",
+        "title": "方城市",
+        "address": "高雄市三民區文濱路22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.348458,
+          22.638763
+        ],
+        "type": "Point"
+      },
+      "id": "194309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194354",
         "title": "玉成",
         "address": "台北市南港區西新里南港路三段3號1樓",
@@ -59195,6 +59263,23 @@
         "type": "Point"
       },
       "id": "194354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194479",
+        "title": "崇信",
+        "address": "基隆市信義區東信路212-4,214號1F",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.763079,
+          25.128223
+        ],
+        "type": "Point"
+      },
+      "id": "194479"
     },
     {
       "type": "Feature",
@@ -59257,29 +59342,12 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.323319,
+          23.459565
         ],
         "type": "Point"
       },
       "id": "194701"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196785",
-        "title": "泰安一(臨)",
-        "address": "台中市后里區安眉路113號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.711483,
-          24.330415
-        ],
-        "type": "Point"
-      },
-      "id": "196785"
     },
     {
       "type": "Feature",
@@ -59314,23 +59382,6 @@
         "type": "Point"
       },
       "id": "196800"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196811",
-        "title": "泰安綻(臨)",
-        "address": "台中市后里區九甲七路400號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.716729,
-          24.328875
-        ],
-        "type": "Point"
-      },
-      "id": "196811"
     },
     {
       "type": "Feature",
@@ -60066,6 +60117,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200778",
+        "title": "新宏國",
+        "address": "桃園市八德區中華路292號294號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.276047,
+          24.981753
+        ],
+        "type": "Point"
+      },
+      "id": "200778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200789",
         "title": "台北4",
         "address": "台北市中正區北平西路3號(東北站)",
@@ -60555,23 +60623,6 @@
         "type": "Point"
       },
       "id": "833055"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "833077",
-        "title": "原中",
-        "address": "臺北市中山區中原街121號1樓、新生北路三段3巷41號2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "id": "833077"
     },
     {
       "type": "Feature",
@@ -87653,23 +87704,6 @@
         "type": "Point"
       },
       "id": "980436"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "980528",
-        "title": "新宏國",
-        "address": "桃園市八德區中華路292號294號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.276047,
-          24.981753
-        ],
-        "type": "Point"
-      },
-      "id": "980528"
     },
     {
       "type": "Feature",
