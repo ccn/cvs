@@ -6047,25 +6047,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012922",
-        "title": "全家永康華橋店",
-        "address": "台南市永康區大橋三街86號",
-        "post": "710",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.225999,
-          23.018864
-        ],
-        "type": "Point"
-      },
-      "id": "012922"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012923",
         "title": "全家台南東成店",
         "address": "台南市東區自由路三段223號",
@@ -63674,6 +63655,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018342",
+        "title": "全家桃園帝國店",
+        "address": "桃園市桃園區大興西路一段208號",
+        "post": "330",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.302761,
+          25.013638
+        ],
+        "type": "Point"
+      },
+      "id": "018342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018344",
         "title": "全家八德瑞德店",
         "address": "桃園市八德區13鄰介壽路二段1382號1樓",
@@ -63841,6 +63841,25 @@
         "type": "Point"
       },
       "id": "018365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018369",
+        "title": "全家博愛店",
+        "address": "台北市中正區博愛路63號1F＋B1F",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.511551,
+          25.044256
+        ],
+        "type": "Point"
+      },
+      "id": "018369"
     },
     {
       "type": "Feature",
@@ -64240,6 +64259,25 @@
         "type": "Point"
       },
       "id": "018554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018574",
+        "title": "全家永康華橋店",
+        "address": "台南市永康區大橋三街86號",
+        "post": "710",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.225999,
+          23.018864
+        ],
+        "type": "Point"
+      },
+      "id": "018574"
     },
     {
       "type": "Feature",
