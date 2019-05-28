@@ -7810,13 +7810,13 @@
       "properties": {
         "id": "122289",
         "title": "新東帝",
-        "address": "台北市大安區敦化南路二段97號1樓",
+        "address": "台北市大安區敦化南路二段99號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.549789,
-          25.028692
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -44715,6 +44715,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "181037",
+        "title": "通高",
+        "address": "苗栗縣通霄鎮內湖里12鄰烏眉路308號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.703409,
+          24.496568
+        ],
+        "type": "Point"
+      },
+      "id": "181037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "181059",
         "title": "東興",
         "address": "新竹縣竹東鎮北興路一段468號1樓",
@@ -59233,6 +59250,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194295",
+        "title": "華敬",
+        "address": "屏東縣屏東市中正里華正路12號1樓.14號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.503338,
+          22.687014
+        ],
+        "type": "Point"
+      },
+      "id": "194295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194309",
         "title": "方城市",
         "address": "高雄市三民區文濱路22號",
@@ -59352,6 +59386,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194790",
+        "title": "六張街",
+        "address": "新北市三重區六張街255巷17弄1號1樓255巷15號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196796",
         "title": "泰安二(臨)",
         "address": "台中市后里區安眉路113號",
@@ -59450,6 +59501,23 @@
         "type": "Point"
       },
       "id": "197065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197076",
+        "title": "新中工",
+        "address": "台中市西屯區工業區一路58之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.614555,
+          24.179681
+        ],
+        "type": "Point"
+      },
+      "id": "197076"
     },
     {
       "type": "Feature",
@@ -59909,23 +59977,6 @@
         "type": "Point"
       },
       "id": "200608"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "200619",
-        "title": "新中工",
-        "address": "台中市西屯區工業區一路58之1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.614555,
-          24.179681
-        ],
-        "type": "Point"
-      },
-      "id": "200619"
     },
     {
       "type": "Feature",
@@ -71248,23 +71299,6 @@
         "type": "Point"
       },
       "id": "921297"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "921345",
-        "title": "華敬",
-        "address": "屏東縣屏東市華山里華正路9號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.503535713993,
-          22.6870117016839
-        ],
-        "type": "Point"
-      },
-      "id": "921345"
     },
     {
       "type": "Feature",
