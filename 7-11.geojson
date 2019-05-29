@@ -31013,23 +31013,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "160111",
-        "title": "樹復",
-        "address": "新北市樹林區復興路340號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.415968,
-          24.986306
-        ],
-        "type": "Point"
-      },
-      "id": "160111"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "160122",
         "title": "佳林",
         "address": "新北市林口區林口路197號",
@@ -47911,6 +47894,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183686",
+        "title": "員泉",
+        "address": "宜蘭縣員山鄉溫泉路1之27號1之28號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.714651,
+          24.749582
+        ],
+        "type": "Point"
+      },
+      "id": "183686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183697",
         "title": "長城",
         "address": "台北市中山區中山北路二段56號1樓",
@@ -48162,6 +48162,23 @@
         "type": "Point"
       },
       "id": "183893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183929",
+        "title": "興荷",
+        "address": "南投縣南投市營北里向陽路101號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "183929"
     },
     {
       "type": "Feature",
@@ -48553,6 +48570,23 @@
         "type": "Point"
       },
       "id": "184232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184243",
+        "title": "浤雅",
+        "address": "台中市大雅區中清路四段737號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184243"
     },
     {
       "type": "Feature",
@@ -58264,6 +58298,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193236",
+        "title": "京寶",
+        "address": "台北市松山區南京東路五段291巷4之1號4之2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.566061,
+          25.051836
+        ],
+        "type": "Point"
+      },
+      "id": "193236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193247",
         "title": "慶林",
         "address": "台北市信義區虎林街151號153號1樓",
@@ -58689,6 +58740,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193650",
+        "title": "萬鑫",
+        "address": "桃園市楊梅區民富路三段828號830號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.088151,
+          24.935446
+        ],
+        "type": "Point"
+      },
+      "id": "193650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193661",
         "title": "龍和",
         "address": "台北市大安區和平東路二段197號199號1樓",
@@ -58770,40 +58838,6 @@
         "type": "Point"
       },
       "id": "193708"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "193719",
-        "title": "泰安二",
-        "address": "台中市后里區安眉路113號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.711483,
-          24.330415
-        ],
-        "type": "Point"
-      },
-      "id": "193719"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "193720",
-        "title": "泰安三",
-        "address": "台中市后里區九甲七路400號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.716729,
-          24.328875
-        ],
-        "type": "Point"
-      },
-      "id": "193720"
     },
     {
       "type": "Feature",
@@ -59131,6 +59165,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194077",
+        "title": "萬濠",
+        "address": "台北市中山區敬業四路1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.558379,
+          25.08031
+        ],
+        "type": "Point"
+      },
+      "id": "194077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194088",
         "title": "衛國",
         "address": "台南市東區林森路二段192巷24弄5號.7號",
@@ -59301,6 +59352,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194387",
+        "title": "富安",
+        "address": "新北市新莊區萬安街18-1號12-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.421452,
+          25.024848
+        ],
+        "type": "Point"
+      },
+      "id": "194387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194479",
         "title": "崇信",
         "address": "基隆市信義區東信路212-4,214號1F",
@@ -59314,6 +59382,40 @@
         "type": "Point"
       },
       "id": "194479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194480",
+        "title": "都峰苑",
+        "address": "新北市新莊區中央路686號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.446209,
+          25.057378
+        ],
+        "type": "Point"
+      },
+      "id": "194480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194631",
+        "title": "得月樓",
+        "address": "金門縣金城鎮金水里前水頭139-2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.297429,
+          24.412131
+        ],
+        "type": "Point"
+      },
+      "id": "194631"
     },
     {
       "type": "Feature",
@@ -59352,6 +59454,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194675",
+        "title": "鐵站",
+        "address": "新竹縣竹北市高鐵七路6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.040415,
+          24.80806
+        ],
+        "type": "Point"
+      },
+      "id": "194675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194686",
         "title": "鐵站二",
         "address": "新竹縣竹北市高鐵七路6號2樓",
@@ -59369,6 +59488,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194697",
+        "title": "嘉鐵",
+        "address": "嘉義縣太保市高鐵西路168號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.323319,
+          23.459565
+        ],
+        "type": "Point"
+      },
+      "id": "194697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194701",
         "title": "保鐵",
         "address": "嘉義縣太保市高鐵西路168號2樓",
@@ -59382,6 +59518,23 @@
         "type": "Point"
       },
       "id": "194701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194734",
+        "title": "頂孝",
+        "address": "新北市土城區中央路四段50-3.50-5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.420299,
+          24.960589
+        ],
+        "type": "Point"
+      },
+      "id": "194734"
     },
     {
       "type": "Feature",
@@ -59858,6 +60011,23 @@
         "type": "Point"
       },
       "id": "198725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198736",
+        "title": "樹復",
+        "address": "新北市樹林區復興路340號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.415968,
+          24.986306
+        ],
+        "type": "Point"
+      },
+      "id": "198736"
     },
     {
       "type": "Feature",
@@ -81414,23 +81584,6 @@
         "type": "Point"
       },
       "id": "962678"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "962704",
-        "title": "超全",
-        "address": "台中市大雅區中清路四段910號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.630574,
-          24.240952
-        ],
-        "type": "Point"
-      },
-      "id": "962704"
     },
     {
       "type": "Feature",
