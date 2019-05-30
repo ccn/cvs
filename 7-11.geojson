@@ -31268,23 +31268,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "160339",
-        "title": "景旺",
-        "address": "新北市中和區成功路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.526373,
-          24.994185
-        ],
-        "type": "Point"
-      },
-      "id": "160339"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "160351",
         "title": "康平",
         "address": "台南市安平區健康三街81號",
@@ -58842,6 +58825,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193719",
+        "title": "泰安二",
+        "address": "台中市后里區安眉路113號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.711483,
+          24.330415
+        ],
+        "type": "Point"
+      },
+      "id": "193719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193720",
+        "title": "泰安三",
+        "address": "台中市后里區九甲七路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716729,
+          24.328875
+        ],
+        "type": "Point"
+      },
+      "id": "193720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193731",
         "title": "鑫成",
         "address": "台北市士林區至誠路二段82號1樓",
@@ -59556,6 +59573,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194860",
+        "title": "新滬站",
+        "address": "新北市淡水區中正路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.445459,
+          25.167935
+        ],
+        "type": "Point"
+      },
+      "id": "194860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196796",
         "title": "泰安二(臨)",
         "address": "台中市后里區安眉路113號",
@@ -59671,6 +59705,23 @@
         "type": "Point"
       },
       "id": "197076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197098",
+        "title": "景旺",
+        "address": "新北市中和區成功路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.526373,
+          24.994185
+        ],
+        "type": "Point"
+      },
+      "id": "197098"
     },
     {
       "type": "Feature",
@@ -60049,23 +60100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200549",
-        "title": "崴信",
-        "address": "桃園市桃園區信光路22號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.307567,
-          25.006246
-        ],
-        "type": "Point"
-      },
-      "id": "200549"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200550",
         "title": "德偉",
         "address": "新北市中和區中興街162號164號",
@@ -60300,6 +60334,23 @@
         "type": "Point"
       },
       "id": "200723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200734",
+        "title": "崴信",
+        "address": "桃園市桃園區信光路22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.307567,
+          25.006246
+        ],
+        "type": "Point"
+      },
+      "id": "200734"
     },
     {
       "type": "Feature",
