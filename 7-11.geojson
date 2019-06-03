@@ -43117,23 +43117,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "179883",
-        "title": "新滬站",
-        "address": "新北市淡水區中正路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.445459,
-          25.167935
-        ],
-        "type": "Point"
-      },
-      "id": "179883"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "179908",
         "title": "中心園",
         "address": "南投縣埔里鎮中山路一段427號1樓",
@@ -45346,13 +45329,13 @@
       "properties": {
         "id": "181532",
         "title": "真新",
-        "address": "台南市麻豆區油車里油車24之1號1樓",
+        "address": "台南市麻豆區大同街24之1號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.245321,
-          23.189968
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -46088,6 +46071,23 @@
         "type": "Point"
       },
       "id": "182270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182281",
+        "title": "後驛",
+        "address": "高雄市三民區安和里察哈爾一街148號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.303749,
+          22.647723
+        ],
+        "type": "Point"
+      },
+      "id": "182281"
     },
     {
       "type": "Feature",
@@ -58621,6 +58621,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193568",
+        "title": "北園",
+        "address": "台南市北區北園街6號之6  1、2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "193568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193579",
         "title": "學高",
         "address": "高雄市楠梓區藍田路962.966號",
@@ -59709,23 +59726,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "198518",
-        "title": "新聖母",
-        "address": "宜蘭縣羅東鎮中正南路160號(聖母醫院內)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.771302,
-          24.67146
-        ],
-        "type": "Point"
-      },
-      "id": "198518"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "198529",
         "title": "盧奉",
         "address": "桃園市蘆竹區奉化路25號27號1樓",
@@ -60334,6 +60334,23 @@
         "type": "Point"
       },
       "id": "200745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200756",
+        "title": "新聖母",
+        "address": "宜蘭縣羅東鎮中正南路160號(聖母醫院內)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.771302,
+          24.67146
+        ],
+        "type": "Point"
+      },
+      "id": "200756"
     },
     {
       "type": "Feature",
