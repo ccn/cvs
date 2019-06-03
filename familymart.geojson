@@ -575,44 +575,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "010863",
-        "title": "全家二林斗苑店",
-        "address": "彰化縣二林鎮斗苑路四段299號",
-        "post": "526",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.3812486,
-          23.8991659
-        ],
-        "type": "Point"
-      },
-      "id": "010863"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "010905",
-        "title": "全家台中樂樂店",
-        "address": "台中市北屯區熱河路二段119號",
-        "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.687415,
-          24.171158
-        ],
-        "type": "Point"
-      },
-      "id": "010905"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "010926",
         "title": "全家新店民德店",
         "address": "新北市新店區民族路6號",
@@ -7757,25 +7719,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013289",
-        "title": "全家三重華義店",
-        "address": "新北市三重區仁義街244號、富華街193號1樓",
-        "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.494134,
-          25.085526
-        ],
-        "type": "Point"
-      },
-      "id": "013289"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013291",
         "title": "全家台中柳川店",
         "address": "台中市南區美村路二段16號、18號1樓",
@@ -13913,25 +13856,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014212",
-        "title": "全家基隆新樂群店",
-        "address": "基隆市安樂區樂利三街128號",
-        "post": "204",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.715729,
-          25.126443
-        ],
-        "type": "Point"
-      },
-      "id": "014212"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014215",
         "title": "全家龜山庚勤店",
         "address": "桃園市龜山區文化一路261號庚勤樓Ｌ棟5樓",
@@ -16132,25 +16056,6 @@
         "type": "Point"
       },
       "id": "014546"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014547",
-        "title": "全家大甲水源店",
-        "address": "台中市大甲區水源路450號",
-        "post": "437",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.62937,
-          24.344304
-        ],
-        "type": "Point"
-      },
-      "id": "014547"
     },
     {
       "type": "Feature",
@@ -20943,25 +20848,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015133",
-        "title": "全家永康自強店",
-        "address": "台南市永康區自強路728號1樓",
-        "post": "710",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.262285,
-          23.035886
-        ],
-        "type": "Point"
-      },
-      "id": "015133"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015136",
         "title": "全家仁武鳳仁店",
         "address": "高雄市仁武區鳳仁路45號",
@@ -21015,25 +20901,6 @@
         "type": "Point"
       },
       "id": "015139"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015140",
-        "title": "全家三重重陽店",
-        "address": "新北市三重區重陽路一段109號、111號1樓",
-        "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.486873,
-          25.059753
-        ],
-        "type": "Point"
-      },
-      "id": "015140"
     },
     {
       "type": "Feature",
@@ -21247,25 +21114,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015158",
-        "title": "全家新福興店",
-        "address": "臺北市文山區福興路65號",
-        "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.549836,
-          25.003657
-        ],
-        "type": "Point"
-      },
-      "id": "015158"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015160",
         "title": "全家淡水大學店",
         "address": "新北市淡水區英專路151號",
@@ -21376,25 +21224,6 @@
         "type": "Point"
       },
       "id": "015167"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015169",
-        "title": "全家新莊新和港店",
-        "address": "新北市新莊區中港一街143號",
-        "post": "242",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.447828,
-          25.045023
-        ],
-        "type": "Point"
-      },
-      "id": "015169"
     },
     {
       "type": "Feature",
@@ -39069,25 +38898,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016665",
-        "title": "全家大甲車頭店",
-        "address": "台中市大甲區蔣公路2號1樓",
-        "post": "437",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.626399,
-          24.344699
-        ],
-        "type": "Point"
-      },
-      "id": "016665"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016666",
         "title": "全家高雄鑫昌店",
         "address": "高雄市楠梓區新昌街39-1號",
@@ -45981,25 +45791,6 @@
         "type": "Point"
       },
       "id": "017186"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017187",
-        "title": "全家新豐福比店",
-        "address": "新竹縣新豐鄉新興路763號",
-        "post": "304",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.010435,
-          24.882629
-        ],
-        "type": "Point"
-      },
-      "id": "017187"
     },
     {
       "type": "Feature",
@@ -56264,25 +56055,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017903",
-        "title": "全家后里新中興店",
-        "address": "台中市后里區甲后路一段362號",
-        "post": "421",
-        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.726259758156,
-          24.3091675879475
-        ],
-        "type": "Point"
-      },
-      "id": "017903"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017905",
         "title": "全家將軍青鯤鯓店",
         "address": "台南市將軍區鯤鯓里212號",
@@ -59779,25 +59551,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018136",
-        "title": "全家竹東榮總店",
-        "address": "新竹縣竹東鎮中豐路一段81號",
-        "post": "310",
-        "all": "COFFEE,SWEETPOTATO,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.099262,
-          24.723212
-        ],
-        "type": "Point"
-      },
-      "id": "018136"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018137",
         "title": "全家嘉義龍興店",
         "address": "嘉義市西區興達路166號附1",
@@ -62325,6 +62078,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018282",
+        "title": "全家台中樂樂店",
+        "address": "台中市北屯區熱河路二段119號",
+        "post": "406",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.687415,
+          24.171158
+        ],
+        "type": "Point"
+      },
+      "id": "018282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018285",
         "title": "全家和美德美店",
         "address": "彰化縣和美鎮美寮路二段557號1樓",
@@ -62340,6 +62112,25 @@
         "type": "Point"
       },
       "id": "018285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018286",
+        "title": "全家二林斗苑店",
+        "address": "彰化縣二林鎮斗苑路四段299號",
+        "post": "526",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.3812486,
+          23.8991659
+        ],
+        "type": "Point"
+      },
+      "id": "018286"
     },
     {
       "type": "Feature",
@@ -63370,6 +63161,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018349",
+        "title": "全家板橋傑仕堡店",
+        "address": "新北市板橋區文化路一段188巷57號1樓（配送用）",
+        "post": "220",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468186,
+          25.01824
+        ],
+        "type": "Point"
+      },
+      "id": "018349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018350",
         "title": "全家板橋新翠店",
         "address": "新北市板橋區懷德街127巷23弄7號1樓",
@@ -63674,6 +63484,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018370",
+        "title": "全家民雄十四甲店",
+        "address": "嘉義縣民雄鄉大崎村7鄰十四甲路16之4號",
+        "post": "621",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.42868477,
+          23.55138964
+        ],
+        "type": "Point"
+      },
+      "id": "018370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018371",
+        "title": "全家高雄創金店",
+        "address": "高雄市楠梓區創新路890之1號",
+        "post": "811",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.33173471,
+          22.75051235
+        ],
+        "type": "Point"
+      },
+      "id": "018371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018372",
         "title": "全家平溪十分店",
         "address": "新北市平溪區靜安路三段331號",
@@ -63784,6 +63632,63 @@
         "type": "Point"
       },
       "id": "018379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018380",
+        "title": "全家大甲水源店",
+        "address": "台中市大甲區水源路450號",
+        "post": "437",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.62937,
+          24.344304
+        ],
+        "type": "Point"
+      },
+      "id": "018380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018381",
+        "title": "全家大甲車頭店",
+        "address": "台中市大甲區蔣公路2號1樓",
+        "post": "437",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.626399,
+          24.344699
+        ],
+        "type": "Point"
+      },
+      "id": "018381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018382",
+        "title": "全家后里新中興店",
+        "address": "台中市后里區甲后路一段362號",
+        "post": "421",
+        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.726259758156,
+          24.3091675879475
+        ],
+        "type": "Point"
+      },
+      "id": "018382"
     },
     {
       "type": "Feature",
@@ -63940,6 +63845,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018403",
+        "title": "全家春北店",
+        "address": "台北市中山區長春路410號1樓及地下室",
+        "post": "104",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.543757,
+          25.054476
+        ],
+        "type": "Point"
+      },
+      "id": "018403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018404",
         "title": "全家民佳店",
         "address": "台北市中山區民生東路二段155號1樓",
@@ -63955,6 +63879,44 @@
         "type": "Point"
       },
       "id": "018404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018411",
+        "title": "全家鑫福隆店",
+        "address": "新北市貢寮區興隆街22號1．2樓",
+        "post": "228",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.94472979,
+          25.01680529
+        ],
+        "type": "Point"
+      },
+      "id": "018411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018412",
+        "title": "全家新福興店",
+        "address": "臺北市文山區福興路65號",
+        "post": "116",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.549836,
+          25.003657
+        ],
+        "type": "Point"
+      },
+      "id": "018412"
     },
     {
       "type": "Feature",
@@ -63993,6 +63955,44 @@
         "type": "Point"
       },
       "id": "018415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018418",
+        "title": "全家三重重陽店",
+        "address": "新北市三重區重陽路一段109號、111號1樓",
+        "post": "241",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.486873,
+          25.059753
+        ],
+        "type": "Point"
+      },
+      "id": "018418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018419",
+        "title": "全家新莊新和港店",
+        "address": "新北市新莊區中港一街143號",
+        "post": "242",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.447828,
+          25.045023
+        ],
+        "type": "Point"
+      },
+      "id": "018419"
     },
     {
       "type": "Feature",
@@ -64377,6 +64377,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018644",
+        "title": "全家竹東榮總店",
+        "address": "新竹縣竹東鎮中豐路一段81號",
+        "post": "310",
+        "all": "COFFEE,SWEETPOTATO,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.099262,
+          24.723212
+        ],
+        "type": "Point"
+      },
+      "id": "018644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018654",
+        "title": "全家新豐福比店",
+        "address": "新竹縣新豐鄉新興路763號",
+        "post": "304",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.010435,
+          24.882629
+        ],
+        "type": "Point"
+      },
+      "id": "018654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018664",
         "title": "全家新東寶店",
         "address": "台北市松山區南京東路五段291巷14號",
@@ -64392,6 +64430,44 @@
         "type": "Point"
       },
       "id": "018664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018674",
+        "title": "全家永康自強店",
+        "address": "台南市永康區自強路728號1樓",
+        "post": "710",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.262285,
+          23.035886
+        ],
+        "type": "Point"
+      },
+      "id": "018674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018684",
+        "title": "全家三重華義店",
+        "address": "新北市三重區仁義街244號、富華街193號1樓",
+        "post": "241",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.494134,
+          25.085526
+        ],
+        "type": "Point"
+      },
+      "id": "018684"
     },
     {
       "type": "Feature",
@@ -64525,6 +64601,25 @@
         "type": "Point"
       },
       "id": "018784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018844",
+        "title": "全家基隆新樂群店",
+        "address": "基隆市安樂區樂利三街128號",
+        "post": "204",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.715729,
+          25.126443
+        ],
+        "type": "Point"
+      },
+      "id": "018844"
     },
     {
       "type": "Feature",
