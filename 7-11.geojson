@@ -58808,6 +58808,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193719",
+        "title": "泰安二",
+        "address": "台中市后里區安眉路113號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.711483,
+          24.330415
+        ],
+        "type": "Point"
+      },
+      "id": "193719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193720",
+        "title": "泰安三",
+        "address": "台中市后里區九甲七路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716729,
+          24.328875
+        ],
+        "type": "Point"
+      },
+      "id": "193720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193731",
         "title": "鑫成",
         "address": "台北市士林區至誠路二段82號1樓",
@@ -86599,23 +86633,6 @@
         "type": "Point"
       },
       "id": "975663"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "975685",
-        "title": "復錦",
-        "address": "台北市中山區復興北路352號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54402,
-          25.060105
-        ],
-        "type": "Point"
-      },
-      "id": "975685"
     },
     {
       "type": "Feature",
