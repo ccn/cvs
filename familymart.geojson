@@ -42223,6 +42223,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "016950",
+        "title": "全家橋頭合興店",
+        "address": "高雄市橋頭區樹德路75-8號",
+        "post": "825",
+        "all": "COFFEE,SWEETPOTATO,icecream,Rest,veg,oneice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304322,
+          22.76119
+        ],
+        "type": "Point"
+      },
+      "id": "016950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "016951",
         "title": "全家瑞陽店",
         "address": "台北市內湖區文德路90巷49號",
@@ -46399,6 +46418,25 @@
         "type": "Point"
       },
       "id": "017231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017232",
+        "title": "全家橋頭糖廠店",
+        "address": "高雄市橋頭區糖廠路2-1號一樓",
+        "post": "825",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.312446,
+          22.754577
+        ],
+        "type": "Point"
+      },
+      "id": "017232"
     },
     {
       "type": "Feature",
@@ -50864,6 +50902,25 @@
         "type": "Point"
       },
       "id": "017537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017538",
+        "title": "全家橋頭建樹店",
+        "address": "高雄市橋頭區成功北路65、67、69號1樓",
+        "post": "825",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.307587,
+          22.763296
+        ],
+        "type": "Point"
+      },
+      "id": "017538"
     },
     {
       "type": "Feature",
