@@ -18899,8 +18899,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.528416,
-          24.221845
+          120.5285018306885,
+          24.2213117540069
         ],
         "type": "Point"
       },
@@ -19619,6 +19619,23 @@
         "type": "Point"
       },
       "id": "4592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4593",
+        "title": "安南惠安店",
+        "address": "台南市安南區溪頂里２３鄰惠安街１０２&１０４號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2075944547651,
+          23.0269052890883
+        ],
+        "type": "Point"
+      },
+      "id": "4593"
     },
     {
       "type": "Feature",
