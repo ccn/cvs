@@ -45334,8 +45334,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.245321,
+          23.189968
         ],
         "type": "Point"
       },
@@ -58611,8 +58611,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.22334,
+          23.010328
         ],
         "type": "Point"
       },
@@ -59369,6 +59369,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194402",
+        "title": "員和",
+        "address": "新北市中和區員山路118號120號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.481164,
+          24.995774
+        ],
+        "type": "Point"
+      },
+      "id": "194402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194479",
         "title": "崇信",
         "address": "基隆市信義區東信路212-4,214號1F",
@@ -59399,6 +59416,40 @@
         "type": "Point"
       },
       "id": "194480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194572",
+        "title": "復錦",
+        "address": "台北市中山區復興北路348號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.543944,
+          25.059978
+        ],
+        "type": "Point"
+      },
+      "id": "194572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194594",
+        "title": "加百列",
+        "address": "新北市鶯歌區中正一路131號133號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.352145,
+          24.956044
+        ],
+        "type": "Point"
+      },
+      "id": "194594"
     },
     {
       "type": "Feature",
@@ -59569,40 +59620,6 @@
         "type": "Point"
       },
       "id": "194860"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196796",
-        "title": "泰安二(臨)",
-        "address": "台中市后里區安眉路113號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.711483,
-          24.330415
-        ],
-        "type": "Point"
-      },
-      "id": "196796"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196800",
-        "title": "泰安三(臨)",
-        "address": "台中市后里區九甲七路400號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.716729,
-          24.328875
-        ],
-        "type": "Point"
-      },
-      "id": "196800"
     },
     {
       "type": "Feature",
