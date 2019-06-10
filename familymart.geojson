@@ -199,7 +199,7 @@
         "title": "全家中和橋安店",
         "address": "新北市中和區橋和路120號",
         "post": "235",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -275,7 +275,7 @@
         "title": "全家胡適店",
         "address": "台北市南港區舊莊街一段3巷16號",
         "post": "115",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -598,7 +598,7 @@
         "title": "全家北鑫店",
         "address": "台北市南港區中坡南路15號",
         "post": "115",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -617,7 +617,7 @@
         "title": "全家富康店",
         "address": "台北市南港區富康街86號1F",
         "post": "115",
-        "all": "COFFEE,Smoothie,WiFi,veg,SharePot,Preorder,Latte",
+        "all": "COFFEE,Smoothie,WiFi,veg,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -902,7 +902,7 @@
         "title": "全家龜山萬壽店",
         "address": "桃園市龜山區龜山村萬壽路二段662號662之1號一",
         "post": "333",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -1111,7 +1111,7 @@
         "title": "全家中壢龍興店",
         "address": "桃園市中壢區龍岡路二段317．319號1樓",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -1149,7 +1149,7 @@
         "title": "全家平鎮極光店",
         "address": "桃園市平鎮區延平路二段15號",
         "post": "324",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -1263,7 +1263,7 @@
         "title": "全家潭子佳能店",
         "address": "台中市潭子區北環路9號F棟5樓",
         "post": "427",
-        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -1719,7 +1719,7 @@
         "title": "全家吉安自強店",
         "address": "花蓮縣吉安鄉勝安村自強路129號一樓131號",
         "post": "973",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -1757,7 +1757,7 @@
         "title": "全家碧湖店",
         "address": "台北市內湖區內湖路一段593號一樓及地下室",
         "post": "114",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -2099,7 +2099,7 @@
         "title": "全家霧峰金德店",
         "address": "台中市霧峰區四德路576號",
         "post": "413",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -2118,7 +2118,7 @@
         "title": "全家蘆竹鼎福店",
         "address": "桃園市蘆竹區六福路163號1樓",
         "post": "338",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -2232,7 +2232,7 @@
         "title": "全家新台大店",
         "address": "臺北市大安區羅斯福路四段1號第一學生活動中心",
         "post": "106",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -2593,7 +2593,7 @@
         "title": "全家新莊新中信店",
         "address": "新北市新莊區中信街41號1樓",
         "post": "242",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -2631,7 +2631,7 @@
         "title": "全家松指部店",
         "address": "臺北市松山區民權東路四段121號（松指部）",
         "post": "105",
-        "all": "COFFEE,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -3524,7 +3524,7 @@
         "title": "全家龍潭兄弟店",
         "address": "桃園市龍潭區民生路10號",
         "post": "325",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -3562,7 +3562,7 @@
         "title": "全家名間金交流店",
         "address": "南投縣名間鄉彰南路243號",
         "post": "551",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Rest,oneice,twoice,muffin,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Rest,oneice,twoice,muffin,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -3581,7 +3581,7 @@
         "title": "全家台南新安平店",
         "address": "臺南市安平區安平路177號1樓",
         "post": "708",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -3790,7 +3790,7 @@
         "title": "全家員林正新店",
         "address": "彰化縣員林市三民東街350號",
         "post": "510",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -3866,7 +3866,7 @@
         "title": "全家潭子摘星店",
         "address": "台中市潭子區雅豐街323號",
         "post": "427",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -3999,7 +3999,7 @@
         "title": "全家淡水旭陞店",
         "address": "新北市淡水區新生街53號1樓",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -4075,7 +4075,7 @@
         "title": "全家大園蓮園店",
         "address": "桃園市大園區大觀路602號",
         "post": "337",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,SharePot,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,SharePot,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -4284,7 +4284,7 @@
         "title": "全家台南新和店",
         "address": "台南市南區新建路47號1樓",
         "post": "702",
-        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -4417,7 +4417,7 @@
         "title": "全家台中金豹店",
         "address": "台中市西屯區四川一街26號",
         "post": "407",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -4436,7 +4436,7 @@
         "title": "全家高雄得陽店",
         "address": "高雄市三民區大昌二路309-1號",
         "post": "807",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -4550,7 +4550,7 @@
         "title": "全家東港東光店",
         "address": "屏東縣東港鎮長春二路206號",
         "post": "928",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -4873,7 +4873,7 @@
         "title": "全家新莊新園寧店",
         "address": "新北市新莊區建興街101號",
         "post": "242",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -4968,7 +4968,7 @@
         "title": "全家頭份田寮店",
         "address": "苗栗縣頭份市10鄰自強路二段628號",
         "post": "351",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,muffin,SharePot,SUNMAI,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,muffin,SharePot,SUNMAI,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5044,7 +5044,7 @@
         "title": "全家汐止青山店",
         "address": "新北市汐止區新台五路一段212號；212之1號",
         "post": "221",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5063,7 +5063,7 @@
         "title": "全家霧峰新錦峰店",
         "address": "台中市霧峰區錦州路331號",
         "post": "413",
-        "all": "COFFEE,SWEETPOTATO,Photo,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5158,7 +5158,7 @@
         "title": "全家嘉義憶富店",
         "address": "嘉義市西區民權路396號1樓",
         "post": "600",
-        "all": "COFFEE,WiFi,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,WiFi,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5215,7 +5215,7 @@
         "title": "全家台南金華店",
         "address": "臺南市南區新孝路72號1樓",
         "post": "702",
-        "all": "COFFEE,WiFi,Rest,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,WiFi,Rest,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5234,7 +5234,7 @@
         "title": "全家溪湖再發店",
         "address": "彰化縣溪湖鎮崙子腳路122號",
         "post": "514",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5272,7 +5272,7 @@
         "title": "全家台中新興中店",
         "address": "台中市中區公園路81號",
         "post": "400",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SUNMAI,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5652,7 +5652,7 @@
         "title": "全家大雅金學府店",
         "address": "台中市大雅區學府路176-3號",
         "post": "428",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5899,7 +5899,7 @@
         "title": "全家豐原鎌村店",
         "address": "台中市豐原區鎌村路649號",
         "post": "420",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6089,7 +6089,7 @@
         "title": "全家樹林博愛店",
         "address": "新北市樹林區博愛街158號1樓",
         "post": "238",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6146,7 +6146,7 @@
         "title": "全家新松林店",
         "address": "台北市信義區虎林街61-4號",
         "post": "110",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6184,7 +6184,7 @@
         "title": "全家龍潭武漢店",
         "address": "桃園市龍潭區中興路334號1樓",
         "post": "325",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6317,7 +6317,7 @@
         "title": "全家淡水源德店",
         "address": "新北市淡水區水源街一段1號",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6336,7 +6336,7 @@
         "title": "全家草屯太平店",
         "address": "南投縣草屯鎮太平路一段498號",
         "post": "542",
-        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,twoice,SharePot,SUNMAI,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,twoice,SharePot,SUNMAI,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6355,7 +6355,7 @@
         "title": "全家大埤南和店",
         "address": "雲林縣大埤鄉中正路19號",
         "post": "631",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6507,7 +6507,7 @@
         "title": "全家桃園元富店",
         "address": "桃園市桃園區大業路一段46號、48號1樓",
         "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6583,7 +6583,7 @@
         "title": "全家新店富強店",
         "address": "新北市新店區中興路三段156號",
         "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6659,7 +6659,7 @@
         "title": "全家嘉義八德店",
         "address": "嘉義市西區八德路240號",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6868,7 +6868,7 @@
         "title": "全家礁溪精華店",
         "address": "宜蘭縣礁溪鄉礁溪路五段118號1樓",
         "post": "262",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -6887,7 +6887,7 @@
         "title": "全家永樂店",
         "address": "台北市大同區延平北路二段260號之1",
         "post": "103",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,twoice,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,twoice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -7096,7 +7096,7 @@
         "title": "全家竹北嘉豐店",
         "address": "新竹縣竹北市嘉豐五路二段79號1樓",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -7362,7 +7362,7 @@
         "title": "全家竹北嘉興店",
         "address": "新竹縣竹北市勝利七街二段66號1樓",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,twoice,SharePot,Kantoni,TANHOU,FreshFruit,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,twoice,SharePot,Kantoni,TANHOU,FreshFruit,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -7438,7 +7438,7 @@
         "title": "全家新店中欣店",
         "address": "新北市新店區中正路3號",
         "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -7666,7 +7666,7 @@
         "title": "全家新德明店",
         "address": "臺北市內湖區環山路一段110號",
         "post": "114",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -7704,7 +7704,7 @@
         "title": "全家康柏店",
         "address": "台北市松山區健康路220號",
         "post": "105",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -7723,7 +7723,7 @@
         "title": "全家台中柳川店",
         "address": "台中市南區美村路二段16號、18號1樓",
         "post": "402",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -7742,7 +7742,7 @@
         "title": "全家板橋富安店",
         "address": "新北市板橋區長江路一段100號1樓",
         "post": "220",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8008,7 +8008,7 @@
         "title": "全家台南長安店",
         "address": "台南市安南區長和路二段12巷275號",
         "post": "709",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8312,7 +8312,7 @@
         "title": "全家台中太陽店",
         "address": "台中市北區太原路一段450-1號",
         "post": "404",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8350,7 +8350,7 @@
         "title": "全家永康永明店",
         "address": "台南市永康區永明街262號",
         "post": "710",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8407,7 +8407,7 @@
         "title": "全家三重三佾店",
         "address": "新北市三重區中央北路58號1樓",
         "post": "241",
-        "all": "COFFEE,WiFi,icecream,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,WiFi,icecream,oneice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8483,7 +8483,7 @@
         "title": "全家太平新凱悅店",
         "address": "台中市太平區中平九街117號",
         "post": "411",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8616,7 +8616,7 @@
         "title": "全家屏東屏榮店",
         "address": "屏東縣屏東市民學路148號一樓",
         "post": "900",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8654,7 +8654,7 @@
         "title": "全家台中四平店",
         "address": "台中市北屯區四平路35之6號",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8692,7 +8692,7 @@
         "title": "全家屏東武成店",
         "address": "屏東縣屏東市武成街82-5號",
         "post": "900",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8844,7 +8844,7 @@
         "title": "全家新莊天美店",
         "address": "新北市新莊區天祥街42號1樓",
         "post": "242",
-        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8863,7 +8863,7 @@
         "title": "全家嘉義向榮店",
         "address": "嘉義市西區國華街519號1樓",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8901,7 +8901,7 @@
         "title": "全家竹東長春店",
         "address": "新竹縣竹東鎮長春路三段165號一、二樓",
         "post": "310",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8996,7 +8996,7 @@
         "title": "全家台福店",
         "address": "台北市大安區羅斯福路四段1號腳踏車部部份空間",
         "post": "106",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9034,7 +9034,7 @@
         "title": "全家中壢中央一店",
         "address": "桃園市中壢區中大路300號（松果餐廳）",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9053,7 +9053,7 @@
         "title": "全家竹東興仁店",
         "address": "新竹縣竹東鎮仁愛路446號1樓",
         "post": "310",
-        "all": "COFFEE,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,WiFi,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9091,7 +9091,7 @@
         "title": "全家桃園大正店",
         "address": "桃園市桃園區中正路302號1樓",
         "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9110,7 +9110,7 @@
         "title": "全家仁德仁紡店",
         "address": "台南市仁德區中正路二段805號",
         "post": "717",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9148,7 +9148,7 @@
         "title": "全家高雄重慶店",
         "address": "高雄市三民區重慶街269號",
         "post": "807",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9262,7 +9262,7 @@
         "title": "全家板橋興安店",
         "address": "新北市板橋區大觀路二段37巷38號1樓",
         "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9338,7 +9338,7 @@
         "title": "全家三峽新介壽店",
         "address": "新北市三峽區介壽路三段176號1樓",
         "post": "237",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9395,7 +9395,7 @@
         "title": "全家立賢店",
         "address": "台北市北投區承德路七段290號",
         "post": "112",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9433,7 +9433,7 @@
         "title": "全家華崗店",
         "address": "台北市士林區光華路26巷3號-2",
         "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9566,7 +9566,7 @@
         "title": "全家鳥松仁美店",
         "address": "高雄市鳥松區學堂路91-1號",
         "post": "833",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -9775,7 +9775,7 @@
         "title": "全家羅中店",
         "address": "台北市大安區羅斯福路二段17號1F",
         "post": "106",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -10459,7 +10459,7 @@
         "title": "全家中壢元大二店",
         "address": "桃園市中壢區遠東路135號（元智大學圖書館）",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -10858,7 +10858,7 @@
         "title": "全家護校店",
         "address": "台北市內湖區康寧路三段75巷137號",
         "post": "114",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -10934,7 +10934,7 @@
         "title": "全家萬年店",
         "address": "台北市萬華區西寧南路155號1樓",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SUNMAI,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -10991,7 +10991,7 @@
         "title": "全家新店三福店",
         "address": "新北市新店區三民路77號",
         "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -11409,7 +11409,7 @@
         "title": "全家八德德富店",
         "address": "桃園市八德區廣福路805號",
         "post": "334",
-        "all": "COFFEE,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -11618,7 +11618,7 @@
         "title": "全家新知行店",
         "address": "臺北市北投區知行路237號",
         "post": "112",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -11960,7 +11960,7 @@
         "title": "全家樹林車站店",
         "address": "新北市樹林區後站街8號",
         "post": "238",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -12017,7 +12017,7 @@
         "title": "全家高雄新庄店",
         "address": "高雄市左營區新庄仔路700號",
         "post": "813",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -12074,7 +12074,7 @@
         "title": "全家平鎮新義店",
         "address": "桃園市平鎮區延平路二段400巷8號",
         "post": "324",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -12093,7 +12093,7 @@
         "title": "全家桃園壽星店",
         "address": "桃園市桃園區仁愛路60號1樓。2樓",
         "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -12150,7 +12150,7 @@
         "title": "全家台中中興二店",
         "address": "台中市南區國光路250號",
         "post": "402",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -12188,7 +12188,7 @@
         "title": "全家大園航園店",
         "address": "桃園市大園區中正東路338號",
         "post": "337",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -12568,7 +12568,7 @@
         "title": "全家新竹東大店",
         "address": "新竹市東區南大路83號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -12796,7 +12796,7 @@
         "title": "全家新店如意店",
         "address": "新北市新店區如意街29號1樓",
         "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -12967,7 +12967,7 @@
         "title": "全家台中豐盛店",
         "address": "台中市西屯區西屯路二段126-13號126-15號",
         "post": "407",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13005,7 +13005,7 @@
         "title": "全家汐止祥雲店",
         "address": "新北市汐止區祥雲街1號壹樓部份",
         "post": "221",
-        "all": "COFFEE,Smoothie,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,Smoothie,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13157,7 +13157,7 @@
         "title": "全家八德桃鶯店",
         "address": "桃園市八德區桃鶯路34號",
         "post": "334",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13195,7 +13195,7 @@
         "title": "全家頭份公園店",
         "address": "苗栗縣頭份市公園路2號",
         "post": "351",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13309,7 +13309,7 @@
         "title": "全家德行店",
         "address": "台北市士林區德行東路109巷3號",
         "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13347,7 +13347,7 @@
         "title": "全家新莊學輔店",
         "address": "新北市新莊區建國一路2號",
         "post": "242",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13442,7 +13442,7 @@
         "title": "全家康福店",
         "address": "台北市內湖區康樂街87號",
         "post": "114",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13537,7 +13537,7 @@
         "title": "全家龍井龍勝店",
         "address": "台中市龍井區龍社路439號",
         "post": "434",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13556,7 +13556,7 @@
         "title": "全家新市華興店",
         "address": "台南市新市區中正路252號1樓",
         "post": "744",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13632,7 +13632,7 @@
         "title": "全家福興番花店",
         "address": "彰化縣福興鄉番花路一段853號",
         "post": "506",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13689,7 +13689,7 @@
         "title": "全家三峽學勝店",
         "address": "新北市三峽區學勤路162號1樓",
         "post": "237",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13803,7 +13803,7 @@
         "title": "全家汐止站前店",
         "address": "新北市汐止區南昌街16號",
         "post": "221",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13841,7 +13841,7 @@
         "title": "全家師美店",
         "address": "台北市文山區汀州路四段77號",
         "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13860,7 +13860,7 @@
         "title": "全家龜山庚勤店",
         "address": "桃園市龜山區文化一路261號庚勤樓Ｌ棟5樓",
         "post": "333",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,TANHOU,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,TANHOU,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13936,7 +13936,7 @@
         "title": "全家埤頭大豐店",
         "address": "彰化縣埤頭鄉斗苑東路2之5號",
         "post": "523",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13955,7 +13955,7 @@
         "title": "全家永和保平店",
         "address": "新北市永和區永貞路354號356號",
         "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -13974,7 +13974,7 @@
         "title": "全家中壢新中原店",
         "address": "桃園市中壢區新中北路243號1樓",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -14145,7 +14145,7 @@
         "title": "全家台中長樂店",
         "address": "台中市東區樂業路342號",
         "post": "401",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -14487,7 +14487,7 @@
         "title": "全家員林金三橋店",
         "address": "彰化縣員林市浮圳路二段168號",
         "post": "510",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -14525,7 +14525,7 @@
         "title": "全家基隆新祥豐店",
         "address": "基隆市中正區中正路623號壹樓",
         "post": "202",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -14772,7 +14772,7 @@
         "title": "全家大發輔大二店",
         "address": "高雄市大寮區進學路151號",
         "post": "831",
-        "all": "COFFEE,SWEETPOTATO,icecream,oneice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,icecream,oneice,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -14829,7 +14829,7 @@
         "title": "全家三重車路頭店",
         "address": "新北市三重區車路頭街140號1樓及地下室",
         "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15095,7 +15095,7 @@
         "title": "全家麻豆新樓店",
         "address": "台南市麻豆區小埤里苓子林20號",
         "post": "721",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15114,7 +15114,7 @@
         "title": "全家永康大武店",
         "address": "台南市永康區大武街8號",
         "post": "710",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15266,7 +15266,7 @@
         "title": "全家華科大店",
         "address": "台北市南港區研究院路三段245號",
         "post": "115",
-        "all": "COFFEE,WiFi,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,WiFi,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15380,7 +15380,7 @@
         "title": "全家中壢太子店",
         "address": "桃園市中壢區中山東路三段51號",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15456,7 +15456,7 @@
         "title": "全家大發仁愛店",
         "address": "高雄市大寮區仁愛路22號",
         "post": "831",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15513,7 +15513,7 @@
         "title": "全家中和錦福店",
         "address": "新北市中和區錦和路95號1樓",
         "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15608,7 +15608,7 @@
         "title": "全家嘉義玉山店",
         "address": "嘉義市西區世賢路二段468號",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15779,7 +15779,7 @@
         "title": "全家桃園東陽店",
         "address": "桃園市桃園區成功路二段69號1樓",
         "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15874,7 +15874,7 @@
         "title": "全家八德櫻花店",
         "address": "桃園市八德區長安街375號1樓",
         "post": "334",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -15912,7 +15912,7 @@
         "title": "全家中壢萬能店",
         "address": "桃園市中壢區中園路二段91號",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16235,7 +16235,7 @@
         "title": "全家新莊建中店",
         "address": "新北市新莊區建中街118號、120號、122號",
         "post": "242",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16273,7 +16273,7 @@
         "title": "全家神岡大漢店",
         "address": "台中市神岡區大漢街72號",
         "post": "429",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16349,7 +16349,7 @@
         "title": "全家新城民益店",
         "address": "花蓮縣新城鄉嘉新村嘉新路45號",
         "post": "971",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SharePot,Kantoni,FreshFruit,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,FreshFruit,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16463,7 +16463,7 @@
         "title": "全家梧棲金泰店",
         "address": "台中市梧棲區臨港路三段9號",
         "post": "435",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16653,7 +16653,7 @@
         "title": "全家高雄旭日店",
         "address": "高雄市小港區中安路926號",
         "post": "812",
-        "all": "COFFEE,Photo,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,Photo,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16786,7 +16786,7 @@
         "title": "全家大雅上楓店",
         "address": "台中市大雅區民生路四段151號一樓",
         "post": "428",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16824,7 +16824,7 @@
         "title": "全家中和中環店",
         "address": "新北市中和區中山路三段111號1樓",
         "post": "235",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,twoice,muffin,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,twoice,muffin,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16843,7 +16843,7 @@
         "title": "全家新葫東店",
         "address": "台北市士林區重慶北路四段184號1樓",
         "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16862,7 +16862,7 @@
         "title": "全家基隆海大店",
         "address": "基隆市中正區北寧路2號",
         "post": "202",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,twoice,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,twoice,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -16976,7 +16976,7 @@
         "title": "全家再興店",
         "address": "台北市文山區興隆路三段207巷11弄2號",
         "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -17052,7 +17052,7 @@
         "title": "全家永康華興店",
         "address": "台南市永康區華興街148號1樓",
         "post": "710",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -17280,7 +17280,7 @@
         "title": "全家館中店",
         "address": "台北市中正區羅斯福路三段316巷8弄1號1樓",
         "post": "100",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -17508,7 +17508,7 @@
         "title": "全家振華店",
         "address": "台北市北投區振華街2號",
         "post": "112",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -17565,7 +17565,7 @@
         "title": "全家新昆陽店",
         "address": "台北市南港區昆陽街145號",
         "post": "115",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -17736,7 +17736,7 @@
         "title": "全家綠島朝日店",
         "address": "台東縣綠島鄉南寮村99號",
         "post": "951",
-        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18040,7 +18040,7 @@
         "title": "全家新竹元太店",
         "address": "新竹市東區力行一路3號B1員工餐廳",
         "post": "300",
-        "all": "COFFEE,WiFi,SharePot,Preorder",
+        "all": "COFFEE,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18135,7 +18135,7 @@
         "title": "全家新店忠誠店",
         "address": "新北市新店區北新路二段119號1樓",
         "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18154,7 +18154,7 @@
         "title": "全家中壢元智店",
         "address": "桃園市中壢區興仁路二段63號",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18211,7 +18211,7 @@
         "title": "全家台中惠春店",
         "address": "台中市南屯區公益路二段631號",
         "post": "408",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,muffin,SharePot,SUNMAI,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,muffin,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18268,7 +18268,7 @@
         "title": "全家靜興店",
         "address": "台北市文山區興隆路二段75號壹樓",
         "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18439,7 +18439,7 @@
         "title": "全家昆明店",
         "address": "台北市萬華區昆明街186號1樓",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -18933,7 +18933,7 @@
         "title": "全家淡水新莊店",
         "address": "新北市淡水區淡金路一段166號",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19009,7 +19009,7 @@
         "title": "全家八德建國店",
         "address": "桃園市八德區建國路657號一樓部分",
         "post": "334",
-        "all": "COFFEE,WiFi,Rest,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,WiFi,Rest,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19332,7 +19332,7 @@
         "title": "全家新蘭雅店",
         "address": "台北市士林區忠誠路二段52號壹樓及地下室部份",
         "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19351,7 +19351,7 @@
         "title": "全家淡水沙崙店",
         "address": "新北市淡水區沙崙路149號",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19579,7 +19579,7 @@
         "title": "全家台中新東二店",
         "address": "台中市南屯區東興路二段36號1樓",
         "post": "408",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19674,7 +19674,7 @@
         "title": "全家台東志航店",
         "address": "台東縣台東市志航路三段3號",
         "post": "950",
-        "all": "COFFEE,SWEETPOTATO,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19712,7 +19712,7 @@
         "title": "全家金山金美店",
         "address": "新北市金山區中山路252號",
         "post": "208",
-        "all": "COFFEE,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19788,7 +19788,7 @@
         "title": "全家三芝吉祥店",
         "address": "新北市三芝區淡金路一段737577號",
         "post": "252",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19883,7 +19883,7 @@
         "title": "全家板橋新雅店",
         "address": "新北市板橋區南雅東路8號（代表號）1樓",
         "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -20054,7 +20054,7 @@
         "title": "全家樂群店",
         "address": "台北市中山區樂群二路186號",
         "post": "104",
-        "all": "COFFEE,SWEETPOTATO,WiFi,veg,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,veg,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -20073,7 +20073,7 @@
         "title": "全家中和廣場店",
         "address": "新北市中和區中正路712號一樓",
         "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -20700,7 +20700,7 @@
         "title": "全家清江店",
         "address": "台北市北投區清江路1號中央南路一段63號",
         "post": "112",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -20909,7 +20909,7 @@
         "title": "全家板橋松柏店",
         "address": "新北市板橋區松柏街13號",
         "post": "220",
-        "all": "COFFEE,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,WiFi,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21099,7 +21099,7 @@
         "title": "全家淡水大學店",
         "address": "新北市淡水區英專路151號",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21137,7 +21137,7 @@
         "title": "全家吉安福興店",
         "address": "花蓮縣吉安鄉福興路232-1號",
         "post": "973",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21213,7 +21213,7 @@
         "title": "全家湖口仁和店",
         "address": "新竹縣湖口鄉鳳凰村仁和路45號",
         "post": "303",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21346,7 +21346,7 @@
         "title": "全家嘉義興達店",
         "address": "嘉義市西區興達路318號1樓",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21536,7 +21536,7 @@
         "title": "全家淡水淡水店",
         "address": "新北市淡水區博愛街14號",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21555,7 +21555,7 @@
         "title": "全家新磺溪店",
         "address": "台北市士林區天母西路40-2號1樓",
         "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21707,7 +21707,7 @@
         "title": "全家高雄國泰店",
         "address": "高雄市鼓山區九如四路687689號",
         "post": "804",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21821,7 +21821,7 @@
         "title": "全家龜山幸福店",
         "address": "桃園市龜山區幸福一街24號1樓",
         "post": "333",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -21954,7 +21954,7 @@
         "title": "全家潭子潭興店",
         "address": "台中市潭子區潭興路二段476號1樓",
         "post": "427",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -22049,7 +22049,7 @@
         "title": "全家汐止興莊店",
         "address": "新北市汐止區莊敬街32號壹樓全部",
         "post": "221",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -22106,7 +22106,7 @@
         "title": "全家苗栗中山店",
         "address": "苗栗縣苗栗市中山路986之4號一樓",
         "post": "360",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -22136,25 +22136,6 @@
         "type": "Point"
       },
       "id": "015253"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015255",
-        "title": "全家嘉義保健店",
-        "address": "嘉義市東區保健街149號",
-        "post": "600",
-        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.451691504574,
-          23.5003542922862
-        ],
-        "type": "Point"
-      },
-      "id": "015255"
     },
     {
       "type": "Feature",
@@ -22372,7 +22353,7 @@
         "title": "全家板橋新遠店",
         "address": "新北市板橋區四川路一段371號1樓",
         "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -22429,7 +22410,7 @@
         "title": "全家豐原榮豐店",
         "address": "台中市豐原區豐中路79號1F",
         "post": "420",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -22581,7 +22562,7 @@
         "title": "全家永和新仁愛店",
         "address": "新北市永和區仁愛路103號1樓",
         "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -22619,7 +22600,7 @@
         "title": "全家湖口裝甲店",
         "address": "新竹縣湖口鄉勝利路二段350號",
         "post": "303",
-        "all": "COFFEE,Rest,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -22733,7 +22714,7 @@
         "title": "全家仁愛賽德克店",
         "address": "南投縣仁愛鄉南豐村中正路87-1號",
         "post": "546",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,muffin,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,muffin,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -22866,7 +22847,7 @@
         "title": "全家吉安鑫莊敬店",
         "address": "花蓮縣吉安鄉自強路603號",
         "post": "973",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23075,7 +23056,7 @@
         "title": "全家高雄碼頭店",
         "address": "高雄市苓雅區成功二路144號一樓三多四路13",
         "post": "802",
-        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23094,7 +23075,7 @@
         "title": "全家八德仁興店",
         "address": "桃園市八德區建國路241號",
         "post": "334",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,FreshFruit,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,FreshFruit,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23113,7 +23094,7 @@
         "title": "全家貢寮澳底一店",
         "address": "新北市貢寮區大澳街1之1、3號1樓",
         "post": "228",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23417,7 +23398,7 @@
         "title": "全家竹北竹采店",
         "address": "新竹縣竹北市成功一街82號1樓後段",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23493,7 +23474,7 @@
         "title": "全家台南康樂一店",
         "address": "台南市中西區康樂街135號1樓",
         "post": "700",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23645,7 +23626,7 @@
         "title": "全家基隆觀山店",
         "address": "基隆市中正區觀海街61號",
         "post": "202",
-        "all": "COFFEE,WiFi,Toilet,Rest,veg,SharePot,Preorder,Latte",
+        "all": "COFFEE,WiFi,Toilet,Rest,veg,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23702,7 +23683,7 @@
         "title": "全家枋寮臨海店",
         "address": "屏東縣枋寮鄉臨海路二段89號",
         "post": "940",
-        "all": "COFFEE,SWEETPOTATO,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,TANHOU,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23778,7 +23759,7 @@
         "title": "全家林口麗林店",
         "address": "新北市林口區中山路522號1樓",
         "post": "244",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,Kantoni,SingleOrigin,TANHOU,FreshFruit,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,Kantoni,SingleOrigin,TANHOU,FreshFruit,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23816,7 +23797,7 @@
         "title": "全家台中昌盛店",
         "address": "台中市北屯區崇德二路一段257號、259號1樓",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23892,7 +23873,7 @@
         "title": "全家高雄宏光店",
         "address": "高雄市小港區漢民路786號",
         "post": "812",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23911,7 +23892,7 @@
         "title": "全家高雄褒忠店",
         "address": "高雄市三民區大昌二路119之2號1樓",
         "post": "807",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23930,7 +23911,7 @@
         "title": "全家梧棲自強店",
         "address": "台中市梧棲區自強一街132號．134號",
         "post": "435",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -23949,7 +23930,7 @@
         "title": "全家萬園店",
         "address": "台北市萬華區西園路一段159號壹樓",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -24044,7 +24025,7 @@
         "title": "全家林口廣場店",
         "address": "新北市林口區文化三路一段223號一樓",
         "post": "244",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -24196,7 +24177,7 @@
         "title": "全家板橋致科店",
         "address": "新北市板橋區文化路一段313號1樓",
         "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -24500,7 +24481,7 @@
         "title": "全家善化光文店",
         "address": "台南市善化區中山路99號一樓",
         "post": "741",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -24671,7 +24652,7 @@
         "title": "全家埔里九龍店",
         "address": "南投縣埔里鎮隆生路71號",
         "post": "545",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -24823,7 +24804,7 @@
         "title": "全家淡水新崙店",
         "address": "新北市淡水區淡海路76號1樓",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25089,7 +25070,7 @@
         "title": "全家林口新僑大店",
         "address": "新北市林口區中正路55號1樓",
         "post": "244",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25241,7 +25222,7 @@
         "title": "全家蘭州店",
         "address": "台北市大同區大龍街217號1樓",
         "post": "103",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25279,7 +25260,7 @@
         "title": "全家龍井龍后店",
         "address": "台中市龍井區新興路21號1樓",
         "post": "434",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25564,7 +25545,7 @@
         "title": "全家田中金斗店",
         "address": "彰化縣田中鎮斗中路一段232號",
         "post": "520",
-        "all": "COFFEE,SWEETPOTATO,Photo,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25849,7 +25830,7 @@
         "title": "全家永和新富店",
         "address": "新北市永和區福和路57巷14弄2號1樓",
         "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25906,7 +25887,7 @@
         "title": "全家嘉義上新店",
         "address": "嘉義市西區上海路322號全部",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25944,7 +25925,7 @@
         "title": "全家烏來溫泉店",
         "address": "新北市烏來區烏來街79號1樓",
         "post": "233",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -25982,7 +25963,7 @@
         "title": "全家新成鑫店",
         "address": "台北市南港區玉成街176巷1號",
         "post": "115",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26058,7 +26039,7 @@
         "title": "全家台中嶺東店",
         "address": "台中市南屯區永春南路125號",
         "post": "408",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26096,7 +26077,7 @@
         "title": "全家台中金勇店",
         "address": "台中市南屯區忠勇路71-1號",
         "post": "408",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SUNMAI,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26286,7 +26267,7 @@
         "title": "全家竹北台元店",
         "address": "新竹縣竹北市博愛街523號1樓",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26476,7 +26457,7 @@
         "title": "全家彰化線西店",
         "address": "彰化縣線西鄉線西村中央路二段418號1樓",
         "post": "507",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Parking,Toilet,Rest,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Parking,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26552,7 +26533,7 @@
         "title": "全家淡水正中店",
         "address": "新北市淡水區中正東路一段77號79號",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26628,7 +26609,7 @@
         "title": "全家桃園建國店",
         "address": "桃園市桃園區延平路135之1號1樓",
         "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26780,7 +26761,7 @@
         "title": "全家興園店",
         "address": "台北市文山區興隆路二段220巷33號",
         "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26818,7 +26799,7 @@
         "title": "全家公園店",
         "address": "台北市萬華區青年路48號",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26837,7 +26818,7 @@
         "title": "全家國順店",
         "address": "台北市大同區延平北路三段118號1樓",
         "post": "103",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26856,7 +26837,7 @@
         "title": "全家三重龍美店",
         "address": "新北市三重區龍濱路120號1樓",
         "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -26913,7 +26894,7 @@
         "title": "全家六甲新民店",
         "address": "台南市六甲區中正路394號1樓",
         "post": "734",
-        "all": "COFFEE,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27122,7 +27103,7 @@
         "title": "全家台中中泰店",
         "address": "台中市北屯區中清路二段409號、411號",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27141,7 +27122,7 @@
         "title": "全家太平勤利店",
         "address": "台中市太平區中山路一段215巷19號",
         "post": "411",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27179,7 +27160,7 @@
         "title": "全家太平再福店",
         "address": "台中市太平區振福路427號．429號．431號",
         "post": "411",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27198,7 +27179,7 @@
         "title": "全家龍井新庄店",
         "address": "台中市龍井區新興路224號1樓",
         "post": "434",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27255,7 +27236,7 @@
         "title": "全家彌陀虱目魚店",
         "address": "高雄市彌陀區中正路50號一樓",
         "post": "827",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27388,7 +27369,7 @@
         "title": "全家華港店",
         "address": "台北市士林區大南路231號",
         "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27483,7 +27464,7 @@
         "title": "全家嘉義台林店",
         "address": "嘉義市東區台林街260號",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27844,7 +27825,7 @@
         "title": "全家龜山文學店",
         "address": "桃園市龜山區文化二路34巷14弄12號1樓",
         "post": "333",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -27939,7 +27920,7 @@
         "title": "全家新竹關新店",
         "address": "新竹市東區關新東路350號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Kantoni,TANHOU,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Kantoni,SingleOrigin,TANHOU,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28015,7 +27996,7 @@
         "title": "全家新營民興店",
         "address": "台南市新營區民治路122號",
         "post": "730",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,TANHOU,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28262,7 +28243,7 @@
         "title": "全家埔里水頭店",
         "address": "南投縣埔里鎮中正路160號",
         "post": "545",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28338,7 +28319,7 @@
         "title": "全家敦中店",
         "address": "台北市松山區敦化北路4巷1號",
         "post": "105",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28452,7 +28433,7 @@
         "title": "全家桃園東埔店",
         "address": "桃園市桃園區中正路378號",
         "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28509,7 +28490,7 @@
         "title": "全家台中漢文店",
         "address": "台中市北區漢口路四段57號",
         "post": "404",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28528,7 +28509,7 @@
         "title": "全家台中好市店",
         "address": "台中市西屯區福星路330之6號",
         "post": "407",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28547,7 +28528,7 @@
         "title": "全家台中風華店",
         "address": "台中市南屯區河南路四段692號一樓",
         "post": "408",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28718,7 +28699,7 @@
         "title": "全家欣富台店",
         "address": "台北市信義區虎林街120巷165號",
         "post": "110",
-        "all": "COFFEE,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -28756,7 +28737,7 @@
         "title": "全家羅東倉前店",
         "address": "宜蘭縣羅東鎮興東路161號一樓",
         "post": "265",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29041,7 +29022,7 @@
         "title": "全家中壢源興店",
         "address": "桃園市中壢區中平路86-1號（興中移）",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29136,7 +29117,7 @@
         "title": "全家台中篤行店",
         "address": "台中市西區篤行路188號",
         "post": "404",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29231,7 +29212,7 @@
         "title": "全家永和教室店",
         "address": "新北市永和區民生路65號1樓及地下室",
         "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29383,7 +29364,7 @@
         "title": "全家新惠安店",
         "address": "台北市中正區中華路二段307巷46號",
         "post": "100",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29478,7 +29459,7 @@
         "title": "全家新竹新莊店",
         "address": "新竹市東區新莊街52號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,SharePot,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29649,7 +29630,7 @@
         "title": "全家通霄河堤店",
         "address": "苗栗縣通霄鎮忠孝路8-1號",
         "post": "357",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29687,7 +29668,7 @@
         "title": "全家仁德仁義店",
         "address": "台南市仁德區中山路426號",
         "post": "717",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29934,7 +29915,7 @@
         "title": "全家三峽峇里店",
         "address": "新北市三峽區中山路303號一樓",
         "post": "237",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -29991,7 +29972,7 @@
         "title": "全家大里新大益店",
         "address": "台中市大里區益民路二段35號1樓",
         "post": "412",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30181,7 +30162,7 @@
         "title": "全家觀音商城店",
         "address": "桃園市觀音區建國路172號",
         "post": "328",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30200,7 +30181,7 @@
         "title": "全家台南南紡店",
         "address": "台南市東區中華東路一段366號",
         "post": "701",
-        "all": "COFFEE,SWEETPOTATO,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30504,7 +30485,7 @@
         "title": "全家龍井龍盈店",
         "address": "台中市龍井區新興路49巷2號",
         "post": "434",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30694,7 +30675,7 @@
         "title": "全家永和樂華店",
         "address": "新北市永和區保平路18巷12號1樓",
         "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,muffin,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,muffin,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30713,7 +30694,7 @@
         "title": "全家樹林學勤店",
         "address": "新北市樹林區學勤路550．552號1樓",
         "post": "238",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,muffin,COFFEEDeliver,SharePot,FreshFruit,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,muffin,COFFEEDeliver,SharePot,SingleOrigin,FreshFruit,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30770,7 +30751,7 @@
         "title": "全家雲林元長店",
         "address": "雲林縣元長鄉長南村13鄰中山路115號1樓",
         "post": "655",
-        "all": "COFFEE,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,TANHOU,Preorder",
+        "all": "COFFEE,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30789,7 +30770,7 @@
         "title": "全家屏東愛園店",
         "address": "屏東縣屏東市公園路21號1樓",
         "post": "900",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30865,7 +30846,7 @@
         "title": "全家苗栗真興店",
         "address": "苗栗縣苗栗市為公路540號",
         "post": "360",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -30960,7 +30941,7 @@
         "title": "全家樹林藝術店",
         "address": "新北市樹林區大雅路287號1樓",
         "post": "238",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -31302,7 +31283,7 @@
         "title": "全家楊梅永美店",
         "address": "桃園市楊梅區永美路393-1號1F",
         "post": "326",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -31416,7 +31397,7 @@
         "title": "全家永康廣興店",
         "address": "台南市永康區西勢路205號",
         "post": "710",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -31473,7 +31454,7 @@
         "title": "全家台南華興店",
         "address": "台南市南區中華南路二段110號",
         "post": "702",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -31663,7 +31644,7 @@
         "title": "全家朴子鴨母寮店",
         "address": "嘉義縣朴子市鴨母寮1之18號",
         "post": "613",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -31701,7 +31682,7 @@
         "title": "全家太保縣府店",
         "address": "嘉義縣太保市祥和三路東段212號一樓",
         "post": "612",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -31929,7 +31910,7 @@
         "title": "全家蘆洲保新店",
         "address": "新北市蘆洲區民族路387號",
         "post": "247",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -32195,7 +32176,7 @@
         "title": "全家大肚大洋店",
         "address": "台中市大肚區中沙路164巷3弄103號1樓",
         "post": "432",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -32214,7 +32195,7 @@
         "title": "全家八德新市店",
         "address": "桃園市八德區興豐路485號",
         "post": "334",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -32537,7 +32518,7 @@
         "title": "全家楊梅金山店",
         "address": "桃園市楊梅區新農街606號1樓",
         "post": "326",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -32632,7 +32613,7 @@
         "title": "全家桂林店",
         "address": "台北市萬華區桂林路23號1樓",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,muffin,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,muffin,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -32727,7 +32708,7 @@
         "title": "全家竹北宏豐店",
         "address": "新竹縣竹北市中正西路999號1樓",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -32860,7 +32841,7 @@
         "title": "全家基隆龍騰店",
         "address": "基隆市安樂區樂利三街8巷16號底四層",
         "post": "204",
-        "all": "COFFEE,Photo,WiFi,Rest,veg,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,Photo,WiFi,Rest,veg,SharePot,Kantoni,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -32879,7 +32860,7 @@
         "title": "全家文化店",
         "address": "台北市北投區中央北路二段97號1樓",
         "post": "112",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -33012,7 +32993,7 @@
         "title": "全家埔里愛埔店",
         "address": "南投縣埔里鎮中山路四段87號",
         "post": "545",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -33107,7 +33088,7 @@
         "title": "全家新店新民族店",
         "address": "新北市新店區民族路97號1樓地下室",
         "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -33145,7 +33126,7 @@
         "title": "全家新竹科學店",
         "address": "新竹市東區光復路一段603號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -33202,7 +33183,7 @@
         "title": "全家銅鑼工業店",
         "address": "苗栗縣銅鑼鄉中平村中興路3之1號1樓",
         "post": "366",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -33734,7 +33715,7 @@
         "title": "全家永和正得店",
         "address": "新北市永和區中正路342號一樓",
         "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -33753,7 +33734,7 @@
         "title": "全家基隆新澳坑店",
         "address": "基隆市信義區深澳坑路107號",
         "post": "201",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34038,7 +34019,7 @@
         "title": "全家百齡店",
         "address": "台北市士林區福港街158-1號",
         "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34285,7 +34266,7 @@
         "title": "全家平溪平安店",
         "address": "新北市平溪區石底街53號",
         "post": "226",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34342,7 +34323,7 @@
         "title": "全家龜山文銓店",
         "address": "桃園市龜山區文化七路186號1樓",
         "post": "333",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34418,7 +34399,7 @@
         "title": "全家竹東東峰店",
         "address": "新竹縣竹東鎮東峰路162號1樓",
         "post": "310",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SUNMAI,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SUNMAI,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34456,7 +34437,7 @@
         "title": "全家竹山金溪店",
         "address": "南投縣竹山鎮東鄉路5之73號1樓",
         "post": "557",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,SUNMAI,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34684,7 +34665,7 @@
         "title": "全家龜山樂高店",
         "address": "桃園市龜山區文化七路97號1樓",
         "post": "333",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34798,7 +34779,7 @@
         "title": "全家新竹東埔店",
         "address": "新竹市香山區牛埔東路196號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34855,7 +34836,7 @@
         "title": "全家鳳山教勤店",
         "address": "高雄市鳳山區鳳頂路1000號教勤營大樓",
         "post": "830",
-        "all": "COFFEE,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,WiFi,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -34969,7 +34950,7 @@
         "title": "全家中壢城章店",
         "address": "桃園市中壢區成章一街156號",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -35425,7 +35406,7 @@
         "title": "全家新中坡店",
         "address": "台北市信義區中坡南路229號",
         "post": "110",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -35615,7 +35596,7 @@
         "title": "全家九如豐源店",
         "address": "屏東縣九如鄉九如路二段173-1號",
         "post": "904",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -35786,7 +35767,7 @@
         "title": "全家中壢環北店",
         "address": "桃園市中壢區新生路402號；環北路303號305號",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -35881,7 +35862,7 @@
         "title": "全家新營南新店",
         "address": "台南市新營區民治路177號1樓",
         "post": "730",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36014,7 +35995,7 @@
         "title": "全家嘉義保安店",
         "address": "嘉義市西區保安二路159號",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36052,7 +36033,7 @@
         "title": "全家斗六莊敬店",
         "address": "雲林縣斗六市成功路280號一樓",
         "post": "640",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36166,7 +36147,7 @@
         "title": "全家斗六西平店",
         "address": "雲林縣斗六市西平路677號",
         "post": "640",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36204,7 +36185,7 @@
         "title": "全家國泰店",
         "address": "台北市大安區仁愛路四段266巷15弄10號1樓",
         "post": "106",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36318,7 +36299,7 @@
         "title": "全家新竹玄奘店",
         "address": "新竹市香山區玄奘路48號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,icecream,Rest,oneice,muffin,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,icecream,Rest,oneice,muffin,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36356,7 +36337,7 @@
         "title": "全家大里新日新店",
         "address": "台中市大里區日新路586號",
         "post": "412",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36565,7 +36546,7 @@
         "title": "全家汐止新忠孝店",
         "address": "新北市汐止區忠孝東路258號",
         "post": "221",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36603,7 +36584,7 @@
         "title": "全家復中店",
         "address": "台北市北投區中和街328號1樓",
         "post": "112",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -36622,7 +36603,7 @@
         "title": "全家蘆洲保佑店",
         "address": "新北市蘆洲區民族路423號",
         "post": "247",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -37173,7 +37154,7 @@
         "title": "全家板橋華雅店",
         "address": "新北市板橋區華興街90號",
         "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38104,7 +38085,7 @@
         "title": "全家大雅文雅店",
         "address": "台中市大雅區永和路127-8號",
         "post": "428",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38123,7 +38104,7 @@
         "title": "全家基隆樂利店",
         "address": "基隆市安樂區樂利三街32巷12號",
         "post": "204",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38180,7 +38161,7 @@
         "title": "全家金門店",
         "address": "台北市中正區汀州路二段216號1樓",
         "post": "100",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38256,7 +38237,7 @@
         "title": "全家高雄明倫店",
         "address": "高雄市鼓山區明倫路148號1樓",
         "post": "804",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38712,7 +38693,7 @@
         "title": "全家南投永順店",
         "address": "南投縣南投市彰南路二段360號1樓及地下室",
         "post": "540",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38788,7 +38769,7 @@
         "title": "全家西站店",
         "address": "台北市中正區懷寧街7之1號",
         "post": "100",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38864,7 +38845,7 @@
         "title": "全家高雄鑫昌店",
         "address": "高雄市楠梓區新昌街39-1號",
         "post": "811",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38883,7 +38864,7 @@
         "title": "全家台中漢強店",
         "address": "台中市北區漢口路四段284之1號",
         "post": "404",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38902,7 +38883,7 @@
         "title": "全家錦江店",
         "address": "台北市中山區錦州街215號",
         "post": "104",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38921,7 +38902,7 @@
         "title": "全家星湖店",
         "address": "台北市內湖區星雲街161巷1號",
         "post": "114",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot,TANHOU,Preorder,Latte",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -39149,7 +39130,7 @@
         "title": "全家鳳山濱山店",
         "address": "高雄市鳳山區濱山街15巷2號",
         "post": "830",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -39320,7 +39301,7 @@
         "title": "全家湖口文化店",
         "address": "新竹縣湖口鄉文化路32號",
         "post": "303",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -39339,7 +39320,7 @@
         "title": "全家潭子金潭店",
         "address": "台中市潭子區興華一路261號",
         "post": "427",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -39453,7 +39434,7 @@
         "title": "全家基隆新安和店",
         "address": "基隆市安樂區安和一街124號",
         "post": "204",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -39624,7 +39605,7 @@
         "title": "全家唭哩店",
         "address": "臺北市北投區西安街二段283號",
         "post": "112",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -39757,7 +39738,7 @@
         "title": "全家新竹頎邦二店",
         "address": "新竹市東區力行五路3號2樓（新竹科學園區）",
         "post": "300",
-        "all": "COFFEE,SharePot,Preorder",
+        "all": "COFFEE,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -40156,7 +40137,7 @@
         "title": "全家竹山前山店",
         "address": "南投縣竹山鎮大明路461號",
         "post": "557",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -40175,7 +40156,7 @@
         "title": "全家國姓水長流店",
         "address": "南投縣國姓鄉長流村大長路577-17號",
         "post": "544",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,muffin,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,muffin,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -40593,7 +40574,7 @@
         "title": "全家淡水財庫店",
         "address": "新北市淡水區學府路136巷46號一樓",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,Kantoni,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -40688,7 +40669,7 @@
         "title": "全家寶興店",
         "address": "台北市萬華區寶興街78號",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,Rest,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Rest,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -40745,7 +40726,7 @@
         "title": "全家明興店",
         "address": "台北市文山區木柵路二段109巷25弄2號．2-1號",
         "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -40897,7 +40878,7 @@
         "title": "全家平鎮廣泰店",
         "address": "桃園市平鎮區廣泰路112號1樓",
         "post": "324",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -40935,7 +40916,7 @@
         "title": "全家新竹大庄店",
         "address": "新竹市香山區香北路86號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41011,7 +40992,7 @@
         "title": "全家彰化金平店",
         "address": "彰化縣彰化市崙平北路108號",
         "post": "500",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41049,7 +41030,7 @@
         "title": "全家西螺七崁店",
         "address": "雲林縣西螺鎮吳厝70-1號",
         "post": "648",
-        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41277,7 +41258,7 @@
         "title": "全家台中金原店",
         "address": "台中市北屯區太原路三段231號",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41505,7 +41486,7 @@
         "title": "全家中壢榮安店",
         "address": "桃園市中壢區榮安十三街205號",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,veg,oneice,twoice,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,veg,oneice,twoice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41524,7 +41505,7 @@
         "title": "全家平鎮民族店",
         "address": "桃園市平鎮區民族路二段189191號1樓",
         "post": "324",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41543,7 +41524,7 @@
         "title": "全家八德介壽店",
         "address": "桃園市八德區介壽路一段643號",
         "post": "334",
-        "all": "COFFEE,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41562,7 +41543,7 @@
         "title": "全家平鎮日星店",
         "address": "桃園市平鎮區中豐路山頂段3號1、2樓",
         "post": "324",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41600,7 +41581,7 @@
         "title": "全家後龍大龍店",
         "address": "苗栗縣後龍鎮中北街67-3號67-4號67-5號",
         "post": "356",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41638,7 +41619,7 @@
         "title": "全家台南榮寶店",
         "address": "台南市東區長榮路一段236號1樓",
         "post": "701",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41828,7 +41809,7 @@
         "title": "全家新北鄰店",
         "address": "台北市中山區北安路458巷41弄48號1樓",
         "post": "104",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -41847,7 +41828,7 @@
         "title": "全家萬興店",
         "address": "臺北市文山區興隆路一段55巷27弄1-4號",
         "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42018,7 +41999,7 @@
         "title": "全家潭子真興店",
         "address": "台中市潭子區復興路一段8號10號12號",
         "post": "427",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42303,7 +42284,7 @@
         "title": "全家頭份立華店",
         "address": "苗栗縣頭份市中華路600之8號1樓",
         "post": "351",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Parking,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Parking,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42626,7 +42607,7 @@
         "title": "全家台中新豐樂店",
         "address": "台中市北屯區豐樂路7-5號",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42664,7 +42645,7 @@
         "title": "全家高雄立信店",
         "address": "高雄市左營區立信路209號",
         "post": "813",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42778,7 +42759,7 @@
         "title": "全家大里新興店",
         "address": "台中市大里區新興路47號",
         "post": "412",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42816,7 +42797,7 @@
         "title": "全家基隆基金店",
         "address": "基隆市安樂區基金三路145號",
         "post": "204",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42854,7 +42835,7 @@
         "title": "全家員林新員農店",
         "address": "彰化縣員林市員水路二段320號",
         "post": "510",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -43044,7 +43025,7 @@
         "title": "全家新龍口店",
         "address": "台北市中正區汀州路一段244號",
         "post": "100",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -43082,7 +43063,7 @@
         "title": "全家新竹新武陵店",
         "address": "新竹市北區武陵路267號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,veg,muffin,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,veg,muffin,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -43386,7 +43367,7 @@
         "title": "全家台南安南店",
         "address": "台南市安南區海佃路一段160號",
         "post": "709",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -43405,7 +43386,7 @@
         "title": "全家新東湖店",
         "address": "臺北市內湖區東湖路43巷4號",
         "post": "114",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -43481,7 +43462,7 @@
         "title": "全家霧峰金來店",
         "address": "台中市霧峰區中正路803號一樓",
         "post": "413",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -43747,7 +43728,7 @@
         "title": "全家北港順風店",
         "address": "雲林縣北港鎮中正路95號一樓、二樓",
         "post": "651",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -43861,7 +43842,7 @@
         "title": "全家永和新仁店",
         "address": "新北市永和區仁愛路352巷94號、96號",
         "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -43975,7 +43956,7 @@
         "title": "全家板橋長民店",
         "address": "新北市板橋區三民路二段153巷1-3號1樓＆B1",
         "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -44070,7 +44051,7 @@
         "title": "全家新竹鐵道店",
         "address": "新竹市北區武陵路268號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -44108,7 +44089,7 @@
         "title": "全家烏日高鐵店",
         "address": "台中市烏日區光日路356、358號1樓",
         "post": "414",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -44697,7 +44678,7 @@
         "title": "全家台中金大慶店",
         "address": "台中市南區大慶街二段8號",
         "post": "402",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -44887,7 +44868,7 @@
         "title": "全家沙鹿鑫車店",
         "address": "台中市沙鹿區中正街48號",
         "post": "433",
-        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -44906,7 +44887,7 @@
         "title": "全家公館金交流店",
         "address": "苗栗縣公館鄉玉谷村14鄰向陽31號1樓",
         "post": "363",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -45305,7 +45286,7 @@
         "title": "全家花蓮光復店",
         "address": "花蓮縣花蓮市民國路121號",
         "post": "970",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -45324,7 +45305,7 @@
         "title": "全家竹北中正西店",
         "address": "新竹縣竹北市中正西路149號1樓",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -45476,7 +45457,7 @@
         "title": "全家台中金強店",
         "address": "台中市北屯區松竹路二段366-1號",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -45704,7 +45685,7 @@
         "title": "全家台中鑫華店",
         "address": "台中市中區中華路一段152號",
         "post": "400",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -45799,7 +45780,7 @@
         "title": "全家龜山山鶯店",
         "address": "桃園市龜山區山鶯路41號",
         "post": "333",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -45894,7 +45875,7 @@
         "title": "全家台南崇善店",
         "address": "臺南市東區崇善路688號",
         "post": "701",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -46141,7 +46122,7 @@
         "title": "全家埔里枇杷店",
         "address": "南投縣埔里鎮中華路1-1號1樓",
         "post": "545",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -46274,7 +46255,7 @@
         "title": "全家開封店",
         "address": "台北市中正區開封街一段41號1樓",
         "post": "100",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -46692,7 +46673,7 @@
         "title": "全家中和仁義店",
         "address": "新北市中和區仁愛街36號",
         "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -46730,7 +46711,7 @@
         "title": "全家宜蘭福泰店",
         "address": "宜蘭縣宜蘭市泰山路83號",
         "post": "260",
-        "all": "COFFEE,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -46901,7 +46882,7 @@
         "title": "全家台中新大衛店",
         "address": "台中市北區進化北路365號1樓之2",
         "post": "404",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,veg,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,veg,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -47091,7 +47072,7 @@
         "title": "全家蘆竹五福店",
         "address": "桃園市蘆竹區五福村五福一路34號1樓",
         "post": "338",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -47281,7 +47262,7 @@
         "title": "全家石碇雙溪店",
         "address": "新北市石碇區隆盛里雙溪58號",
         "post": "223",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -47319,7 +47300,7 @@
         "title": "全家台中大安店",
         "address": "台中市南區忠明南路730巷23號1樓",
         "post": "402",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,COFFEEDeliver,SharePot,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,COFFEEDeliver,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -47642,7 +47623,7 @@
         "title": "全家中和新生店",
         "address": "新北市中和區新生街132號",
         "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -48440,7 +48421,7 @@
         "title": "全家和鄰店",
         "address": "台北市中正區和平西路一段82號1樓",
         "post": "100",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -48573,7 +48554,7 @@
         "title": "全家八德大湳店",
         "address": "桃園市八德區廣福路42號一樓",
         "post": "334",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -48915,7 +48896,7 @@
         "title": "全家永和御林店",
         "address": "新北市永和區竹林路213巷44號1樓",
         "post": "234",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SUNMAI,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -49067,7 +49048,7 @@
         "title": "全家大肚新市鎮店",
         "address": "台中市大肚區大明三街152號",
         "post": "432",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -49086,7 +49067,7 @@
         "title": "全家嘉義興雅店",
         "address": "嘉義市西區興雅路72號",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -49257,7 +49238,7 @@
         "title": "全家淡水新民店",
         "address": "新北市淡水區新民街180之6號",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -49276,7 +49257,7 @@
         "title": "全家漢中店",
         "address": "台北市萬華區漢中街139號1樓",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -49656,7 +49637,7 @@
         "title": "全家鶯歌永明店",
         "address": "新北市鶯歌區永明街78號1樓",
         "post": "239",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -49713,7 +49694,7 @@
         "title": "全家平鎮義興店",
         "address": "桃園市平鎮區育達路75號1F",
         "post": "324",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,muffin,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -50074,7 +50055,7 @@
         "title": "全家興華店",
         "address": "台北市南港區興華路86號",
         "post": "115",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -50416,7 +50397,7 @@
         "title": "全家潭子榮興店",
         "address": "台中市潭子區榮興街57巷1號",
         "post": "427",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -50454,7 +50435,7 @@
         "title": "全家潭子甘蔗店",
         "address": "台中市潭子區勝利路289號",
         "post": "427",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -50473,7 +50454,7 @@
         "title": "全家員林富城店",
         "address": "彰化縣員林市育英路24號",
         "post": "510",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -50549,7 +50530,7 @@
         "title": "全家台中工三店",
         "address": "台中市西屯區中工三路75號、77號",
         "post": "407",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -50777,7 +50758,7 @@
         "title": "全家平鎮平東店",
         "address": "桃園市平鎮區平東路571號1F",
         "post": "324",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -50853,7 +50834,7 @@
         "title": "全家芳苑寶成店",
         "address": "彰化縣芳苑鄉三合村14鄰斗苑路三合段100號",
         "post": "528",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -51195,7 +51176,7 @@
         "title": "全家中壢中央三店",
         "address": "桃園市中壢區中大路300號松苑餐廳1樓",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,Photo,icecream,oneice,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,icecream,oneice,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -51233,7 +51214,7 @@
         "title": "全家太平建昌店",
         "address": "台中市太平區新平路二段82號1樓",
         "post": "411",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -51347,7 +51328,7 @@
         "title": "全家仁德鼎安店",
         "address": "台南市仁德區德安路1之1號",
         "post": "717",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -51461,7 +51442,7 @@
         "title": "全家中和秀山店",
         "address": "新北市中和區立人街65號67號",
         "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,muffin,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,muffin,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -51803,7 +51784,7 @@
         "title": "全家中和建業店",
         "address": "新北市中和區立德街189號1樓",
         "post": "235",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,muffin,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,muffin,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -51841,7 +51822,7 @@
         "title": "全家淡水新旭店",
         "address": "新北市淡水區北新路169巷35號1樓",
         "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -51860,7 +51841,7 @@
         "title": "全家苗栗自治店",
         "address": "苗栗縣苗栗市自治路162號",
         "post": "360",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -51936,7 +51917,7 @@
         "title": "全家北港天后店",
         "address": "雲林縣北港鎮中山路90號",
         "post": "651",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -52221,7 +52202,7 @@
         "title": "全家屏東徐州店",
         "address": "屏東縣屏東市勝利路197之6．197之7號",
         "post": "900",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,COFFEEDeliver,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -52487,7 +52468,7 @@
         "title": "全家台中金美店",
         "address": "台中市南屯區14鄰南屯路二段872號",
         "post": "408",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -52658,7 +52639,7 @@
         "title": "全家永新店",
         "address": "台北市士林區社子街27號",
         "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -52696,7 +52677,7 @@
         "title": "全家竹南環營店",
         "address": "苗栗縣竹南鎮環市路一段162號",
         "post": "350",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -52734,7 +52715,7 @@
         "title": "全家台中繼成店",
         "address": "台中市中區成功路106號108號一樓",
         "post": "400",
-        "all": "COFFEE,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -52772,7 +52753,7 @@
         "title": "全家台南新康華店",
         "address": "台南市安平區健康三街235號",
         "post": "708",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53038,7 +53019,7 @@
         "title": "全家貴陽店",
         "address": "台北市萬華區貴陽街二段182號184號",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53114,7 +53095,7 @@
         "title": "全家八德銀和店",
         "address": "桃園市八德區銀和街29＆31號",
         "post": "334",
-        "all": "COFFEE,WiFi,Rest,veg,SharePot,Preorder",
+        "all": "COFFEE,WiFi,Rest,veg,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53228,7 +53209,7 @@
         "title": "全家台中忠孝夜店",
         "address": "台中市南區忠孝路102號",
         "post": "402",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53285,7 +53266,7 @@
         "title": "全家高雄德昌店",
         "address": "高雄市楠梓區惠民路220號",
         "post": "811",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SUNMAI,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53494,7 +53475,7 @@
         "title": "全家美林店",
         "address": "台北市中山區新生北路二段62巷38-3號",
         "post": "104",
-        "all": "COFFEE,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53570,7 +53551,7 @@
         "title": "全家大雅有春店",
         "address": "台中市大雅區雅潭路四段296號",
         "post": "428",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53836,7 +53817,7 @@
         "title": "全家吉安和平店",
         "address": "花蓮縣吉安鄉自強路395號之1",
         "post": "973",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53855,7 +53836,7 @@
         "title": "全家湖口大功店",
         "address": "新竹縣湖口鄉成功路76-1號",
         "post": "303",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53893,7 +53874,7 @@
         "title": "全家新豐泰安店",
         "address": "新竹縣新豐鄉泰安街75號1樓",
         "post": "304",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53969,7 +53950,7 @@
         "title": "全家布袋上海店",
         "address": "嘉義縣布袋鎮上海路211號",
         "post": "625",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -54026,7 +54007,7 @@
         "title": "全家安賢店",
         "address": "臺北市大安區四維路170巷4號",
         "post": "106",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -54235,7 +54216,7 @@
         "title": "全家南投仁和店",
         "address": "南投縣南投市彰南路三段53號",
         "post": "540",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -54273,7 +54254,7 @@
         "title": "全家高雄武仁店",
         "address": "高雄市苓雅區武仁街95號一樓",
         "post": "802",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -54596,7 +54577,7 @@
         "title": "全家中壢新仁店",
         "address": "桃園市中壢區大仁四街16號1樓",
         "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -54653,7 +54634,7 @@
         "title": "全家大樹鳳荔店",
         "address": "高雄市大樹區實踐路61號（一二三四間）",
         "post": "840",
-        "all": "COFFEE,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -54824,7 +54805,7 @@
         "title": "全家光輝店",
         "address": "台北市中山區德惠街34之2號一樓",
         "post": "104",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SUNMAI,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SUNMAI,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -55033,7 +55014,7 @@
         "title": "全家台中軍功店",
         "address": "台中市北屯區軍功路一段497號、495號1樓",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -55052,7 +55033,7 @@
         "title": "全家台中培鶯店",
         "address": "台中市北屯區東山路二段51-11號",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -55280,7 +55261,7 @@
         "title": "全家新市群創四店",
         "address": "台南市新市區環西路一段3號",
         "post": "744",
-        "all": "COFFEE,SWEETPOTATO,icecream,Rest,oneice,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,icecream,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -55394,7 +55375,7 @@
         "title": "全家新店僑信店",
         "address": "新北市新店區僑信路20號1樓",
         "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -55470,7 +55451,7 @@
         "title": "全家壽豐東華店",
         "address": "花蓮縣壽豐鄉大學路二段1號（東華大學六期學生宿舍）",
         "post": "974",
-        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -55793,7 +55774,7 @@
         "title": "全家嘉義漢口店",
         "address": "嘉義市西區南京路392號",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -55926,7 +55907,7 @@
         "title": "全家台中西屯店",
         "address": "台中市西屯區西屯路二段90之2223號",
         "post": "407",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -56458,7 +56439,7 @@
         "title": "全家龍潭華映二店",
         "address": "桃園市龍潭區華映路1號（Ｌ2棟8樓）",
         "post": "325",
-        "all": "COFFEE,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -56762,7 +56743,7 @@
         "title": "全家高雄臨一店",
         "address": "高雄市鼓山區臨海一路21之3號附5",
         "post": "804",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -56895,7 +56876,7 @@
         "title": "全家明德店",
         "address": "台北市北投區明德路93號",
         "post": "112",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -56952,7 +56933,7 @@
         "title": "全家苗栗新農會店",
         "address": "苗栗縣苗栗市14鄰中山路524號1樓",
         "post": "360",
-        "all": "COFFEE,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -57009,7 +56990,7 @@
         "title": "全家嘉義博東店",
         "address": "嘉義市東區博東路183號",
         "post": "600",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -57465,7 +57446,7 @@
         "title": "全家新竹新興店",
         "address": "新竹市東區南大路577號一樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -57712,7 +57693,7 @@
         "title": "全家台中松茂店",
         "address": "台中市北屯區興安路二段461巷2號463號一",
         "post": "406",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -57788,7 +57769,7 @@
         "title": "全家台中嶺南店",
         "address": "台中市南屯區五權西路三段177號、179號",
         "post": "408",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58073,7 +58054,7 @@
         "title": "全家新竹大富店",
         "address": "新竹市北區西大路527號",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58111,7 +58092,7 @@
         "title": "全家梧棲港埠店",
         "address": "台中市梧棲區港埠路二段17號",
         "post": "435",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58263,7 +58244,7 @@
         "title": "全家六腳蒜頭店",
         "address": "嘉義縣六腳鄉蒜頭村125號",
         "post": "615",
-        "all": "COFFEE,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58396,7 +58377,7 @@
         "title": "全家台東中興店",
         "address": "台東縣台東市中興路二段442號一樓",
         "post": "950",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,COFFEEDeliver,SharePot,SUNMAI,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58529,7 +58510,7 @@
         "title": "全家新橋店",
         "address": "臺北市大同區延平北路三段25之3號",
         "post": "103",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58814,7 +58795,7 @@
         "title": "全家竹北大河店",
         "address": "新竹縣竹北市中華路2-51號",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58852,7 +58833,7 @@
         "title": "全家竹東新商華店",
         "address": "新竹縣竹東鎮東寧路三段43號全部一樓至四樓",
         "post": "310",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -58928,7 +58909,7 @@
         "title": "全家桃園寶山店",
         "address": "桃園市桃園區寶山街375．377號1樓",
         "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -59023,7 +59004,7 @@
         "title": "全家新廣州店",
         "address": "台北市萬華區廣州街235-1號",
         "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -59194,7 +59175,7 @@
         "title": "全家台南國宅店",
         "address": "台南市北區北門路二段545號一樓",
         "post": "704",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -59308,7 +59289,7 @@
         "title": "全家鳳山鎮北店",
         "address": "高雄市鳳山區鳳北路63號1樓。2樓",
         "post": "830",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -59319,25 +59300,6 @@
         "type": "Point"
       },
       "id": "018126"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018127",
-        "title": "全家高雄九華店",
-        "address": "高雄市三民區中華二路142號",
-        "post": "807",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,TANHOU,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.292012,
-          22.641777
-        ],
-        "type": "Point"
-      },
-      "id": "018127"
     },
     {
       "type": "Feature",
@@ -59384,7 +59346,7 @@
         "title": "全家新竹經城店",
         "address": "新竹市北區經國路一段339號1樓",
         "post": "300",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -59878,7 +59840,7 @@
         "title": "全家高雄華夏店",
         "address": "高雄市左營區華夏路1168號1樓",
         "post": "813",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -60429,7 +60391,7 @@
         "title": "全家斗六鎮北店",
         "address": "雲林縣斗六市鎮北路152號1樓．2樓",
         "post": "640",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -60524,7 +60486,7 @@
         "title": "全家新莊副都店",
         "address": "新北市新莊區中央路437號1樓",
         "post": "242",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -60752,7 +60714,7 @@
         "title": "全家台中建功店",
         "address": "台中市南屯區建功路107之38號107之39號1樓",
         "post": "408",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -60809,7 +60771,7 @@
         "title": "全家烏日新明道店",
         "address": "台中市烏日區信義街157號",
         "post": "414",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,SharePot,SUNMAI,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,SharePot,SUNMAI,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -60923,7 +60885,7 @@
         "title": "全家墾丁大街店",
         "address": "屏東縣恆春鎮墾丁路148號",
         "post": "946",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -60961,7 +60923,7 @@
         "title": "全家樹林東興店",
         "address": "新北市樹林區東興街22號1樓",
         "post": "238",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -60999,7 +60961,7 @@
         "title": "全家竹北新溪店",
         "address": "新竹縣竹北市環北路五段398號（配送用）",
         "post": "302",
-        "all": "Kantoni,TANHOU,Preorder",
+        "all": "COFFEE,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61018,7 +60980,7 @@
         "title": "全家台中益豐店",
         "address": "台中市南屯區向上路三段335號",
         "post": "408",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61037,7 +60999,7 @@
         "title": "全家彰化金馬金店",
         "address": "彰化縣彰化市彰美路一段臨282號",
         "post": "500",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61056,7 +61018,7 @@
         "title": "全家金門金發店",
         "address": "金門縣金湖鎮環島南路四段480號1樓",
         "post": "891",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61113,7 +61075,7 @@
         "title": "全家新莊興盛店",
         "address": "新北市新莊區西盛街230號1樓",
         "post": "242",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61151,7 +61113,7 @@
         "title": "全家蘆竹山腳店",
         "address": "桃園市蘆竹區南山路三段278號1樓（前段）",
         "post": "338",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SUNMAI,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SUNMAI,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61227,7 +61189,7 @@
         "title": "全家新豐尚仁店",
         "address": "新竹縣新豐鄉尚仁街131號1樓",
         "post": "304",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61265,7 +61227,7 @@
         "title": "全家埔里泰安店",
         "address": "南投縣埔里鎮中華路170號1樓",
         "post": "545",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61284,7 +61246,7 @@
         "title": "全家桃園大郡店",
         "address": "桃園市桃園區莊敬路一段204號1樓及B1",
         "post": "330",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61303,7 +61265,7 @@
         "title": "全家龜山光峰店",
         "address": "桃園市龜山區光峰路185號",
         "post": "333",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61379,7 +61341,7 @@
         "title": "全家華德店",
         "address": "台北市文山區景華街75號",
         "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61436,7 +61398,7 @@
         "title": "全家安富店",
         "address": "台北市大安區安和路一段49巷10號",
         "post": "106",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61455,7 +61417,7 @@
         "title": "全家高雄心衙店",
         "address": "高雄市前鎮區新衙路351號",
         "post": "806",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61569,7 +61531,7 @@
         "title": "全家高雄豐強店",
         "address": "高雄市苓雅區苓雅二路108號一、二、三樓",
         "post": "802",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61607,7 +61569,7 @@
         "title": "全家大社萬津店",
         "address": "高雄市大社區萬金路八號一樓",
         "post": "815",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61626,7 +61588,7 @@
         "title": "全家永靖金火店",
         "address": "彰化縣永靖鄉永興路三段臨50號",
         "post": "512",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61645,7 +61607,7 @@
         "title": "全家澎湖三多店",
         "address": "澎湖縣馬公市三多路302號一樓",
         "post": "880",
-        "all": "icecream,oneice,Preorder",
+        "all": "COFFEE,icecream,oneice,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61664,7 +61626,7 @@
         "title": "全家台中安和店",
         "address": "台中市西屯區安和路99之38號",
         "post": "407",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61683,7 +61645,7 @@
         "title": "全家大村大溪店",
         "address": "彰化縣大村鄉大溪路13號",
         "post": "515",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61759,7 +61721,7 @@
         "title": "全家甘州店",
         "address": "台北市大同區歸綏街181之2號",
         "post": "103",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61816,7 +61778,7 @@
         "title": "全家芎林五龍店",
         "address": "新竹縣芎林鄉五和街126號",
         "post": "307",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -61835,7 +61797,7 @@
         "title": "全家高雄文川店",
         "address": "高雄市左營區曾子路300號（配送用）",
         "post": "813",
-        "all": "TANHOU,Preorder",
+        "all": "COFFEE,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62044,7 +62006,7 @@
         "title": "全家和美德美店",
         "address": "彰化縣和美鎮美寮路二段557號1樓",
         "post": "508",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62101,7 +62063,7 @@
         "title": "全家東石蚵庄店",
         "address": "嘉義縣東石鄉東石村東石5號附6",
         "post": "614",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62215,7 +62177,7 @@
         "title": "全家水上中興店",
         "address": "嘉義縣水上鄉中興路279號（配送用）",
         "post": "608",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62234,7 +62196,7 @@
         "title": "全家草屯虎山店",
         "address": "南投縣草屯鎮中正路610號12樓",
         "post": "542",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62253,7 +62215,7 @@
         "title": "全家世景店",
         "address": "台北市文山區景興路282巷2號壹樓",
         "post": "116",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62272,7 +62234,7 @@
         "title": "全家淡水海都店",
         "address": "新北市淡水區新市五路三段312號",
         "post": "251",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62424,7 +62386,7 @@
         "title": "全家竹北俠隱店",
         "address": "新竹縣竹北市莊敬六街7號",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62462,7 +62424,7 @@
         "title": "全家南投光明店",
         "address": "南投縣南投市中興路227號1樓",
         "post": "540",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62481,7 +62443,7 @@
         "title": "全家龍井學園店",
         "address": "台中市龍井區遊園南路297號",
         "post": "434",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62519,7 +62481,7 @@
         "title": "全家湖捷店",
         "address": "台北市內湖區成功路四段178號1樓",
         "post": "114",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62557,7 +62519,7 @@
         "title": "全家台中俊美店",
         "address": "台中市西屯區西屯路二段297之16號1樓全部",
         "post": "407",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62576,7 +62538,7 @@
         "title": "全家雙連站店",
         "address": "台北市大同區民生西路47號B1（雙連站3號販賣店）",
         "post": "103",
-        "all": "Preorder",
+        "all": "COFFEE,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62671,7 +62633,7 @@
         "title": "全家三重三安店",
         "address": "新北市三重區三和路三段40號",
         "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,TANHOU,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,TANHOU,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62823,7 +62785,7 @@
         "title": "全家竹北新竹義店",
         "address": "新竹縣竹北市三民路88號1樓",
         "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62880,7 +62842,7 @@
         "title": "全家三重溪尾店",
         "address": "新北市三重區溪尾街160號1樓",
         "post": "241",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62899,7 +62861,7 @@
         "title": "全家汐止遠雄二店",
         "address": "新北市汐止區新台五路一段99號B1樓",
         "post": "221",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62918,7 +62880,7 @@
         "title": "全家新店復興店",
         "address": "新北市新店區民權路132號1樓",
         "post": "231",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62937,7 +62899,7 @@
         "title": "全家彰化樂活店",
         "address": "彰化縣彰化市成功路85號1樓、2樓",
         "post": "500",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62956,7 +62918,7 @@
         "title": "全家台中七張犁店",
         "address": "台中市西屯區安和路120之15號1樓及2樓",
         "post": "407",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62975,7 +62937,7 @@
         "title": "全家樹林新保安店",
         "address": "新北市樹林區保安街二段215號1樓",
         "post": "238",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62994,7 +62956,7 @@
         "title": "全家竹南大營店",
         "address": "苗栗縣竹南鎮自由街198號",
         "post": "350",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63013,7 +62975,7 @@
         "title": "全家桃園帝國店",
         "address": "桃園市桃園區大興西路一段208號",
         "post": "330",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63051,7 +63013,7 @@
         "title": "全家三義休息站店",
         "address": "苗栗縣三義鄉西湖村下湖5-10號",
         "post": "367",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63070,7 +63032,7 @@
         "title": "全家埔心永坡店",
         "address": "彰化縣埔心鄉東門村中正路一段臨497號",
         "post": "513",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63089,7 +63051,7 @@
         "title": "全家福興福環店",
         "address": "彰化縣福興鄉沿海路四段382號",
         "post": "506",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63108,7 +63070,7 @@
         "title": "全家板橋傑仕堡店",
         "address": "新北市板橋區文化路一段188巷57號1樓（配送用）",
         "post": "220",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63184,7 +63146,7 @@
         "title": "全家八德大愛店",
         "address": "桃園市八德區和平路196號",
         "post": "334",
-        "all": "COFFEE,Photo,WiFi,Toilet,Rest,SharePot,TANHOU,Preorder",
+        "all": "COFFEE,Photo,WiFi,Toilet,Rest,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63260,7 +63222,7 @@
         "title": "全家新埔新文山店",
         "address": "新竹縣新埔鎮文山路犁頭山段865號1樓",
         "post": "305",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SpicyKantoni,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SpicyKantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63393,7 +63355,7 @@
         "title": "全家高雄康莊店",
         "address": "高雄市小港區康莊路183號",
         "post": "812",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63412,7 +63374,7 @@
         "title": "全家博愛店",
         "address": "台北市中正區博愛路63號1FB1F",
         "post": "100",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63431,7 +63393,7 @@
         "title": "全家民雄十四甲店",
         "address": "嘉義縣民雄鄉大崎村7鄰十四甲路16之4號",
         "post": "621",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63450,7 +63412,7 @@
         "title": "全家高雄創金店",
         "address": "高雄市楠梓區創新路890之1號",
         "post": "811",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63545,7 +63507,7 @@
         "title": "全家台中高鐵店",
         "address": "台中市烏日區站區二路8號1樓",
         "post": "414",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63621,7 +63583,7 @@
         "title": "全家后里新中興店",
         "address": "台中市后里區甲后路一段362號",
         "post": "421",
-        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63697,7 +63659,7 @@
         "title": "全家台中新高鐵店",
         "address": "台中市烏日區站區二路8號2樓",
         "post": "414",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63712,11 +63674,30 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018388",
+        "title": "全家中和捷勝店",
+        "address": "新北市中和區景安路128號1樓",
+        "post": "235",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.505128,
+          24.994598
+        ],
+        "type": "Point"
+      },
+      "id": "018388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018389",
         "title": "全家竹北金十興店",
         "address": "新竹縣竹北市嘉興路498號（配送用）",
         "post": "302",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63792,7 +63773,7 @@
         "title": "全家彰化自強店",
         "address": "彰化縣彰化市自強南路61號一樓",
         "post": "500",
-        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "all": "COFFEE,SWEETPOTATO,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63807,11 +63788,49 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018400",
+        "title": "全家嘉義保健店",
+        "address": "嘉義市東區保健街149號",
+        "post": "600",
+        "all": "COFFEE,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.451691504574,
+          23.5003542922862
+        ],
+        "type": "Point"
+      },
+      "id": "018400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018401",
+        "title": "全家高雄九華店",
+        "address": "高雄市三民區中華二路142號",
+        "post": "807",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,TANHOU,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.292012,
+          22.641777
+        ],
+        "type": "Point"
+      },
+      "id": "018401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018403",
         "title": "全家春北店",
         "address": "台北市中山區長春路410號1樓及地下室",
         "post": "104",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63849,7 +63868,7 @@
         "title": "全家鑫福隆店",
         "address": "新北市貢寮區興隆街22號1．2樓",
         "post": "228",
-        "all": null,
+        "all": "COFFEE,SingleOrigin,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63868,7 +63887,7 @@
         "title": "全家新福興店",
         "address": "臺北市文山區福興路65號",
         "post": "116",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63982,7 +64001,7 @@
         "title": "全家台南康裕店",
         "address": "台南市安平區健康三街209號1樓",
         "post": "708",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,muffin,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -64343,7 +64362,7 @@
         "title": "全家鳥松觀湖店",
         "address": "高雄市鳥松區松埔北巷4-205號",
         "post": "833",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,COFFEEDeliver,SharePot,TANHOU,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,COFFEEDeliver,SharePot,SingleOrigin,TANHOU,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -64438,7 +64457,7 @@
         "title": "全家永康自強店",
         "address": "台南市永康區自強路728號1樓",
         "post": "710",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -64552,7 +64571,7 @@
         "title": "全家紫新店",
         "address": "台北市內湖區康寧路ㄧ段37號ㄧ樓",
         "post": "114",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder,Latte",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
