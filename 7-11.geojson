@@ -45429,23 +45429,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181613",
-        "title": "松京",
-        "address": "台北市中山區南京東路二段144號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.533969,
-          25.051835
-        ],
-        "type": "Point"
-      },
-      "id": "181613"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181624",
         "title": "興惠",
         "address": "台中市南區國光路250號",
@@ -52552,23 +52535,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187127",
-        "title": "成泰",
-        "address": "新北市五股區成泰路二段84號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.437654,
-          25.082371
-        ],
-        "type": "Point"
-      },
-      "id": "187127"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187138",
         "title": "太子",
         "address": "新北市土城區中山路47號",
@@ -58604,23 +58570,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193568",
-        "title": "北園",
-        "address": "台南市北區北園街6號之6  1、2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.22334,
-          23.010328
-        ],
-        "type": "Point"
-      },
-      "id": "193568"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193579",
         "title": "學高",
         "address": "高雄市楠梓區藍田路962.966號",
@@ -59420,6 +59369,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194527",
+        "title": "星展",
+        "address": "高雄市三民區天祥一路88號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194572",
         "title": "復錦",
         "address": "台北市中山區復興北路348號1樓",
@@ -59760,6 +59726,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197135",
+        "title": "松京",
+        "address": "台北市中山區南京東路二段144號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.533969,
+          25.051835
+        ],
+        "type": "Point"
+      },
+      "id": "197135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198529",
         "title": "盧奉",
         "address": "桃園市蘆竹區奉化路25號27號1樓",
@@ -60096,6 +60079,23 @@
         "type": "Point"
       },
       "id": "198769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198839",
+        "title": "成泰",
+        "address": "新北市五股區成泰路二段84號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.437654,
+          25.082371
+        ],
+        "type": "Point"
+      },
+      "id": "198839"
     },
     {
       "type": "Feature",
