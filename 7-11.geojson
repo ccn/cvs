@@ -59284,6 +59284,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194321",
+        "title": "安醫",
+        "address": "台南市安南區州南里長和路二段12鄰66號B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.223193,
+          23.064536
+        ],
+        "type": "Point"
+      },
+      "id": "194321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194354",
         "title": "玉成",
         "address": "台北市南港區西新里南港路三段3號1樓",
@@ -59365,23 +59382,6 @@
         "type": "Point"
       },
       "id": "194480"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "194527",
-        "title": "星展",
-        "address": "高雄市三民區天祥一路88號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "id": "194527"
     },
     {
       "type": "Feature",
