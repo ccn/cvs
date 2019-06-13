@@ -2470,23 +2470,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2429",
-        "title": "北市北和店",
-        "address": "台北市北投區中和街４０２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.498234115047,
-          25.1435466459307
-        ],
-        "type": "Point"
-      },
-      "id": "2429"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2442",
         "title": "北縣商港店",
         "address": "新北市八里區商港路４６、４８號",
@@ -15414,8 +15397,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.462796,
-          25.05425
+          121.4622971091233,
+          25.0542111226733
         ],
         "type": "Point"
       },
