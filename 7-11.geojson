@@ -46874,6 +46874,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182926",
+        "title": "湖康",
+        "address": "嘉義市西區湖內里湖子內路195號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.441944,
+          23.451317
+        ],
+        "type": "Point"
+      },
+      "id": "182926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182937",
         "title": "美家",
         "address": "桃園市中壢區中北路34號36號1樓",
