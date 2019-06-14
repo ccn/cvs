@@ -22292,25 +22292,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015273",
-        "title": "全家板橋華陽店",
-        "address": "新北市板橋區陽明街88、90號一樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,TANHOU,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.464368,
-          25.022954
-        ],
-        "type": "Point"
-      },
-      "id": "015273"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015275",
         "title": "全家板橋美庭店",
         "address": "新北市板橋區中正路216巷21號、23號1樓",
@@ -64544,6 +64525,25 @@
         "type": "Point"
       },
       "id": "018754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018774",
+        "title": "全家板橋華陽店",
+        "address": "新北市板橋區陽明街88、90號一樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,TANHOU,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.464368,
+          25.022954
+        ],
+        "type": "Point"
+      },
+      "id": "018774"
     },
     {
       "type": "Feature",
