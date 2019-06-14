@@ -58077,6 +58077,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193096",
+        "title": "百事達",
+        "address": "高雄市左營區左營大路155號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.289185,
+          22.684356
+        ],
+        "type": "Point"
+      },
+      "id": "193096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193100",
         "title": "京佳",
         "address": "台北市松山區南京東路五段229號231號1樓",
@@ -59178,23 +59195,6 @@
         "type": "Point"
       },
       "id": "194103"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "194125",
-        "title": "友達五(臨時店)",
-        "address": "新竹市東區力行路23號6樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.020219,
-          24.762283
-        ],
-        "type": "Point"
-      },
-      "id": "194125"
     },
     {
       "type": "Feature",
@@ -91121,23 +91121,6 @@
         "type": "Point"
       },
       "id": "991355"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "991377",
-        "title": "新頭高",
-        "address": "苗栗縣頭份市中華路1156號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.91305094052801,
-          24.690280694246002
-        ],
-        "type": "Point"
-      },
-      "id": "991377"
     },
     {
       "type": "Feature",
