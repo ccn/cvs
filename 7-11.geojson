@@ -11939,23 +11939,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "129763",
-        "title": "百事達",
-        "address": "高雄市左營區頂西里左營大路261號263號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.290713,
-          22.686243
-        ],
-        "type": "Point"
-      },
-      "id": "129763"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "129811",
         "title": "德興",
         "address": "桃園市平鎮區振興路12號",
@@ -12377,23 +12360,6 @@
         "type": "Point"
       },
       "id": "130291"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "130305",
-        "title": "安醫",
-        "address": "台南市安南區州南里12鄰長和路二段66號B1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.223193,
-          23.064536
-        ],
-        "type": "Point"
-      },
-      "id": "130305"
     },
     {
       "type": "Feature",
@@ -59199,6 +59165,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194114",
+        "title": "新頭高",
+        "address": "苗栗縣頭份市中華路1186號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.913487,
+          24.690922
+        ],
+        "type": "Point"
+      },
+      "id": "194114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194206",
         "title": "同州",
         "address": "台北市中正區同安街62號1樓",
@@ -59603,6 +59586,40 @@
         "type": "Point"
       },
       "id": "194860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194929",
+        "title": "金昇",
+        "address": "台南市南區金華路二段341號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.19167,
+          22.985576
+        ],
+        "type": "Point"
+      },
+      "id": "194929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194930",
+        "title": "茄安",
+        "address": "新北市汐止區茄苳路259號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.67202,
+          25.068281
+        ],
+        "type": "Point"
+      },
+      "id": "194930"
     },
     {
       "type": "Feature",
@@ -60470,6 +60487,23 @@
         "type": "Point"
       },
       "id": "200790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200804",
+        "title": "鑫德惠",
+        "address": "台北市中山區德惠街15號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525996375037,
+          25.0668620054526
+        ],
+        "type": "Point"
+      },
+      "id": "200804"
     },
     {
       "type": "Feature",
@@ -86310,23 +86344,6 @@
         "type": "Point"
       },
       "id": "972778"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "972789",
-        "title": "鑫德惠",
-        "address": "台北市中山區德惠街15號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.525996375037,
-          25.0668620054526
-        ],
-        "type": "Point"
-      },
-      "id": "972789"
     },
     {
       "type": "Feature",
