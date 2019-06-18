@@ -22241,23 +22241,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "144337",
-        "title": "華藏",
-        "address": "台北市萬華區西藏路107號107之1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.503513,
-          25.029696
-        ],
-        "type": "Point"
-      },
-      "id": "144337"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "144359",
         "title": "平溪",
         "address": "新北市平溪區靜安路二段338號340號",
@@ -45295,13 +45278,13 @@
       "properties": {
         "id": "181532",
         "title": "真新",
-        "address": "台南市麻豆區大同街24之1號1樓",
+        "address": "台南市麻豆區油車里油車24之1號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.245321,
-          23.189968
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -48094,6 +48077,23 @@
         "type": "Point"
       },
       "id": "183893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183907",
+        "title": "席悅",
+        "address": "台南市東區東光里東興路41號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.228642,
+          22.991027
+        ],
+        "type": "Point"
+      },
+      "id": "183907"
     },
     {
       "type": "Feature",
@@ -59760,6 +59760,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197124",
+        "title": "華藏",
+        "address": "台北市萬華區西藏路107號107之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.503513,
+          25.029696
+        ],
+        "type": "Point"
+      },
+      "id": "197124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197135",
         "title": "松京",
         "address": "台北市中山區南京東路二段144號1樓",
@@ -60096,6 +60113,23 @@
         "type": "Point"
       },
       "id": "198736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198747",
+        "title": "福耀",
+        "address": "台南市東區崇明路377號377-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.222565,
+          22.975055
+        ],
+        "type": "Point"
+      },
+      "id": "198747"
     },
     {
       "type": "Feature",
@@ -80122,23 +80156,6 @@
         "type": "Point"
       },
       "id": "956835"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "956846",
-        "title": "福耀",
-        "address": "台南市東區崇明路377號377-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.222565,
-          22.975055
-        ],
-        "type": "Point"
-      },
-      "id": "956846"
     },
     {
       "type": "Feature",
