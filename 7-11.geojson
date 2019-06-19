@@ -59573,6 +59573,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194848",
+        "title": "大邁",
+        "address": "台中市大雅區大林路275號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194860",
         "title": "新滬站",
         "address": "新北市淡水區中正路1號",
@@ -59620,6 +59637,23 @@
         "type": "Point"
       },
       "id": "194930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195151",
+        "title": "義北",
+        "address": "新北市三重區正義北路8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.497588,
+          25.06275
+        ],
+        "type": "Point"
+      },
+      "id": "195151"
     },
     {
       "type": "Feature",
@@ -91937,23 +91971,6 @@
         "type": "Point"
       },
       "id": "992406"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "992440",
-        "title": "席悅",
-        "address": "台南市東區東光里東興路138號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.229411,
-          22.992869
-        ],
-        "type": "Point"
-      },
-      "id": "992440"
     },
     {
       "type": "Feature",
