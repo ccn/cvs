@@ -18671,6 +18671,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4498",
+        "title": "北投希望店",
+        "address": "台北市北投區中和街３９９-５ ３９９-６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4982663706486,
+          25.1429739571525
+        ],
+        "type": "Point"
+      },
+      "id": "4498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4500",
         "title": "苗栗發財店",
         "address": "苗栗縣苗栗市文聖里文發路９０９號",
