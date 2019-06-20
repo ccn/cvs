@@ -6591,8 +6591,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.234306191036,
-          24.9775275383951
+          121.2343920217245,
+          24.9774886367677
         ],
         "type": "Point"
       },
@@ -9861,23 +9861,6 @@
         "type": "Point"
       },
       "id": "3695"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3696",
-        "title": "中壢龍岡店",
-        "address": "桃園市中壢區龍岡路三段１１７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.23282755965,
-          24.9371074782093
-        ],
-        "type": "Point"
-      },
-      "id": "3696"
     },
     {
       "type": "Feature",
@@ -19619,6 +19602,23 @@
         "type": "Point"
       },
       "id": "4593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4602",
+        "title": "八德玉元店",
+        "address": "桃園市八德區長興路７７３、７７５、７７７、７７９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2644520241236,
+          24.9331811599331
+        ],
+        "type": "Point"
+      },
+      "id": "4602"
     },
     {
       "type": "Feature",
