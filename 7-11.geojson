@@ -54592,23 +54592,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188692",
-        "title": "明和",
-        "address": "台南市南區中華西路一段89號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.184006,
-          22.977589
-        ],
-        "type": "Point"
-      },
-      "id": "188692"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188706",
         "title": "中行",
         "address": "新北市新店區中興路一段193號195號",
@@ -59824,6 +59807,23 @@
         "type": "Point"
       },
       "id": "197135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197146",
+        "title": "明和",
+        "address": "台南市南區中華西路一段89號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.184006,
+          22.977589
+        ],
+        "type": "Point"
+      },
+      "id": "197146"
     },
     {
       "type": "Feature",
