@@ -31183,23 +31183,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "160270",
-        "title": "萬和",
-        "address": "台北市萬華區萬大路184號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500345,
-          25.02789
-        ],
-        "type": "Point"
-      },
-      "id": "160270"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "160328",
         "title": "金宏",
         "address": "高雄市小港區順苓里宏平路501號",
@@ -45283,8 +45266,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.245321,
+          23.189968
         ],
         "type": "Point"
       },
@@ -59563,8 +59546,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.649832,
+          24.244024
         ],
         "type": "Point"
       },
@@ -59824,6 +59807,23 @@
         "type": "Point"
       },
       "id": "197146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197272",
+        "title": "萬和",
+        "address": "台北市萬華區萬大路184號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500345,
+          25.02789
+        ],
+        "type": "Point"
+      },
+      "id": "197272"
     },
     {
       "type": "Feature",
