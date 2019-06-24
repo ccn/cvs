@@ -10086,23 +10086,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "126801",
-        "title": "衛道",
-        "address": "台中市北區進化北路378-6號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.680096,
-          24.163336
-        ],
-        "type": "Point"
-      },
-      "id": "126801"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "126823",
         "title": "新紫城",
         "address": "新北市土城區福安街38號40號",
@@ -19980,23 +19963,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141752",
-        "title": "台醫",
-        "address": "台北市中正區中山南路7號B1 樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.518616,
-          25.040756
-        ],
-        "type": "Point"
-      },
-      "id": "141752"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141800",
         "title": "大忠",
         "address": "台南市南區大忠里中華南路一段178號",
@@ -25739,23 +25705,6 @@
         "type": "Point"
       },
       "id": "151553"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "151564",
-        "title": "寶捷",
-        "address": "新竹市東區田美三街35-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.976640983852,
-          24.8158661328312
-        ],
-        "type": "Point"
-      },
-      "id": "151564"
     },
     {
       "type": "Feature",
@@ -36245,23 +36194,6 @@
         "type": "Point"
       },
       "id": "166784"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "166795",
-        "title": "樂華",
-        "address": "新北市永和區永和路一段143之1號145號1至2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.514037,
-          25.008992
-        ],
-        "type": "Point"
-      },
-      "id": "166795"
     },
     {
       "type": "Feature",
@@ -56887,23 +56819,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190754",
-        "title": "龍運",
-        "address": "桃園市龍潭區中正路105號1樓及107巷1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.215873150143,
-          24.8680853145569
-        ],
-        "type": "Point"
-      },
-      "id": "190754"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190765",
         "title": "真親切",
         "address": "新北市新店區中央路212號214號",
@@ -59352,6 +59267,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194527",
+        "title": "星展",
+        "address": "高雄市三民區天祥一路88號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.321093,
+          22.667392
+        ],
+        "type": "Point"
+      },
+      "id": "194527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194572",
         "title": "復錦",
         "address": "台北市中山區復興北路348號1樓",
@@ -59607,6 +59539,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195047",
+        "title": "祥綸",
+        "address": "桃園市大園區高鐵北路三段45號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.224693,
+          25.023356
+        ],
+        "type": "Point"
+      },
+      "id": "195047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195151",
         "title": "義北",
         "address": "新北市三重區正義北路8號1樓",
@@ -59807,6 +59756,23 @@
         "type": "Point"
       },
       "id": "197146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197179",
+        "title": "龍運",
+        "address": "桃園市龍潭區中正路105號1樓及107巷1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.215873150143,
+          24.8680853145569
+        ],
+        "type": "Point"
+      },
+      "id": "197179"
     },
     {
       "type": "Feature",
@@ -60185,6 +60151,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198792",
+        "title": "欣國榮",
+        "address": "桃園市桃園區經國路860號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.300751,
+          25.031717
+        ],
+        "type": "Point"
+      },
+      "id": "198792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198839",
         "title": "成泰",
         "address": "新北市五股區成泰路二段84號1樓",
@@ -60198,6 +60181,23 @@
         "type": "Point"
       },
       "id": "198839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198895",
+        "title": "衛道",
+        "address": "台中市北區進化北路378-6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.680096,
+          24.163336
+        ],
+        "type": "Point"
+      },
+      "id": "198895"
     },
     {
       "type": "Feature",
@@ -60572,6 +60572,23 @@
         "type": "Point"
       },
       "id": "200804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200859",
+        "title": "樂華",
+        "address": "新北市永和區永和路一段143之1號145號1至2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.514037,
+          25.008992
+        ],
+        "type": "Point"
+      },
+      "id": "200859"
     },
     {
       "type": "Feature",
@@ -90475,23 +90492,6 @@
         "type": "Point"
       },
       "id": "990422"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "990433",
-        "title": "欣國榮",
-        "address": "桃園市桃園區經國路860號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.300751,
-          25.031717
-        ],
-        "type": "Point"
-      },
-      "id": "990433"
     },
     {
       "type": "Feature",
