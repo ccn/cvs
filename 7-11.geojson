@@ -37711,23 +37711,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167972",
-        "title": "大埔",
-        "address": "台北市中正區和平西路二段152號152之1號154號154之1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.505568,
-          25.032981
-        ],
-        "type": "Point"
-      },
-      "id": "167972"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167983",
         "title": "安期",
         "address": "台南市安平區慶平路60號62號",
@@ -58196,6 +58179,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193306",
+        "title": "水美",
+        "address": "桃園市楊梅區楊新路二段70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.135582,
+          24.920471
+        ],
+        "type": "Point"
+      },
+      "id": "193306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193317",
         "title": "安德",
         "address": "新北市新店區安德街8號10號12號1樓",
@@ -59760,6 +59760,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197157",
+        "title": "大埔",
+        "address": "台北市中正區和平西路二段152號152之1號154號154之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.505568,
+          25.032981
+        ],
+        "type": "Point"
+      },
+      "id": "197157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197179",
         "title": "龍運",
         "address": "桃園市龍潭區中正路105號1樓及107巷1號1樓",
@@ -60270,23 +60287,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200608",
-        "title": "哈蜜",
-        "address": "台北市大同區重慶北路三段309、311號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.514052,
-          25.073903
-        ],
-        "type": "Point"
-      },
-      "id": "200608"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200620",
         "title": "鑫站",
         "address": "台北市大同區長安西路52之1號B1",
@@ -60623,6 +60623,23 @@
         "type": "Point"
       },
       "id": "202523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202534",
+        "title": "哈蜜",
+        "address": "台北市大同區重慶北路三段309、311號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.514052,
+          25.073903
+        ],
+        "type": "Point"
+      },
+      "id": "202534"
     },
     {
       "type": "Feature",
@@ -85953,23 +85970,6 @@
         "type": "Point"
       },
       "id": "971971"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "972066",
-        "title": "水美",
-        "address": "桃園市楊梅區楊新路二段52號52-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.136237,
-          24.919964
-        ],
-        "type": "Point"
-      },
-      "id": "972066"
     },
     {
       "type": "Feature",
