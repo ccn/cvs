@@ -7604,23 +7604,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3341",
-        "title": "高縣萬大店",
-        "address": "高雄市大寮區琉球里２８鄰至學路２８８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.42695444362,
-          22.6070027498452
-        ],
-        "type": "Point"
-      },
-      "id": "3341"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3344",
         "title": "新竹力行店",
         "address": "新竹市東區力行路１６之１號６樓",
@@ -19619,6 +19602,23 @@
         "type": "Point"
       },
       "id": "4602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4617",
+        "title": "文山心動店",
+        "address": "台北市文山區木柵路一段１６８、１７０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5521860332968,
+          24.9875243397103
+        ],
+        "type": "Point"
+      },
+      "id": "4617"
     },
     {
       "type": "Feature",
