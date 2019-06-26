@@ -27460,23 +27460,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "154286",
-        "title": "天真",
-        "address": "台北市士林區中山北路七段141巷6之1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531436,
-          25.123138
-        ],
-        "type": "Point"
-      },
-      "id": "154286"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "154297",
         "title": "葫東",
         "address": "台北市士林區延平北路五段228號230號1樓",
@@ -28187,23 +28170,6 @@
         "type": "Point"
       },
       "id": "155050"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "155061",
-        "title": "松信",
-        "address": "台北市信義區松信路148號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.571913407661,
-          25.0437709240663
-        ],
-        "type": "Point"
-      },
-      "id": "155061"
     },
     {
       "type": "Feature",
@@ -52773,23 +52739,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187426",
-        "title": "和川",
-        "address": "新北市貢寮區延平街63號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.924572,
-          25.055696
-        ],
-        "type": "Point"
-      },
-      "id": "187426"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187437",
         "title": "富盛",
         "address": "新竹市北區經國路二段346號1樓",
@@ -58213,23 +58162,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193328",
-        "title": "合安",
-        "address": "新北市板橋區合宜路111號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.448381,
-          24.999369
-        ],
-        "type": "Point"
-      },
-      "id": "193328"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193339",
         "title": "福興",
         "address": "新北市泰山區全興路165號",
@@ -59267,6 +59199,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194505",
+        "title": "美福",
+        "address": "新北市新莊區頭興街186號188號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.460903,
+          25.053667
+        ],
+        "type": "Point"
+      },
+      "id": "194505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194527",
         "title": "星展",
         "address": "高雄市三民區天祥一路88號",
@@ -59318,6 +59267,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194619",
+        "title": "寶捷",
+        "address": "新竹市東區田美三街35號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.9766,
+          24.815754
+        ],
+        "type": "Point"
+      },
+      "id": "194619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194631",
         "title": "得月樓",
         "address": "金門縣金城鎮金水里前水頭139-2號1樓",
@@ -59331,6 +59297,23 @@
         "type": "Point"
       },
       "id": "194631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194642",
+        "title": "復星",
+        "address": "台北市松山區復興北路15之16號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.544216,
+          25.048814
+        ],
+        "type": "Point"
+      },
+      "id": "194642"
     },
     {
       "type": "Feature",
@@ -59535,6 +59518,23 @@
         "type": "Point"
       },
       "id": "194930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195025",
+        "title": "泰勝",
+        "address": "宜蘭縣大同鄉泰雅路一段34號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.609714,
+          24.676937
+        ],
+        "type": "Point"
+      },
+      "id": "195025"
     },
     {
       "type": "Feature",
@@ -59790,6 +59790,23 @@
         "type": "Point"
       },
       "id": "197179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197249",
+        "title": "合安",
+        "address": "新北市板橋區合宜路111號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.448381,
+          24.999369
+        ],
+        "type": "Point"
+      },
+      "id": "197249"
     },
     {
       "type": "Feature",
@@ -60168,6 +60185,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198781",
+        "title": "松信",
+        "address": "台北市信義區松信路148號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.571913407661,
+          25.0437709240663
+        ],
+        "type": "Point"
+      },
+      "id": "198781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198792",
         "title": "欣國榮",
         "address": "桃園市桃園區經國路860號1樓",
@@ -60181,6 +60215,23 @@
         "type": "Point"
       },
       "id": "198792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198817",
+        "title": "天真",
+        "address": "台北市士林區中山北路七段141巷6之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531436,
+          25.123138
+        ],
+        "type": "Point"
+      },
+      "id": "198817"
     },
     {
       "type": "Feature",
@@ -60372,23 +60423,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200686",
-        "title": "天東",
-        "address": "台北市士林區中山北路七段14巷2-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531242,
-          25.118703
-        ],
-        "type": "Point"
-      },
-      "id": "200686"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200697",
         "title": "嘉新",
         "address": "新北市中和區員山路419號421號1樓",
@@ -60572,6 +60606,23 @@
         "type": "Point"
       },
       "id": "200804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200815",
+        "title": "天東",
+        "address": "台北市士林區中山北路七段14巷2-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531242,
+          25.118703
+        ],
+        "type": "Point"
+      },
+      "id": "200815"
     },
     {
       "type": "Feature",
