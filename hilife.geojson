@@ -18450,6 +18450,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4482",
+        "title": "梓官港口店",
+        "address": "高雄市梓官區中正路１３７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2562766012105,
+          22.7288381537188
+        ],
+        "type": "Point"
+      },
+      "id": "4482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4483",
         "title": "林口築夢店",
         "address": "新北市林口區仁愛路一段６１９號",
