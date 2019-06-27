@@ -34430,23 +34430,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "165389",
-        "title": "民興",
-        "address": "嘉義縣民雄鄉興中村6鄰江厝店54-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.421248,
-          23.524822
-        ],
-        "type": "Point"
-      },
-      "id": "165389"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "165390",
         "title": "西雅圖",
         "address": "新北市八里區中山路二段151號153號1樓",
@@ -49033,23 +49016,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184771",
-        "title": "行天",
-        "address": "台北市中山區農安街178號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.534839,
-          25.064642
-        ],
-        "type": "Point"
-      },
-      "id": "184771"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184782",
         "title": "復春",
         "address": "台北市松山區復興北路179號",
@@ -58383,6 +58349,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193568",
+        "title": "北園",
+        "address": "台南市北區北園街6號之6  1、2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.22334,
+          23.010328
+        ],
+        "type": "Point"
+      },
+      "id": "193568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193579",
         "title": "學高",
         "address": "高雄市楠梓區藍田路962.966號",
@@ -59012,6 +58995,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194217",
+        "title": "莊捷",
+        "address": "新北市新莊區中華路一段37號37之1號39號39之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.451861,
+          25.037775
+        ],
+        "type": "Point"
+      },
+      "id": "194217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194239",
         "title": "加灣",
         "address": "花蓮縣秀林鄉景美村加灣178之20號",
@@ -59165,6 +59165,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194457",
+        "title": "布拉諾",
+        "address": "新北市淡水區坪頂路56-8號56-9號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.458312,
+          25.16244
+        ],
+        "type": "Point"
+      },
+      "id": "194457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194479",
         "title": "崇信",
         "address": "基隆市信義區東信路212-4,214號1F",
@@ -59229,6 +59246,23 @@
         "type": "Point"
       },
       "id": "194527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194549",
+        "title": "富友",
+        "address": "桃園市中壢區中山東路三段419號421號423號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.252926,
+          24.939123
+        ],
+        "type": "Point"
+      },
+      "id": "194549"
     },
     {
       "type": "Feature",
@@ -59522,6 +59556,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194941",
+        "title": "建成",
+        "address": "新北市汐止區大同路二段663號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195025",
         "title": "泰勝",
         "address": "宜蘭縣大同鄉泰雅路一段34號1樓",
@@ -59552,6 +59603,40 @@
         "type": "Point"
       },
       "id": "195047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195058",
+        "title": "金澳底",
+        "address": "新北市貢寮區仁和路218號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.923869,
+          25.053278
+        ],
+        "type": "Point"
+      },
+      "id": "195058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195092",
+        "title": "上巴陵",
+        "address": "桃園市復興區華陵里10鄰巴崚116號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.398994,
+          24.686225
+        ],
+        "type": "Point"
+      },
+      "id": "195092"
     },
     {
       "type": "Feature",
@@ -59790,6 +59875,23 @@
         "type": "Point"
       },
       "id": "197179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197191",
+        "title": "行天",
+        "address": "台北市中山區農安街178號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.534839,
+          25.064642
+        ],
+        "type": "Point"
+      },
+      "id": "197191"
     },
     {
       "type": "Feature",
