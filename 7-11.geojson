@@ -8879,23 +8879,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "123329",
-        "title": "華原",
-        "address": "花蓮縣花蓮市中華路426號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.594394386396,
-          23.974844192232798
-        ],
-        "type": "Point"
-      },
-      "id": "123329"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "123352",
         "title": "明新",
         "address": "新竹縣新豐鄉新興路7號",
@@ -57312,6 +57295,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192750",
+        "title": "湖興",
+        "address": "嘉義市東區興安里24鄰興美六路368號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.447953,
+          23.458719
+        ],
+        "type": "Point"
+      },
+      "id": "192750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192761",
         "title": "原億",
         "address": "新北市三重區仁和街95號97號1樓",
@@ -58978,6 +58978,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194192",
+        "title": "鈦湖",
+        "address": "金門縣金湖鎮新市里太湖路二段217號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194206",
         "title": "同州",
         "address": "台北市中正區同安街62號1樓",
@@ -59059,6 +59076,23 @@
         "type": "Point"
       },
       "id": "194262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194273",
+        "title": "頂王",
+        "address": "彰化縣鹿港鎮頭崙里7鄰頂草路二段135號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194273"
     },
     {
       "type": "Feature",
@@ -59573,6 +59607,57 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194963",
+        "title": "成商",
+        "address": "台南市東區大學里勝利路118號1、2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.218392,
+          22.995913
+        ],
+        "type": "Point"
+      },
+      "id": "194963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194974",
+        "title": "松容",
+        "address": "桃園市中壢區青溪路一段85號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.222805,
+          25.006028
+        ],
+        "type": "Point"
+      },
+      "id": "194974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195014",
+        "title": "上鈺",
+        "address": "台南市南區大成路一段128號1、2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.200187,
+          22.975158
+        ],
+        "type": "Point"
+      },
+      "id": "195014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195025",
         "title": "泰勝",
         "address": "宜蘭縣大同鄉泰雅路一段34號1樓",
@@ -59654,6 +59739,40 @@
         "type": "Point"
       },
       "id": "195151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195254",
+        "title": "逢吉",
+        "address": "台中市西屯區西安街275號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.648145,
+          24.182017
+        ],
+        "type": "Point"
+      },
+      "id": "195254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195380",
+        "title": "精材三",
+        "address": "桃園市中壢區中園路188號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "195380"
     },
     {
       "type": "Feature",
@@ -60355,6 +60474,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198862",
+        "title": "華原",
+        "address": "花蓮縣花蓮市中華路426號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.594394386396,
+          23.974844192232798
+        ],
+        "type": "Point"
+      },
+      "id": "198862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198895",
         "title": "衛道",
         "address": "台中市北區進化北路378-6號",
@@ -60725,6 +60861,23 @@
         "type": "Point"
       },
       "id": "200815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200826",
+        "title": "新大港",
+        "address": "台南市北區大和里大港街140號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.190006,
+          23.013516
+        ],
+        "type": "Point"
+      },
+      "id": "200826"
     },
     {
       "type": "Feature",
@@ -88673,23 +88826,6 @@
         "type": "Point"
       },
       "id": "981624"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "981635",
-        "title": "新大港",
-        "address": "台南市北區大和里大港街140號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.190006,
-          23.013516
-        ],
-        "type": "Point"
-      },
-      "id": "981635"
     },
     {
       "type": "Feature",
