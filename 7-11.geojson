@@ -10868,23 +10868,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127941",
-        "title": "台北3",
-        "address": "台北市中正區北平西路3號(西北站)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.516841,
-          25.048427
-        ],
-        "type": "Point"
-      },
-      "id": "127941"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127952",
         "title": "翡翠灣",
         "address": "新北市萬里區龜吼村美崙38號39號",
@@ -16474,23 +16457,6 @@
         "type": "Point"
       },
       "id": "136532"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "136554",
-        "title": "板站北",
-        "address": "新北市板橋區文化路一段54號(板站北)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.463349,
-          25.014555
-        ],
-        "type": "Point"
-      },
-      "id": "136554"
     },
     {
       "type": "Feature",
@@ -22904,23 +22870,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "146805",
-        "title": "新海",
-        "address": "新北市板橋區文德里新海路138號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.460875,
-          25.023297
-        ],
-        "type": "Point"
-      },
-      "id": "146805"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "146850",
         "title": "建錦",
         "address": "台北市中山區建國北路二段127號1樓B1樓",
@@ -23954,23 +23903,6 @@
         "type": "Point"
       },
       "id": "148801"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "148823",
-        "title": "瓏山林",
-        "address": "台北市內湖區康樂街125巷2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.61953,
-          25.073387
-        ],
-        "type": "Point"
-      },
-      "id": "148823"
     },
     {
       "type": "Feature",
@@ -26453,23 +26385,6 @@
         "type": "Point"
       },
       "id": "153386"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "153397",
-        "title": "有民",
-        "address": "新北市永和區民有街9號11號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.516308,
-          24.996935
-        ],
-        "type": "Point"
-      },
-      "id": "153397"
     },
     {
       "type": "Feature",
@@ -30233,13 +30148,13 @@
       "properties": {
         "id": "159188",
         "title": "中孝",
-        "address": "桃園市中壢區忠孝路248號1樓",
+        "address": "桃園市中壢區忠孝路248號1樓2樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.254555178847,
-          24.9784346996487
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -39071,23 +38986,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170967",
-        "title": "八堵站",
-        "address": "基隆市暖暖區八堵路142號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.729002,
-          25.10844
-        ],
-        "type": "Point"
-      },
-      "id": "170967"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170978",
         "title": "中航",
         "address": "台北市中正區林森南路12號",
@@ -39566,13 +39464,13 @@
       "properties": {
         "id": "171306",
         "title": "鑫樂昇",
-        "address": "台北市萬華區武昌街二段114之3號",
+        "address": "台北市萬華區武昌街二段114之3號.之4號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.50487,
-          25.04517
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -42641,23 +42539,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "179665",
-        "title": "豐原站",
-        "address": "台中市豐原區中正路1-1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.723907,
-          24.254625
-        ],
-        "type": "Point"
-      },
-      "id": "179665"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "179676",
         "title": "北勢",
         "address": "桃園市新屋區中山東路一段745號",
@@ -45714,23 +45595,6 @@
         "type": "Point"
       },
       "id": "182166"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "182177",
-        "title": "台南站",
-        "address": "台南市東區北門路二段4號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.212319,
-          22.997212
-        ],
-        "type": "Point"
-      },
-      "id": "182177"
     },
     {
       "type": "Feature",
@@ -51103,23 +50967,6 @@
         "type": "Point"
       },
       "id": "186238"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "186249",
-        "title": "萬華站",
-        "address": "台北市萬華區康定路382號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500122,
-          25.033601
-        ],
-        "type": "Point"
-      },
-      "id": "186249"
     },
     {
       "type": "Feature",
@@ -56700,23 +56547,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190765",
-        "title": "真親切",
-        "address": "新北市新店區中央路212號214號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.529886,
-          24.9735
-        ],
-        "type": "Point"
-      },
-      "id": "190765"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190776",
         "title": "宏亞",
         "address": "桃園市桃園區中平路102號",
@@ -58985,8 +58815,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          118.41861,
+          24.438836
         ],
         "type": "Point"
       },
@@ -59376,8 +59206,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.544216,
-          25.048814
+          121.544231,
+          25.048564
         ],
         "type": "Point"
       },
@@ -59556,6 +59386,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194882",
+        "title": "安美",
+        "address": "台北市內湖區石潭里安康路32巷24弄22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.593984,
+          25.06175
+        ],
+        "type": "Point"
+      },
+      "id": "194882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194929",
         "title": "金昇",
         "address": "台南市南區金華路二段341號",
@@ -59597,8 +59444,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.664781,
+          25.071834
         ],
         "type": "Point"
       },
@@ -59767,12 +59614,29 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.236948,
+          24.982086
         ],
         "type": "Point"
       },
       "id": "195380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196833",
+        "title": "東吳(臨)",
+        "address": "台北市士林區臨溪路70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.545802,
+          25.094324
+        ],
+        "type": "Point"
+      },
+      "id": "196833"
     },
     {
       "type": "Feature",
@@ -59913,6 +59777,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197113",
+        "title": "有民",
+        "address": "新北市永和區民有街9號11號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.516308,
+          24.996935
+        ],
+        "type": "Point"
+      },
+      "id": "197113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197124",
         "title": "華藏",
         "address": "台北市萬華區西藏路107號107之1號1樓",
@@ -59998,6 +59879,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197180",
+        "title": "真親切",
+        "address": "新北市新店區中央路212號214號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.529886,
+          24.9735
+        ],
+        "type": "Point"
+      },
+      "id": "197180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197191",
         "title": "行天",
         "address": "台北市中山區農安街178號",
@@ -60011,6 +59909,23 @@
         "type": "Point"
       },
       "id": "197191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197227",
+        "title": "瓏山林",
+        "address": "台北市內湖區康樂街125巷2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.61953,
+          25.073387
+        ],
+        "type": "Point"
+      },
+      "id": "197227"
     },
     {
       "type": "Feature",
@@ -60034,13 +59949,13 @@
       "properties": {
         "id": "197272",
         "title": "萬和",
-        "address": "台北市萬華區萬大路184號",
+        "address": "台北市萬華區萬大路182號184號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.500345,
-          25.02789
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -60508,19 +60423,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200550",
-        "title": "德偉",
-        "address": "新北市中和區中興街162號164號",
+        "id": "198910",
+        "title": "新海",
+        "address": "新北市板橋區文德里新海路138號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.499828,
-          24.991505
+          121.460875,
+          25.023297
         ],
         "type": "Point"
       },
-      "id": "200550"
+      "id": "198910"
     },
     {
       "type": "Feature",
@@ -60882,6 +60797,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200837",
+        "title": "德偉",
+        "address": "新北市中和區中興街162號164號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.499828,
+          24.991505
+        ],
+        "type": "Point"
+      },
+      "id": "200837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200859",
         "title": "樂華",
         "address": "新北市永和區永和路一段143之1號145號1至2樓",
@@ -61150,23 +61082,6 @@
         "type": "Point"
       },
       "id": "822310"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "822424",
-        "title": "豐正",
-        "address": "台中市豐原區中正路16號18號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.722293,
-          24.2536
-        ],
-        "type": "Point"
-      },
-      "id": "822424"
     },
     {
       "type": "Feature",
@@ -66862,40 +66777,6 @@
         "type": "Point"
       },
       "id": "892582"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "892777",
-        "title": "大甲站",
-        "address": "台中市大甲區中山路一段828號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.627066,
-          24.344513
-        ],
-        "type": "Point"
-      },
-      "id": "892777"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "892825",
-        "title": "田中站",
-        "address": "彰化縣田中鎮中州路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.591222,
-          23.858435
-        ],
-        "type": "Point"
-      },
-      "id": "892825"
     },
     {
       "type": "Feature",
@@ -81197,23 +81078,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "959742",
-        "title": "新鶯歌站",
-        "address": "新北市鶯歌區文化路68號之1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.355209,
-          24.954493
-        ],
-        "type": "Point"
-      },
-      "id": "959742"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "960007",
         "title": "港新",
         "address": "高雄市三民區建國一路417號",
@@ -82489,23 +82353,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "964906",
-        "title": "台北六",
-        "address": "台北市中正區北平西路3號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.516806,
-          25.047944
-        ],
-        "type": "Point"
-      },
-      "id": "964906"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "964940",
         "title": "中壢站",
         "address": "桃園市中壢區中和路139號",
@@ -83114,23 +82961,6 @@
         "type": "Point"
       },
       "id": "966212"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "966245",
-        "title": "左營新站",
-        "address": "高雄市左營區菜公里菜公路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.305561,
-          22.686672
-        ],
-        "type": "Point"
-      },
-      "id": "966245"
     },
     {
       "type": "Feature",
@@ -86501,23 +86331,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "972435",
-        "title": "育樂",
-        "address": "台南市東區大學里勝利路118號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.218392,
-          22.995913
-        ],
-        "type": "Point"
-      },
-      "id": "972435"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "972468",
         "title": "新北庄",
         "address": "台中市神岡區北庄里中山路1320-3號",
@@ -87058,23 +86871,6 @@
         "type": "Point"
       },
       "id": "975663"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "975700",
-        "title": "板站東",
-        "address": "新北市板橋區文化路一段54號(板站東)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.464325,
-          25.014765
-        ],
-        "type": "Point"
-      },
-      "id": "975700"
     },
     {
       "type": "Feature",
@@ -88112,23 +87908,6 @@
         "type": "Point"
       },
       "id": "979263"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "979311",
-        "title": "新羅東站",
-        "address": "宜蘭縣羅東鎮公正路2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.774406,
-          24.67781
-        ],
-        "type": "Point"
-      },
-      "id": "979311"
     },
     {
       "type": "Feature",
@@ -89642,23 +89421,6 @@
         "type": "Point"
       },
       "id": "985143"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "985235",
-        "title": "台北2",
-        "address": "台北市中正區北平西路3號(西南站)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.516349,
-          25.047529
-        ],
-        "type": "Point"
-      },
-      "id": "985235"
     },
     {
       "type": "Feature",
@@ -92623,13 +92385,13 @@
       "properties": {
         "id": "992923",
         "title": "皇翔",
-        "address": "新北市土城區中央路一段88號1樓",
+        "address": "新北市土城區中央路一段88號1樓、裕民路10-1號.10號.8-1號.8號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.446928,
-          24.98893
+          0,
+          0
         ],
         "type": "Point"
       },
