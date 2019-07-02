@@ -11300,8 +11300,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.565091136644,
-          25.0799389838714
+          121.565273526857,
+          25.0798466695617
         ],
         "type": "Point"
       },
@@ -12570,7 +12570,7 @@
       "properties": {
         "id": "4005",
         "title": "新莊雙鳳店",
-        "address": "新北市新莊區雙鳳路５３號",
+        "address": "新北市新莊區雙鳳路５３號一樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19313,6 +19313,23 @@
         "type": "Point"
       },
       "id": "4565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4568",
+        "title": "汐止千萬店",
+        "address": "新北市汐止區汐萬路一段４０９、４１１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6492193513345,
+          25.0793390710292
+        ],
+        "type": "Point"
+      },
+      "id": "4568"
     },
     {
       "type": "Feature",
