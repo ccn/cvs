@@ -5904,23 +5904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "120113",
-        "title": "連城",
-        "address": "新北市中和區連城路89巷3之1號5之1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.497083,
-          24.999687
-        ],
-        "type": "Point"
-      },
-      "id": "120113"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "120146",
         "title": "瑞聯",
         "address": "台中市西屯區福科路890號1樓",
@@ -18144,23 +18127,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "138620",
-        "title": "壢美",
-        "address": "桃園市中壢區中美路39號1樓及建國北路55號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.226679164913,
-          24.958249629942397
-        ],
-        "type": "Point"
-      },
-      "id": "138620"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138642",
         "title": "山興",
         "address": "桃園市龜山區山頂里明興街223號",
@@ -23903,23 +23869,6 @@
         "type": "Point"
       },
       "id": "148801"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "148834",
-        "title": "延吉",
-        "address": "台北市大安區延吉街237號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.555705,
-          25.036636
-        ],
-        "type": "Point"
-      },
-      "id": "148834"
     },
     {
       "type": "Feature",
@@ -38387,23 +38336,6 @@
         "type": "Point"
       },
       "id": "170473"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "170495",
-        "title": "鼎瑞",
-        "address": "高雄市三民區鼎泰里裕誠路56號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.314878,
-          22.663863
-        ],
-        "type": "Point"
-      },
-      "id": "170495"
     },
     {
       "type": "Feature",
@@ -59386,23 +59318,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194882",
-        "title": "安美",
-        "address": "台北市內湖區石潭里安康路32巷24弄22號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.593984,
-          25.06175
-        ],
-        "type": "Point"
-      },
-      "id": "194882"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194929",
         "title": "金昇",
         "address": "台南市南區金華路二段341號",
@@ -59913,6 +59828,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197216",
+        "title": "富強",
+        "address": "台中市北區國強街142號及天祥街100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.697436,
+          24.160794
+        ],
+        "type": "Point"
+      },
+      "id": "197216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197227",
         "title": "瓏山林",
         "address": "台北市內湖區康樂街125巷2號",
@@ -60389,6 +60321,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198840",
+        "title": "高梓",
+        "address": "台南市仁德區後璧里中正路二段387號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.251756,
+          22.953123
+        ],
+        "type": "Point"
+      },
+      "id": "198840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198862",
         "title": "華原",
         "address": "花蓮縣花蓮市中華路426號",
@@ -60402,6 +60351,23 @@
         "type": "Point"
       },
       "id": "198862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198884",
+        "title": "連城",
+        "address": "新北市中和區連城路89巷3之1號5之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.497083,
+          24.999687
+        ],
+        "type": "Point"
+      },
+      "id": "198884"
     },
     {
       "type": "Feature",
@@ -60436,6 +60402,23 @@
         "type": "Point"
       },
       "id": "198910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198932",
+        "title": "壢美",
+        "address": "桃園市中壢區中美路39號1樓及建國北路55號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.226679164913,
+          24.958249629942397
+        ],
+        "type": "Point"
+      },
+      "id": "198932"
     },
     {
       "type": "Feature",
@@ -60814,6 +60797,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200848",
+        "title": "延吉",
+        "address": "台北市大安區延吉街237號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.555705,
+          25.036636
+        ],
+        "type": "Point"
+      },
+      "id": "200848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200859",
         "title": "樂華",
         "address": "新北市永和區永和路一段143之1號145號1至2樓",
@@ -60827,6 +60827,23 @@
         "type": "Point"
       },
       "id": "200859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200860",
+        "title": "鼎瑞",
+        "address": "高雄市三民區鼎泰里裕誠路56號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.314878,
+          22.663863
+        ],
+        "type": "Point"
+      },
+      "id": "200860"
     },
     {
       "type": "Feature",
@@ -61830,23 +61847,6 @@
         "type": "Point"
       },
       "id": "850762"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "851053",
-        "title": "高梓",
-        "address": "台南市仁德區後璧里中正路二段387號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.251756,
-          22.953123
-        ],
-        "type": "Point"
-      },
-      "id": "851053"
     },
     {
       "type": "Feature",
@@ -74977,13 +74977,13 @@
       "properties": {
         "id": "936048",
         "title": "明義",
-        "address": "台中市西區美村路一段22號",
+        "address": "台中市西區明義街6號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.661017,
-          24.154912
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -92549,23 +92549,6 @@
         "type": "Point"
       },
       "id": "993096"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "993111",
-        "title": "富強",
-        "address": "台中市北區國強街142號及天祥街100號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.697436,
-          24.160794
-        ],
-        "type": "Point"
-      },
-      "id": "993111"
     },
     {
       "type": "Feature",
