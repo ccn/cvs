@@ -10800,23 +10800,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127860",
-        "title": "北高鐵",
-        "address": "台北市中正區北平西路3號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.519384869613,
-          25.0471334366581
-        ],
-        "type": "Point"
-      },
-      "id": "127860"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127929",
         "title": "立夫",
         "address": "台中市北區育德路2號",
@@ -32488,23 +32471,6 @@
         "type": "Point"
       },
       "id": "164032"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "164054",
-        "title": "淺水灣",
-        "address": "新北市三芝區中柳村北勢子42之11號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.47232,
-          25.252433
-        ],
-        "type": "Point"
-      },
-      "id": "164054"
     },
     {
       "type": "Feature",
@@ -58961,6 +58927,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194446",
+        "title": "禾康",
+        "address": "台中市神岡區三民路630號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.659662,
+          24.27289
+        ],
+        "type": "Point"
+      },
+      "id": "194446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194457",
         "title": "布拉諾",
         "address": "新北市淡水區坪頂路56-8號56-9號1樓",
@@ -60351,6 +60334,23 @@
         "type": "Point"
       },
       "id": "198862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198873",
+        "title": "淺水灣",
+        "address": "新北市三芝區中柳村北勢子42之11號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.47232,
+          25.252433
+        ],
+        "type": "Point"
+      },
+      "id": "198873"
     },
     {
       "type": "Feature",
