@@ -64168,6 +64168,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018519",
+        "title": "全家高鐵一店",
+        "address": "台北市中正區北平西路3號B1東側",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517044,
+          25.047203
+        ],
+        "type": "Point"
+      },
+      "id": "018519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018520",
+        "title": "全家高鐵二店",
+        "address": "台北市中正區北平西路3號B1西側",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517044,
+          25.047203
+        ],
+        "type": "Point"
+      },
+      "id": "018520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018521",
         "title": "全家新松林店",
         "address": "台北市信義區虎林街61-4號",
