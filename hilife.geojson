@@ -18824,6 +18824,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4513",
+        "title": "大安人生店",
+        "address": "台北市大安區基隆路三段１５５巷５７號(臺大癌醫中心醫",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.544848,
+          25.013415
+        ],
+        "type": "Point"
+      },
+      "id": "4513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4514",
         "title": "林口老師店",
         "address": "新北市林口區自強二街８、１０號",
