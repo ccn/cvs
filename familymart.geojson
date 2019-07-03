@@ -6731,25 +6731,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013190",
-        "title": "全家淡水濱海店",
-        "address": "新北市淡水區濱海路一段308號",
-        "post": "251",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.44052617,
-          25.18951592
-        ],
-        "type": "Point"
-      },
-      "id": "013190"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013200",
         "title": "全家新店寶元店",
         "address": "新北市新店區民權路19號",
@@ -64240,6 +64221,25 @@
         "type": "Point"
       },
       "id": "018534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018540",
+        "title": "全家淡水濱海店",
+        "address": "新北市淡水區濱海路一段308號",
+        "post": "251",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44052617,
+          25.18951592
+        ],
+        "type": "Point"
+      },
+      "id": "018540"
     },
     {
       "type": "Feature",
