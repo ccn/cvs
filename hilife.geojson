@@ -19336,7 +19336,7 @@
       "properties": {
         "id": "4568",
         "title": "汐止千萬店",
-        "address": "新北市汐止區汐萬路一段４０９、４１１號",
+        "address": "新北市汐止區汐萬路一段４０９、４１１號一樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19670,6 +19670,23 @@
         "type": "Point"
       },
       "id": "4605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4607",
+        "title": "五結傳中店",
+        "address": "宜蘭縣五結鄉季新村五濱路二段２０１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.8243754682109,
+          24.6846553987035
+        ],
+        "type": "Point"
+      },
+      "id": "4607"
     },
     {
       "type": "Feature",
