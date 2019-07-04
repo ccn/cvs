@@ -63180,6 +63180,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018437",
+        "title": "全家金門伯玉店",
+        "address": "金門縣金寧鄉伯玉路二段351號",
+        "post": "892",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.34166528,
+          24.44134485
+        ],
+        "type": "Point"
+      },
+      "id": "018437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018438",
         "title": "全家三重溪尾店",
         "address": "新北市三重區溪尾街160號1樓",
