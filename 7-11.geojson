@@ -19096,23 +19096,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "140759",
-        "title": "南昌",
-        "address": "台北市中正區南昌路一段72號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517221,
-          25.031126
-        ],
-        "type": "Point"
-      },
-      "id": "140759"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "140852",
         "title": "南投",
         "address": "南投縣南投市民族路289號291號293號",
@@ -20044,23 +20027,6 @@
         "type": "Point"
       },
       "id": "142098"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "142102",
-        "title": "關新",
-        "address": "新竹市東區關新路179號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.01919,
-          24.787194
-        ],
-        "type": "Point"
-      },
-      "id": "142102"
     },
     {
       "type": "Feature",
@@ -30085,8 +30051,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.254573,
+          24.978463
         ],
         "type": "Point"
       },
@@ -36674,6 +36640,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "167411",
+        "title": "南昌",
+        "address": "台北市中正區南昌路一段72號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517221,
+          25.031126
+        ],
+        "type": "Point"
+      },
+      "id": "167411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "167422",
         "title": "屏基",
         "address": "屏東縣屏東市大連路60號",
@@ -39367,8 +39350,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.504788,
+          25.045121
         ],
         "type": "Point"
       },
@@ -45595,6 +45578,23 @@
         "type": "Point"
       },
       "id": "182270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182281",
+        "title": "後驛",
+        "address": "高雄市三民區安和里察哈爾一街148號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.303749,
+          22.647723
+        ],
+        "type": "Point"
+      },
+      "id": "182281"
     },
     {
       "type": "Feature",
@@ -57873,6 +57873,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193340",
+        "title": "國站",
+        "address": "屏東縣屏東市中山路1.3號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.485888,
+          22.669746
+        ],
+        "type": "Point"
+      },
+      "id": "193340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193362",
         "title": "東尚",
         "address": "苗栗縣頭份市東民路163號及和平路251號1樓",
@@ -58815,8 +58832,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.476984,
+          24.090846
         ],
         "type": "Point"
       },
@@ -59263,6 +59280,23 @@
         "type": "Point"
       },
       "id": "194790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194826",
+        "title": "新繼光",
+        "address": "台中市中區繼光街64號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.682047,
+          24.138217
+        ],
+        "type": "Point"
+      },
+      "id": "194826"
     },
     {
       "type": "Feature",
@@ -59862,6 +59896,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197261",
+        "title": "關新",
+        "address": "新竹市東區關新路179號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.01919,
+          24.787194
+        ],
+        "type": "Point"
+      },
+      "id": "197261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197272",
         "title": "萬和",
         "address": "台北市萬華區萬大路182號184號",
@@ -59869,8 +59920,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.500346,
+          25.027924
         ],
         "type": "Point"
       },
@@ -74982,8 +75033,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.661139,
+          24.154854
         ],
         "type": "Point"
       },
@@ -92390,8 +92441,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.446974,
+          24.988944
         ],
         "type": "Point"
       },
