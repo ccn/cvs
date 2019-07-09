@@ -8590,23 +8590,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "123042",
-        "title": "新繼光",
-        "address": "台中市中區中山路69號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.68215979218701,
-          24.1387597677891
-        ],
-        "type": "Point"
-      },
-      "id": "123042"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "123064",
         "title": "福和",
         "address": "新北市中和區秀朗里大勇街25巷1號",
@@ -17851,23 +17834,6 @@
         "type": "Point"
       },
       "id": "138273"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "138284",
-        "title": "豐光",
-        "address": "台中市豐原區中山路581號583號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.712831,
-          24.255477
-        ],
-        "type": "Point"
-      },
-      "id": "138284"
     },
     {
       "type": "Feature",
@@ -58944,6 +58910,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194424",
+        "title": "長權",
+        "address": "高雄市前鎮區民權二路380號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194446",
         "title": "禾康",
         "address": "台中市神岡區三民路630號1樓",
@@ -59539,6 +59522,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195298",
+        "title": "天期",
+        "address": "台南市安平區國平路198號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.171142,
+          22.989747
+        ],
+        "type": "Point"
+      },
+      "id": "195298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195380",
         "title": "精材三",
         "address": "桃園市中壢區中園路188號B1樓",
@@ -59552,6 +59552,23 @@
         "type": "Point"
       },
       "id": "195380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195391",
+        "title": "精材二",
+        "address": "桃園市中壢區自強一路8號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.244528,
+          24.970447
+        ],
+        "type": "Point"
+      },
+      "id": "195391"
     },
     {
       "type": "Feature",
@@ -59926,6 +59943,40 @@
         "type": "Point"
       },
       "id": "197272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197308",
+        "title": "龍學",
+        "address": "桃園市中壢區龍昌路178號1樓A1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2495,
+          24.93745
+        ],
+        "type": "Point"
+      },
+      "id": "197308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197320",
+        "title": "豐光",
+        "address": "台中市豐原區中山路581號583號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.712831,
+          24.255477
+        ],
+        "type": "Point"
+      },
+      "id": "197320"
     },
     {
       "type": "Feature",
@@ -60895,6 +60946,23 @@
         "type": "Point"
       },
       "id": "200860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200871",
+        "title": "革新",
+        "address": "台北市信義區永吉路32號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.568897,
+          25.045624
+        ],
+        "type": "Point"
+      },
+      "id": "200871"
     },
     {
       "type": "Feature",
@@ -81707,23 +81775,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "961974",
-        "title": "革新",
-        "address": "台北市信義區永吉路32號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.568897,
-          25.045624
-        ],
-        "type": "Point"
-      },
-      "id": "961974"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "962069",
         "title": "皇裕",
         "address": "新北市土城區裕民路114巷16號1樓",
@@ -87670,23 +87721,6 @@
         "type": "Point"
       },
       "id": "978101"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "978112",
-        "title": "龍學",
-        "address": "桃園市中壢區龍昌路178號1樓A1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.2495,
-          24.93745
-        ],
-        "type": "Point"
-      },
-      "id": "978112"
     },
     {
       "type": "Feature",
