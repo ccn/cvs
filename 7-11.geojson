@@ -59318,6 +59318,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194882",
+        "title": "安美",
+        "address": "台北市內湖區石潭里安康路32巷24弄22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.593984,
+          25.06175
+        ],
+        "type": "Point"
+      },
+      "id": "194882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194929",
         "title": "金昇",
         "address": "台南市南區金華路二段341號",
@@ -59484,6 +59501,23 @@
         "type": "Point"
       },
       "id": "195092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195106",
+        "title": "花蓮",
+        "address": "花蓮縣花蓮市國聯一路100號3樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.601539,
+          23.993152
+        ],
+        "type": "Point"
+      },
+      "id": "195106"
     },
     {
       "type": "Feature",
