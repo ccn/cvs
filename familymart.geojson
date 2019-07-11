@@ -50070,25 +50070,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017572",
-        "title": "全家三重自強店",
-        "address": "新北市三重區自強路三段16號",
-        "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.486913,
-          25.072062
-        ],
-        "type": "Point"
-      },
-      "id": "017572"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017573",
         "title": "全家台中豐邑店",
         "address": "台中市西屯區市政路392號1樓及招牌",
@@ -62838,6 +62819,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018420",
+        "title": "全家三重自強店",
+        "address": "新北市三重區自強路三段16號",
+        "post": "241",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.486913,
+          25.072062
+        ],
+        "type": "Point"
+      },
+      "id": "018420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018421",
         "title": "全家樹林復興店",
         "address": "新北市樹林區復興路272號274號",
@@ -64183,6 +64183,25 @@
         "type": "Point"
       },
       "id": "018524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018526",
+        "title": "全家新竹台大醫店",
+        "address": "新竹市北區經國路一段442巷25號",
+        "post": "300",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.979424,
+          24.816549
+        ],
+        "type": "Point"
+      },
+      "id": "018526"
     },
     {
       "type": "Feature",
