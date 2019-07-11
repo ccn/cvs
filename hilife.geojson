@@ -4024,8 +4024,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.51581754185,
-          25.07461875693
+          121.5157759676102,
+          25.0746952839065
         ],
         "type": "Point"
       },
@@ -15913,6 +15913,23 @@
         "type": "Point"
       },
       "id": "4284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4285",
+        "title": "楊梅映湖店",
+        "address": "桃園市楊梅區楊湖路三段６０７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0851259742051,
+          24.912283681283
+        ],
+        "type": "Point"
+      },
+      "id": "4285"
     },
     {
       "type": "Feature",
