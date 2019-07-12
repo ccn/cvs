@@ -31013,23 +31013,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "161376",
-        "title": "捷忠",
-        "address": "台北市信義區忠孝東路五段617號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.579105,
-          25.04161
-        ],
-        "type": "Point"
-      },
-      "id": "161376"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "161402",
         "title": "延新",
         "address": "台北市松山區延壽街99號1樓",
@@ -58917,8 +58900,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.313825,
+          22.610721
         ],
         "type": "Point"
       },
@@ -60351,6 +60334,23 @@
         "type": "Point"
       },
       "id": "198747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198758",
+        "title": "捷忠",
+        "address": "台北市信義區忠孝東路五段617號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.579105,
+          25.04161
+        ],
+        "type": "Point"
+      },
+      "id": "198758"
     },
     {
       "type": "Feature",
