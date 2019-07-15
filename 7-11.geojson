@@ -43372,6 +43372,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "180425",
+        "title": "南應大",
+        "address": "台南市永康區鹽行里中正七街27.29號1、2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.239998,
+          23.040069
+        ],
+        "type": "Point"
+      },
+      "id": "180425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180436",
         "title": "欣浩",
         "address": "台中市清水區五權路121號",
@@ -59590,6 +59607,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195678",
+        "title": "鳳山站",
+        "address": "高雄市鳳山區曹公路137號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.357145,
+          22.631187
+        ],
+        "type": "Point"
+      },
+      "id": "195678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196833",
         "title": "東吳(臨)",
         "address": "台北市士林區臨溪路70號",
@@ -59960,6 +59994,23 @@
         "type": "Point"
       },
       "id": "197272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197283",
+        "title": "明義",
+        "address": "台中市西區明義街6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.661139,
+          24.154854
+        ],
+        "type": "Point"
+      },
+      "id": "197283"
     },
     {
       "type": "Feature",
@@ -75124,23 +75175,6 @@
         "type": "Point"
       },
       "id": "936037"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "936048",
-        "title": "明義",
-        "address": "台中市西區明義街6號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.661139,
-          24.154854
-        ],
-        "type": "Point"
-      },
-      "id": "936048"
     },
     {
       "type": "Feature",
