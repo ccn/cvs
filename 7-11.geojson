@@ -36591,13 +36591,13 @@
       "properties": {
         "id": "167411",
         "title": "南昌",
-        "address": "台北市中正區南昌路一段72號",
+        "address": "台北市中正區南昌路一段67號69號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.517221,
-          25.031126
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -46262,23 +46262,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182845",
-        "title": "好事登",
-        "address": "高雄市楠梓區鳳楠路235號朝明路233號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.329195,
-          22.72557
-        ],
-        "type": "Point"
-      },
-      "id": "182845"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182856",
         "title": "港捷",
         "address": "台北市南港區經貿二路1號",
@@ -47397,6 +47380,23 @@
         "type": "Point"
       },
       "id": "183697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183712",
+        "title": "安合",
+        "address": "高雄市楠梓區藍昌路420號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.292262,
+          22.730025
+        ],
+        "type": "Point"
+      },
+      "id": "183712"
     },
     {
       "type": "Feature",
@@ -49947,23 +49947,6 @@
         "type": "Point"
       },
       "id": "185604"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185648",
-        "title": "延福",
-        "address": "新北市土城區延平街36號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.468137,
-          24.991993
-        ],
-        "type": "Point"
-      },
-      "id": "185648"
     },
     {
       "type": "Feature",
@@ -55238,23 +55221,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189639",
-        "title": "麗寶",
-        "address": "新北市林口區文化北路一段301號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.360279,
-          25.07304
-        ],
-        "type": "Point"
-      },
-      "id": "189639"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189695",
         "title": "文忠",
         "address": "台北市文山區忠順街二段10號1樓",
@@ -59267,6 +59233,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194815",
+        "title": "東珈",
+        "address": "新竹市香山區中華路五段156號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.921748,
+          24.785624
+        ],
+        "type": "Point"
+      },
+      "id": "194815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194826",
         "title": "新繼光",
         "address": "台中市中區繼光街64號一樓",
@@ -59947,6 +59930,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197238",
+        "title": "好事登",
+        "address": "高雄市楠梓區鳳楠路235號朝明路233號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.329195,
+          22.72557
+        ],
+        "type": "Point"
+      },
+      "id": "197238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197249",
         "title": "合安",
         "address": "新北市板橋區合宜路111號1樓",
@@ -60045,6 +60045,23 @@
         "type": "Point"
       },
       "id": "197320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197386",
+        "title": "麗寶",
+        "address": "新北市林口區文化北路一段301號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.360279,
+          25.07304
+        ],
+        "type": "Point"
+      },
+      "id": "197386"
     },
     {
       "type": "Feature",
