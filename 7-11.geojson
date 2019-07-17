@@ -39428,23 +39428,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171465",
-        "title": "愛河",
-        "address": "高雄市前金區博孝里河東路8號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.291123590351,
-          22.621761470587398
-        ],
-        "type": "Point"
-      },
-      "id": "171465"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171487",
         "title": "秋紅谷",
         "address": "台中市西屯區朝富路30號32號1樓",
@@ -46258,23 +46241,6 @@
         "type": "Point"
       },
       "id": "182823"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "182856",
-        "title": "港捷",
-        "address": "台北市南港區經貿二路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.617171,
-          25.056063
-        ],
-        "type": "Point"
-      },
-      "id": "182856"
     },
     {
       "type": "Feature",
@@ -55000,23 +54966,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189374",
-        "title": "慶昌",
-        "address": "高雄市楠梓區後昌路722號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.296781,
-          22.709829
-        ],
-        "type": "Point"
-      },
-      "id": "189374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189400",
         "title": "星成",
         "address": "台北市內湖區星雲街17號",
@@ -59590,6 +59539,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195405",
+        "title": "民笙",
+        "address": "桃園市桃園區民生路287號289號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.311639,
+          24.997322
+        ],
+        "type": "Point"
+      },
+      "id": "195405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195678",
         "title": "鳳山站",
         "address": "高雄市鳳山區曹公路137號",
@@ -59964,6 +59930,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197250",
+        "title": "慶昌",
+        "address": "高雄市楠梓區後昌路722號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.296781,
+          22.709829
+        ],
+        "type": "Point"
+      },
+      "id": "197250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197261",
         "title": "關新",
         "address": "新竹市東區關新路179號1樓",
@@ -60045,6 +60028,23 @@
         "type": "Point"
       },
       "id": "197320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197375",
+        "title": "港捷",
+        "address": "台北市南港區經貿二路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.617171,
+          25.056063
+        ],
+        "type": "Point"
+      },
+      "id": "197375"
     },
     {
       "type": "Feature",
@@ -61069,6 +61069,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200882",
+        "title": "愛河",
+        "address": "高雄市前金區博孝里河東路8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.291123590351,
+          22.621761470587398
+        ],
+        "type": "Point"
+      },
+      "id": "200882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202512",
         "title": "英雄館",
         "address": "台北市中正區長沙街一段20號1樓",
@@ -61524,6 +61541,23 @@
         "type": "Point"
       },
       "id": "833055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "833077",
+        "title": "原中",
+        "address": "台北市中山區中原街121號1樓、新生北路三段3巷41號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "833077"
     },
     {
       "type": "Feature",
