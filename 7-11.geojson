@@ -566,23 +566,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "110703",
-        "title": "北站",
-        "address": "台南市仁德區中洲里中洲1-16號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.266173,
-          22.906465
-        ],
-        "type": "Point"
-      },
-      "id": "110703"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "110736",
         "title": "東園",
         "address": "台中市烏日區溪南路一段375號",
@@ -59182,6 +59165,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194804",
+        "title": "鑫文山",
+        "address": "台中市南屯區文山路20號和22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194815",
         "title": "東珈",
         "address": "新竹市香山區中華路五段156號",
@@ -59994,6 +59994,23 @@
         "type": "Point"
       },
       "id": "197283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197294",
+        "title": "北站",
+        "address": "台南市仁德區中洲里中洲1-16號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.266173,
+          22.906465
+        ],
+        "type": "Point"
+      },
+      "id": "197294"
     },
     {
       "type": "Feature",
