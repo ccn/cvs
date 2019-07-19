@@ -20031,6 +20031,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "015141",
+        "title": "全家壽豐豐田店",
+        "address": "花蓮縣壽豐鄉豐山村中山路195號",
+        "post": "974",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4954849,
+          23.84903836
+        ],
+        "type": "Point"
+      },
+      "id": "015141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "015142",
         "title": "全家板橋松柏店",
         "address": "新北市板橋區松柏街13號",
@@ -24568,6 +24587,25 @@
         "type": "Point"
       },
       "id": "015626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "015629",
+        "title": "全家壽豐東華二店",
+        "address": "花蓮縣壽豐鄉大學路二段1號（多容館）",
+        "post": "974",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Kantoni,SingleOrigin,FreshFruit,SpicyKantoni,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.534608,
+          23.89568
+        ],
+        "type": "Point"
+      },
+      "id": "015629"
     },
     {
       "type": "Feature",
@@ -52844,6 +52882,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017787",
+        "title": "全家壽豐志學店",
+        "address": "花蓮縣壽豐鄉志學村中正路17號",
+        "post": "974",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5304003,
+          23.90720134
+        ],
+        "type": "Point"
+      },
+      "id": "017787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017788",
         "title": "全家汐止福旺店",
         "address": "新北市汐止區福德一路109號",
@@ -53942,6 +53999,25 @@
         "type": "Point"
       },
       "id": "017866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017867",
+        "title": "全家壽豐東華店",
+        "address": "花蓮縣壽豐鄉大學路二段1號（東華大學六期學生宿舍）",
+        "post": "974",
+        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SpicyKantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.539136,
+          23.891877
+        ],
+        "type": "Point"
+      },
+      "id": "017867"
     },
     {
       "type": "Feature",
