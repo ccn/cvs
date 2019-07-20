@@ -23023,23 +23023,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "147978",
-        "title": "愛六",
-        "address": "基隆市仁愛區仁一路275號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.7477,
-          25.128304
-        ],
-        "type": "Point"
-      },
-      "id": "147978"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "147989",
         "title": "新兆圓",
         "address": "新北市板橋區實踐路34號34-1號1樓",
@@ -60049,6 +60032,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197353",
+        "title": "懷生",
+        "address": "台北市大安區忠孝東路三段248巷9號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.541391,
+          25.041067
+        ],
+        "type": "Point"
+      },
+      "id": "197353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197375",
         "title": "港捷",
         "address": "台北市南港區經貿二路1號",
@@ -60249,6 +60249,23 @@
         "type": "Point"
       },
       "id": "198633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198644",
+        "title": "彌盛",
+        "address": "高雄市彌陀區中正路246號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.248136,
+          22.784036
+        ],
+        "type": "Point"
+      },
+      "id": "198644"
     },
     {
       "type": "Feature",
@@ -60640,6 +60657,23 @@
         "type": "Point"
       },
       "id": "198932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198976",
+        "title": "華耀",
+        "address": "新竹市香山區明德路1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.952193,
+          24.756626
+        ],
+        "type": "Point"
+      },
+      "id": "198976"
     },
     {
       "type": "Feature",
@@ -61303,23 +61337,6 @@
         "type": "Point"
       },
       "id": "810410"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "810926",
-        "title": "懷生",
-        "address": "台北市大安區忠孝東路三段248巷9號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.541391,
-          25.041067
-        ],
-        "type": "Point"
-      },
-      "id": "810926"
     },
     {
       "type": "Feature",
@@ -62187,23 +62204,6 @@
         "type": "Point"
       },
       "id": "852230"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "852377",
-        "title": "彌盛",
-        "address": "高雄市彌陀區中正路246號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.248136,
-          22.784036
-        ],
-        "type": "Point"
-      },
-      "id": "852377"
     },
     {
       "type": "Feature",
@@ -89540,23 +89540,6 @@
         "type": "Point"
       },
       "id": "982694"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982867",
-        "title": "華耀",
-        "address": "新竹市香山區明德路1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.952193,
-          24.756626
-        ],
-        "type": "Point"
-      },
-      "id": "982867"
     },
     {
       "type": "Feature",
