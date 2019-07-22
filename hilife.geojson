@@ -19725,6 +19725,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4619",
+        "title": "中壢海華店",
+        "address": "桃園市中壢區九和一街６８、７０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.224766179731,
+          24.961476348137
+        ],
+        "type": "Point"
+      },
+      "id": "4619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
