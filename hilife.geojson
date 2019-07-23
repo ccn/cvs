@@ -18892,6 +18892,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4518",
+        "title": "鶯歌龍正店",
+        "address": "新北市鶯歌區尖山路１８８+１９０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.344222,
+          24.947394
+        ],
+        "type": "Point"
+      },
+      "id": "4518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4520",
         "title": "永靖九分店",
         "address": "彰化縣永靖鄉九分路４５２號１樓",
