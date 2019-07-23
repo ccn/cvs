@@ -23033,25 +23033,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015462",
-        "title": "全家龜山龍華店",
-        "address": "桃園市龜山區萬壽路一段116號",
-        "post": "333",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.406982,
-          25.018638
-        ],
-        "type": "Point"
-      },
-      "id": "015462"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015463",
         "title": "全家泰山白金店",
         "address": "新北市泰山區仁愛路108號1樓",
@@ -63180,6 +63161,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018449",
+        "title": "全家南山廣場店",
+        "address": "台北市信義區松仁路100號6樓之1",
+        "post": "110",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.568126,
+          25.03446
+        ],
+        "type": "Point"
+      },
+      "id": "018449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018450",
         "title": "全家斗南光華店",
         "address": "雲林縣斗南鎮光華路96號",
@@ -63252,25 +63252,6 @@
         "type": "Point"
       },
       "id": "018453"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018454",
-        "title": "全家中壢福爵店",
-        "address": "桃園市中壢區福州二街526號1樓",
-        "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.23531505,
-          24.9684806
-        ],
-        "type": "Point"
-      },
-      "id": "018454"
     },
     {
       "type": "Feature",
@@ -64320,6 +64301,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018527",
+        "title": "全家台大醫院店",
+        "address": "台北市中正區中山南路7號B1樓",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.518534,
+          25.040793
+        ],
+        "type": "Point"
+      },
+      "id": "018527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018529",
         "title": "全家高雄摩天店",
         "address": "高雄市前鎮區新光路21號",
@@ -64411,6 +64411,25 @@
         "type": "Point"
       },
       "id": "018540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018547",
+        "title": "全家中壢福爵店",
+        "address": "桃園市中壢區福州二街526號1樓",
+        "post": "320",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.23531505,
+          24.9684806
+        ],
+        "type": "Point"
+      },
+      "id": "018547"
     },
     {
       "type": "Feature",
@@ -64525,6 +64544,25 @@
         "type": "Point"
       },
       "id": "018586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018599",
+        "title": "全家龜山龍華店",
+        "address": "桃園市龜山區萬壽路一段116號",
+        "post": "333",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.406982,
+          25.018638
+        ],
+        "type": "Point"
+      },
+      "id": "018599"
     },
     {
       "type": "Feature",
