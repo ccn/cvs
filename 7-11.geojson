@@ -47877,6 +47877,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184151",
+        "title": "聖淳",
+        "address": "雲林縣四湖鄉四湖村15鄰環湖東路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.225728,
+          23.634235
+        ],
+        "type": "Point"
+      },
+      "id": "184151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184162",
         "title": "正御",
         "address": "新竹市北區中正路309號1+B1樓",
@@ -59331,6 +59348,23 @@
         "type": "Point"
       },
       "id": "194974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194996",
+        "title": "台江",
+        "address": "台南市安南區安中路二段140號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.187738,
+          23.046441
+        ],
+        "type": "Point"
+      },
+      "id": "194996"
     },
     {
       "type": "Feature",
