@@ -45106,23 +45106,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181783",
-        "title": "正達",
-        "address": "高雄市新興區中正三路45號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.308795,
-          22.630589
-        ],
-        "type": "Point"
-      },
-      "id": "181783"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181794",
         "title": "北崁",
         "address": "桃園市蘆竹區中正路85號87號89號1樓",
@@ -55408,23 +55391,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189949",
-        "title": "為公",
-        "address": "苗栗縣苗栗市嘉盛里25鄰為公路584號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.837001889567,
-          24.5734282860302
-        ],
-        "type": "Point"
-      },
-      "id": "189949"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189983",
         "title": "樂利",
         "address": "台北市大安區樂利路76號78號1樓",
@@ -58774,6 +58740,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194376",
+        "title": "愛六",
+        "address": "基隆市仁愛區仁一路281號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.747276,
+          25.128421
+        ],
+        "type": "Point"
+      },
+      "id": "194376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194387",
         "title": "富安",
         "address": "新北市新莊區萬安街18-1號12-1號",
@@ -59590,6 +59573,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195689",
+        "title": "禮萊",
+        "address": "新北市淡水區中正路一段2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "195689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196833",
         "title": "東吳(臨)",
         "address": "台北市士林區臨溪路70號",
@@ -60117,6 +60117,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197423",
+        "title": "正達",
+        "address": "高雄市新興區中正三路45號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308795,
+          22.630589
+        ],
+        "type": "Point"
+      },
+      "id": "197423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198529",
         "title": "盧奉",
         "address": "桃園市蘆竹區奉化路25號27號1樓",
@@ -60589,6 +60606,23 @@
         "type": "Point"
       },
       "id": "198840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198851",
+        "title": "為公",
+        "address": "苗栗縣苗栗市嘉盛里25鄰為公路584號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.837001889567,
+          24.5734282860302
+        ],
+        "type": "Point"
+      },
+      "id": "198851"
     },
     {
       "type": "Feature",
