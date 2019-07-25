@@ -54421,25 +54421,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017905",
-        "title": "全家將軍青鯤鯓店",
-        "address": "台南市將軍區鯤鯓里212號",
-        "post": "725",
-        "all": "COFFEE,SWEETPOTATO,Toilet,SingleOrigin,TANHOU,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.089846,
-          23.190735
-        ],
-        "type": "Point"
-      },
-      "id": "017905"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017906",
         "title": "全家中和新正店",
         "address": "新北市中和區新生街190號1樓",
@@ -64544,6 +64525,25 @@
         "type": "Point"
       },
       "id": "018586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018587",
+        "title": "全家將軍青鯤鯓店",
+        "address": "台南市將軍區鯤鯓里212號",
+        "post": "725",
+        "all": "COFFEE,SWEETPOTATO,Toilet,SingleOrigin,TANHOU,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.089846,
+          23.190735
+        ],
+        "type": "Point"
+      },
+      "id": "018587"
     },
     {
       "type": "Feature",
