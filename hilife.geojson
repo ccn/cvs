@@ -19725,6 +19725,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4616",
+        "title": "新屋新華店",
+        "address": "桃園市新屋區新華路一段１０２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1069199199603,
+          24.9862284539
+        ],
+        "type": "Point"
+      },
+      "id": "4616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4617",
         "title": "文山心動店",
         "address": "台北市文山區木柵路一段１６８、１７０號",
@@ -21217,23 +21234,6 @@
         "type": "Point"
       },
       "id": "F169"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "F185",
-        "title": "竹縣長春店",
-        "address": "新竹縣竹東鎮長春路二段５３號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.088053444139,
-          24.7380881320322
-        ],
-        "type": "Point"
-      },
-      "id": "F185"
     },
     {
       "type": "Feature",
