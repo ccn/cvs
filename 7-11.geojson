@@ -48948,23 +48948,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "185017",
-        "title": "佳樂",
-        "address": "台北市南港區南港路一段305號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.607617,
-          25.054387
-        ],
-        "type": "Point"
-      },
-      "id": "185017"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "185028",
         "title": "埔西",
         "address": "新北市板橋區文化路一段419之5號1樓",
@@ -58740,23 +58723,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194376",
-        "title": "愛六",
-        "address": "基隆市仁愛區仁一路281號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.747276,
-          25.128421
-        ],
-        "type": "Point"
-      },
-      "id": "194376"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194387",
         "title": "富安",
         "address": "新北市新莊區萬安街18-1號12-1號",
@@ -58804,6 +58770,23 @@
         "type": "Point"
       },
       "id": "194424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194435",
+        "title": "德厚",
+        "address": "新北市汐止區福德二路189號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.629906,
+          25.064896
+        ],
+        "type": "Point"
+      },
+      "id": "194435"
     },
     {
       "type": "Feature",
@@ -61201,6 +61184,23 @@
         "type": "Point"
       },
       "id": "200882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200893",
+        "title": "佳樂",
+        "address": "台北市南港區南港路一段305號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.607617,
+          25.054387
+        ],
+        "type": "Point"
+      },
+      "id": "200893"
     },
     {
       "type": "Feature",
