@@ -11361,23 +11361,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "128782",
-        "title": "長泰",
-        "address": "新北市三重區介壽路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.499021,
-          25.068989
-        ],
-        "type": "Point"
-      },
-      "id": "128782"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "128807",
         "title": "德行",
         "address": "台北市士林區忠誠路二段7號1樓",
@@ -37643,23 +37626,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170037",
-        "title": "台科三",
-        "address": "台北市大安區基隆路四段43號第三餐廳",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54038,
-          25.012497
-        ],
-        "type": "Point"
-      },
-      "id": "170037"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170048",
         "title": "富朋",
         "address": "新北市永和區永和路二段116號",
@@ -57856,23 +57822,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193535",
-        "title": "松鐵",
-        "address": "台北市信義區松山路11號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.577914,
-          25.049192
-        ],
-        "type": "Point"
-      },
-      "id": "193535"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193546",
         "title": "鑫騰龍",
         "address": "桃園市龜山區萬壽路一段156.158號1樓",
@@ -59403,6 +59352,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195081",
+        "title": "講美",
+        "address": "澎湖縣白沙鄉講美村78號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.599357,
+          23.632305
+        ],
+        "type": "Point"
+      },
+      "id": "195081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195092",
         "title": "上巴陵",
         "address": "桃園市復興區華陵里10鄰巴崚116號",
@@ -60113,6 +60079,23 @@
         "type": "Point"
       },
       "id": "197423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197467",
+        "title": "松鐵",
+        "address": "台北市信義區松山路11號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.577914,
+          25.049192
+        ],
+        "type": "Point"
+      },
+      "id": "197467"
     },
     {
       "type": "Feature",
