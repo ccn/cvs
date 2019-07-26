@@ -6066,25 +6066,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013063",
-        "title": "全家板橋聚星店",
-        "address": "新北市板橋區館前西路4號、4-1號1樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.459213,
-          25.007195
-        ],
-        "type": "Point"
-      },
-      "id": "013063"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013066",
         "title": "全家五股凌雲店",
         "address": "新北市五股區凌雲路一段81號",
@@ -64263,6 +64244,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018525",
+        "title": "全家板橋聚星店",
+        "address": "新北市板橋區館前西路4號、4-1號1樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.459213,
+          25.007195
+        ],
+        "type": "Point"
+      },
+      "id": "018525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018526",
         "title": "全家新竹台大醫店",
         "address": "新竹市北區經國路一段442巷25號",
@@ -64396,6 +64396,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018542",
+        "title": "全家大雅金雅環",
+        "address": "台中市大雅區雅環路一段191號1樓（配送用）",
+        "post": "428",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.653125,
+          24.219194
+        ],
+        "type": "Point"
+      },
+      "id": "018542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018547",
         "title": "全家中壢福爵店",
         "address": "桃園市中壢區福州二街526號1樓",
@@ -64411,6 +64430,25 @@
         "type": "Point"
       },
       "id": "018547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018548",
+        "title": "全家桃園國強店",
+        "address": "桃園市桃園區國強一街218號1樓",
+        "post": "330",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.28263,
+          24.99219
+        ],
+        "type": "Point"
+      },
+      "id": "018548"
     },
     {
       "type": "Feature",
@@ -64810,25 +64848,6 @@
         "type": "Point"
       },
       "id": "018744"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018754",
-        "title": "全家桃園國強店",
-        "address": "桃園市桃園區國強一街218號1樓",
-        "post": "330",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.28263,
-          24.99219
-        ],
-        "type": "Point"
-      },
-      "id": "018754"
     },
     {
       "type": "Feature",
