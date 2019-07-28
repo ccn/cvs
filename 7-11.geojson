@@ -57958,6 +57958,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193649",
+        "title": "文捷",
+        "address": "桃園市龜山區文桃路426號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.393232,
+          25.047105
+        ],
+        "type": "Point"
+      },
+      "id": "193649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193650",
         "title": "萬鑫",
         "address": "桃園市楊梅區民富路三段828號830號1樓",
@@ -59352,6 +59369,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195069",
+        "title": "樂仁",
+        "address": "高雄市苓雅區樂仁路116號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.325198,
+          22.63578
+        ],
+        "type": "Point"
+      },
+      "id": "195069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195081",
         "title": "講美",
         "address": "澎湖縣白沙鄉講美村78號1樓",
@@ -59403,6 +59437,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195139",
+        "title": "青年",
+        "address": "台北市萬華區青年路188號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.503875,
+          25.019972
+        ],
+        "type": "Point"
+      },
+      "id": "195139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195151",
         "title": "義北",
         "address": "新北市三重區正義北路8號1樓",
@@ -59416,6 +59467,23 @@
         "type": "Point"
       },
       "id": "195151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195210",
+        "title": "德瑞",
+        "address": "台北市內湖區洲子街70號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.572034,
+          25.079529
+        ],
+        "type": "Point"
+      },
+      "id": "195210"
     },
     {
       "type": "Feature",
@@ -59450,6 +59518,23 @@
         "type": "Point"
       },
       "id": "195298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195346",
+        "title": "洪興",
+        "address": "新竹縣峨眉鄉峨眉村1鄰峨眉8-8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.023682,
+          24.687148
+        ],
+        "type": "Point"
+      },
+      "id": "195346"
     },
     {
       "type": "Feature",
@@ -59529,8 +59614,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.429079,
+          25.176382
         ],
         "type": "Point"
       },
