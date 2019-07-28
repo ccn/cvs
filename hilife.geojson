@@ -11946,8 +11946,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.618529,
-          25.073356
+          121.6185249766864,
+          25.0733462821851
         ],
         "type": "Point"
       },
@@ -19653,6 +19653,23 @@
         "type": "Point"
       },
       "id": "4593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4598",
+        "title": "佳里進學店",
+        "address": "台南市佳里區進學路２５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.1830981809358,
+          23.1638239993745
+        ],
+        "type": "Point"
+      },
+      "id": "4598"
     },
     {
       "type": "Feature",
