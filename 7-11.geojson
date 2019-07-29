@@ -47537,6 +47537,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183918",
+        "title": "科南",
+        "address": "苗栗縣竹南鎮大埔里1鄰科學路243號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.90698,
+          24.713355
+        ],
+        "type": "Point"
+      },
+      "id": "183918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183929",
         "title": "興荷",
         "address": "南投縣南投市營北里向陽路101號",
@@ -58349,6 +58366,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193982",
+        "title": "逢星",
+        "address": "台中市西屯區福星路651-8號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.648565,
+          24.173806
+        ],
+        "type": "Point"
+      },
+      "id": "193982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193993",
         "title": "和平",
         "address": "台中市和平區東關路三段161之2號",
@@ -58787,6 +58821,23 @@
         "type": "Point"
       },
       "id": "194457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194468",
+        "title": "華泰城",
+        "address": "桃園市中壢區春德路159號860櫃位",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194468"
     },
     {
       "type": "Feature",
@@ -59471,6 +59522,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195162",
+        "title": "長泰",
+        "address": "新北市三重區三和路2段125號127號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.49873,
+          25.069226
+        ],
+        "type": "Point"
+      },
+      "id": "195162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195173",
+        "title": "成曜",
+        "address": "新北市五股區凌雲路一段87號89號91號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.450643,
+          25.101303
+        ],
+        "type": "Point"
+      },
+      "id": "195173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195210",
         "title": "德瑞",
         "address": "台北市內湖區洲子街70號1樓",
@@ -59590,6 +59675,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195519",
+        "title": "東湖",
+        "address": "台北市內湖區五分街62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.615814,
+          25.067211
+        ],
+        "type": "Point"
+      },
+      "id": "195519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195553",
+        "title": "博林",
+        "address": "新北市樹林區博愛街123號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.426088,
+          24.990755
+        ],
+        "type": "Point"
+      },
+      "id": "195553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195678",
         "title": "鳳山站",
         "address": "高雄市鳳山區曹公路137號",
@@ -59620,6 +59739,23 @@
         "type": "Point"
       },
       "id": "195689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195715",
+        "title": "華貴",
+        "address": "新北市板橋區貴興路85號87號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.456614,
+          25.002829
+        ],
+        "type": "Point"
+      },
+      "id": "195715"
     },
     {
       "type": "Feature",
