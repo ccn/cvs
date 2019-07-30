@@ -19742,6 +19742,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4612",
+        "title": "台南湖美店",
+        "address": "台南市中西區民權路四段１３８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.1827353566864,
+          22.9992674900004
+        ],
+        "type": "Point"
+      },
+      "id": "4612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4616",
         "title": "新屋新華店",
         "address": "桃園市新屋區新華路一段１０２號",
