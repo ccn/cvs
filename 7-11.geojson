@@ -31251,23 +31251,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162025",
-        "title": "港安",
-        "address": "台中市西屯區西屯路三段179之9號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.61567,
-          24.188992
-        ],
-        "type": "Point"
-      },
-      "id": "162025"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162117",
         "title": "文昌",
         "address": "高雄市新興區六合路117號",
@@ -46228,23 +46211,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182915",
-        "title": "雙嶺",
-        "address": "桃園市中壢區松義路111號113號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.166392,
-          24.960367
-        ],
-        "type": "Point"
-      },
-      "id": "182915"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182926",
         "title": "湖康",
         "address": "嘉義市西區湖內里湖子內路195號1樓",
@@ -56683,23 +56649,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "192657",
-        "title": "意幼",
-        "address": "新北市新莊區後港一路173號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.432533,
-          25.028349
-        ],
-        "type": "Point"
-      },
-      "id": "192657"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "192668",
         "title": "順舜",
         "address": "桃園市蘆竹區南順六街22號24號26號",
@@ -59777,6 +59726,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196899",
+        "title": "展示店",
+        "address": "台中市烏日區中山路三段1-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.613564,
+          24.106537
+        ],
+        "type": "Point"
+      },
+      "id": "196899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197032",
         "title": "明水",
         "address": "台北市中山區明水路636號樂群三路1號",
@@ -60219,6 +60185,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197319",
+        "title": "雙嶺",
+        "address": "桃園市中壢區松義路111號113號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.166392,
+          24.960367
+        ],
+        "type": "Point"
+      },
+      "id": "197319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197320",
         "title": "豐光",
         "address": "台中市豐原區中山路581號583號",
@@ -60232,6 +60215,23 @@
         "type": "Point"
       },
       "id": "197320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197331",
+        "title": "意幼",
+        "address": "新北市新莊區後港一路173號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.432533,
+          25.028349
+        ],
+        "type": "Point"
+      },
+      "id": "197331"
     },
     {
       "type": "Feature",
@@ -60300,6 +60300,23 @@
         "type": "Point"
       },
       "id": "197423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197456",
+        "title": "港安",
+        "address": "台中市西屯區西屯路三段179之9號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.61567,
+          24.188992
+        ],
+        "type": "Point"
+      },
+      "id": "197456"
     },
     {
       "type": "Feature",
@@ -60708,6 +60725,23 @@
         "type": "Point"
       },
       "id": "198769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198770",
+        "title": "新新樓",
+        "address": "台南市東區東門里前鋒路16號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.212852,
+          22.990047
+        ],
+        "type": "Point"
+      },
+      "id": "198770"
     },
     {
       "type": "Feature",
@@ -89727,23 +89761,6 @@
         "type": "Point"
       },
       "id": "982579"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982616",
-        "title": "新新樓",
-        "address": "台南市東區東門里前鋒路16號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.212852,
-          22.990047
-        ],
-        "type": "Point"
-      },
-      "id": "982616"
     },
     {
       "type": "Feature",
