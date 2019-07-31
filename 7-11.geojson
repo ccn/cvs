@@ -46500,23 +46500,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183158",
-        "title": "鑫城",
-        "address": "新北市土城區中華路一段100號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.444329,
-          24.987179
-        ],
-        "type": "Point"
-      },
-      "id": "183158"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183170",
         "title": "梨山",
         "address": "台中市和平區中正路6號1樓",
@@ -60236,6 +60219,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197342",
+        "title": "鑫城",
+        "address": "新北市土城區中華路一段100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.444329,
+          24.987179
+        ],
+        "type": "Point"
+      },
+      "id": "197342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197353",
         "title": "懷生",
         "address": "台北市大安區忠孝東路三段248巷9號",
@@ -60283,6 +60283,23 @@
         "type": "Point"
       },
       "id": "197386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197397",
+        "title": "國鶯",
+        "address": "新北市鶯歌區中山路142號1F",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.349817,
+          24.957082
+        ],
+        "type": "Point"
+      },
+      "id": "197397"
     },
     {
       "type": "Feature",
@@ -77555,23 +77572,6 @@
         "type": "Point"
       },
       "id": "944795"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "945042",
-        "title": "國鶯",
-        "address": "新北市鶯歌區中山路142號1F",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.349817,
-          24.957082
-        ],
-        "type": "Point"
-      },
-      "id": "945042"
     },
     {
       "type": "Feature",
