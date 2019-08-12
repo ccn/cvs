@@ -80,8 +80,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.54191634764,
-          23.711503037786
+          120.542086667912,
+          23.7116417555598
         ],
         "type": "Point"
       },
@@ -1191,23 +1191,6 @@
         "type": "Point"
       },
       "id": "2210"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "2218",
-        "title": "北縣重光店",
-        "address": "新北市三重區光華路１７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.469291212397,
-          25.0599771280032
-        ],
-        "type": "Point"
-      },
-      "id": "2218"
     },
     {
       "type": "Feature",
@@ -5379,7 +5362,7 @@
       "properties": {
         "id": "2952",
         "title": "新竹竹群店",
-        "address": "新竹市東區金山２３街３６號",
+        "address": "新竹市東區金山２３街３６、３８號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8733,8 +8716,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.206837,
-          24.960849
+          121.2069053963298,
+          24.9607760495508
         ],
         "type": "Point"
       },
@@ -13255,8 +13238,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.369786,
-          25.058844
+          121.3698235509262,
+          25.0587954051613
         ],
         "type": "Point"
       },
@@ -18894,7 +18877,7 @@
       "properties": {
         "id": "4518",
         "title": "鶯歌龍正店",
-        "address": "新北市鶯歌區尖山路１８８+１９０號",
+        "address": "新北市鶯歌區尖山路１８８及１９０號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19691,6 +19674,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4601",
+        "title": "蘆竹領航店",
+        "address": "桃園市蘆竹區南崁路一段２８６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2843637420815,
+          25.0539938902466
+        ],
+        "type": "Point"
+      },
+      "id": "4601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4602",
         "title": "八德玉元店",
         "address": "桃園市八德區長興路７７３、７７５、７７７、７７９號",
@@ -19704,6 +19704,23 @@
         "type": "Point"
       },
       "id": "4602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4603",
+        "title": "鹿港鹿草店",
+        "address": "彰化縣鹿港鎮鹿草路一段２８１、２８５號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4348584923804,
+          24.0643454222234
+        ],
+        "type": "Point"
+      },
+      "id": "4603"
     },
     {
       "type": "Feature",
@@ -19755,6 +19772,40 @@
         "type": "Point"
       },
       "id": "4612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4614",
+        "title": "龍潭武中店",
+        "address": "桃園市龍潭區中興路３３６巷７４、７６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2326614795321,
+          24.8756750420356
+        ],
+        "type": "Point"
+      },
+      "id": "4614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4615",
+        "title": "竹東榮春店",
+        "address": "新竹縣竹東鎮長春路二段９７、９９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0872183373521,
+          24.7390964691624
+        ],
+        "type": "Point"
+      },
+      "id": "4615"
     },
     {
       "type": "Feature",
@@ -19823,6 +19874,23 @@
         "type": "Point"
       },
       "id": "4620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4629",
+        "title": "龜山警大店",
+        "address": "桃園市龜山區樹人路５６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3509859354089,
+          25.0459994842171
+        ],
+        "type": "Point"
+      },
+      "id": "4629"
     },
     {
       "type": "Feature",
