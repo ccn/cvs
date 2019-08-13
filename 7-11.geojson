@@ -22598,23 +22598,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "146861",
-        "title": "汐福",
-        "address": "新北市汐止區福德一路243號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.633895,
-          25.064776
-        ],
-        "type": "Point"
-      },
-      "id": "146861"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "146872",
         "title": "南屏",
         "address": "高雄市左營區新下里華夏路256號",
@@ -57244,23 +57227,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193317",
-        "title": "安德",
-        "address": "新北市新店區安德街8號10號12號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.512138,
-          24.962806
-        ],
-        "type": "Point"
-      },
-      "id": "193317"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193339",
         "title": "福興",
         "address": "新北市泰山區全興路165號",
@@ -58978,6 +58944,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195003",
+        "title": "政新",
+        "address": "台北市文山區新光路一段10號12號14號1樓及B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.573592,
+          24.988652
+        ],
+        "type": "Point"
+      },
+      "id": "195003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195014",
         "title": "上鈺",
         "address": "台南市南區大成路一段128號1、2樓",
@@ -59365,6 +59348,23 @@
         "type": "Point"
       },
       "id": "195519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195531",
+        "title": "嘉驛",
+        "address": "嘉義市西區書院里中山路534號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.44087,
+          23.47859
+        ],
+        "type": "Point"
+      },
+      "id": "195531"
     },
     {
       "type": "Feature",
@@ -60066,6 +60066,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197434",
+        "title": "安德",
+        "address": "新北市新店區安德街8號10號12號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.512138,
+          24.962806
+        ],
+        "type": "Point"
+      },
+      "id": "197434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197456",
         "title": "港安",
         "address": "台中市西屯區西屯路三段179之9號",
@@ -60198,23 +60215,6 @@
         "type": "Point"
       },
       "id": "198563"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "198574",
-        "title": "登冠",
-        "address": "桃園市龜山區文化二路52巷53號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.366185,
-          25.056229
-        ],
-        "type": "Point"
-      },
-      "id": "198574"
     },
     {
       "type": "Feature",
@@ -60610,6 +60610,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198828",
+        "title": "登冠",
+        "address": "桃園市龜山區文化二路52巷53號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.366185,
+          25.056229
+        ],
+        "type": "Point"
+      },
+      "id": "198828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198839",
         "title": "成泰",
         "address": "新北市五股區成泰路二段84號1樓",
@@ -60827,6 +60844,23 @@
         "type": "Point"
       },
       "id": "199005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199038",
+        "title": "汐福",
+        "address": "新北市汐止區福德一路243號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.633895,
+          25.064776
+        ],
+        "type": "Point"
+      },
+      "id": "199038"
     },
     {
       "type": "Feature",
