@@ -10103,23 +10103,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3742",
-        "title": "北市東方店",
-        "address": "台北市大安區信義路四段１８６巷８號(原福利社位置)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551337690137,
-          25.0322001676885
-        ],
-        "type": "Point"
-      },
-      "id": "3742"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3745",
         "title": "新竹曙光店",
         "address": "新竹市東區北大路６１號",
@@ -10558,23 +10541,6 @@
         "type": "Point"
       },
       "id": "3802"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3808",
-        "title": "桃縣長青店",
-        "address": "桃園市龜山區文化一路２５９號 (長庚大學 據德樓 B１)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.390955330864,
-          25.0345762971591
-        ],
-        "type": "Point"
-      },
-      "id": "3808"
     },
     {
       "type": "Feature",
@@ -15029,23 +14995,6 @@
         "type": "Point"
       },
       "id": "4221"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4222",
-        "title": "高市三環店",
-        "address": "高雄市前鎮區中山二路２６８之１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.305321,
-          22.613717
-        ],
-        "type": "Point"
-      },
-      "id": "4222"
     },
     {
       "type": "Feature",
