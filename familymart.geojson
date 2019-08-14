@@ -64928,6 +64928,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018602",
+        "title": "全家豐原榮豐店",
+        "address": "台中市豐原區豐中路79號1F",
+        "post": "420",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.722061,
+          24.256808
+        ],
+        "type": "Point"
+      },
+      "id": "018602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018604",
         "title": "全家昇東店",
         "address": "台北市松山區民生東路五段197號",
@@ -65304,25 +65323,6 @@
         "type": "Point"
       },
       "id": "018794"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018814",
-        "title": "全家豐原榮豐店",
-        "address": "台中市豐原區豐中路79號1F",
-        "post": "420",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.722061,
-          24.256808
-        ],
-        "type": "Point"
-      },
-      "id": "018814"
     },
     {
       "type": "Feature",
