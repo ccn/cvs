@@ -52535,23 +52535,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187895",
-        "title": "八勇",
-        "address": "桃園市八德區忠勇街197號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.303747,
-          24.962202
-        ],
-        "type": "Point"
-      },
-      "id": "187895"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187909",
         "title": "滬江",
         "address": "台北市文山區羅斯福路六段308號310號",
@@ -59386,6 +59369,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195623",
+        "title": "昆嵋",
+        "address": "台北市萬華區峨嵋街74號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.504319,
+          25.04406
+        ],
+        "type": "Point"
+      },
+      "id": "195623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195678",
         "title": "鳳山站",
         "address": "高雄市鳳山區曹公路137號",
@@ -59416,6 +59416,40 @@
         "type": "Point"
       },
       "id": "195689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195771",
+        "title": "興陽",
+        "address": "高雄市苓雅區復興二路22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.311738,
+          22.617098
+        ],
+        "type": "Point"
+      },
+      "id": "195771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195829",
+        "title": "逢華",
+        "address": "台中市西屯區文華路10-7號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.645375,
+          24.175657
+        ],
+        "type": "Point"
+      },
+      "id": "195829"
     },
     {
       "type": "Feature",
@@ -60113,6 +60147,23 @@
         "type": "Point"
       },
       "id": "197467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197478",
+        "title": "八勇",
+        "address": "桃園市八德區忠勇街197號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.303747,
+          24.962202
+        ],
+        "type": "Point"
+      },
+      "id": "197478"
     },
     {
       "type": "Feature",
