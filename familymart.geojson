@@ -64320,6 +64320,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018560",
+        "title": "全家台鐵二店",
+        "address": "臺北市中正區北平西路3號B1",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517044,
+          25.047203
+        ],
+        "type": "Point"
+      },
+      "id": "018560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018561",
         "title": "全家萬華車站店",
         "address": "臺北市萬華區康定路382號",
