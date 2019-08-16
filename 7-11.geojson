@@ -49169,23 +49169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "185383",
-        "title": "海洋",
-        "address": "基隆市中正區中正路609號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.771231,
-          25.151548
-        ],
-        "type": "Point"
-      },
-      "id": "185383"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "185394",
         "title": "木盛",
         "address": "台北市文山區木柵路三段88號",
@@ -58706,23 +58689,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194790",
-        "title": "六張街",
-        "address": "新北市三重區六張街255巷17弄1號1樓255巷15號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.487231,
-          25.068817
-        ],
-        "type": "Point"
-      },
-      "id": "194790"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194804",
         "title": "鑫文山",
         "address": "台中市南屯區文山路20號和22號",
@@ -59743,6 +59709,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197205",
+        "title": "雙全",
+        "address": "台北市北投區中庸里大業路715-717號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500961,
+          25.137221
+        ],
+        "type": "Point"
+      },
+      "id": "197205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197216",
         "title": "富強",
         "address": "台中市北區國強街142號及天祥街100號1樓",
@@ -60181,6 +60164,23 @@
         "type": "Point"
       },
       "id": "197489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197504",
+        "title": "六張街",
+        "address": "新北市三重區六張街255巷17弄1號1樓255巷15號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.487231,
+          25.068817
+        ],
+        "type": "Point"
+      },
+      "id": "197504"
     },
     {
       "type": "Feature",
@@ -61331,8 +61331,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.568906,
+          25.045547
         ],
         "type": "Point"
       },
@@ -61388,6 +61388,23 @@
         "type": "Point"
       },
       "id": "200929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200941",
+        "title": "海洋",
+        "address": "基隆市中正區中正路609號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.771231,
+          25.151548
+        ],
+        "type": "Point"
+      },
+      "id": "200941"
     },
     {
       "type": "Feature",
@@ -89914,23 +89931,6 @@
         "type": "Point"
       },
       "id": "985615"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "985626",
-        "title": "雙全",
-        "address": "台北市北投區中庸里大業路715-717號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500961,
-          25.137221
-        ],
-        "type": "Point"
-      },
-      "id": "985626"
     },
     {
       "type": "Feature",
