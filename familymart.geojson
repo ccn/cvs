@@ -7472,25 +7472,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013437",
-        "title": "全家梧棲正港店",
-        "address": "台中市梧棲區民生街61號一樓",
-        "post": "435",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.529862,
-          24.253702
-        ],
-        "type": "Point"
-      },
-      "id": "013437"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013438",
         "title": "全家台中金獅店",
         "address": "台中市南區東興路一段16號",
@@ -25062,25 +25043,6 @@
         "type": "Point"
       },
       "id": "015746"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015747",
-        "title": "全家新店正民店",
-        "address": "新北市新店區中正路224號",
-        "post": "231",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.540174,
-          24.972845
-        ],
-        "type": "Point"
-      },
-      "id": "015747"
     },
     {
       "type": "Feature",
@@ -65175,6 +65137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018643",
+        "title": "全家新店正民店",
+        "address": "新北市新店區中正路224號",
+        "post": "231",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.540174,
+          24.972845
+        ],
+        "type": "Point"
+      },
+      "id": "018643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018644",
         "title": "全家竹東榮總店",
         "address": "新竹縣竹東鎮中豐路一段81號",
@@ -65190,6 +65171,25 @@
         "type": "Point"
       },
       "id": "018644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018646",
+        "title": "全家梧棲正港店",
+        "address": "台中市梧棲區民生街61號一樓",
+        "post": "435",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Rest,COFFEEDeliver,SharePot,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.529862,
+          24.253702
+        ],
+        "type": "Point"
+      },
+      "id": "018646"
     },
     {
       "type": "Feature",
