@@ -3133,23 +3133,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "113827",
-        "title": "秀安",
-        "address": "彰化縣秀水鄉安溪村彰鹿路19號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.509563,
-          24.053537
-        ],
-        "type": "Point"
-      },
-      "id": "113827"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "113838",
         "title": "興韻",
         "address": "新竹縣竹北市福興路753號",
@@ -58689,6 +58672,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194756",
+        "title": "商城",
+        "address": "台北市北投區裕民六路111號113號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517384,
+          25.11474
+        ],
+        "type": "Point"
+      },
+      "id": "194756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194804",
         "title": "鑫文山",
         "address": "台中市南屯區文山路20號和22號",
@@ -59127,6 +59127,23 @@
         "type": "Point"
       },
       "id": "195210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195243",
+        "title": "聖安",
+        "address": "台南市安南區安中路六段850號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.127904,
+          23.065888
+        ],
+        "type": "Point"
+      },
+      "id": "195243"
     },
     {
       "type": "Feature",
@@ -60198,6 +60215,23 @@
         "type": "Point"
       },
       "id": "197515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197537",
+        "title": "秀安",
+        "address": "彰化縣秀水鄉安溪村彰鹿路19號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.509563,
+          24.053537
+        ],
+        "type": "Point"
+      },
+      "id": "197537"
     },
     {
       "type": "Feature",
