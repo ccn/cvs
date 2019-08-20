@@ -9746,23 +9746,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "126591",
-        "title": "新武陵",
-        "address": "桃園市桃園區上海路54號56號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.2834,
-          24.989745
-        ],
-        "type": "Point"
-      },
-      "id": "126591"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "126616",
         "title": "立行",
         "address": "新北市三重區力行路二段158號160號",
@@ -16423,23 +16406,6 @@
         "type": "Point"
       },
       "id": "136727"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "136738",
-        "title": "頭城",
-        "address": "宜蘭縣頭城鎮青雲路三段73號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.823673,
-          24.855773
-        ],
-        "type": "Point"
-      },
-      "id": "136738"
     },
     {
       "type": "Feature",
@@ -58213,6 +58179,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194332",
+        "title": "常楓",
+        "address": "桃園市龜山區光峯路221號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194354",
         "title": "玉成",
         "address": "台北市南港區西新里南港路三段3號1樓",
@@ -61018,23 +61001,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200631",
-        "title": "高美",
-        "address": "高雄市鼓山區龍水里美術東二路181號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.288357,
-          22.66257
-        ],
-        "type": "Point"
-      },
-      "id": "200631"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200642",
         "title": "季欣",
         "address": "新北市泰山區全興路109號",
@@ -61405,6 +61371,23 @@
         "type": "Point"
       },
       "id": "200907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200918",
+        "title": "高美",
+        "address": "高雄市鼓山區龍水里美術東二路181號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.288357,
+          22.66257
+        ],
+        "type": "Point"
+      },
+      "id": "200918"
     },
     {
       "type": "Feature",
