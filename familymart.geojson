@@ -5629,25 +5629,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013002",
-        "title": "全家鶯歌正鶯店",
-        "address": "新北市鶯歌區中正一路371號",
-        "post": "239",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,muffin,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.358182,
-          24.957137
-        ],
-        "type": "Point"
-      },
-      "id": "013002"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013013",
         "title": "全家草屯太平店",
         "address": "南投縣草屯鎮太平路一段498號",
@@ -64036,7 +64017,7 @@
       "type": "Feature",
       "properties": {
         "id": "018542",
-        "title": "全家大雅金雅環",
+        "title": "全家大雅金雅環店",
         "address": "台中市大雅區雅環路一段191號1樓（配送用）",
         "post": "428",
         "all": null,
@@ -65190,6 +65171,25 @@
         "type": "Point"
       },
       "id": "018646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018648",
+        "title": "全家鶯歌正鶯店",
+        "address": "新北市鶯歌區中正一路371號",
+        "post": "239",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,muffin,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.358182,
+          24.957137
+        ],
+        "type": "Point"
+      },
+      "id": "018648"
     },
     {
       "type": "Feature",
