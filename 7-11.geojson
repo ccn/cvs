@@ -45038,6 +45038,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182188",
+        "title": "新武陵",
+        "address": "桃園市桃園區上海路82號84號江南八街49號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.282989,
+          24.990559
+        ],
+        "type": "Point"
+      },
+      "id": "182188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182199",
         "title": "保康",
         "address": "台中市豐原區保康路160號",
@@ -47792,6 +47809,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184368",
+        "title": "科星",
+        "address": "苗栗縣竹南鎮專科七路393號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184379",
         "title": "睿豐",
         "address": "台東縣台東市大和路8-1.16-1號一樓",
@@ -48230,23 +48264,6 @@
         "type": "Point"
       },
       "id": "184715"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184726",
-        "title": "洲美",
-        "address": "台北市士林區延平北路六段505號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.4982213557,
-          25.093424098630997
-        ],
-        "type": "Point"
-      },
-      "id": "184726"
     },
     {
       "type": "Feature",
@@ -57159,23 +57176,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193340",
-        "title": "國站",
-        "address": "屏東縣屏東市中山路1.3號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.485888,
-          22.669746
-        ],
-        "type": "Point"
-      },
-      "id": "193340"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193362",
         "title": "東尚",
         "address": "苗栗縣頭份市東民路163號及和平路251號1樓",
@@ -59182,6 +59182,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195313",
+        "title": "玄海",
+        "address": "桃園市大園區和平西路二段5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.182815,
+          25.039137
+        ],
+        "type": "Point"
+      },
+      "id": "195313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195335",
         "title": "仁寶",
         "address": "新北市永和區仁愛路266號1樓",
@@ -59416,6 +59433,23 @@
         "type": "Point"
       },
       "id": "195829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195977",
+        "title": "育軒",
+        "address": "新北市板橋區漢生東路268號270號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468397,
+          25.012996
+        ],
+        "type": "Point"
+      },
+      "id": "195977"
     },
     {
       "type": "Feature",
@@ -60215,6 +60249,23 @@
         "type": "Point"
       },
       "id": "197537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197593",
+        "title": "國站",
+        "address": "屏東縣屏東市中山路1.3號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.485888,
+          22.669746
+        ],
+        "type": "Point"
+      },
+      "id": "197593"
     },
     {
       "type": "Feature",
@@ -61405,6 +61456,23 @@
         "type": "Point"
       },
       "id": "200929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200930",
+        "title": "洲美",
+        "address": "台北市士林區延平北路六段505號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4982213557,
+          25.093424098630997
+        ],
+        "type": "Point"
+      },
+      "id": "200930"
     },
     {
       "type": "Feature",
