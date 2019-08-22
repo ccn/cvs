@@ -11215,8 +11215,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.682575296091,
-          24.1297904117562
+          120.6825860249271,
+          24.1295603143754
         ],
         "type": "Point"
       },
@@ -18144,6 +18144,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4463",
+        "title": "高市亞路米店",
+        "address": "高雄市小港區高坪七路１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.380233,
+          22.543193
+        ],
+        "type": "Point"
+      },
+      "id": "4463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4466",
         "title": "古坑劍湖山店",
         "address": "雲林縣古坑鄉古坑鄉永光村大湖口６７號",
@@ -19823,6 +19840,23 @@
         "type": "Point"
       },
       "id": "4620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4627",
+        "title": "台中嘉明湖店",
+        "address": "台中市南屯區永春東七路６０２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6338379042062,
+          24.1413324818215
+        ],
+        "type": "Point"
+      },
+      "id": "4627"
     },
     {
       "type": "Feature",
