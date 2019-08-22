@@ -55850,23 +55850,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190802",
-        "title": "重樂",
-        "address": "新北市三重區三信路196號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.487197,
-          25.085472
-        ],
-        "type": "Point"
-      },
-      "id": "190802"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190813",
         "title": "小東",
         "address": "台南市東區小東路256號",
@@ -57070,6 +57053,23 @@
         "type": "Point"
       },
       "id": "193247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193258",
+        "title": "寶元",
+        "address": "新北市新店區寶橋路156之2號156之3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.548638,
+          24.976944
+        ],
+        "type": "Point"
+      },
+      "id": "193258"
     },
     {
       "type": "Feature",
@@ -59420,6 +59420,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195782",
+        "title": "欣鑫",
+        "address": "南投縣南投市仁和路26號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.668638,
+          23.922678
+        ],
+        "type": "Point"
+      },
+      "id": "195782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195829",
         "title": "逢華",
         "address": "台中市西屯區文華路10-7號",
@@ -60912,6 +60929,23 @@
         "type": "Point"
       },
       "id": "198932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198954",
+        "title": "重樂",
+        "address": "新北市三重區三信路196號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.487197,
+          25.085472
+        ],
+        "type": "Point"
+      },
+      "id": "198954"
     },
     {
       "type": "Feature",
