@@ -46075,23 +46075,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183055",
-        "title": "統佳",
-        "address": "台北市中山區松江路237號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.533454,
-          25.058983
-        ],
-        "type": "Point"
-      },
-      "id": "183055"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183077",
         "title": "多多利",
         "address": "屏東縣九如鄉九如路三段85號",
@@ -46615,6 +46598,23 @@
         "type": "Point"
       },
       "id": "183457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183479",
+        "title": "鏵智",
+        "address": "台中市梧棲區中華路二段351號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.555806,
+          24.251276
+        ],
+        "type": "Point"
+      },
+      "id": "183479"
     },
     {
       "type": "Feature",
@@ -58181,7 +58181,7 @@
       "properties": {
         "id": "194332",
         "title": "常楓",
-        "address": "桃園市龜山區光峯路221號1樓",
+        "address": "桃園市龜山區光峰路221號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -59148,6 +59148,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195265",
+        "title": "頭城",
+        "address": "宜蘭縣頭城鎮青雲路三段96號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.824191,
+          24.855886
+        ],
+        "type": "Point"
+      },
+      "id": "195265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195287",
         "title": "星都心",
         "address": "新竹縣竹東鎮光明路182號186號",
@@ -59233,6 +59250,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195379",
+        "title": "迎竹",
+        "address": "新竹市東區大學路1001-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.996446,
+          24.783824
+        ],
+        "type": "Point"
+      },
+      "id": "195379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195380",
         "title": "精材三",
         "address": "桃園市中壢區中園路188號B1樓",
@@ -59297,6 +59331,23 @@
         "type": "Point"
       },
       "id": "195416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195449",
+        "title": "華晟",
+        "address": "新北市三峽區中華路38之1號38之2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.373158,
+          24.931778
+        ],
+        "type": "Point"
+      },
+      "id": "195449"
     },
     {
       "type": "Feature",
@@ -59437,6 +59488,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195807",
+        "title": "富比世",
+        "address": "台北市信義區松仁路246號248號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.569424,
+          25.024493
+        ],
+        "type": "Point"
+      },
+      "id": "195807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195829",
         "title": "逢華",
         "address": "台中市西屯區文華路10-7號",
@@ -59467,6 +59535,40 @@
         "type": "Point"
       },
       "id": "195977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196051",
+        "title": "武聖廟",
+        "address": "新北市新莊區新莊路437號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.450064,
+          25.033565
+        ],
+        "type": "Point"
+      },
+      "id": "196051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196095",
+        "title": "嘉賢",
+        "address": "嘉義市西區光路里世賢路四段120號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.443744,
+          23.461762
+        ],
+        "type": "Point"
+      },
+      "id": "196095"
     },
     {
       "type": "Feature",
@@ -60266,6 +60368,23 @@
         "type": "Point"
       },
       "id": "197537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197560",
+        "title": "統佳",
+        "address": "台北市中山區松江路237號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.533454,
+          25.058983
+        ],
+        "type": "Point"
+      },
+      "id": "197560"
     },
     {
       "type": "Feature",
