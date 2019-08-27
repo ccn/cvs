@@ -26202,23 +26202,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "153571",
-        "title": "軍建",
-        "address": "台中市北屯區軍福十三路198號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.724403,
-          24.172335
-        ],
-        "type": "Point"
-      },
-      "id": "153571"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "153582",
         "title": "栗豐",
         "address": "台中市神岡區承德路219號",
@@ -47811,7 +47794,7 @@
       "properties": {
         "id": "184368",
         "title": "科星",
-        "address": "苗栗縣竹南鎮專科七路393號",
+        "address": "苗栗縣竹南鎮科專七路393號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -59522,6 +59505,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195830",
+        "title": "瑛才",
+        "address": "苗栗縣苗栗市英才路109號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.820854,
+          24.568998
+        ],
+        "type": "Point"
+      },
+      "id": "195830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195977",
         "title": "育軒",
         "address": "新北市板橋區漢生東路268號270號1樓",
@@ -61133,6 +61133,23 @@
         "type": "Point"
       },
       "id": "199038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199094",
+        "title": "軍建",
+        "address": "台中市北屯區軍福十三路198號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.724403,
+          24.172335
+        ],
+        "type": "Point"
+      },
+      "id": "199094"
     },
     {
       "type": "Feature",
