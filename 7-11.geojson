@@ -59335,6 +59335,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195472",
+        "title": "大街",
+        "address": "屏東縣恆春鎮墾丁里墾丁路225.227號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.797499,
+          21.945376
+        ],
+        "type": "Point"
+      },
+      "id": "195472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195494",
+        "title": "東道",
+        "address": "宜蘭縣宜蘭市東港路一段575號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.772132,
+          24.75033
+        ],
+        "type": "Point"
+      },
+      "id": "195494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195519",
         "title": "東湖",
         "address": "台北市內湖區五分街62號",
@@ -59386,6 +59420,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195586",
+        "title": "欣興",
+        "address": "桃園市中壢區新興路226號228號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.228021,
+          24.953634
+        ],
+        "type": "Point"
+      },
+      "id": "195586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195623",
         "title": "昆嵋",
         "address": "台北市萬華區峨嵋街74號1樓",
@@ -59433,6 +59484,40 @@
         "type": "Point"
       },
       "id": "195689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195715",
+        "title": "華貴",
+        "address": "新北市板橋區貴興路85號87號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.456614,
+          25.002829
+        ],
+        "type": "Point"
+      },
+      "id": "195715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195760",
+        "title": "森美",
+        "address": "台北市大安區信義路三段65號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.536633,
+          25.033724
+        ],
+        "type": "Point"
+      },
+      "id": "195760"
     },
     {
       "type": "Feature",
@@ -59522,6 +59607,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195885",
+        "title": "北霆",
+        "address": "新北市三峽區大同路244號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.366095,
+          24.925573
+        ],
+        "type": "Point"
+      },
+      "id": "195885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195977",
         "title": "育軒",
         "address": "新北市板橋區漢生東路268號270號1樓",
@@ -59569,6 +59671,23 @@
         "type": "Point"
       },
       "id": "196095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196350",
+        "title": "華鎮",
+        "address": "新北市樹林區中華路381號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196350"
     },
     {
       "type": "Feature",
