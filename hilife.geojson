@@ -8631,8 +8631,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.321473687944,
-          25.0063774478542
+          121.321481734571,
+          25.0062243085728
         ],
         "type": "Point"
       },
@@ -19232,6 +19232,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4562",
+        "title": "草屯草鞋墩店",
+        "address": "南投縣草屯鎮太平路一段４８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6813598309769,
+          23.9580122839092
+        ],
+        "type": "Point"
+      },
+      "id": "4562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4563",
         "title": "神岡元富店",
         "address": "台中市神岡區大富路１８號",
@@ -19555,6 +19572,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4591",
+        "title": "鶯歌大哥店",
+        "address": "新北市鶯歌區中正三路３０４、３０８號、３０６號、３１",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3283448011974,
+          24.9356208577367
+        ],
+        "type": "Point"
+      },
+      "id": "4591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4592",
         "title": "內湖紫陽店",
         "address": "台北市內湖區文德路２１０巷３０弄６、８、１０號一樓",
@@ -19789,6 +19823,23 @@
         "type": "Point"
       },
       "id": "4617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4618",
+        "title": "仁武永仁店",
+        "address": "高雄市仁武區八卦里永仁街２７２-１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.3337912418742,
+          22.6833203558199
+        ],
+        "type": "Point"
+      },
+      "id": "4618"
     },
     {
       "type": "Feature",
