@@ -30877,23 +30877,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "161653",
-        "title": "瑞盟",
-        "address": "台中市西屯區西屯路三段159號之12",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.619253,
-          24.187501
-        ],
-        "type": "Point"
-      },
-      "id": "161653"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "161701",
         "title": "莊勝",
         "address": "新北市新莊區八德街59號61號1樓",
@@ -59505,6 +59488,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195737",
+        "title": "京饌",
+        "address": "台北市士林區大東路15-6號15-7號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525,
+          25.088423
+        ],
+        "type": "Point"
+      },
+      "id": "195737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195760",
         "title": "森美",
         "address": "台北市大安區信義路三段65號1樓",
@@ -59607,6 +59607,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195841",
+        "title": "瑞盟",
+        "address": "台中市西屯區福雅路143-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.619741,
+          24.186729
+        ],
+        "type": "Point"
+      },
+      "id": "195841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195885",
         "title": "北霆",
         "address": "新北市三峽區大同路244號1樓",
@@ -59620,6 +59637,23 @@
         "type": "Point"
       },
       "id": "195885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195900",
+        "title": "珍饌",
+        "address": "台北市士林區文林路126號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.526516,
+          25.088459
+        ],
+        "type": "Point"
+      },
+      "id": "195900"
     },
     {
       "type": "Feature",
