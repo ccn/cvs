@@ -17651,23 +17651,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "138332",
-        "title": "蘆讚",
-        "address": "新北市蘆洲區中山二路184號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.470481,
-          25.080603
-        ],
-        "type": "Point"
-      },
-      "id": "138332"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138365",
         "title": "詮祥",
         "address": "宜蘭縣頭城鎮中山區青雲路三段238號240號",
@@ -25195,23 +25178,6 @@
         "type": "Point"
       },
       "id": "151520"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "151531",
-        "title": "龍興",
-        "address": "新北市樹林區三興里龍興街33號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.403108,
-          25.015865
-        ],
-        "type": "Point"
-      },
-      "id": "151531"
     },
     {
       "type": "Feature",
@@ -61286,6 +61252,40 @@
         "type": "Point"
       },
       "id": "199038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199061",
+        "title": "蘆讚",
+        "address": "新北市蘆洲區中山二路184號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.470481,
+          25.080603
+        ],
+        "type": "Point"
+      },
+      "id": "199061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199072",
+        "title": "龍興",
+        "address": "新北市樹林區三興里龍興街33號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.403108,
+          25.015865
+        ],
+        "type": "Point"
+      },
+      "id": "199072"
     },
     {
       "type": "Feature",
