@@ -4612,23 +4612,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "117874",
-        "title": "雲醫",
-        "address": "雲林縣斗六市雲林路二段627號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.525095,
-          23.698579
-        ],
-        "type": "Point"
-      },
-      "id": "117874"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "117896",
         "title": "深澳坑",
         "address": "基隆市信義區深澳坑路2-6號2-7號",
@@ -22598,23 +22581,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "147015",
-        "title": "科技城",
-        "address": "新竹市東區工業東四路42號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.009733,
-          24.773826
-        ],
-        "type": "Point"
-      },
-      "id": "147015"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "147129",
         "title": "中農",
         "address": "台中市東區台中路195號197號199號",
@@ -23852,23 +23818,6 @@
         "type": "Point"
       },
       "id": "149239"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "149240",
-        "title": "箱根",
-        "address": "桃園市桃園區南平路416號418號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.29604,
-          25.017328
-        ],
-        "type": "Point"
-      },
-      "id": "149240"
     },
     {
       "type": "Feature",
@@ -37847,23 +37796,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170510",
-        "title": "林森北",
-        "address": "台北市中山區林森北路380之1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52539937433801,
-          25.058585976560202
-        ],
-        "type": "Point"
-      },
-      "id": "170510"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170532",
         "title": "亮宏",
         "address": "高雄市鳳山區文德里文衡路558號1樓",
@@ -38013,23 +37945,6 @@
         "type": "Point"
       },
       "id": "170635"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "170646",
-        "title": "二水",
-        "address": "彰化縣二水鄉員集路四段8號10號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.616113,
-          23.811423
-        ],
-        "type": "Point"
-      },
-      "id": "170646"
     },
     {
       "type": "Feature",
@@ -55512,13 +55427,13 @@
       "properties": {
         "id": "190606",
         "title": "潭欣",
-        "address": "台中市潭子區光陽路142號",
+        "address": "台中市潭子區福潭路622號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.710849,
-          24.213193
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -58978,6 +58893,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195140",
+        "title": "聯發D",
+        "address": "新竹市東區力行三路11號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "195140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195151",
         "title": "義北",
         "address": "新北市三重區正義北路8號1樓",
@@ -60474,6 +60406,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197526",
+        "title": "科技城",
+        "address": "新竹市東區工業東四路42號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.009733,
+          24.773826
+        ],
+        "type": "Point"
+      },
+      "id": "197526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197537",
         "title": "秀安",
         "address": "彰化縣秀水鄉安溪村彰鹿路19號",
@@ -60491,6 +60440,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197559",
+        "title": "捷盟",
+        "address": "台北市萬華區漢中街51號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.507448,
+          25.044047
+        ],
+        "type": "Point"
+      },
+      "id": "197559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197560",
         "title": "統佳",
         "address": "台北市中山區松江路237號1樓",
@@ -60504,6 +60470,23 @@
         "type": "Point"
       },
       "id": "197560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197571",
+        "title": "雲醫",
+        "address": "雲林縣斗六市雲林路二段627號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.525095,
+          23.698579
+        ],
+        "type": "Point"
+      },
+      "id": "197571"
     },
     {
       "type": "Feature",
@@ -61732,6 +61715,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200893",
+        "title": "佳樂",
+        "address": "台北市南港區南港路一段303號305號307號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "200893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200907",
         "title": "新東宮",
         "address": "台北市信義區松山路455號",
@@ -61817,6 +61817,57 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200952",
+        "title": "箱根",
+        "address": "桃園市桃園區南平路416號418號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.29604,
+          25.017328
+        ],
+        "type": "Point"
+      },
+      "id": "200952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200963",
+        "title": "林森北",
+        "address": "台北市中山區林森北路380之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52539937433801,
+          25.058585976560202
+        ],
+        "type": "Point"
+      },
+      "id": "200963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200985",
+        "title": "二水",
+        "address": "彰化縣二水鄉員集路四段8號10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.616113,
+          23.811423
+        ],
+        "type": "Point"
+      },
+      "id": "200985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202512",
         "title": "英雄館",
         "address": "台北市中正區長沙街一段20號1樓",
@@ -61898,23 +61949,6 @@
         "type": "Point"
       },
       "id": "780827"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "790813",
-        "title": "捷盟",
-        "address": "台北市萬華區漢中街51號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.507448,
-          25.044047
-        ],
-        "type": "Point"
-      },
-      "id": "790813"
     },
     {
       "type": "Feature",
