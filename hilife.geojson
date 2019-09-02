@@ -19912,6 +19912,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4630",
+        "title": "頭份好漾店",
+        "address": "苗栗縣頭份市富強一街９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.899267115828,
+          24.6867438589873
+        ],
+        "type": "Point"
+      },
+      "id": "4630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4639",
+        "title": "鼓山明誠店",
+        "address": "高雄市鼓山區中華一路９７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2919319251158,
+          22.6665508830909
+        ],
+        "type": "Point"
+      },
+      "id": "4639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
