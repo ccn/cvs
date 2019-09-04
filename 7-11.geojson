@@ -31523,23 +31523,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "163682",
-        "title": "品客",
-        "address": "彰化縣大村鄉中山路一段86號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.571835,
-          23.976736
-        ],
-        "type": "Point"
-      },
-      "id": "163682"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "163693",
         "title": "蔗園",
         "address": "台中市大肚區遊園路一段143號",
@@ -47486,6 +47469,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184221",
+        "title": "祥順東",
+        "address": "台中市北屯區祥順東路一段2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184232",
         "title": "星宇",
         "address": "桃園市桃園區永安路739號1樓",
@@ -53194,23 +53194,6 @@
         "type": "Point"
       },
       "id": "188496"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "188500",
-        "title": "埔成",
-        "address": "彰化縣埔心鄉中正路一段137號139號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.547455,
-          23.951076
-        ],
-        "type": "Point"
-      },
-      "id": "188500"
     },
     {
       "type": "Feature",
@@ -59233,6 +59216,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195483",
+        "title": "南洋",
+        "address": "澎湖縣馬公市新營路25號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.572513,
+          23.566468
+        ],
+        "type": "Point"
+      },
+      "id": "195483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195494",
         "title": "東道",
         "address": "宜蘭縣宜蘭市東港路一段575號",
@@ -59573,6 +59573,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196028",
+        "title": "鹿工",
+        "address": "彰化縣鹿港鎮鹿工南一路5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196051",
         "title": "武聖廟",
         "address": "新北市新莊區新莊路437號1樓",
@@ -59620,6 +59637,23 @@
         "type": "Point"
       },
       "id": "196350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196361",
+        "title": "鶯歌讚",
+        "address": "新北市鶯歌區文化路68-1號2樓C+D區",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.355209,
+          24.954493
+        ],
+        "type": "Point"
+      },
+      "id": "196361"
     },
     {
       "type": "Feature",
@@ -61154,6 +61188,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198943",
+        "title": "埔成",
+        "address": "彰化縣埔心鄉中正路一段137號139號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.547455,
+          23.951076
+        ],
+        "type": "Point"
+      },
+      "id": "198943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198954",
         "title": "重樂",
         "address": "新北市三重區三信路196號1樓",
@@ -61218,6 +61269,23 @@
         "type": "Point"
       },
       "id": "199005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199016",
+        "title": "品客",
+        "address": "彰化縣大村鄉中山路一段86號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.571835,
+          23.976736
+        ],
+        "type": "Point"
+      },
+      "id": "199016"
     },
     {
       "type": "Feature",
