@@ -65441,6 +65441,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018689",
+        "title": "全家宜蘭車站店",
+        "address": "宜蘭縣宜蘭市光復路1號",
+        "post": "260",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.75760132,
+          24.75475296
+        ],
+        "type": "Point"
+      },
+      "id": "018689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018703",
         "title": "全家淡水淡海店",
         "address": "新北市淡水區中正路一段62巷2號",
