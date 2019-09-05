@@ -19234,7 +19234,7 @@
       "properties": {
         "id": "4562",
         "title": "草屯草鞋墩店",
-        "address": "南投縣草屯鎮太平路一段４８號",
+        "address": "南投縣草屯鎮山腳里２８鄰太平路一段４８號及法",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19942,6 +19942,23 @@
         "type": "Point"
       },
       "id": "4639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4645",
+        "title": "新竹大蓮店",
+        "address": "新竹市東區南大路２９９、３０１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.970602591636,
+          24.7980322335597
+        ],
+        "type": "Point"
+      },
+      "id": "4645"
     },
     {
       "type": "Feature",
