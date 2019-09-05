@@ -59182,6 +59182,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195427",
+        "title": "鳳捷",
+        "address": "高雄市大寮區萬丹路151-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.394755,
+          22.612993
+        ],
+        "type": "Point"
+      },
+      "id": "195427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195449",
         "title": "華晟",
         "address": "新北市三峽區中華路38之1號38之2號1樓",
