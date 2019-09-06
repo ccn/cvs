@@ -10919,23 +10919,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "128243",
-        "title": "廣華",
-        "address": "桃園市龜山區文化三路386號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.366593,
-          25.054225
-        ],
-        "type": "Point"
-      },
-      "id": "128243"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "128254",
         "title": "欣怡",
         "address": "雲林縣斗南鎮南昌里中山路79號",
@@ -47476,8 +47459,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.729149,
+          24.161284
         ],
         "type": "Point"
       },
@@ -55415,8 +55398,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.71091,
+          24.213198
         ],
         "type": "Point"
       },
@@ -58883,8 +58866,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.021681,
+          24.77252
         ],
         "type": "Point"
       },
@@ -59597,8 +59580,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.4116,
+          24.076702
         ],
         "type": "Point"
       },
@@ -61932,6 +61915,23 @@
         "type": "Point"
       },
       "id": "200985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200996",
+        "title": "廣華",
+        "address": "桃園市龜山區文化三路386號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.366593,
+          25.054225
+        ],
+        "type": "Point"
+      },
+      "id": "200996"
     },
     {
       "type": "Feature",
