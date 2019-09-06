@@ -12336,25 +12336,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014225",
-        "title": "全家埤頭大豐店",
-        "address": "彰化縣埤頭鄉斗苑東路2之5號",
-        "post": "523",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.4989025,
-          23.8835417
-        ],
-        "type": "Point"
-      },
-      "id": "014225"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014237",
         "title": "全家永和保平店",
         "address": "新北市永和區永貞路354號356號",
@@ -22497,25 +22478,6 @@
         "type": "Point"
       },
       "id": "015545"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015546",
-        "title": "全家板橋欣興店",
-        "address": "新北市板橋區新興路1號1樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.456157,
-          25.007196
-        ],
-        "type": "Point"
-      },
-      "id": "015546"
     },
     {
       "type": "Feature",
@@ -64966,6 +64928,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018647",
+        "title": "全家金門城隍店",
+        "address": "金門縣金城鎮光前路39-5號",
+        "post": "893",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.31566269,
+          24.43248256
+        ],
+        "type": "Point"
+      },
+      "id": "018647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018648",
         "title": "全家鶯歌正鶯店",
         "address": "新北市鶯歌區中正一路371號",
@@ -65517,6 +65498,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018706",
+        "title": "全家埤頭大豐店",
+        "address": "彰化縣埤頭鄉斗苑東路2之5號",
+        "post": "523",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4989025,
+          23.8835417
+        ],
+        "type": "Point"
+      },
+      "id": "018706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018713",
         "title": "全家平鎮極光店",
         "address": "桃園市平鎮區延平路二段15號",
@@ -65532,6 +65532,25 @@
         "type": "Point"
       },
       "id": "018713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018715",
+        "title": "全家板橋欣興店",
+        "address": "新北市板橋區新興路1號1樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.456157,
+          25.007196
+        ],
+        "type": "Point"
+      },
+      "id": "018715"
     },
     {
       "type": "Feature",
