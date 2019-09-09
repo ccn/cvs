@@ -4238,23 +4238,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "116561",
-        "title": "工館",
-        "address": "台南市永康區崑大路195號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.252456,
-          22.998306
-        ],
-        "type": "Point"
-      },
-      "id": "116561"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "116594",
         "title": "佳辰",
         "address": "新北市樹林區佳園路三段488號",
@@ -45004,6 +44987,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182306",
+        "title": "藏美",
+        "address": "高雄市鼓山區光榮里西藏街6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.281144,
+          22.654915
+        ],
+        "type": "Point"
+      },
+      "id": "182306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182317",
         "title": "燿福",
         "address": "新北市土城區中山路1-1號1樓",
@@ -52038,23 +52038,6 @@
         "type": "Point"
       },
       "id": "187699"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "187703",
-        "title": "清順",
-        "address": "屏東縣潮州鎮光華里光華路153號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.543529,
-          22.545302
-        ],
-        "type": "Point"
-      },
-      "id": "187703"
     },
     {
       "type": "Feature",
@@ -59182,6 +59165,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195438",
+        "title": "華碩二",
+        "address": "台北市北投區立德路115號3樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.47041,
+          25.126562
+        ],
+        "type": "Point"
+      },
+      "id": "195438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195449",
         "title": "華晟",
         "address": "新北市三峽區中華路38之1號38之2號1樓",
@@ -59280,6 +59280,23 @@
         "type": "Point"
       },
       "id": "195531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195542",
+        "title": "雄鼎",
+        "address": "高雄市仁武區仁雄路346號1樓,348號1-2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.335264,
+          22.674427
+        ],
+        "type": "Point"
+      },
+      "id": "195542"
     },
     {
       "type": "Feature",
@@ -59522,6 +59539,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195852",
+        "title": "保長坑",
+        "address": "新北市汐止區大同路三段261號263號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.673621,
+          25.07593
+        ],
+        "type": "Point"
+      },
+      "id": "195852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195885",
         "title": "北霆",
         "address": "新北市三峽區大同路244號1樓",
@@ -59552,6 +59586,40 @@
         "type": "Point"
       },
       "id": "195900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195944",
+        "title": "昶景",
+        "address": "雲林縣古坑鄉東和村文化路145號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.567367,
+          23.68505
+        ],
+        "type": "Point"
+      },
+      "id": "195944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195955",
+        "title": "忠隆",
+        "address": "台北市信義區忠孝東路五段71巷6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567225,
+          25.041718
+        ],
+        "type": "Point"
+      },
+      "id": "195955"
     },
     {
       "type": "Feature",
@@ -59590,6 +59658,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196040",
+        "title": "松聯",
+        "address": "台北市信義區忠孝東路四段559巷24號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.563762,
+          25.042721
+        ],
+        "type": "Point"
+      },
+      "id": "196040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196051",
         "title": "武聖廟",
         "address": "新北市新莊區新莊路437號1樓",
@@ -59620,6 +59705,23 @@
         "type": "Point"
       },
       "id": "196095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196338",
+        "title": "中醫五權",
+        "address": "台中市北區學士路2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.683183,
+          24.153839
+        ],
+        "type": "Point"
+      },
+      "id": "196338"
     },
     {
       "type": "Feature",
@@ -61256,6 +61358,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198998",
+        "title": "清順",
+        "address": "屏東縣潮州鎮光華里光華路153號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.543529,
+          22.545302
+        ],
+        "type": "Point"
+      },
+      "id": "198998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199005",
         "title": "路嘉",
         "address": "高雄市路竹區後鄉路37號1樓之1.2",
@@ -61354,6 +61473,23 @@
         "type": "Point"
       },
       "id": "199094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199119",
+        "title": "工館",
+        "address": "台南市永康區崑大路195號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.252456,
+          22.998306
+        ],
+        "type": "Point"
+      },
+      "id": "199119"
     },
     {
       "type": "Feature",
