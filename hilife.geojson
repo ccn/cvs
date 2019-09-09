@@ -10416,8 +10416,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.648584012431,
-          25.0608574507179
+          121.648098693607,
+          25.0608389850442
         ],
         "type": "Point"
       },
@@ -13928,23 +13928,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4136",
-        "title": "三重商工店",
-        "address": "新北市三重區中正北路２８２號及２８４號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.480602,
-          25.068525
-        ],
-        "type": "Point"
-      },
-      "id": "4136"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4138",
         "title": "竹北水妍店",
         "address": "新竹縣竹北市莊敬南路６３號",
@@ -15080,23 +15063,6 @@
         "type": "Point"
       },
       "id": "4229"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4230",
-        "title": "高市山隆苓雅店",
-        "address": "高雄市苓雅區武營路４３３號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.336597,
-          22.616586
-        ],
-        "type": "Point"
-      },
-      "id": "4230"
     },
     {
       "type": "Feature",
@@ -19432,6 +19398,23 @@
         "type": "Point"
       },
       "id": "4577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4579",
+        "title": "頭份得意店",
+        "address": "苗栗縣頭份市上庄路７７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.8941596310528,
+          24.6916336723501
+        ],
+        "type": "Point"
+      },
+      "id": "4579"
     },
     {
       "type": "Feature",
