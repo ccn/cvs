@@ -65175,6 +65175,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018660",
+        "title": "全家口湖下崙店",
+        "address": "雲林縣口湖鄉崙中村中山路71號",
+        "post": "653",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.165072,
+          23.618798
+        ],
+        "type": "Point"
+      },
+      "id": "018660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018661",
         "title": "全家中壢龍興店",
         "address": "桃園市中壢區龍岡路二段317．319號1樓",
@@ -65384,6 +65403,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018683",
+        "title": "全家基隆車站店",
+        "address": "基隆市仁愛區港西街5號",
+        "post": "200",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.739308,
+          25.132347
+        ],
+        "type": "Point"
+      },
+      "id": "018683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018684",
         "title": "全家三重華義店",
         "address": "新北市三重區仁義街244號、富華街193號1樓",
@@ -65437,6 +65475,82 @@
         "type": "Point"
       },
       "id": "018689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018698",
+        "title": "全家新營車站店",
+        "address": "台南市新營區中山路1號",
+        "post": "730",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.323185,
+          23.306835
+        ],
+        "type": "Point"
+      },
+      "id": "018698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018699",
+        "title": "全家高雄車頭店",
+        "address": "高雄市三民區建國二路318號B1西側",
+        "post": "807",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302837,
+          22.639143
+        ],
+        "type": "Point"
+      },
+      "id": "018699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018700",
+        "title": "全家屏東車頭店",
+        "address": "屏東縣屏東市公勇路62號1樓",
+        "post": "900",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.486353,
+          22.668711
+        ],
+        "type": "Point"
+      },
+      "id": "018700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018701",
+        "title": "全家台東車站店",
+        "address": "台東市岩灣路101巷598號",
+        "post": "950",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1231664,
+          22.7937575
+        ],
+        "type": "Point"
+      },
+      "id": "018701"
     },
     {
       "type": "Feature",
