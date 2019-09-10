@@ -33257,23 +33257,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "165091",
-        "title": "興東",
-        "address": "桃園市中壢區中山東路三段206號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.249848,
-          24.942584
-        ],
-        "type": "Point"
-      },
-      "id": "165091"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "165105",
         "title": "捷安",
         "address": "桃園市八德區興豐路689號1樓",
@@ -58519,6 +58502,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194837",
+        "title": "興東",
+        "address": "桃園市中壢區中山東路三段226號228號228之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.250081,
+          24.942144
+        ],
+        "type": "Point"
+      },
+      "id": "194837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194848",
         "title": "大邁",
         "address": "台中市大雅區大林路275號",
@@ -59539,23 +59539,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "195852",
-        "title": "保長坑",
-        "address": "新北市汐止區大同路三段261號263號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.673621,
-          25.07593
-        ],
-        "type": "Point"
-      },
-      "id": "195852"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "195885",
         "title": "北霆",
         "address": "新北市三峽區大同路244號1樓",
@@ -59637,6 +59620,23 @@
         "type": "Point"
       },
       "id": "195977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196017",
+        "title": "象上",
+        "address": "苗栗縣頭屋鄉象山村象山路176號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196017"
     },
     {
       "type": "Feature",
