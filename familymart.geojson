@@ -6484,25 +6484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013316",
-        "title": "全家新營南紙店",
-        "address": "台南市新營區建業路317號一樓",
-        "post": "730",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,veg,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.294414,
-          23.298535
-        ],
-        "type": "Point"
-      },
-      "id": "013316"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013321",
         "title": "全家苗栗聯大店",
         "address": "苗栗縣苗栗市聯大二號",
@@ -64548,6 +64529,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018620",
+        "title": "全家龍京店",
+        "address": "台北市中山區龍江路102號1樓",
+        "post": "104",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.540322,
+          25.052669
+        ],
+        "type": "Point"
+      },
+      "id": "018620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018622",
         "title": "全家林口環球店",
         "address": "新北市林口區文化三路一段2號1樓",
@@ -65365,6 +65365,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018678",
+        "title": "全家恆春恆楠店",
+        "address": "屏東縣恆春鎮恆南路13-2號及其停車場",
+        "post": "946",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.74726646,
+          22.00386195
+        ],
+        "type": "Point"
+      },
+      "id": "018678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018679",
         "title": "全家撫順店",
         "address": "台北市中山區撫順街12之2號1樓",
@@ -65475,6 +65494,44 @@
         "type": "Point"
       },
       "id": "018689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018690",
+        "title": "全家花蓮車站店",
+        "address": "花蓮縣花蓮市國聯一路100號1樓",
+        "post": "970",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.60132865,
+          23.9926164
+        ],
+        "type": "Point"
+      },
+      "id": "018690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018697",
+        "title": "全家嘉義車站店",
+        "address": "嘉義市西區中山路528號",
+        "post": "600",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.44121,
+          23.47908
+        ],
+        "type": "Point"
+      },
+      "id": "018697"
     },
     {
       "type": "Feature",
@@ -65669,6 +65726,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018716",
+        "title": "全家新營南紙店",
+        "address": "台南市新營區建業路317號一樓",
+        "post": "730",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,veg,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.294414,
+          23.298535
+        ],
+        "type": "Point"
+      },
+      "id": "018716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018717",
         "title": "全家永和永亨店",
         "address": "新北市永和區永亨路62號、64號、66號1樓",
@@ -65703,6 +65779,25 @@
         "type": "Point"
       },
       "id": "018718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018725",
+        "title": "全家龜山庚德店",
+        "address": "桃園市龜山區文化一路259號B1樓（據德樓宿舍）",
+        "post": "333",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.391703,
+          25.034424
+        ],
+        "type": "Point"
+      },
+      "id": "018725"
     },
     {
       "type": "Feature",
