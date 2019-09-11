@@ -18926,6 +18926,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4527",
+        "title": "文山大王店",
+        "address": "台北市文山區木新路二段１４１、１４３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5689339980381,
+          24.9839248178059
+        ],
+        "type": "Point"
+      },
+      "id": "4527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4530",
         "title": "大社翠屏店",
         "address": "高雄市大社區翠屏路８４巷４-２號",
