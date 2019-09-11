@@ -59285,25 +59285,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018314",
-        "title": "全家中和中興店",
-        "address": "新北市中和區中興街111號113號",
-        "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.499982,
-          24.992287
-        ],
-        "type": "Point"
-      },
-      "id": "018314"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018315",
         "title": "全家台中俊美店",
         "address": "台中市西屯區西屯路二段297之16號1樓全部",
@@ -65874,6 +65855,25 @@
         "type": "Point"
       },
       "id": "018739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018743",
+        "title": "全家中和中興店",
+        "address": "新北市中和區中興街111號113號",
+        "post": "235",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.499982,
+          24.992287
+        ],
+        "type": "Point"
+      },
+      "id": "018743"
     },
     {
       "type": "Feature",
