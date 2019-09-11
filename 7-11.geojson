@@ -44868,23 +44868,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182236",
-        "title": "金美",
-        "address": "新北市金山區中山路143號145號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.6389,
-          25.220131
-        ],
-        "type": "Point"
-      },
-      "id": "182236"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182258",
         "title": "復忠",
         "address": "台北市大安區光復南路98之3號98之5號",
@@ -59556,6 +59539,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195896",
+        "title": "安博",
+        "address": "新北市新店區安民街154號154-1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.516763,
+          24.96999
+        ],
+        "type": "Point"
+      },
+      "id": "195896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195900",
         "title": "珍饌",
         "address": "台北市士林區文林路126號1樓",
@@ -60640,6 +60640,23 @@
         "type": "Point"
       },
       "id": "197593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197629",
+        "title": "金美",
+        "address": "新北市金山區中山路143號145號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6389,
+          25.220131
+        ],
+        "type": "Point"
+      },
+      "id": "197629"
     },
     {
       "type": "Feature",
@@ -85664,23 +85681,6 @@
         "type": "Point"
       },
       "id": "969037"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "969059",
-        "title": "中醫五權",
-        "address": "台中市北區學士路2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.683183,
-          24.153839
-        ],
-        "type": "Point"
-      },
-      "id": "969059"
     },
     {
       "type": "Feature",
