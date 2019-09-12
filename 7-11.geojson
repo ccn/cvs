@@ -40686,23 +40686,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "174718",
-        "title": "寶科",
-        "address": "新北市新店區寶橋路235巷5號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551536,
-          24.98019
-        ],
-        "type": "Point"
-      },
-      "id": "174718"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "174729",
         "title": "樺鑫",
         "address": "高雄市小港區中安路739號",
@@ -57975,6 +57958,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194365",
+        "title": "榮福",
+        "address": "桃園市中壢區永福路1092號1092-1號1096號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.252335,
+          24.965559
+        ],
+        "type": "Point"
+      },
+      "id": "194365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194376",
         "title": "愛六",
         "address": "基隆市仁愛區仁一路281號1樓",
@@ -59454,6 +59454,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195793",
+        "title": "泓寶",
+        "address": "彰化縣社頭鄉員集路四段697號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.576839,
+          23.935229
+        ],
+        "type": "Point"
+      },
+      "id": "195793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195807",
         "title": "富比世",
         "address": "台北市信義區松仁路246號248號1樓",
@@ -59631,8 +59648,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.859232,
+          24.578916
         ],
         "type": "Point"
       },
@@ -61507,6 +61524,23 @@
         "type": "Point"
       },
       "id": "199119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199175",
+        "title": "寶科",
+        "address": "新北市新店區寶橋路235巷5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551536,
+          24.98019
+        ],
+        "type": "Point"
+      },
+      "id": "199175"
     },
     {
       "type": "Feature",
