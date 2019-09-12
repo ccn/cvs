@@ -2793,6 +2793,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "2520",
+        "title": "中縣中幼店",
+        "address": "台中市大甲區中山路二段５８４－５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.654010919561,
+          24.3903158915395
+        ],
+        "type": "Point"
+      },
+      "id": "2520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "2527",
         "title": "北縣樹東店",
         "address": "新北市樹林區柑園街一段４９號",
@@ -2959,6 +2976,23 @@
         "type": "Point"
       },
       "id": "2552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2553",
+        "title": "中縣中獅店",
+        "address": "台中市大甲區經國路１９３２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.651483477743,
+          24.3811421928379
+        ],
+        "type": "Point"
+      },
+      "id": "2553"
     },
     {
       "type": "Feature",
@@ -3639,6 +3673,23 @@
         "type": "Point"
       },
       "id": "2649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2653",
+        "title": "中縣中寶店",
+        "address": "台中市大甲區幼獅路一號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6437234568133,
+          24.4092819652574
+        ],
+        "type": "Point"
+      },
+      "id": "2653"
     },
     {
       "type": "Feature",
@@ -7577,8 +7628,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.542772423064,
-          25.0418014326733
+          121.5428367960803,
+          25.0417528310784
         ],
         "type": "Point"
       },
@@ -9793,6 +9844,23 @@
         "type": "Point"
       },
       "id": "3702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3706",
+        "title": "中縣彈正店",
+        "address": "台中市大甲區彈正路一號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.631823126156,
+          24.3554950035439
+        ],
+        "type": "Point"
+      },
+      "id": "3706"
     },
     {
       "type": "Feature",
@@ -12972,6 +13040,23 @@
         "type": "Point"
       },
       "id": "4055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4056",
+        "title": "大甲致用店",
+        "address": "台中市大甲區甲東路５１２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.630349,
+          24.341088
+        ],
+        "type": "Point"
+      },
+      "id": "4056"
     },
     {
       "type": "Feature",
@@ -18195,6 +18280,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4477",
+        "title": "大甲甲旺店",
+        "address": "台中市大甲區甲后路五段２７１、２７３號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6336805509262,
+          24.3446127414268
+        ],
+        "type": "Point"
+      },
+      "id": "4477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4479",
         "title": "八德星晴店",
         "address": "桃園市八德區興豐路３４０、３４２、３４４號。",
@@ -20616,8 +20718,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.489462033855,
-          25.0789154374419
+          121.4893762031666,
+          25.0791340781467
         ],
         "type": "Point"
       },
@@ -22084,6 +22186,23 @@
         "type": "Point"
       },
       "id": "G951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "G961",
+        "title": "中縣大甲店",
+        "address": "台中市大甲區經國路４０７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.616823963718,
+          24.3492136937239
+        ],
+        "type": "Point"
+      },
+      "id": "G961"
     },
     {
       "type": "Feature",
