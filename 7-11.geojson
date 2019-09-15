@@ -19351,23 +19351,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141589",
-        "title": "博吉",
-        "address": "台中市北屯區東光路786號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.700655803867,
-          24.167093866829898
-        ],
-        "type": "Point"
-      },
-      "id": "141589"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141590",
         "title": "竹高",
         "address": "新竹市東區東山街17號19號21號1樓",
@@ -58995,6 +58978,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195302",
+        "title": "大立",
+        "address": "新北市三重區力行路一段184號186號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.481942,
+          25.071652
+        ],
+        "type": "Point"
+      },
+      "id": "195302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195313",
         "title": "玄海",
         "address": "桃園市大園區和平西路二段5號",
@@ -59722,6 +59722,40 @@
         "type": "Point"
       },
       "id": "196095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196165",
+        "title": "海星",
+        "address": "花蓮縣新城鄉嘉新路63巷1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.612413,
+          24.006483
+        ],
+        "type": "Point"
+      },
+      "id": "196165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196198",
+        "title": "世成",
+        "address": "台北市文山區木柵路一段111號1樓(世新大管院)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.547904,
+          24.987251
+        ],
+        "type": "Point"
+      },
+      "id": "196198"
     },
     {
       "type": "Feature",
@@ -61524,6 +61558,40 @@
         "type": "Point"
       },
       "id": "199119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199153",
+        "title": "博吉",
+        "address": "台中市北屯區東光路786號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.700655803867,
+          24.167093866829898
+        ],
+        "type": "Point"
+      },
+      "id": "199153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199164",
+        "title": "心蓮",
+        "address": "宜蘭縣宜蘭市泰山路212號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.738131,
+          24.751686
+        ],
+        "type": "Point"
+      },
+      "id": "199164"
     },
     {
       "type": "Feature",
@@ -64635,23 +64703,6 @@
         "type": "Point"
       },
       "id": "866310"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "870227",
-        "title": "心蓮",
-        "address": "宜蘭縣宜蘭市泰山路212號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.738131,
-          24.751686
-        ],
-        "type": "Point"
-      },
-      "id": "870227"
     },
     {
       "type": "Feature",
