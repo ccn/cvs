@@ -65441,6 +65441,63 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018685",
+        "title": "全家台鐵南店",
+        "address": "臺北市中正區北平西路3號（東南站）",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517044,
+          25.047203
+        ],
+        "type": "Point"
+      },
+      "id": "018685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018686",
+        "title": "全家台鐵東店",
+        "address": "臺北市中正區北平西路3號（東北站）",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517044,
+          25.047203
+        ],
+        "type": "Point"
+      },
+      "id": "018686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018687",
+        "title": "全家台鐵一店",
+        "address": "臺北市中正區北平西路3號B1",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517044,
+          25.047203
+        ],
+        "type": "Point"
+      },
+      "id": "018687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018688",
         "title": "全家三重金勇店",
         "address": "新北市三重區中正北路378號1樓",
@@ -65494,6 +65551,82 @@
         "type": "Point"
       },
       "id": "018690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018691",
+        "title": "全家板橋車站店",
+        "address": "新北市板橋區縣民大道二段7號B1",
+        "post": "220",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.463614,
+          25.014361
+        ],
+        "type": "Point"
+      },
+      "id": "018691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018692",
+        "title": "全家樹林台鐵店",
+        "address": "新北市樹林區鎮前街112號",
+        "post": "238",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.424806,
+          24.991221
+        ],
+        "type": "Point"
+      },
+      "id": "018692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018693",
+        "title": "全家新竹台鐵店",
+        "address": "新竹市東區中華路二段445號1樓",
+        "post": "300",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.971585,
+          24.801609
+        ],
+        "type": "Point"
+      },
+      "id": "018693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018696",
+        "title": "全家員林台鐵店",
+        "address": "彰化縣員林市民權街55號2樓",
+        "post": "510",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5700256,
+          23.9593814
+        ],
+        "type": "Point"
+      },
+      "id": "018696"
     },
     {
       "type": "Feature",
@@ -65608,25 +65741,6 @@
         "type": "Point"
       },
       "id": "018703"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018704",
-        "title": "全家鳳山興昌店",
-        "address": "高雄市鳳山區國光路50號",
-        "post": "830",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.351834,
-          22.619263
-        ],
-        "type": "Point"
-      },
-      "id": "018704"
     },
     {
       "type": "Feature",
@@ -65760,6 +65874,25 @@
         "type": "Point"
       },
       "id": "018718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018722",
+        "title": "全家鳳山興昌店",
+        "address": "高雄市鳳山區國光路50號",
+        "post": "830",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,COFFEEDeliver,SharePot,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.351834,
+          22.619263
+        ],
+        "type": "Point"
+      },
+      "id": "018722"
     },
     {
       "type": "Feature",
