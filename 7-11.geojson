@@ -59539,6 +59539,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195852",
+        "title": "保長坑",
+        "address": "新北市汐止區大同路三段261號263號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.673621,
+          25.07593
+        ],
+        "type": "Point"
+      },
+      "id": "195852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195885",
         "title": "北霆",
         "address": "新北市三峽區大同路244號1樓",
@@ -59807,6 +59824,23 @@
         "type": "Point"
       },
       "id": "196361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196659",
+        "title": "台達三",
+        "address": "桃園市中壢區南園路4號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.238527,
+          24.968735
+        ],
+        "type": "Point"
+      },
+      "id": "196659"
     },
     {
       "type": "Feature",
