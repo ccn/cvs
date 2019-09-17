@@ -1212,23 +1212,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "111588",
-        "title": "華康",
-        "address": "台南市永康區中華路8-7號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.235005,
-          22.999763
-        ],
-        "type": "Point"
-      },
-      "id": "111588"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "111614",
         "title": "凱華",
         "address": "桃園市龜山區文化二路183號1樓",
@@ -22186,23 +22169,6 @@
         "type": "Point"
       },
       "id": "144898"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "144968",
-        "title": "東和",
-        "address": "台南市東區東安路291號293號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.227147,
-          22.997693
-        ],
-        "type": "Point"
-      },
-      "id": "144968"
     },
     {
       "type": "Feature",
@@ -52535,23 +52501,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188120",
-        "title": "新市",
-        "address": "台南市新市區華興街48號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.294264,
-          23.077115
-        ],
-        "type": "Point"
-      },
-      "id": "188120"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188142",
         "title": "群創",
         "address": "苗栗縣竹南鎮頂埔里科學路160號1樓",
@@ -58944,6 +58893,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195276",
+        "title": "崁鼎",
+        "address": "屏東縣崁頂鄉崁頂村中正路135.137.139號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5127,
+          22.51403
+        ],
+        "type": "Point"
+      },
+      "id": "195276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195287",
         "title": "星都心",
         "address": "新竹縣竹東鎮光明路182號186號",
@@ -60729,6 +60695,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197618",
+        "title": "華康",
+        "address": "台南市永康區中華路8-7號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.235005,
+          22.999763
+        ],
+        "type": "Point"
+      },
+      "id": "197618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197629",
         "title": "金美",
         "address": "新北市金山區中山路143號145號",
@@ -61511,6 +61494,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199027",
+        "title": "新市",
+        "address": "台南市新市區華興街48號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.294264,
+          23.077115
+        ],
+        "type": "Point"
+      },
+      "id": "199027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199038",
         "title": "汐福",
         "address": "新北市汐止區福德一路243號",
@@ -61592,6 +61592,23 @@
         "type": "Point"
       },
       "id": "199119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199131",
+        "title": "東和",
+        "address": "台南市東區東安路291號293號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.227147,
+          22.997693
+        ],
+        "type": "Point"
+      },
+      "id": "199131"
     },
     {
       "type": "Feature",
