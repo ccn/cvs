@@ -4801,13 +4801,13 @@
       "properties": {
         "id": "118545",
         "title": "興學",
-        "address": "台中市南區學府路64號",
+        "address": "台中市南區學府路2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.675271,
-          24.124586
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -57210,23 +57210,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193683",
-        "title": "板耀",
-        "address": "新北市板橋區自由路52號54號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.4658,
-          25.02354
-        ],
-        "type": "Point"
-      },
-      "id": "193683"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193694",
         "title": "泰安一",
         "address": "台中市后里區安眉路113號",
@@ -57478,6 +57461,23 @@
         "type": "Point"
       },
       "id": "193937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193948",
+        "title": "彰欣",
+        "address": "彰化縣彰化市彰興路一段528號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "193948"
     },
     {
       "type": "Feature",
@@ -57869,6 +57869,23 @@
         "type": "Point"
       },
       "id": "194332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194343",
+        "title": "裕孝",
+        "address": "台南市東區裕農路888號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.243342,
+          22.989613
+        ],
+        "type": "Point"
+      },
+      "id": "194343"
     },
     {
       "type": "Feature",
@@ -59794,6 +59811,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196419",
+        "title": "振福",
+        "address": "台中市太平區振福路361巷6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.707923,
+          24.152805
+        ],
+        "type": "Point"
+      },
+      "id": "196419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196659",
         "title": "台達三",
         "address": "桃園市中壢區南園路4號1樓",
@@ -60691,6 +60725,23 @@
         "type": "Point"
       },
       "id": "197593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197607",
+        "title": "板耀",
+        "address": "新北市板橋區自由路52號54號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4658,
+          25.02354
+        ],
+        "type": "Point"
+      },
+      "id": "197607"
     },
     {
       "type": "Feature",
