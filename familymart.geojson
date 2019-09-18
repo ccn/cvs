@@ -23736,25 +23736,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015688",
-        "title": "全家板橋長壽店",
-        "address": "新北市板橋區三民路二段83號",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.479392,
-          25.016649
-        ],
-        "type": "Point"
-      },
-      "id": "015688"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015690",
         "title": "全家花蓮正義店",
         "address": "花蓮縣花蓮市中正路413號1樓",
@@ -53262,25 +53243,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017936",
-        "title": "全家龍潭華映二店",
-        "address": "桃園市龍潭區華映路1號（Ｌ2棟8樓）",
-        "post": "325",
-        "all": "COFFEE,SharePot,Kantoni,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.192505,
-          24.857429
-        ],
-        "type": "Point"
-      },
-      "id": "017936"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017937",
         "title": "全家台中崇倫店",
         "address": "台中市南區南屯路一段273號",
@@ -65893,6 +65855,25 @@
         "type": "Point"
       },
       "id": "018718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018719",
+        "title": "全家板橋長壽店",
+        "address": "新北市板橋區三民路二段83號",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.479392,
+          25.016649
+        ],
+        "type": "Point"
+      },
+      "id": "018719"
     },
     {
       "type": "Feature",
