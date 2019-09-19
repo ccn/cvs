@@ -17260,23 +17260,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "137993",
-        "title": "長和",
-        "address": "台南市安南區長和一街39號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.214404,
-          23.06311
-        ],
-        "type": "Point"
-      },
-      "id": "137993"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138000",
         "title": "鴻臣",
         "address": "桃園市龜山區楓樹里忠義路一段870-1號",
@@ -25042,23 +25025,6 @@
         "type": "Point"
       },
       "id": "151520"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "151553",
-        "title": "振福",
-        "address": "台中市太平區振福路419號421號423號425號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.708726,
-          24.154091
-        ],
-        "type": "Point"
-      },
-      "id": "151553"
     },
     {
       "type": "Feature",
@@ -61575,6 +61541,23 @@
         "type": "Point"
       },
       "id": "199038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199050",
+        "title": "長和",
+        "address": "台南市安南區長和一街39號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.214404,
+          23.06311
+        ],
+        "type": "Point"
+      },
+      "id": "199050"
     },
     {
       "type": "Feature",
