@@ -19266,6 +19266,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4581",
+        "title": "彰化西勢子店",
+        "address": "彰化縣彰化市彰和路一段５６巷１號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5336969589539,
+          24.0906966176479
+        ],
+        "type": "Point"
+      },
+      "id": "4581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4582",
         "title": "白河美人店",
         "address": "台南市白河區關嶺里關子嶺３８之１號",
@@ -19551,6 +19568,23 @@
         "type": "Point"
       },
       "id": "4607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4609",
+        "title": "蘆洲洲正店",
+        "address": "新北市蘆洲區中正路１８５巷７８弄１、３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4661029927867,
+          25.084286839861
+        ],
+        "type": "Point"
+      },
+      "id": "4609"
     },
     {
       "type": "Feature",
