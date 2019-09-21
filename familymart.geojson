@@ -65935,25 +65935,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018730",
-        "title": "全家康陽店",
-        "address": "台北市萬華區康定路99號",
-        "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SUNMAI,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.502026,
-          25.039668
-        ],
-        "type": "Point"
-      },
-      "id": "018730"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018734",
         "title": "全家花蓮博愛店",
         "address": "花蓮縣花蓮市林森路250號",
@@ -66083,6 +66064,25 @@
         "type": "Point"
       },
       "id": "018747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018752",
+        "title": "全家康陽店",
+        "address": "台北市萬華區康定路99號",
+        "post": "108",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SUNMAI,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.502026,
+          25.039668
+        ],
+        "type": "Point"
+      },
+      "id": "018752"
     },
     {
       "type": "Feature",
