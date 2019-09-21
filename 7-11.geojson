@@ -4806,8 +4806,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.675335,
+          24.124665
         ],
         "type": "Point"
       },
@@ -13346,23 +13346,6 @@
         "type": "Point"
       },
       "id": "131423"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "131445",
-        "title": "緯華",
-        "address": "桃園市龜山區文化二路34巷6號及14弄18號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.364609,
-          25.059286
-        ],
-        "type": "Point"
-      },
-      "id": "131445"
     },
     {
       "type": "Feature",
@@ -57438,8 +57421,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.584902,
+          24.092923
         ],
         "type": "Point"
       },
@@ -58519,6 +58502,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194952",
+        "title": "源山",
+        "address": "嘉義縣中埔鄉同仁村同仁1-20號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.511341,
+          23.40147
+        ],
+        "type": "Point"
+      },
+      "id": "194952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194963",
         "title": "成商",
         "address": "台南市東區大學里勝利路118號1、2樓",
@@ -59199,6 +59199,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195520",
+        "title": "深瑞",
+        "address": "基隆市信義區深澳坑路129號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.788929,
+          25.124833
+        ],
+        "type": "Point"
+      },
+      "id": "195520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195531",
         "title": "嘉驛",
         "address": "嘉義市西區書院里中山路534號1樓",
@@ -59246,6 +59263,23 @@
         "type": "Point"
       },
       "id": "195553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195575",
+        "title": "歸來",
+        "address": "屏東縣屏東市和生路一段107-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.505372,
+          22.659406
+        ],
+        "type": "Point"
+      },
+      "id": "195575"
     },
     {
       "type": "Feature",
@@ -59722,6 +59756,23 @@
         "type": "Point"
       },
       "id": "196198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196268",
+        "title": "卓聯",
+        "address": "台北市大安區羅斯福路四段1號1樓卓聯大樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.537918,
+          25.014683
+        ],
+        "type": "Point"
+      },
+      "id": "196268"
     },
     {
       "type": "Feature",
@@ -60742,6 +60793,23 @@
         "type": "Point"
       },
       "id": "197629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197663",
+        "title": "緯華",
+        "address": "桃園市龜山區文化二路34巷6號及14弄18號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.364609,
+          25.059286
+        ],
+        "type": "Point"
+      },
+      "id": "197663"
     },
     {
       "type": "Feature",
@@ -72744,23 +72812,6 @@
         "type": "Point"
       },
       "id": "920032"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "920054",
-        "title": "龍星",
-        "address": "南投縣草屯鎮碧山路739號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.668418,
-          23.976216
-        ],
-        "type": "Point"
-      },
-      "id": "920054"
     },
     {
       "type": "Feature",
