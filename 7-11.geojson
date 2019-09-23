@@ -44562,23 +44562,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181912",
-        "title": "鑫國泰",
-        "address": "台北市信義區忠孝東路五段68號24樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.566811,
-          25.040167
-        ],
-        "type": "Point"
-      },
-      "id": "181912"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181923",
         "title": "深溝",
         "address": "宜蘭縣員山鄉惠民路207號",
@@ -58451,6 +58434,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194918",
+        "title": "屏棧",
+        "address": "屏東縣屏東市崇智里光復路45號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.485312,
+          22.669348
+        ],
+        "type": "Point"
+      },
+      "id": "194918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194929",
         "title": "金昇",
         "address": "台南市南區金華路二段341號",
@@ -60810,6 +60810,23 @@
         "type": "Point"
       },
       "id": "197663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197733",
+        "title": "鑫國泰",
+        "address": "台北市信義區忠孝東路五段68號24樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.566811,
+          25.040167
+        ],
+        "type": "Point"
+      },
+      "id": "197733"
     },
     {
       "type": "Feature",
