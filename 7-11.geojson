@@ -57363,6 +57363,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193889",
+        "title": "柳子林",
+        "address": "嘉義縣水上鄉柳林村柳子林50-98號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.414304,
+          23.431186
+        ],
+        "type": "Point"
+      },
+      "id": "193889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193926",
         "title": "東加",
         "address": "台中市北屯區東山路一段185號",
