@@ -19810,6 +19810,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4648",
+        "title": "左營碼頭店",
+        "address": "高雄市左營區介壽路２０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2747114948777,
+          22.6843665792387
+        ],
+        "type": "Point"
+      },
+      "id": "4648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
