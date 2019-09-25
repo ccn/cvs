@@ -23210,23 +23210,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "148708",
-        "title": "見晴",
-        "address": "台北市內湖區瑞光路196號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.576948,
-          25.074982
-        ],
-        "type": "Point"
-      },
-      "id": "148708"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "148719",
         "title": "碧興",
         "address": "新北市新店區北宜路一段120號122號1樓",
@@ -57567,6 +57550,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194066",
+        "title": "彰北",
+        "address": "彰化市建國東路258號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.554481,
+          24.095324
+        ],
+        "type": "Point"
+      },
+      "id": "194066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194077",
         "title": "萬濠",
         "address": "台北市中山區敬業四路1號1樓",
@@ -59692,6 +59692,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196039",
+        "title": "昆明",
+        "address": "台北市萬華區昆明街76之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.505498,
+          25.045649
+        ],
+        "type": "Point"
+      },
+      "id": "196039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196040",
         "title": "松聯",
         "address": "台北市信義區忠孝東路四段559巷24號1樓",
@@ -59777,6 +59794,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196202",
+        "title": "國華",
+        "address": "嘉義市西區國華里國華街283號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.448291,
+          23.480679
+        ],
+        "type": "Point"
+      },
+      "id": "196202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196268",
         "title": "卓聯",
         "address": "台北市大安區羅斯福路四段1號1樓卓聯大樓",
@@ -59790,6 +59824,23 @@
         "type": "Point"
       },
       "id": "196268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196280",
+        "title": "朗廷會",
+        "address": "新北市林口區文化三路二段91號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.374614,
+          25.080895
+        ],
+        "type": "Point"
+      },
+      "id": "196280"
     },
     {
       "type": "Feature",
@@ -59875,23 +59926,6 @@
         "type": "Point"
       },
       "id": "196659"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196899",
-        "title": "展示店",
-        "address": "台中市烏日區中山路三段1-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.613564,
-          24.106537
-        ],
-        "type": "Point"
-      },
-      "id": "196899"
     },
     {
       "type": "Feature",
@@ -61796,6 +61830,23 @@
         "type": "Point"
       },
       "id": "199175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199186",
+        "title": "見晴",
+        "address": "台北市內湖區瑞光路196號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.576948,
+          25.074982
+        ],
+        "type": "Point"
+      },
+      "id": "199186"
     },
     {
       "type": "Feature",
