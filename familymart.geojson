@@ -41843,25 +41843,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017136",
-        "title": "全家萬巒豬腳店",
-        "address": "屏東縣萬巒鄉民和路5號一樓、二樓部份",
-        "post": "923",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.568855,
-          22.57443
-        ],
-        "type": "Point"
-      },
-      "id": "017136"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017138",
         "title": "全家巨星超市店",
         "address": "台北市松山區南京東路四段2號（16、17號店舖）",
@@ -53005,8 +52986,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.499146,
-          23.445947
+          120.499481,
+          23.445118
         ],
         "type": "Point"
       },
