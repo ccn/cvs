@@ -56462,23 +56462,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193100",
-        "title": "京佳",
-        "address": "台北市松山區南京東路五段229號231號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.564605,
-          25.051596
-        ],
-        "type": "Point"
-      },
-      "id": "193100"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193111",
         "title": "海音",
         "address": "高雄市苓雅區海邊路48.48-1.48-2號",
@@ -59488,6 +59471,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195818",
+        "title": "碩禾科",
+        "address": "新竹縣湖口鄉自強路18號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.997159,
+          24.868859
+        ],
+        "type": "Point"
+      },
+      "id": "195818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195829",
         "title": "逢華",
         "address": "台中市西屯區文華路10-7號",
@@ -60844,6 +60844,23 @@
         "type": "Point"
       },
       "id": "197629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197652",
+        "title": "京佳",
+        "address": "台北市松山區南京東路五段229號231號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.564605,
+          25.051596
+        ],
+        "type": "Point"
+      },
+      "id": "197652"
     },
     {
       "type": "Feature",
