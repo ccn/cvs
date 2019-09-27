@@ -20286,23 +20286,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "142755",
-        "title": "敦化",
-        "address": "台北市松山區民權東路三段160巷9號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.547919390782,
-          25.0610259847241
-        ],
-        "type": "Point"
-      },
-      "id": "142755"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "142766",
         "title": "東關",
         "address": "台中市東勢區東關路七段191號、新盛街2號1樓",
@@ -61864,6 +61847,23 @@
         "type": "Point"
       },
       "id": "199186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199267",
+        "title": "敦化",
+        "address": "台北市松山區民權東路三段160巷9號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.547919390782,
+          25.0610259847241
+        ],
+        "type": "Point"
+      },
+      "id": "199267"
     },
     {
       "type": "Feature",
