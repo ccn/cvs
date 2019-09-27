@@ -19045,6 +19045,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4539",
+        "title": "三重自信店",
+        "address": "新北市三重區大智街２２號及２４號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4948073026988,
+          25.0647510306325
+        ],
+        "type": "Point"
+      },
+      "id": "4539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4540",
         "title": "湖口福氣店",
         "address": "新竹縣湖口鄉新興路８５８號",
