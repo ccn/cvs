@@ -18433,6 +18433,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4489",
+        "title": "潮州驛站店",
+        "address": "屏東縣潮州鎮信義路１１１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.536252,
+          22.550096
+        ],
+        "type": "Point"
+      },
+      "id": "4489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4490",
         "title": "太保風鈴店",
         "address": "嘉義縣太保市舊埤里１７鄰新埤５之１８號",
@@ -20027,6 +20044,23 @@
         "type": "Point"
       },
       "id": "4645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4647",
+        "title": "中山晶華店",
+        "address": "台北市中山區林森北路２５８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5253338046915,
+          25.0544207437044
+        ],
+        "type": "Point"
+      },
+      "id": "4647"
     },
     {
       "type": "Feature",
