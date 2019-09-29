@@ -993,44 +993,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011501",
-        "title": "全家土城鴻海店",
-        "address": "新北市土城區自由街2號5樓",
-        "post": "236",
-        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte,FLatte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.42098509,
-          24.96613771
-        ],
-        "type": "Point"
-      },
-      "id": "011501"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "011502",
-        "title": "全家土城鴻海附店",
-        "address": "新北市土城區中央路四段53-1號1樓",
-        "post": "236",
-        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.419208,
-          24.958996
-        ],
-        "type": "Point"
-      },
-      "id": "011502"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011512",
         "title": "全家吉安自強店",
         "address": "花蓮縣吉安鄉勝安村自強路129號一樓131號",
@@ -6290,25 +6252,6 @@
         "type": "Point"
       },
       "id": "013294"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "013309",
-        "title": "全家豐興店",
-        "address": "台北市松山區民生東路三段130巷5弄22號",
-        "post": "105",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,FLatte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.547117,
-          25.056968
-        ],
-        "type": "Point"
-      },
-      "id": "013309"
     },
     {
       "type": "Feature",
@@ -65517,6 +65460,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018720",
+        "title": "全家土城鴻海店",
+        "address": "新北市土城區自由街2號5樓",
+        "post": "236",
+        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte,FLatte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.42098509,
+          24.96613771
+        ],
+        "type": "Point"
+      },
+      "id": "018720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018721",
+        "title": "全家土城鴻海附店",
+        "address": "新北市土城區中央路四段53-1號1樓",
+        "post": "236",
+        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.419208,
+          24.958996
+        ],
+        "type": "Point"
+      },
+      "id": "018721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018722",
         "title": "全家鳳山興昌店",
         "address": "高雄市鳳山區國光路50號",
@@ -66216,6 +66197,25 @@
         "type": "Point"
       },
       "id": "018817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018830",
+        "title": "全家豐興店",
+        "address": "台北市松山區民生東路三段130巷5弄22號",
+        "post": "105",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,Preorder,FLatte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.547117,
+          25.056968
+        ],
+        "type": "Point"
+      },
+      "id": "018830"
     },
     {
       "type": "Feature",
