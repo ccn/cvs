@@ -59879,6 +59879,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196615",
+        "title": "高捷站",
+        "address": "高雄市三民區建國二路320號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302222,
+          22.639298
+        ],
+        "type": "Point"
+      },
+      "id": "196615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196648",
         "title": "登揚",
         "address": "新北市五股區登林路96號",
