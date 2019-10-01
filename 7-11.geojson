@@ -14999,23 +14999,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "133094",
-        "title": "和港",
-        "address": "彰化縣和美鎮和港路552號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.490017,
-          24.131928
-        ],
-        "type": "Point"
-      },
-      "id": "133094"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "133108",
         "title": "太陽城",
         "address": "新北市土城區中央路四段281之8號281之9號",
@@ -21289,23 +21272,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "143910",
-        "title": "享溫馨",
-        "address": "台東縣台東市中正里中正路308號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.152486,
-          22.756714
-        ],
-        "type": "Point"
-      },
-      "id": "143910"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "143921",
         "title": "智由",
         "address": "高雄市三民區德智里熱河一街190號192號",
@@ -23393,23 +23359,6 @@
         "type": "Point"
       },
       "id": "148982"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "149000",
-        "title": "金樹",
-        "address": "屏東縣屏東市仁愛路16號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.492088,
-          22.669764
-        ],
-        "type": "Point"
-      },
-      "id": "149000"
     },
     {
       "type": "Feature",
@@ -61885,6 +61834,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199120",
+        "title": "和港",
+        "address": "彰化縣和美鎮和港路552號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.490017,
+          24.131928
+        ],
+        "type": "Point"
+      },
+      "id": "199120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199131",
         "title": "東和",
         "address": "台南市東區東安路291號293號1樓",
@@ -62548,6 +62514,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200974",
+        "title": "金樹",
+        "address": "屏東縣屏東市仁愛路16號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.492088,
+          22.669764
+        ],
+        "type": "Point"
+      },
+      "id": "200974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200985",
         "title": "二水",
         "address": "彰化縣二水鄉員集路四段8號10號",
@@ -62578,6 +62561,23 @@
         "type": "Point"
       },
       "id": "200996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201003",
+        "title": "享溫馨",
+        "address": "台東縣台東市中正里中正路308號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.152486,
+          22.756714
+        ],
+        "type": "Point"
+      },
+      "id": "201003"
     },
     {
       "type": "Feature",
@@ -71945,23 +71945,6 @@
         "type": "Point"
       },
       "id": "912097"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "912101",
-        "title": "瑞祥",
-        "address": "高雄市前鎮區瑞祥里崗山中街251號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.326748,
-          22.602014
-        ],
-        "type": "Point"
-      },
-      "id": "912101"
     },
     {
       "type": "Feature",
