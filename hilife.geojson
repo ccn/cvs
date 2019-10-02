@@ -5758,8 +5758,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.299994893651,
-          24.9732620374286
+          121.299894310813,
+          24.9732450173779
         ],
         "type": "Point"
       },
@@ -19738,6 +19738,23 @@
         "type": "Point"
       },
       "id": "4612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4613",
+        "title": "新營郵政店",
+        "address": "台南市新營區中山路１２６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.317959515823,
+          23.3050823535986
+        ],
+        "type": "Point"
+      },
+      "id": "4613"
     },
     {
       "type": "Feature",
