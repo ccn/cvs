@@ -10630,23 +10630,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127837",
-        "title": "金信",
-        "address": "台北市大安區金山南路二段18號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52694037464599,
-          25.0332818881702
-        ],
-        "type": "Point"
-      },
-      "id": "127837"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127929",
         "title": "立夫",
         "address": "台中市北區育德路2號",
@@ -18688,23 +18671,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "140726",
-        "title": "宜寧",
-        "address": "台中市南區東興路一段21號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.656763775839,
-          24.1192236993829
-        ],
-        "type": "Point"
-      },
-      "id": "140726"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "140748",
         "title": "祥濱",
         "address": "基隆市中正區建國里祥豐街339號",
@@ -19381,23 +19347,6 @@
         "type": "Point"
       },
       "id": "141660"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "141671",
-        "title": "興園",
-        "address": "新北市三重區重陽路一段132號134號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.486502,
-          25.060533
-        ],
-        "type": "Point"
-      },
-      "id": "141671"
     },
     {
       "type": "Feature",
@@ -57091,23 +57040,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193786",
-        "title": "新羅興",
-        "address": "宜蘭縣羅東鎮興東路23之2號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.768066,
-          24.677141
-        ],
-        "type": "Point"
-      },
-      "id": "193786"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193797",
         "title": "君悅",
         "address": "台中市北屯區軍福十三路68號",
@@ -60899,6 +60831,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197674",
+        "title": "宜寧",
+        "address": "台中市南區東興路一段21號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.656763775839,
+          24.1192236993829
+        ],
+        "type": "Point"
+      },
+      "id": "197674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197685",
         "title": "薇美",
         "address": "台北市中山區敬業三路11號1樓",
@@ -60946,6 +60895,23 @@
         "type": "Point"
       },
       "id": "197733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197744",
+        "title": "金信",
+        "address": "台北市大安區金山南路二段18號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52694037464599,
+          25.0332818881702
+        ],
+        "type": "Point"
+      },
+      "id": "197744"
     },
     {
       "type": "Feature",
@@ -62578,6 +62544,40 @@
         "type": "Point"
       },
       "id": "201003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201025",
+        "title": "興園",
+        "address": "新北市三重區重陽路一段132號134號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.486502,
+          25.060533
+        ],
+        "type": "Point"
+      },
+      "id": "201025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201036",
+        "title": "新羅興",
+        "address": "宜蘭縣羅東鎮興東路23之2號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.768066,
+          24.677141
+        ],
+        "type": "Point"
+      },
+      "id": "201036"
     },
     {
       "type": "Feature",
