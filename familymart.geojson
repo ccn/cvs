@@ -51552,6 +51552,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017870",
+        "title": "全家永靖頂旺店",
+        "address": "彰化縣永靖鄉永福路一段157號1樓。2樓",
+        "post": "512",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5387554,
+          23.920398
+        ],
+        "type": "Point"
+      },
+      "id": "017870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017873",
         "title": "全家沙鹿金斗店",
         "address": "台中市沙鹿區南斗路29號",
@@ -57366,6 +57385,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018258",
+        "title": "全家永靖金火店",
+        "address": "彰化縣永靖鄉永興路三段臨50號",
+        "post": "512",
+        "all": "COFFEE,SWEETPOTATO,icecream,oneice,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5590442,
+          23.9230941
+        ],
+        "type": "Point"
+      },
+      "id": "018258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018259",
         "title": "全家澎湖三多店",
         "address": "澎湖縣馬公市三多路302號一樓",
@@ -60991,6 +61029,25 @@
         "type": "Point"
       },
       "id": "018467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018468",
+        "title": "全家永靖永安店",
+        "address": "彰化縣永靖鄉中山路一段869號",
+        "post": "512",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5466819,
+          23.9195534
+        ],
+        "type": "Point"
+      },
+      "id": "018468"
     },
     {
       "type": "Feature",
@@ -65703,6 +65760,25 @@
         "type": "Point"
       },
       "id": "018760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018765",
+        "title": "全家台南三越店",
+        "address": "台南市中西區中山路162號B2F",
+        "post": "700",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.209909,
+          22.995451
+        ],
+        "type": "Point"
+      },
+      "id": "018765"
     },
     {
       "type": "Feature",
