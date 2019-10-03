@@ -60916,6 +60916,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197766",
+        "title": "金鑽",
+        "address": "台北市中山區民權西路66號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.519993,
+          25.062707
+        ],
+        "type": "Point"
+      },
+      "id": "197766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198529",
         "title": "盧奉",
         "address": "桃園市蘆竹區奉化路25號27號1樓",
@@ -64278,23 +64295,6 @@
         "type": "Point"
       },
       "id": "861544"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "862086",
-        "title": "金鑽",
-        "address": "台北市中山區民權西路66號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.519993,
-          25.062707
-        ],
-        "type": "Point"
-      },
-      "id": "862086"
     },
     {
       "type": "Feature",
