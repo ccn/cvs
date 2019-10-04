@@ -2164,23 +2164,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112743",
-        "title": "全新",
-        "address": "新北市新店區安康路二段147號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.511295,
-          24.95993
-        ],
-        "type": "Point"
-      },
-      "id": "112743"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112787",
         "title": "滿州",
         "address": "屏東縣滿州鄉滿州村中山路56號1樓",
@@ -23737,23 +23720,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149505",
-        "title": "欣三豐",
-        "address": "台中市豐原區三豐路89、93、95號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.716376,
-          24.25307
-        ],
-        "type": "Point"
-      },
-      "id": "149505"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149516",
         "title": "建強",
         "address": "高雄市三民區建國三路437號",
@@ -42505,6 +42471,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "180458",
+        "title": "海裕",
+        "address": "台南市北區雙安里海安路三段219巷5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.19959,
+          23.006455
+        ],
+        "type": "Point"
+      },
+      "id": "180458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180469",
         "title": "豐積",
         "address": "台中市大雅區科雅西路5號B2樓",
@@ -56343,23 +56326,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193177",
-        "title": "寶湖",
-        "address": "台北市內湖區民權東路六段180巷6號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.59256,
-          25.068081
-        ],
-        "type": "Point"
-      },
-      "id": "193177"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193188",
         "title": "安坑",
         "address": "新北市新店區安民街346號348號1樓",
@@ -60865,6 +60831,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197696",
+        "title": "欣三豐",
+        "address": "台中市豐原區三豐路89、93、95號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716376,
+          24.25307
+        ],
+        "type": "Point"
+      },
+      "id": "197696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197700",
         "title": "湧久",
         "address": "台北市大同區延平北路四段157號159號",
@@ -60929,6 +60912,23 @@
         "type": "Point"
       },
       "id": "197766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197788",
+        "title": "全新",
+        "address": "新北市新店區安康路二段147號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.511295,
+          24.95993
+        ],
+        "type": "Point"
+      },
+      "id": "197788"
     },
     {
       "type": "Feature",
@@ -62561,6 +62561,23 @@
         "type": "Point"
       },
       "id": "201003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201014",
+        "title": "寶湖",
+        "address": "台北市內湖區民權東路六段180巷6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.59256,
+          25.068081
+        ],
+        "type": "Point"
+      },
+      "id": "201014"
     },
     {
       "type": "Feature",
