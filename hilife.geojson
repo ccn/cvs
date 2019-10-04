@@ -17896,8 +17896,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.173633,
-          24.921269
+          121.1732253042297,
+          24.9211279171089
         ],
         "type": "Point"
       },
@@ -20010,6 +20010,23 @@
         "type": "Point"
       },
       "id": "4648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4650",
+        "title": "礁溪育龍店",
+        "address": "宜蘭縣礁溪鄉大坡路２、２-１、６、８號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.7433606925804,
+          24.7775392248303
+        ],
+        "type": "Point"
+      },
+      "id": "4650"
     },
     {
       "type": "Feature",
