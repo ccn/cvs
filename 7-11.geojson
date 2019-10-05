@@ -58757,6 +58757,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195357",
+        "title": "龍星",
+        "address": "南投縣草屯鎮復興里碧山路731之5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.66892,
+          23.976337
+        ],
+        "type": "Point"
+      },
+      "id": "195357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195379",
         "title": "迎竹",
         "address": "新竹市東區大學路1001-2號",
@@ -61932,6 +61949,23 @@
         "type": "Point"
       },
       "id": "199245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199256",
+        "title": "鑫仰德",
+        "address": "台北市士林區仰德大道三段68號70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.552876,
+          25.118849
+        ],
+        "type": "Point"
+      },
+      "id": "199256"
     },
     {
       "type": "Feature",
@@ -90747,23 +90781,6 @@
         "type": "Point"
       },
       "id": "982694"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982878",
-        "title": "鑫仰德",
-        "address": "台北市士林區仰德大道三段68號70號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.552876,
-          25.118849
-        ],
-        "type": "Point"
-      },
-      "id": "982878"
     },
     {
       "type": "Feature",
