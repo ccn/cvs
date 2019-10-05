@@ -64358,25 +64358,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018676",
-        "title": "全家竹南崁頂店",
-        "address": "苗栗縣竹南鎮永貞路二段149號",
-        "post": "350",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.885283,
-          24.690468
-        ],
-        "type": "Point"
-      },
-      "id": "018676"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018677",
         "title": "全家竹北後站店",
         "address": "新竹縣竹北市新泰路108-2號1樓(配送用)",
@@ -65783,6 +65764,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018763",
+        "title": "全家桃園向陽店",
+        "address": "桃園市桃園區力行路335號1樓",
+        "post": "330",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.297905,
+          24.999061
+        ],
+        "type": "Point"
+      },
+      "id": "018763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018765",
         "title": "全家台南三越店",
         "address": "台南市中西區中山路162號B2F",
@@ -65798,6 +65798,25 @@
         "type": "Point"
       },
       "id": "018765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018766",
+        "title": "全家嘉義大山店",
+        "address": "嘉義市西區33鄰玉山路491號",
+        "post": "600",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.417803,
+          23.469911
+        ],
+        "type": "Point"
+      },
+      "id": "018766"
     },
     {
       "type": "Feature",
@@ -66254,6 +66273,25 @@
         "type": "Point"
       },
       "id": "018817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018828",
+        "title": "全家竹南崁頂店",
+        "address": "苗栗縣竹南鎮永貞路二段149號",
+        "post": "350",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.885283,
+          24.690468
+        ],
+        "type": "Point"
+      },
+      "id": "018828"
     },
     {
       "type": "Feature",
