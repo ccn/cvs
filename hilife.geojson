@@ -20031,6 +20031,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4662",
+        "title": "龜山花香店",
+        "address": "桃園市龜山區文化一路１０巷４２弄４９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3700490377163,
+          25.0589763103129
+        ],
+        "type": "Point"
+      },
+      "id": "4662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
