@@ -56445,23 +56445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193270",
-        "title": "中央公園",
-        "address": "高雄市前金區中山一路11號(中央公園站內)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.301246,
-          22.623636
-        ],
-        "type": "Point"
-      },
-      "id": "193270"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193281",
         "title": "鑫大立",
         "address": "台中市南屯區精科路11號2樓",
@@ -59743,6 +59726,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196420",
+        "title": "新生",
+        "address": "新北市中和區新生街243號245號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.483892,
+          24.998851
+        ],
+        "type": "Point"
+      },
+      "id": "196420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196615",
         "title": "高捷站",
         "address": "高雄市三民區建國二路320號B1樓",
@@ -60878,6 +60878,23 @@
         "type": "Point"
       },
       "id": "197700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197711",
+        "title": "中央公園",
+        "address": "高雄市前金區中山一路11號(中央公園站內)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.301246,
+          22.623636
+        ],
+        "type": "Point"
+      },
+      "id": "197711"
     },
     {
       "type": "Feature",
