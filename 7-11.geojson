@@ -59624,6 +59624,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196235",
+        "title": "兆福",
+        "address": "彰化縣彰化市一德南路2號、彰南路三段400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6014,
+          24.08098
+        ],
+        "type": "Point"
+      },
+      "id": "196235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196268",
         "title": "卓聯",
         "address": "台北市大安區羅斯福路四段1號1樓卓聯大樓",
