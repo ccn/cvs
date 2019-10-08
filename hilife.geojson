@@ -6856,23 +6856,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3189",
-        "title": "桃縣桃旭店",
-        "address": "桃園市蘆竹區文中路一段８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.273818,
-          24.993007
-        ],
-        "type": "Point"
-      },
-      "id": "3189"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3195",
         "title": "大里立人店",
         "address": "台中市大里區益民路一段３１１號B１",
@@ -9940,8 +9923,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.632446774986,
-          25.0649358520662
+          121.6324226351048,
+          25.0648410968241
         ],
         "type": "Point"
       },
@@ -19925,6 +19908,23 @@
         "type": "Point"
       },
       "id": "4630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4632",
+        "title": "南投八卦店",
+        "address": "南投縣南投市八卦路１２５８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6378257698777,
+          23.9395031954138
+        ],
+        "type": "Point"
+      },
+      "id": "4632"
     },
     {
       "type": "Feature",
