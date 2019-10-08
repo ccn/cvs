@@ -10239,23 +10239,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127262",
-        "title": "興洲",
-        "address": "新北市新莊區新泰路472號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.443141,
-          25.045279
-        ],
-        "type": "Point"
-      },
-      "id": "127262"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127309",
         "title": "藍山",
         "address": "新北市中和區南山路41號及37巷2號",
@@ -55850,6 +55833,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "192820",
+        "title": "保雅",
+        "address": "台中市沙鹿區屏西路55號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.567602,
+          24.206183
+        ],
+        "type": "Point"
+      },
+      "id": "192820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "192831",
         "title": "東站",
         "address": "台東縣台東市岩灣路101巷598號",
@@ -62684,6 +62684,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201047",
+        "title": "留公",
+        "address": "台北市信義區福德街249號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.585974,
+          25.038778
+        ],
+        "type": "Point"
+      },
+      "id": "201047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201069",
+        "title": "興洲",
+        "address": "新北市新莊區新泰路472號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.443141,
+          25.045279
+        ],
+        "type": "Point"
+      },
+      "id": "201069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202512",
         "title": "英雄館",
         "address": "台北市中正區長沙街一段20號1樓",
@@ -63887,23 +63921,6 @@
         "type": "Point"
       },
       "id": "854557"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "854580",
-        "title": "留公",
-        "address": "台北市信義區福德街249號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.585974,
-          25.038778
-        ],
-        "type": "Point"
-      },
-      "id": "854580"
     },
     {
       "type": "Feature",
