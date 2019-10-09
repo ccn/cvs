@@ -59097,6 +59097,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195667",
+        "title": "岡好",
+        "address": "高雄市岡山區岡山路612、612-2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.291143,
+          22.802833
+        ],
+        "type": "Point"
+      },
+      "id": "195667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195678",
         "title": "鳳山站",
         "address": "高雄市鳳山區曹公路137號",
@@ -59569,6 +59586,23 @@
         "type": "Point"
       },
       "id": "196110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196132",
+        "title": "豐綻",
+        "address": "台中市豐原區中正路1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.722917,
+          24.254112
+        ],
+        "type": "Point"
+      },
+      "id": "196132"
     },
     {
       "type": "Feature",
