@@ -6085,25 +6085,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013285",
-        "title": "全家成都店",
-        "address": "台北市萬華區昆明街134號；成都路86號",
-        "post": "108",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte,FLatte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.504662,
-          25.042832
-        ],
-        "type": "Point"
-      },
-      "id": "013285"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013286",
         "title": "全家康柏店",
         "address": "台北市松山區健康路220號",
@@ -20122,25 +20103,6 @@
         "type": "Point"
       },
       "id": "015291"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015293",
-        "title": "全家湖口裝甲店",
-        "address": "新竹縣湖口鄉勝利路二段350號",
-        "post": "303",
-        "all": "COFFEE,Rest,SharePot,SingleOrigin,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.026881,
-          24.863257
-        ],
-        "type": "Point"
-      },
-      "id": "015293"
     },
     {
       "type": "Feature",
@@ -65726,6 +65688,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018759",
+        "title": "全家羅美店",
+        "address": "台北市文山區羅斯福路六段142巷5號1樓",
+        "post": "116",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.538696,
+          24.997128
+        ],
+        "type": "Point"
+      },
+      "id": "018759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018760",
         "title": "全家鳥松大仁店",
         "address": "高雄市鳥松區大仁南路1號一樓",
@@ -65741,6 +65722,25 @@
         "type": "Point"
       },
       "id": "018760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018761",
+        "title": "全家新豐福德店",
+        "address": "新竹縣新豐鄉康樂路一段479號1樓",
+        "post": "304",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.984739,
+          24.874589
+        ],
+        "type": "Point"
+      },
+      "id": "018761"
     },
     {
       "type": "Feature",
@@ -65821,6 +65821,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018767",
+        "title": "全家大林內林店",
+        "address": "嘉義縣大林鎮229-1號",
+        "post": "622",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.47134312,
+          23.60373571
+        ],
+        "type": "Point"
+      },
+      "id": "018767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018768",
+        "title": "全家金安店",
+        "address": "台北市中正區羅斯福路三段8號12樓",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.524883,
+          25.023396
+        ],
+        "type": "Point"
+      },
+      "id": "018768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018769",
         "title": "全家瑞興店",
         "address": "台北市內湖區瑞光路303號",
@@ -65874,6 +65912,25 @@
         "type": "Point"
       },
       "id": "018771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018772",
+        "title": "全家成都店",
+        "address": "台北市萬華區昆明街134號；成都路86號",
+        "post": "108",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte,FLatte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.504662,
+          25.042832
+        ],
+        "type": "Point"
+      },
+      "id": "018772"
     },
     {
       "type": "Feature",
@@ -66273,6 +66330,25 @@
         "type": "Point"
       },
       "id": "018817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018823",
+        "title": "全家宜蘭南澳店",
+        "address": "宜蘭縣南澳鄉蘇花路二段335號一樓",
+        "post": "272",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.802441,
+          24.465305
+        ],
+        "type": "Point"
+      },
+      "id": "018823"
     },
     {
       "type": "Feature",
