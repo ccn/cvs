@@ -37150,23 +37150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170277",
-        "title": "鑫衡陽",
-        "address": "台北市中正區衡陽路6號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5137773654,
-          25.042294919845997
-        ],
-        "type": "Point"
-      },
-      "id": "170277"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170288",
         "title": "林邊",
         "address": "屏東縣林邊鄉仁和里中山路275號277號",
@@ -62731,6 +62714,23 @@
         "type": "Point"
       },
       "id": "201047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201058",
+        "title": "鑫衡陽",
+        "address": "台北市中正區衡陽路6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5137773654,
+          25.042294919845997
+        ],
+        "type": "Point"
+      },
+      "id": "201058"
     },
     {
       "type": "Feature",
