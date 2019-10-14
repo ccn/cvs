@@ -20031,6 +20031,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4655",
+        "title": "岡山飛鷹店",
+        "address": "高雄市岡山區介壽西路西首１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2688920372056,
+          22.7861424248249
+        ],
+        "type": "Point"
+      },
+      "id": "4655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4662",
         "title": "龜山花香店",
         "address": "桃園市龜山區文化一路１０巷４２弄４９號",
