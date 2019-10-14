@@ -59539,6 +59539,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196084",
+        "title": "百齡",
+        "address": "台北市北投區石牌路一段37號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.510283,
+          25.113202
+        ],
+        "type": "Point"
+      },
+      "id": "196084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196095",
         "title": "嘉賢",
         "address": "嘉義市西區光路里世賢路四段120號1樓",
@@ -60997,6 +61014,23 @@
         "type": "Point"
       },
       "id": "197788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198301",
+        "title": "逢體館",
+        "address": "台中市西屯區文華路100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.646674,
+          24.180329
+        ],
+        "type": "Point"
+      },
+      "id": "198301"
     },
     {
       "type": "Feature",
