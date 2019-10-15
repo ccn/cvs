@@ -22156,23 +22156,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "146388",
-        "title": "丰太",
-        "address": "台中市太平區永豐路351號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.703785,
-          24.111799
-        ],
-        "type": "Point"
-      },
-      "id": "146388"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "146517",
         "title": "錠富",
         "address": "新北市石碇區隆盛村雙溪56號1樓",
@@ -22203,23 +22186,6 @@
         "type": "Point"
       },
       "id": "146540"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "146791",
-        "title": "興都",
-        "address": "新北市林口區文化二路一段378號1樓之一之二之三",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.374239,
-          25.076278
-        ],
-        "type": "Point"
-      },
-      "id": "146791"
     },
     {
       "type": "Feature",
@@ -60627,6 +60593,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197490",
+        "title": "興都",
+        "address": "新北市林口區文化二路一段378號1樓之一之二之三",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.374239,
+          25.076278
+        ],
+        "type": "Point"
+      },
+      "id": "197490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197504",
         "title": "六張街",
         "address": "新北市三重區六張街255巷17弄1號1樓255巷15號",
@@ -61881,6 +61864,23 @@
         "type": "Point"
       },
       "id": "199072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199083",
+        "title": "丰太",
+        "address": "台中市太平區永豐路351號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.703785,
+          24.111799
+        ],
+        "type": "Point"
+      },
+      "id": "199083"
     },
     {
       "type": "Feature",
