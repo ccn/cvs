@@ -5751,6 +5751,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "120087",
+        "title": "新麻豆",
+        "address": "台南市麻豆區榖興里11鄰中山路11號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.247921,
+          23.183587
+        ],
+        "type": "Point"
+      },
+      "id": "120087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "120146",
         "title": "瑞聯",
         "address": "台中市西屯區福科路890號1樓",
@@ -6359,6 +6376,23 @@
         "type": "Point"
       },
       "id": "120755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "120777",
+        "title": "台首大",
+        "address": "台南市麻豆區南勢里168號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.270689,
+          23.191978
+        ],
+        "type": "Point"
+      },
+      "id": "120777"
     },
     {
       "type": "Feature",
@@ -12942,23 +12976,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "131191",
-        "title": "大湳",
-        "address": "桃園市八德區和平路875-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.319529,
-          24.959741
-        ],
-        "type": "Point"
-      },
-      "id": "131191"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "131227",
         "title": "湖貴",
         "address": "彰化縣溪湖鎮西寮里員鹿路四段7號1樓",
@@ -14829,23 +14846,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "132965",
-        "title": "航祥",
-        "address": "桃園市大園區三民路一段785號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.252383,
-          25.090224
-        ],
-        "type": "Point"
-      },
-      "id": "132965"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "132976",
         "title": "和碩",
         "address": "台北市北投區立功街76號1樓",
@@ -16661,23 +16661,6 @@
         "type": "Point"
       },
       "id": "137557"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "137568",
-        "title": "勇利",
-        "address": "桃園市龜山區文化一路86-6號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.376682,
-          25.054115
-        ],
-        "type": "Point"
-      },
-      "id": "137568"
     },
     {
       "type": "Feature",
@@ -26355,23 +26338,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "154091",
-        "title": "揚善",
-        "address": "桃園市楊梅區中山北路一段23號25號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.150042,
-          24.907285
-        ],
-        "type": "Point"
-      },
-      "id": "154091"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "154105",
         "title": "忠平",
         "address": "新竹縣湖口鄉中平路一段271號1樓",
@@ -27966,23 +27932,6 @@
         "type": "Point"
       },
       "id": "158082"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "158093",
-        "title": "廣環",
-        "address": "台中市西屯區環中路二段698號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.644256,
-          24.195164
-        ],
-        "type": "Point"
-      },
-      "id": "158093"
     },
     {
       "type": "Feature",
@@ -35654,23 +35603,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167374",
-        "title": "龍池",
-        "address": "桃園市龍潭區中豐路上林段187號189號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.206605,
-          24.861565
-        ],
-        "type": "Point"
-      },
-      "id": "167374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167385",
         "title": "新加昌",
         "address": "高雄市楠梓區加昌路275.277號",
@@ -41655,23 +41587,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "179964",
-        "title": "屏鵝",
-        "address": "屏東縣恆春鎮恆南路6-6號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.748753,
-          21.988402
-        ],
-        "type": "Point"
-      },
-      "id": "179964"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "179986",
         "title": "安同",
         "address": "台南市安南區同安路235號",
@@ -41957,23 +41872,6 @@
         "type": "Point"
       },
       "id": "180171"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "180182",
-        "title": "精站",
-        "address": "台中市南屯區向上路五段289號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.608414,
-          24.150889
-        ],
-        "type": "Point"
-      },
-      "id": "180182"
     },
     {
       "type": "Feature",
@@ -43814,6 +43712,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "181532",
+        "title": "真新",
+        "address": "台南市麻豆區油車里油車24之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.245321,
+          23.189968
+        ],
+        "type": "Point"
+      },
+      "id": "181532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "181554",
         "title": "盛烽",
         "address": "桃園市新屋區梅高路三段310之6號",
@@ -45459,23 +45374,6 @@
         "type": "Point"
       },
       "id": "183099"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "183114",
-        "title": "工站",
-        "address": "台中市南屯區五權西路三段350號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.60621,
-          24.162281
-        ],
-        "type": "Point"
-      },
-      "id": "183114"
     },
     {
       "type": "Feature",
@@ -52650,6 +52548,23 @@
         "type": "Point"
       },
       "id": "188485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "188496",
+        "title": "新黎明",
+        "address": "台南市麻豆區興國路40-10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.247784,
+          23.180917
+        ],
+        "type": "Point"
+      },
+      "id": "188496"
     },
     {
       "type": "Feature",
@@ -60933,6 +60848,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197803",
+        "title": "大湳",
+        "address": "桃園市八德區和平路875-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.319529,
+          24.959741
+        ],
+        "type": "Point"
+      },
+      "id": "197803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197869",
+        "title": "航祥",
+        "address": "桃園市大園區三民路一段785號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.252383,
+          25.090224
+        ],
+        "type": "Point"
+      },
+      "id": "197869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198301",
         "title": "逢體館",
         "address": "台中市西屯區文華路100號1樓",
@@ -61953,6 +61902,91 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199197",
+        "title": "勇利",
+        "address": "桃園市龜山區文化一路86-6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.376682,
+          25.054115
+        ],
+        "type": "Point"
+      },
+      "id": "199197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199201",
+        "title": "揚善",
+        "address": "桃園市楊梅區中山北路一段23號25號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.150042,
+          24.907285
+        ],
+        "type": "Point"
+      },
+      "id": "199201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199212",
+        "title": "龍池",
+        "address": "桃園市龍潭區中豐路上林段187號189號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.206605,
+          24.861565
+        ],
+        "type": "Point"
+      },
+      "id": "199212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199223",
+        "title": "工站",
+        "address": "台中市南屯區五權西路三段350號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.60621,
+          24.162281
+        ],
+        "type": "Point"
+      },
+      "id": "199223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199234",
+        "title": "屏鵝",
+        "address": "屏東縣恆春鎮恆南路6-6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.748753,
+          21.988402
+        ],
+        "type": "Point"
+      },
+      "id": "199234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199245",
         "title": "南海",
         "address": "台北市中正區南海路50號",
@@ -62000,6 +62034,40 @@
         "type": "Point"
       },
       "id": "199267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199289",
+        "title": "廣環",
+        "address": "台中市西屯區環中路二段698號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.644256,
+          24.195164
+        ],
+        "type": "Point"
+      },
+      "id": "199289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199304",
+        "title": "精站",
+        "address": "台中市南屯區向上路五段289號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.608414,
+          24.150889
+        ],
+        "type": "Point"
+      },
+      "id": "199304"
     },
     {
       "type": "Feature",
@@ -66318,6 +66386,23 @@
         "type": "Point"
       },
       "id": "880073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "880143",
+        "title": "麻佳",
+        "address": "台南市麻豆區苓子林17-13號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.232151,
+          23.180454
+        ],
+        "type": "Point"
+      },
+      "id": "880143"
     },
     {
       "type": "Feature",
@@ -75604,6 +75689,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "931478",
+        "title": "麻新",
+        "address": "台南市麻豆區中正路289號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.252457,
+          23.189325
+        ],
+        "type": "Point"
+      },
+      "id": "931478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "931489",
         "title": "蓮營",
         "address": "台南市後壁區福安里200號",
@@ -81350,6 +81452,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "954183",
+        "title": "麻善",
+        "address": "台南市麻豆區晉江里民權路10-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.251322,
+          23.18296
+        ],
+        "type": "Point"
+      },
+      "id": "954183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "954208",
         "title": "米奇",
         "address": "高雄市大寮區大寮里大寮路903號",
@@ -84223,6 +84342,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "965600",
+        "title": "麻中",
+        "address": "台南市麻豆區南勢里南勢36-205號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.260374,
+          23.183745
+        ],
+        "type": "Point"
+      },
+      "id": "965600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "965611",
         "title": "遠德",
         "address": "台南市新化區北勢里中正路1211號",
@@ -85685,6 +85821,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "968263",
+        "title": "新曾文",
+        "address": "台南市麻豆區東角里興中路177號179號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.253468,
+          23.183801
+        ],
+        "type": "Point"
+      },
+      "id": "968263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "968311",
         "title": "雲海",
         "address": "嘉義縣中埔鄉隆興村十字路233號",
@@ -86378,6 +86531,23 @@
         "type": "Point"
       },
       "id": "970299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "970358",
+        "title": "麻學",
+        "address": "台南市麻豆區大山里8鄰大山腳1之80號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.220446,
+          23.190672
+        ],
+        "type": "Point"
+      },
+      "id": "970358"
     },
     {
       "type": "Feature",
