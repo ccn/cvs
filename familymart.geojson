@@ -46992,25 +46992,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017544",
-        "title": "全家台南灣裡店",
-        "address": "台南市南區興南街63號左邊",
-        "post": "702",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.183575,
-          22.923512
-        ],
-        "type": "Point"
-      },
-      "id": "017544"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017546",
         "title": "全家龜山導航店",
         "address": "桃園市龜山區華亞二路270號B1樓",
@@ -66182,6 +66163,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018800",
+        "title": "全家台南灣裡店",
+        "address": "台南市南區興南街63號左邊",
+        "post": "702",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.183575,
+          22.923512
+        ],
+        "type": "Point"
+      },
+      "id": "018800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018803",
         "title": "全家泰山憲訓店",
         "address": "新北市泰山區泰林路二段364號1樓",
@@ -66254,25 +66254,6 @@
         "type": "Point"
       },
       "id": "018811"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018812",
-        "title": "全家土城廣福店",
-        "address": "新北市土城區學府路一段162號",
-        "post": "236",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.454196,
-          24.986784
-        ],
-        "type": "Point"
-      },
-      "id": "018812"
     },
     {
       "type": "Feature",
@@ -66425,6 +66406,25 @@
         "type": "Point"
       },
       "id": "018840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018842",
+        "title": "全家土城廣福店",
+        "address": "新北市土城區學府路一段162號",
+        "post": "236",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.454196,
+          24.986784
+        ],
+        "type": "Point"
+      },
+      "id": "018842"
     },
     {
       "type": "Feature",
