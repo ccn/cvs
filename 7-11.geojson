@@ -4784,13 +4784,13 @@
       "properties": {
         "id": "118545",
         "title": "興學",
-        "address": "台中市南區學府路2號",
+        "address": "台中市南區學府路64號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.675335,
-          24.124665
+          120.675271,
+          24.124586
         ],
         "type": "Point"
       },
@@ -30945,23 +30945,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "163604",
-        "title": "旭東",
-        "address": "基隆市中正區中正路54號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.745298,
-          25.133878
-        ],
-        "type": "Point"
-      },
-      "id": "163604"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "163626",
         "title": "林宏",
         "address": "新北市新莊區成功街1號",
@@ -38852,7 +38835,7 @@
       "properties": {
         "id": "173634",
         "title": "龍仁",
-        "address": "苗栗縣頭份區中華路968-974號",
+        "address": "苗栗縣頭份市中華路968-974號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -56923,13 +56906,13 @@
       "properties": {
         "id": "193948",
         "title": "彰欣",
-        "address": "彰化縣彰化市彰興路一段528號",
+        "address": "彰化縣彰化市彰興路一段臨528號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.584902,
-          24.092923
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -58521,13 +58504,13 @@
       "properties": {
         "id": "195346",
         "title": "洪興",
-        "address": "新竹縣峨眉鄉峨眉村1鄰峨眉8-8號1樓",
+        "address": "新竹縣峨眉鄉峨眉村1鄰8-8號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.023682,
-          24.687148
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -59148,6 +59131,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195874",
+        "title": "管興",
+        "address": "彰化縣福興鄉沿海路三段286號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.415069,
+          24.030621
+        ],
+        "type": "Point"
+      },
+      "id": "195874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195885",
         "title": "北霆",
         "address": "新北市三峽區大同路244號1樓",
@@ -59405,13 +59405,13 @@
       "properties": {
         "id": "196132",
         "title": "豐綻",
-        "address": "台中市豐原區中正路1號1樓",
+        "address": "台中市豐原區中正路1-1號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.722917,
-          24.254112
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -60827,6 +60827,23 @@
         "type": "Point"
       },
       "id": "197766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197777",
+        "title": "旭東",
+        "address": "基隆市中正區中正路54號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.745298,
+          25.133878
+        ],
+        "type": "Point"
+      },
+      "id": "197777"
     },
     {
       "type": "Feature",
@@ -74858,13 +74875,13 @@
       "properties": {
         "id": "924539",
         "title": "關連",
-        "address": "台中市梧棲區臨港路三段72號",
+        "address": "台中市梧棲區臨港路三段70.72號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.514149,
-          24.228671
+          0,
+          0
         ],
         "type": "Point"
       },
