@@ -30656,23 +30656,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162748",
-        "title": "新元嘉",
-        "address": "高雄市林園區港嘴里沿海路三段237號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.386787,
-          22.500086
-        ],
-        "type": "Point"
-      },
-      "id": "162748"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162818",
         "title": "廣豐",
         "address": "屏東縣屏東市大連里廣東路280號280-1號",
@@ -54883,13 +54866,13 @@
       "properties": {
         "id": "190673",
         "title": "鑫領千",
-        "address": "高雄市三民區民族一路94號96號1樓",
+        "address": "高雄市三民區民族一路94號1+2樓96號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.314688,
-          22.643767
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -59250,6 +59233,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195966",
+        "title": "興觀",
+        "address": "新北市板橋區大觀路二段37巷34號36號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.448509,
+          25.002624
+        ],
+        "type": "Point"
+      },
+      "id": "195966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195977",
         "title": "育軒",
         "address": "新北市板橋區漢生東路268號270號1樓",
@@ -59620,6 +59620,23 @@
         "type": "Point"
       },
       "id": "196615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196626",
+        "title": "吉華",
+        "address": "花蓮縣吉安鄉中華路二段172號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.583933,
+          23.973891
+        ],
+        "type": "Point"
+      },
+      "id": "196626"
     },
     {
       "type": "Feature",
@@ -60521,6 +60538,23 @@
         "type": "Point"
       },
       "id": "197537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197548",
+        "title": "新元嘉",
+        "address": "高雄市林園區港嘴里沿海路三段237號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.386787,
+          22.500086
+        ],
+        "type": "Point"
+      },
+      "id": "197548"
     },
     {
       "type": "Feature",
@@ -61847,6 +61881,23 @@
         "type": "Point"
       },
       "id": "199131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199142",
+        "title": "工專",
+        "address": "雲林縣虎尾鎮中正路307號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.430048,
+          23.704668
+        ],
+        "type": "Point"
+      },
+      "id": "199142"
     },
     {
       "type": "Feature",
@@ -63938,23 +63989,6 @@
         "type": "Point"
       },
       "id": "854351"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "854421",
-        "title": "工專",
-        "address": "雲林縣虎尾鎮中正路307號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.430048,
-          23.704668
-        ],
-        "type": "Point"
-      },
-      "id": "854421"
     },
     {
       "type": "Feature",
@@ -88339,13 +88373,13 @@
       "properties": {
         "id": "973128",
         "title": "新海勝",
-        "address": "高雄市左營區翠華路601巷122號",
+        "address": "高雄市左營區翠華路601巷122,126號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.289823,
-          22.673323
+          0,
+          0
         ],
         "type": "Point"
       },
