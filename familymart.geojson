@@ -11937,25 +11937,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014239",
-        "title": "全家中壢新中原店",
-        "address": "桃園市中壢區新中北路243號1樓",
-        "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte,FLatte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.239816,
-          24.959308
-        ],
-        "type": "Point"
-      },
-      "id": "014239"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014243",
         "title": "全家台中向上店",
         "address": "台中市西區向上路一段36號",
@@ -24093,25 +24074,6 @@
         "type": "Point"
       },
       "id": "015811"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015812",
-        "title": "全家泰山南科店",
-        "address": "新北市泰山區南林路98號支援二棟6樓販賣部",
-        "post": "243",
-        "all": "COFFEE,SWEETPOTATO,icecream,oneice,twoice,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte,FLatte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.413369,
-          25.045297
-        ],
-        "type": "Point"
-      },
-      "id": "015812"
     },
     {
       "type": "Feature",
@@ -62097,25 +62059,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018539",
-        "title": "全家新竹旺宏三店",
-        "address": "新竹市東區力行路19號1樓(新竹科學園區)",
-        "post": "300",
-        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.024669,
-          24.764569
-        ],
-        "type": "Point"
-      },
-      "id": "018539"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018540",
         "title": "全家淡水濱海店",
         "address": "新北市淡水區濱海路一段308號",
@@ -66296,6 +66239,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018826",
+        "title": "全家鳳山鳳庄店",
+        "address": "高雄市鳳山區鳳頂路181號",
+        "post": "830",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.35852471,
+          22.58858235
+        ],
+        "type": "Point"
+      },
+      "id": "018826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018828",
         "title": "全家竹南崁頂店",
         "address": "苗栗縣竹南鎮永貞路二段149號",
@@ -66349,6 +66311,25 @@
         "type": "Point"
       },
       "id": "018831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018833",
+        "title": "全家泰山南科店",
+        "address": "新北市泰山區南林路98號支援二棟6樓販賣部",
+        "post": "243",
+        "all": "COFFEE,SWEETPOTATO,icecream,oneice,twoice,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte,FLatte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.413369,
+          25.045297
+        ],
+        "type": "Point"
+      },
+      "id": "018833"
     },
     {
       "type": "Feature",
@@ -66425,6 +66406,44 @@
         "type": "Point"
       },
       "id": "018842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018845",
+        "title": "全家新竹旺宏三店",
+        "address": "新竹市東區力行路19號1樓(新竹科學園區)",
+        "post": "300",
+        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.024669,
+          24.764569
+        ],
+        "type": "Point"
+      },
+      "id": "018845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018847",
+        "title": "全家中壢新中原店",
+        "address": "桃園市中壢區新中北路243號1樓",
+        "post": "320",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte,FLatte",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.239816,
+          24.959308
+        ],
+        "type": "Point"
+      },
+      "id": "018847"
     },
     {
       "type": "Feature",
