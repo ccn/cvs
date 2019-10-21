@@ -20082,6 +20082,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4664",
+        "title": "新屋芳華店",
+        "address": "桃園市新屋區中華南路二段２９８、３００、３０２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1178312783088,
+          24.95277139125
+        ],
+        "type": "Point"
+      },
+      "id": "4664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
