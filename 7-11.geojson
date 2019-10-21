@@ -57091,6 +57091,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194099",
+        "title": "廣耘",
+        "address": "桃園市平鎮區廣泰路212號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.20354,
+          24.943821
+        ],
+        "type": "Point"
+      },
+      "id": "194099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194103",
         "title": "橋鈺",
         "address": "台南市永康區東橋七路369號1樓",
