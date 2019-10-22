@@ -30350,23 +30350,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "161790",
-        "title": "新大埔",
-        "address": "彰化縣彰化市延平里大埔路540號542號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.54282170190599,
-          24.0653035099612
-        ],
-        "type": "Point"
-      },
-      "id": "161790"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "161907",
         "title": "員成",
         "address": "彰化縣員林市中山路二段216號",
@@ -47010,6 +46993,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184335",
+        "title": "幼勝",
+        "address": "台中市大甲區中山路二段920之21號之22號之23號之25號之26號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.643176,
+          24.400711
+        ],
+        "type": "Point"
+      },
+      "id": "184335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184357",
         "title": "后里棧",
         "address": "台中市后里區馬場路300號B1樓",
@@ -51409,23 +51409,6 @@
         "type": "Point"
       },
       "id": "187688"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "187699",
-        "title": "中芸",
-        "address": "高雄市林園區中芸里鳳芸二路57號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.397257,
-          22.487123
-        ],
-        "type": "Point"
-      },
-      "id": "187699"
     },
     {
       "type": "Feature",
@@ -56870,23 +56853,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193937",
-        "title": "福德三",
-        "address": "新北市新莊區福德三街70號72號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.46057,
-          25.058874
-        ],
-        "type": "Point"
-      },
-      "id": "193937"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193948",
         "title": "彰欣",
         "address": "彰化縣彰化市彰興路一段臨528號",
@@ -60712,6 +60678,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197630",
+        "title": "福德三",
+        "address": "新北市新莊區福德三街70號72號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46057,
+          25.058874
+        ],
+        "type": "Point"
+      },
+      "id": "197630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197652",
         "title": "京佳",
         "address": "台北市松山區南京東路五段229號231號1樓",
@@ -62153,6 +62136,40 @@
         "type": "Point"
       },
       "id": "199304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199315",
+        "title": "新大埔",
+        "address": "彰化縣彰化市延平里大埔路540號542號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.54282170190599,
+          24.0653035099612
+        ],
+        "type": "Point"
+      },
+      "id": "199315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199326",
+        "title": "中芸",
+        "address": "高雄市林園區中芸里鳳芸二路57號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.397257,
+          22.487123
+        ],
+        "type": "Point"
+      },
+      "id": "199326"
     },
     {
       "type": "Feature",
