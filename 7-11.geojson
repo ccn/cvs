@@ -62684,23 +62684,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200952",
-        "title": "箱根",
-        "address": "桃園市桃園區南平路416號418號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.29604,
-          25.017328
-        ],
-        "type": "Point"
-      },
-      "id": "200952"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200963",
         "title": "林森北",
         "address": "台北市中山區林森北路380之1號1樓",
@@ -62884,6 +62867,23 @@
         "type": "Point"
       },
       "id": "201069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202486",
+        "title": "箱根",
+        "address": "桃園市桃園區南平路416號418號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.29604,
+          25.017328
+        ],
+        "type": "Point"
+      },
+      "id": "202486"
     },
     {
       "type": "Feature",
