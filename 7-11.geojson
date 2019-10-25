@@ -54854,8 +54854,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.314688,
+          22.643767
         ],
         "type": "Point"
       },
@@ -56860,8 +56860,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.584902,
+          24.092923
         ],
         "type": "Point"
       },
@@ -58475,8 +58475,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.022058,
+          24.686891
         ],
         "type": "Point"
       },
@@ -59393,8 +59393,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.723623,
+          24.254379
         ],
         "type": "Point"
       },
@@ -62170,6 +62170,23 @@
         "type": "Point"
       },
       "id": "199326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199359",
+        "title": "頂社",
+        "address": "桃園市蘆竹區山林路三段170-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.319124,
+          25.07787
+        ],
+        "type": "Point"
+      },
+      "id": "199359"
     },
     {
       "type": "Feature",
@@ -74948,8 +74965,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.514149,
+          24.228671
         ],
         "type": "Point"
       },
@@ -92736,23 +92753,6 @@
         "type": "Point"
       },
       "id": "991182"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "991252",
-        "title": "頂社",
-        "address": "桃園市蘆竹區山林路三段170-2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.319124,
-          25.07787
-        ],
-        "type": "Point"
-      },
-      "id": "991252"
     },
     {
       "type": "Feature",
