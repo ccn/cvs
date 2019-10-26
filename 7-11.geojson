@@ -29976,23 +29976,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "160269",
-        "title": "新福興",
-        "address": "花蓮縣吉安鄉福興村吉安路三段80號82號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.559983,
-          23.968585
-        ],
-        "type": "Point"
-      },
-      "id": "160269"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "160328",
         "title": "金宏",
         "address": "高雄市小港區順苓里宏平路501號",
@@ -37656,23 +37639,6 @@
         "type": "Point"
       },
       "id": "170886"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "170923",
-        "title": "美吉",
-        "address": "新北市三重區集美街240號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.492263,
-          25.055964
-        ],
-        "type": "Point"
-      },
-      "id": "170923"
     },
     {
       "type": "Feature",
@@ -59471,6 +59437,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196246",
+        "title": "羅昌",
+        "address": "台北市中正區南昌路二段206號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52432,
+          25.024038
+        ],
+        "type": "Point"
+      },
+      "id": "196246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196268",
         "title": "卓聯",
         "address": "台北市大安區羅斯福路四段1號1樓卓聯大樓",
@@ -59688,6 +59671,23 @@
         "type": "Point"
       },
       "id": "196741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196855",
+        "title": "侯成",
+        "address": "宜蘭縣蘇澳鎮福德路463號465號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.828219,
+          24.647987
+        ],
+        "type": "Point"
+      },
+      "id": "196855"
     },
     {
       "type": "Feature",
@@ -62187,6 +62187,23 @@
         "type": "Point"
       },
       "id": "199359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199371",
+        "title": "新福興",
+        "address": "花蓮縣吉安鄉福興村吉安路三段80號82號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.559983,
+          23.968585
+        ],
+        "type": "Point"
+      },
+      "id": "199371"
     },
     {
       "type": "Feature",
