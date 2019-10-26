@@ -20133,6 +20133,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4651",
+        "title": "大園羽田店",
+        "address": "桃園市大園區高鐵北路二段１４５號、大成路二段１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2211341107393,
+          25.0199951475384
+        ],
+        "type": "Point"
+      },
+      "id": "4651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4652",
         "title": "三重天富店",
         "address": "新北市三重區中正北路２７８、２８０及２８２號",
