@@ -59471,6 +59471,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196279",
+        "title": "美的",
+        "address": "基隆市信義區教孝街28號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.774952,
+          25.137324
+        ],
+        "type": "Point"
+      },
+      "id": "196279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196280",
         "title": "朗廷會",
         "address": "新北市林口區文化三路二段91號1樓",
@@ -60950,6 +60967,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198404",
+        "title": "府中讚",
+        "address": "新北市板橋區府中路41號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.458565,
+          25.008931
+        ],
+        "type": "Point"
+      },
+      "id": "198404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198529",
         "title": "盧奉",
         "address": "桃園市蘆竹區奉化路25號27號1樓",
@@ -62204,6 +62238,40 @@
         "type": "Point"
       },
       "id": "199371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199832",
+        "title": "美吉",
+        "address": "新北市三重區集美街223號225號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.491999,
+          25.054947
+        ],
+        "type": "Point"
+      },
+      "id": "199832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199854",
+        "title": "三角湧",
+        "address": "新北市三峽區中正路二段200號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.365766,
+          24.91444
+        ],
+        "type": "Point"
+      },
+      "id": "199854"
     },
     {
       "type": "Feature",
