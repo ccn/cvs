@@ -19283,6 +19283,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4566",
+        "title": "楠梓高大店",
+        "address": "高雄市楠梓區大學南路３０９號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2904618090483,
+          22.7320845684826
+        ],
+        "type": "Point"
+      },
+      "id": "4566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4568",
         "title": "汐止千萬店",
         "address": "新北市汐止區汐萬路一段４０９、４１１號一樓",
@@ -20044,6 +20061,23 @@
         "type": "Point"
       },
       "id": "4639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4640",
+        "title": "中山力行店",
+        "address": "台北市中山區龍江路４７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.540539511383,
+          25.0492473469467
+        ],
+        "type": "Point"
+      },
+      "id": "4640"
     },
     {
       "type": "Feature",
