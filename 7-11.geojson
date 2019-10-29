@@ -10222,23 +10222,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127251",
-        "title": "桃華",
-        "address": "桃園市桃園區南華街113號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.30770421666101,
-          24.992044746768002
-        ],
-        "type": "Point"
-      },
-      "id": "127251"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127309",
         "title": "藍山",
         "address": "新北市中和區南山路41號及37巷2號",
@@ -18106,23 +18089,6 @@
         "type": "Point"
       },
       "id": "139092"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "139106",
-        "title": "上興",
-        "address": "桃園市蘆竹區上興路251號253號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.260491,
-          25.01872
-        ],
-        "type": "Point"
-      },
-      "id": "139106"
     },
     {
       "type": "Feature",
@@ -37048,23 +37014,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170370",
-        "title": "好事達",
-        "address": "高雄市大社區保社里旗楠路71號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.345535,
-          22.747193
-        ],
-        "type": "Point"
-      },
-      "id": "170370"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170381",
         "title": "興隆",
         "address": "台北市文山區興隆路二段219號",
@@ -52450,23 +52399,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188485",
-        "title": "建六",
-        "address": "新北市中和區建六路62號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.486109,
-          25.002031
-        ],
-        "type": "Point"
-      },
-      "id": "188485"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188496",
         "title": "新黎明",
         "address": "台南市麻豆區興國路40-10號",
@@ -56037,23 +55969,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193188",
-        "title": "安坑",
-        "address": "新北市新店區安民街346號348號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517009,
-          24.975566
-        ],
-        "type": "Point"
-      },
-      "id": "193188"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193199",
         "title": "喬興",
         "address": "台南市西港區慶安里新興街8-77.8-78號",
@@ -59590,6 +59505,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196442",
+        "title": "鑫中華",
+        "address": "台中市中區中華路一段153.155號一樓157號一二樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196615",
         "title": "高捷站",
         "address": "高雄市三民區建國二路320號B1樓",
@@ -59671,6 +59603,23 @@
         "type": "Point"
       },
       "id": "196693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196718",
+        "title": "桃華",
+        "address": "桃園市桃園區南華街106號108號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.308103,
+          24.991645
+        ],
+        "type": "Point"
+      },
+      "id": "196718"
     },
     {
       "type": "Feature",
@@ -60831,6 +60780,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197722",
+        "title": "建六",
+        "address": "新北市中和區建六路62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.486109,
+          25.002031
+        ],
+        "type": "Point"
+      },
+      "id": "197722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197733",
         "title": "鑫國泰",
         "address": "台北市信義區忠孝東路五段68號24樓",
@@ -60929,6 +60895,23 @@
         "type": "Point"
       },
       "id": "197803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197836",
+        "title": "安坑",
+        "address": "新北市新店區安民街346號348號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517009,
+          24.975566
+        ],
+        "type": "Point"
+      },
+      "id": "197836"
     },
     {
       "type": "Feature",
@@ -62225,6 +62208,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199360",
+        "title": "上興",
+        "address": "桃園市蘆竹區上興路251號253號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.260491,
+          25.01872
+        ],
+        "type": "Point"
+      },
+      "id": "199360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199371",
         "title": "新福興",
         "address": "花蓮縣吉安鄉福興村吉安路三段80號82號",
@@ -62242,6 +62242,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199407",
+        "title": "南澳",
+        "address": "宜蘭縣蘇澳鎮南強里蘇花路二段328號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.802245,
+          24.464961
+        ],
+        "type": "Point"
+      },
+      "id": "199407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199832",
         "title": "美吉",
         "address": "新北市三重區集美街223號225號",
@@ -62255,23 +62272,6 @@
         "type": "Point"
       },
       "id": "199832"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "199854",
-        "title": "三角湧",
-        "address": "新北市三峽區中正路二段200號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.365766,
-          24.91444
-        ],
-        "type": "Point"
-      },
-      "id": "199854"
     },
     {
       "type": "Feature",
@@ -62969,6 +62969,23 @@
         "type": "Point"
       },
       "id": "201069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201070",
+        "title": "好事達",
+        "address": "高雄市大社區保社里旗楠路71號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.345535,
+          22.747193
+        ],
+        "type": "Point"
+      },
+      "id": "201070"
     },
     {
       "type": "Feature",
@@ -70857,23 +70874,6 @@
         "type": "Point"
       },
       "id": "902997"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "903037",
-        "title": "南澳",
-        "address": "宜蘭縣蘇澳鎮南強里蘇花路二段328號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.802245,
-          24.464961
-        ],
-        "type": "Point"
-      },
-      "id": "903037"
     },
     {
       "type": "Feature",
