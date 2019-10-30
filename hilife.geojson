@@ -6839,23 +6839,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3187",
-        "title": "竹縣富林店",
-        "address": "新竹縣芎林鄉文德路５１號及綠獅段７１５-２地號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.077123773175,
-          24.7774878608848
-        ],
-        "type": "Point"
-      },
-      "id": "3187"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3195",
         "title": "大里立人店",
         "address": "台中市大里區益民路一段３１１號B１",
@@ -8121,8 +8104,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.516667462097,
-          24.9695403681263
+          121.5166325933799,
+          24.9694333816753
         ],
         "type": "Point"
       },
@@ -8365,23 +8348,6 @@
         "type": "Point"
       },
       "id": "3478"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3480",
-        "title": "竹縣富裕店",
-        "address": "新竹縣芎林鄉福昌街３９３號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.09805132936,
-          24.7505570308808
-        ],
-        "type": "Point"
-      },
-      "id": "3480"
     },
     {
       "type": "Feature",
@@ -12462,23 +12428,6 @@
         "type": "Point"
       },
       "id": "4005"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4006",
-        "title": "芎林富山店",
-        "address": "新竹縣芎林鄉文山路１３７、１３９、１４１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.0849511461715,
-          24.7732880885001
-        ],
-        "type": "Point"
-      },
-      "id": "4006"
     },
     {
       "type": "Feature",
@@ -18246,6 +18195,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4478",
+        "title": "田中大社店",
+        "address": "彰化縣田中鎮中正路５７７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.583445,
+          23.863843
+        ],
+        "type": "Point"
+      },
+      "id": "4478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4479",
         "title": "八德星晴店",
         "address": "桃園市八德區興豐路３４０、３４２、３４４號。",
@@ -20214,6 +20180,23 @@
         "type": "Point"
       },
       "id": "4655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4657",
+        "title": "南港慈祐宮店",
+        "address": "台北市南港區南港路三段３５８、３６０號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5803172736296,
+          25.0515918589924
+        ],
+        "type": "Point"
+      },
+      "id": "4657"
     },
     {
       "type": "Feature",
