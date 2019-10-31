@@ -27953,23 +27953,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "158266",
-        "title": "美雅仕",
-        "address": "新北市林口區文化二路一段262號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.371382,
-          25.073726
-        ],
-        "type": "Point"
-      },
-      "id": "158266"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "158277",
         "title": "玉堂",
         "address": "高雄市左營區曾子路1號",
@@ -56173,23 +56156,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193443",
-        "title": "寶山街",
-        "address": "桃園市桃園區寶山街280號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.314477,
-          25.011844
-        ],
-        "type": "Point"
-      },
-      "id": "193443"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193454",
         "title": "桃遠百",
         "address": "桃園市桃園區中正路20號B1樓",
@@ -60916,6 +60882,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197858",
+        "title": "寶山街",
+        "address": "桃園市桃園區寶山街280號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.314477,
+          25.011844
+        ],
+        "type": "Point"
+      },
+      "id": "197858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197869",
         "title": "航祥",
         "address": "桃園市大園區三民路一段785號1樓",
@@ -62259,6 +62242,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199418",
+        "title": "美雅仕",
+        "address": "新北市林口區文化二路一段262號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.371382,
+          25.073726
+        ],
+        "type": "Point"
+      },
+      "id": "199418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199832",
         "title": "美吉",
         "address": "新北市三重區集美街223號225號",
@@ -62939,23 +62939,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201058",
-        "title": "鑫衡陽",
-        "address": "台北市中正區衡陽路6號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5137773654,
-          25.042294919845997
-        ],
-        "type": "Point"
-      },
-      "id": "201058"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201069",
         "title": "興洲",
         "address": "新北市新莊區新泰路472號1樓",
@@ -63003,6 +62986,23 @@
         "type": "Point"
       },
       "id": "202486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202497",
+        "title": "鑫衡陽",
+        "address": "台北市中正區衡陽路6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5137773654,
+          25.042294919845997
+        ],
+        "type": "Point"
+      },
+      "id": "202497"
     },
     {
       "type": "Feature",
