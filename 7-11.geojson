@@ -2963,23 +2963,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "113676",
-        "title": "統家",
-        "address": "台北市大安區忠孝東路四段216巷27弄1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.553361394032,
-          25.0399389109956
-        ],
-        "type": "Point"
-      },
-      "id": "113676"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "113687",
         "title": "六合",
         "address": "南投縣水里鄉民生路175號1樓",
@@ -59573,6 +59556,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196707",
+        "title": "港隆",
+        "address": "基隆市仁愛區孝四路23號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.738969,
+          25.131394
+        ],
+        "type": "Point"
+      },
+      "id": "196707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196718",
         "title": "桃華",
         "address": "桃園市桃園區南華街106號108號1樓",
@@ -60929,6 +60929,23 @@
         "type": "Point"
       },
       "id": "198301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198334",
+        "title": "芯建",
+        "address": "新北市中和區建一路182號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.487804,
+          24.997049
+        ],
+        "type": "Point"
+      },
+      "id": "198334"
     },
     {
       "type": "Feature",
@@ -62969,6 +62986,23 @@
         "type": "Point"
       },
       "id": "201070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201081",
+        "title": "統家",
+        "address": "台北市大安區忠孝東路四段216巷27弄1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.553361394032,
+          25.0399389109956
+        ],
+        "type": "Point"
+      },
+      "id": "201081"
     },
     {
       "type": "Feature",
