@@ -75,7 +75,7 @@
       "properties": {
         "id": "2012",
         "title": "斗六民生店",
-        "address": "雲林縣斗六市民生路１６０號",
+        "address": "雲林縣斗六市民生路１６０號一樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5061,8 +5061,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.743415,
-          24.750076
+          121.7435544748688,
+          24.7499688235078
         ],
         "type": "Point"
       },
@@ -6839,6 +6839,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3187",
+        "title": "竹縣富林店",
+        "address": "新竹縣芎林鄉文德路５１號及綠獅段７１５-２地號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.077123773175,
+          24.7774878608848
+        ],
+        "type": "Point"
+      },
+      "id": "3187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "3195",
         "title": "大里立人店",
         "address": "台中市大里區益民路一段３１１號B１",
@@ -8348,6 +8365,23 @@
         "type": "Point"
       },
       "id": "3478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3480",
+        "title": "竹縣富裕店",
+        "address": "新竹縣芎林鄉福昌街３９３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.09805132936,
+          24.7505570308808
+        ],
+        "type": "Point"
+      },
+      "id": "3480"
     },
     {
       "type": "Feature",
@@ -12428,6 +12462,23 @@
         "type": "Point"
       },
       "id": "4005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4006",
+        "title": "芎林富山店",
+        "address": "新竹縣芎林鄉文山路１３７、１３９、１４１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0849511461715,
+          24.7732880885001
+        ],
+        "type": "Point"
+      },
+      "id": "4006"
     },
     {
       "type": "Feature",
@@ -20167,6 +20218,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4653",
+        "title": "集集火車店",
+        "address": "南投縣集集鎮民生路１１３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.7838301362589,
+          23.8268598390456
+        ],
+        "type": "Point"
+      },
+      "id": "4653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4655",
         "title": "岡山飛鷹店",
         "address": "高雄市岡山區介壽西路西首１號",
@@ -20248,6 +20316,23 @@
         "type": "Point"
       },
       "id": "4664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4667",
+        "title": "芎林華科店",
+        "address": "新竹縣芎林鄉大華路１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0900371113366,
+          24.7783803841716
+        ],
+        "type": "Point"
+      },
+      "id": "4667"
     },
     {
       "type": "Feature",
