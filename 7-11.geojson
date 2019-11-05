@@ -45514,23 +45514,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183376",
-        "title": "臨海",
-        "address": "高雄市鼓山區臨海二路8號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.27446,
-          22.621708
-        ],
-        "type": "Point"
-      },
-      "id": "183376"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183387",
         "title": "正發",
         "address": "高雄市大寮區會社里鳳林三路421號",
@@ -49165,23 +49148,6 @@
         "type": "Point"
       },
       "id": "186054"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "186065",
-        "title": "信福",
-        "address": "台北市信義區福德街308號310巷1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.587454,
-          25.039333
-        ],
-        "type": "Point"
-      },
-      "id": "186065"
     },
     {
       "type": "Feature",
@@ -57142,23 +57108,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194354",
-        "title": "玉成",
-        "address": "台北市南港區西新里南港路三段3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.592162,
-          25.054043
-        ],
-        "type": "Point"
-      },
-      "id": "194354"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194365",
         "title": "榮福",
         "address": "桃園市中壢區永福路1092號1092-1號1096號1樓",
@@ -59603,6 +59552,23 @@
         "type": "Point"
       },
       "id": "196741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196774",
+        "title": "超贊",
+        "address": "台中市南區高工路202號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196774"
     },
     {
       "type": "Feature",
@@ -62293,6 +62259,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200192",
+        "title": "科積",
+        "address": "台中市西屯區新科路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.61116,
+          24.206422
+        ],
+        "type": "Point"
+      },
+      "id": "200192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200561",
         "title": "康喜",
         "address": "台北市文山區興隆路三段42號",
@@ -63003,6 +62986,57 @@
         "type": "Point"
       },
       "id": "201081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201092",
+        "title": "臨海",
+        "address": "高雄市鼓山區臨海二路8號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.27446,
+          22.621708
+        ],
+        "type": "Point"
+      },
+      "id": "201092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201106",
+        "title": "玉成",
+        "address": "台北市南港區西新里南港路三段3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.592162,
+          25.054043
+        ],
+        "type": "Point"
+      },
+      "id": "201106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201117",
+        "title": "信福",
+        "address": "台北市信義區福德街308號310巷1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.587454,
+          25.039333
+        ],
+        "type": "Point"
+      },
+      "id": "201117"
     },
     {
       "type": "Feature",
