@@ -11538,25 +11538,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014262",
-        "title": "全家中壢宏大店",
-        "address": "桃園市中壢區中園路192-2號",
-        "post": "320",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.238157,
-          24.984616
-        ],
-        "type": "Point"
-      },
-      "id": "014262"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014263",
         "title": "全家台中長樂店",
         "address": "台中市東區樂業路342號",
@@ -33061,25 +33042,6 @@
         "type": "Point"
       },
       "id": "016563"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016565",
-        "title": "全家中壢吉林店",
-        "address": "桃園市中壢區吉林二路79巷2號",
-        "post": "320",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.248114,
-          24.982625
-        ],
-        "type": "Point"
-      },
-      "id": "016565"
     },
     {
       "type": "Feature",
@@ -66068,6 +66030,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018853",
+        "title": "全家沙鹿金站店",
+        "address": "台中市沙鹿區大同街14-2號",
+        "post": "433",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.55737,
+          24.233632
+        ],
+        "type": "Point"
+      },
+      "id": "018853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018854",
         "title": "全家三重銀和店",
         "address": "新北市三重區三和路四段394號1樓",
@@ -66102,6 +66083,25 @@
         "type": "Point"
       },
       "id": "018855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018857",
+        "title": "全家高雄先鋒店",
+        "address": "高雄市左營區先鋒路425號一樓,夾層",
+        "post": "813",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.282478,
+          22.681013
+        ],
+        "type": "Point"
+      },
+      "id": "018857"
     },
     {
       "type": "Feature",
@@ -66767,6 +66767,44 @@
         "type": "Point"
       },
       "id": "018920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018921",
+        "title": "全家中壢宏大店",
+        "address": "桃園市中壢區中園路192-2號",
+        "post": "320",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.238157,
+          24.984616
+        ],
+        "type": "Point"
+      },
+      "id": "018921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018922",
+        "title": "全家中壢吉林店",
+        "address": "桃園市中壢區吉林二路79巷2號",
+        "post": "320",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,twoice,muffin,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.248114,
+          24.982625
+        ],
+        "type": "Point"
+      },
+      "id": "018922"
     },
     {
       "type": "Feature",
