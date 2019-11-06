@@ -54456,23 +54456,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190514",
-        "title": "信科",
-        "address": "高雄市左營區重信路601號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.308657598443,
-          22.6859326946762
-        ],
-        "type": "Point"
-      },
-      "id": "190514"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190525",
         "title": "復貴",
         "address": "新北市三重區光復路二段146之2號1樓",
@@ -58417,6 +58400,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195461",
+        "title": "羅威",
+        "address": "雲林縣崙背鄉羅厝村東興路168-1號.168-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.364527,
+          23.758181
+        ],
+        "type": "Point"
+      },
+      "id": "195461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195472",
         "title": "大街",
         "address": "屏東縣恆春鎮墾丁里墾丁路225.227號1樓",
@@ -60882,6 +60882,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197881",
+        "title": "信科",
+        "address": "高雄市左營區重信路601號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308657598443,
+          22.6859326946762
+        ],
+        "type": "Point"
+      },
+      "id": "197881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198275",
+        "title": "日安",
+        "address": "台北市士林區文林路444號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52466,
+          25.095262
+        ],
+        "type": "Point"
+      },
+      "id": "198275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198301",
         "title": "逢體館",
         "address": "台中市西屯區文華路100號1樓",
@@ -60912,6 +60946,23 @@
         "type": "Point"
       },
       "id": "198334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198345",
+        "title": "新埔站",
+        "address": "新北市板橋區民生路二段232之14號1樓2樓232之15號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468888,
+          25.022418
+        ],
+        "type": "Point"
+      },
+      "id": "198345"
     },
     {
       "type": "Feature",
