@@ -59563,8 +59563,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.663536,
+          24.113344
         ],
         "type": "Point"
       },
@@ -60980,6 +60980,23 @@
         "type": "Point"
       },
       "id": "198404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198493",
+        "title": "大同南",
+        "address": "新北市三重區大同南路102號106號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.496292,
+          25.05882
+        ],
+        "type": "Point"
+      },
+      "id": "198493"
     },
     {
       "type": "Feature",
@@ -62975,13 +62992,13 @@
       "properties": {
         "id": "201047",
         "title": "留公",
-        "address": "台北市信義區福德街249號",
+        "address": "台北市信義區福德街247號249號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.585974,
-          25.038778
+          0,
+          0
         ],
         "type": "Point"
       },
