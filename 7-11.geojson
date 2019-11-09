@@ -59556,6 +59556,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196752",
+        "title": "森華",
+        "address": "台北市中山區林森北路587號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525892,
+          25.066041
+        ],
+        "type": "Point"
+      },
+      "id": "196752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196774",
         "title": "超贊",
         "address": "台中市南區高工路202號1樓",
