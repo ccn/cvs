@@ -19198,6 +19198,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4559",
+        "title": "太平樂安店",
+        "address": "台中市太平區新坪里１５鄰育賢路６０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.7235277381124,
+          24.1569140161595
+        ],
+        "type": "Point"
+      },
+      "id": "4559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4560",
         "title": "三重大院店",
         "address": "新北市三重區安和路１０５號",
