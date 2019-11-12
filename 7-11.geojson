@@ -32985,23 +32985,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "165323",
-        "title": "汀州",
-        "address": "台北市中正區汀州路一段129號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5095,
-          25.02805
-        ],
-        "type": "Point"
-      },
-      "id": "165323"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "165334",
         "title": "康雲",
         "address": "台北市內湖區康寧路一段160號",
@@ -42592,13 +42575,13 @@
       "properties": {
         "id": "180849",
         "title": "明月",
-        "address": "高雄市楠梓加工區第二園區創意北路1號",
+        "address": "高雄市楠梓區楠梓加工區第二園區創意北路1號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.300625,
-          22.714693
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -48417,23 +48400,6 @@
         "type": "Point"
       },
       "id": "185512"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185523",
-        "title": "茄苳",
-        "address": "新北市汐止區忠孝東路357號359號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.6655,
-          25.07066
-        ],
-        "type": "Point"
-      },
-      "id": "185523"
     },
     {
       "type": "Feature",
@@ -56226,13 +56192,13 @@
       "properties": {
         "id": "193568",
         "title": "北園",
-        "address": "台南市北區北園街6號之6  1、2樓",
+        "address": "台南市北區北園街6號之6, 1、2樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.22334,
-          23.010328
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -56787,13 +56753,13 @@
       "properties": {
         "id": "194066",
         "title": "彰北",
-        "address": "彰化市建國東路258號",
+        "address": "彰化縣彰化市建國東路258號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.554481,
-          24.095324
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -58056,6 +58022,23 @@
         "type": "Point"
       },
       "id": "195173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195184",
+        "title": "漢展",
+        "address": "台中市東區自由路四段436號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "195184"
     },
     {
       "type": "Feature",
@@ -59416,6 +59399,23 @@
         "type": "Point"
       },
       "id": "196442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196590",
+        "title": "一品苑",
+        "address": "桃園市桃園區同德六街103號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.299032,
+          25.016033
+        ],
+        "type": "Point"
+      },
+      "id": "196590"
     },
     {
       "type": "Feature",
@@ -62327,6 +62327,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199441",
+        "title": "汀州",
+        "address": "台北市中正區汀州路一段129號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5095,
+          25.02805
+        ],
+        "type": "Point"
+      },
+      "id": "199441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199832",
         "title": "美吉",
         "address": "新北市三重區集美街223號225號",
@@ -62357,6 +62374,23 @@
         "type": "Point"
       },
       "id": "199854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199957",
+        "title": "微風1",
+        "address": "台北市中正區北平西路3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517081,
+          25.047924
+        ],
+        "type": "Point"
+      },
+      "id": "199957"
     },
     {
       "type": "Feature",
@@ -63139,6 +63173,23 @@
         "type": "Point"
       },
       "id": "201117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201128",
+        "title": "茄苳",
+        "address": "新北市汐止區忠孝東路357號359號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6655,
+          25.07066
+        ],
+        "type": "Point"
+      },
+      "id": "201128"
     },
     {
       "type": "Feature",
