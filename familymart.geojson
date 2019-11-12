@@ -66296,6 +66296,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018876",
+        "title": "全家敦鼎店",
+        "address": "台北市大安區敦化南路二段77號1樓右側空間",
+        "post": "106",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.549291,
+          25.030195
+        ],
+        "type": "Point"
+      },
+      "id": "018876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018877",
         "title": "全家板橋新站店",
         "address": "新北市板橋區中山路一段160號",
