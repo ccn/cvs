@@ -840,13 +840,13 @@
       "properties": {
         "id": "111153",
         "title": "大埕",
-        "address": "台南市七股區大埕里272號1樓",
+        "address": "台南市七股區大珵里272號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.141539,
-          23.142813
+          120.142134,
+          23.143338
         ],
         "type": "Point"
       },
@@ -3265,23 +3265,6 @@
         "type": "Point"
       },
       "id": "113997"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "114015",
-        "title": "福鶯",
-        "address": "桃園市龜山區山鶯路156之4號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.324835228737,
-          24.9884827341797
-        ],
-        "type": "Point"
-      },
-      "id": "114015"
     },
     {
       "type": "Feature",
@@ -58859,6 +58842,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195863",
+        "title": "華榮",
+        "address": "高雄市鼓山區明倫路149號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.298231,
+          22.664406
+        ],
+        "type": "Point"
+      },
+      "id": "195863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195874",
         "title": "管興",
         "address": "彰化縣福興鄉沿海路三段286號",
@@ -59165,6 +59165,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196154",
+        "title": "龍竹",
+        "address": "台中市龍井區竹坑里沙田路四段316號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.545687,
+          24.183863
+        ],
+        "type": "Point"
+      },
+      "id": "196154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196165",
         "title": "海星",
         "address": "花蓮縣新城鄉嘉新路63巷1號1樓",
@@ -59212,6 +59229,23 @@
         "type": "Point"
       },
       "id": "196202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196213",
+        "title": "江宸",
+        "address": "嘉義縣民雄鄉興中村江厝店1之32號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.422089,
+          23.524343
+        ],
+        "type": "Point"
+      },
+      "id": "196213"
     },
     {
       "type": "Feature",
@@ -59484,6 +59518,23 @@
         "type": "Point"
       },
       "id": "196659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196671",
+        "title": "永義",
+        "address": "宜蘭縣冬山鄉義成路三段195號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196671"
     },
     {
       "type": "Feature",
