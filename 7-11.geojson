@@ -38323,23 +38323,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171591",
-        "title": "華榮",
-        "address": "高雄市鼓山區華榮路236號238號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.297159,
-          22.664638
-        ],
-        "type": "Point"
-      },
-      "id": "171591"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171638",
         "title": "新寶清",
         "address": "台北市松山區南京東路五段334號336號1樓",
@@ -43980,23 +43963,6 @@
         "type": "Point"
       },
       "id": "181923"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "181934",
-        "title": "馥竹",
-        "address": "新北市淡水區民權路187巷19號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.460586,
-          25.133589
-        ],
-        "type": "Point"
-      },
-      "id": "181934"
     },
     {
       "type": "Feature",
@@ -62395,6 +62361,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199463",
+        "title": "馥竹",
+        "address": "新北市淡水區民權路187巷19號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.460586,
+          25.133589
+        ],
+        "type": "Point"
+      },
+      "id": "199463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199832",
         "title": "美吉",
         "address": "新北市三重區集美街223號225號",
@@ -62442,6 +62425,23 @@
         "type": "Point"
       },
       "id": "199957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200011",
+        "title": "福鶯",
+        "address": "桃園市龜山區山鶯路155號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.324925,
+          24.988696
+        ],
+        "type": "Point"
+      },
+      "id": "200011"
     },
     {
       "type": "Feature",
