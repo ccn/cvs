@@ -30196,25 +30196,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016360",
-        "title": "全家龜山樂高店",
-        "address": "桃園市龜山區文化七路97號1樓",
-        "post": "333",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.364416,
-          25.051732
-        ],
-        "type": "Point"
-      },
-      "id": "016360"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016361",
         "title": "全家林口中正店",
         "address": "新北市林口區中正路266號",
@@ -66976,6 +66957,25 @@
         "type": "Point"
       },
       "id": "018974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018978",
+        "title": "全家龜山樂高店",
+        "address": "桃園市龜山區文化七路97號1樓",
+        "post": "333",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.364416,
+          25.051732
+        ],
+        "type": "Point"
+      },
+      "id": "018978"
     },
     {
       "type": "Feature",
