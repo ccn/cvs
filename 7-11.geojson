@@ -9185,23 +9185,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "125602",
-        "title": "龍門",
-        "address": "台北市大安區和平東路二段18號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.535922,
-          25.02575
-        ],
-        "type": "Point"
-      },
-      "id": "125602"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "125613",
         "title": "新翠華",
         "address": "新北市板橋區三民路一段31巷14號16號",
@@ -57992,6 +57975,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195209",
+        "title": "武營",
+        "address": "高雄市苓雅區武營路433號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.336524,
+          22.616573
+        ],
+        "type": "Point"
+      },
+      "id": "195209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195210",
         "title": "德瑞",
         "address": "台北市內湖區洲子街70號1樓",
@@ -59552,6 +59552,23 @@
         "type": "Point"
       },
       "id": "196718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196730",
+        "title": "和田",
+        "address": "苗栗縣苑裡鎮新復里新復120之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.644456,
+          24.428358
+        ],
+        "type": "Point"
+      },
+      "id": "196730"
     },
     {
       "type": "Feature",
@@ -62408,6 +62425,23 @@
         "type": "Point"
       },
       "id": "199854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199946",
+        "title": "光環",
+        "address": "新北市板橋區光環路二段68號70號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.481712,
+          25.014752
+        ],
+        "type": "Point"
+      },
+      "id": "199946"
     },
     {
       "type": "Feature",
@@ -91478,23 +91512,6 @@
         "type": "Point"
       },
       "id": "985280"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "985305",
-        "title": "大吉",
-        "address": "台北市中山區吉林路101號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.530288,
-          25.05611
-        ],
-        "type": "Point"
-      },
-      "id": "985305"
     },
     {
       "type": "Feature",
