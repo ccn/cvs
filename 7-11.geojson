@@ -33869,23 +33869,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "166027",
-        "title": "百祐",
-        "address": "台中市南區美村路二段188號190號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.663521,
-          24.125046
-        ],
-        "type": "Point"
-      },
-      "id": "166027"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "166038",
         "title": "新安",
         "address": "新北市新莊區民安東路185號187號部份1樓",
@@ -35089,23 +35072,6 @@
         "type": "Point"
       },
       "id": "167053"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "167075",
-        "title": "雲桐",
-        "address": "雲林縣莿桐鄉莿桐村中山路70號72號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.49988,
-          23.756498
-        ],
-        "type": "Point"
-      },
-      "id": "167075"
     },
     {
       "type": "Feature",
@@ -44473,23 +44439,6 @@
         "type": "Point"
       },
       "id": "182513"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "182524",
-        "title": "毓鄰",
-        "address": "台北市內湖區新湖二路160號162號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.579607,
-          25.062924
-        ],
-        "type": "Point"
-      },
-      "id": "182524"
     },
     {
       "type": "Feature",
@@ -57567,6 +57516,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194871",
+        "title": "龍門",
+        "address": "台北市大安區和平東路二段38之1號40號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.537149,
+          25.025481
+        ],
+        "type": "Point"
+      },
+      "id": "194871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194882",
         "title": "安美",
         "address": "台北市內湖區石潭里安康路32巷24弄22號1樓",
@@ -59488,6 +59454,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196660",
+        "title": "大吉",
+        "address": "台北市中山區吉林路97號99號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.530257,
+          25.055797
+        ],
+        "type": "Point"
+      },
+      "id": "196660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196671",
         "title": "永義",
         "address": "宜蘭縣冬山鄉義成路三段195號1樓",
@@ -60810,6 +60793,23 @@
         "type": "Point"
       },
       "id": "197744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197755",
+        "title": "毓鄰",
+        "address": "台北市內湖區新湖二路160號162號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.579607,
+          25.062924
+        ],
+        "type": "Point"
+      },
+      "id": "197755"
     },
     {
       "type": "Feature",
@@ -62276,6 +62276,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199337",
+        "title": "雲桐",
+        "address": "雲林縣莿桐鄉莿桐村中山路70號72號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.49988,
+          23.756498
+        ],
+        "type": "Point"
+      },
+      "id": "199337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199359",
         "title": "頂社",
         "address": "桃園市蘆竹區山林路三段170-2號",
@@ -62323,6 +62340,23 @@
         "type": "Point"
       },
       "id": "199371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199382",
+        "title": "百祐",
+        "address": "台中市南區美村路二段188號190號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.663521,
+          24.125046
+        ],
+        "type": "Point"
+      },
+      "id": "199382"
     },
     {
       "type": "Feature",
