@@ -29645,6 +29645,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "016311",
+        "title": "全家柳營重溪店",
+        "address": "台南市柳營區重溪里小腳腿12號1樓",
+        "post": "736",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.366288,
+          23.287785
+        ],
+        "type": "Point"
+      },
+      "id": "016311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "016312",
         "title": "全家礁溪健康店",
         "address": "宜蘭縣礁溪鄉健康路50號1樓之1",
@@ -54797,6 +54816,25 @@
         "type": "Point"
       },
       "id": "018171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018172",
+        "title": "全家柳營敏惠店",
+        "address": "台南市柳營區中山東路二段1116號",
+        "post": "736",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte,FishPatty",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.329726,
+          23.279847
+        ],
+        "type": "Point"
+      },
+      "id": "018172"
     },
     {
       "type": "Feature",
