@@ -26644,23 +26644,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "154714",
-        "title": "新崛江",
-        "address": "高雄市新興區振成里新田路114號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.304322598211,
-          22.622659473990897
-        ],
-        "type": "Point"
-      },
-      "id": "154714"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "154725",
         "title": "埔子",
         "address": "桃園市桃園區永安路1040號1040之1號1樓",
@@ -36874,23 +36857,6 @@
         "type": "Point"
       },
       "id": "170347"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "170369",
-        "title": "仁泰",
-        "address": "新北市泰山區明志路二段1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.430305,
-          25.053794
-        ],
-        "type": "Point"
-      },
-      "id": "170369"
     },
     {
       "type": "Feature",
@@ -60933,6 +60899,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197870",
+        "title": "新崛江",
+        "address": "高雄市新興區振成里新田路114號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304322598211,
+          22.622659473990897
+        ],
+        "type": "Point"
+      },
+      "id": "197870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197881",
         "title": "信科",
         "address": "高雄市左營區重信路601號",
@@ -62208,6 +62191,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199278",
+        "title": "環竹",
+        "address": "苗栗縣竹南鎮環市路一段16號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.878359,
+          24.682449
+        ],
+        "type": "Point"
+      },
+      "id": "199278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199289",
         "title": "廣環",
         "address": "台中市西屯區環中路二段698號",
@@ -62429,6 +62429,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199500",
+        "title": "南豐",
+        "address": "南投縣南投市民族路66號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.692074,
+          23.910594
+        ],
+        "type": "Point"
+      },
+      "id": "199500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199832",
         "title": "美吉",
         "address": "新北市三重區集美街223號225號",
@@ -62510,6 +62527,23 @@
         "type": "Point"
       },
       "id": "200011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200158",
+        "title": "永藝",
+        "address": "新北市永和區永和路二段272號274號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.516077,
+          25.015237
+        ],
+        "type": "Point"
+      },
+      "id": "200158"
     },
     {
       "type": "Feature",
@@ -63309,6 +63343,23 @@
         "type": "Point"
       },
       "id": "201128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201140",
+        "title": "仁泰",
+        "address": "新北市泰山區明志路二段1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.430305,
+          25.053794
+        ],
+        "type": "Point"
+      },
+      "id": "201140"
     },
     {
       "type": "Feature",
@@ -71694,23 +71745,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "905675",
-        "title": "南豐",
-        "address": "南投縣南投市民族路66號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.692074,
-          23.910594
-        ],
-        "type": "Point"
-      },
-      "id": "905675"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "905701",
         "title": "新宜",
         "address": "新北市新店區北宜路二段4號6號",
@@ -75124,23 +75158,6 @@
         "type": "Point"
       },
       "id": "923307"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "923385",
-        "title": "環竹",
-        "address": "苗栗縣竹南鎮環市路一段16號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.878359,
-          24.682449
-        ],
-        "type": "Point"
-      },
-      "id": "923385"
     },
     {
       "type": "Feature",
