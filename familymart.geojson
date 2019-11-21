@@ -2705,15 +2705,15 @@
       "properties": {
         "id": "012279",
         "title": "全家台中熱河店",
-        "address": "台中市北屯區熱河路二段164號,166號1樓",
+        "address": "台中市北屯區熱河路二段166號1樓",
         "post": "406",
         "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,HotTea",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.68786,
-          24.172413
+          120.687929,
+          24.172398
         ],
         "type": "Point"
       },
@@ -61888,25 +61888,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018588",
-        "title": "全家竹北竹采店",
-        "address": "新竹縣竹北市成功一街82號1樓後段",
-        "post": "302",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.02437,
-          24.820201
-        ],
-        "type": "Point"
-      },
-      "id": "018588"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018589",
         "title": "全家麗寶摩天輪店",
         "address": "台中市后里區福容路237號2樓",
@@ -63275,25 +63256,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018680",
-        "title": "全家台中太陽店",
-        "address": "台中市北區太原路一段450-1號",
-        "post": "404",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.667641,
-          24.164802
-        ],
-        "type": "Point"
-      },
-      "id": "018680"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018681",
         "title": "全家彰化金師店",
         "address": "彰化縣彰化市進德路27號壹樓",
@@ -63315,15 +63277,15 @@
       "properties": {
         "id": "018683",
         "title": "全家基隆車站店",
-        "address": "基隆市仁愛區港西街5號",
+        "address": "基隆市仁愛區中山一路16之1號",
         "post": "200",
         "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FishPatty,FLatte",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.739308,
-          25.132347
+          121.739539,
+          25.134339
         ],
         "type": "Point"
       },
@@ -66657,6 +66619,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018913",
+        "title": "全家台中太陽店",
+        "address": "台中市北區太原路一段450-1號",
+        "post": "404",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.667641,
+          24.164802
+        ],
+        "type": "Point"
+      },
+      "id": "018913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018914",
         "title": "全家台南興德店",
         "address": "台南市安南區安中路四段238號1樓",
@@ -66900,6 +66881,25 @@
         "type": "Point"
       },
       "id": "018934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018935",
+        "title": "全家竹北竹采店",
+        "address": "新竹縣竹北市成功一街82號1樓後段",
+        "post": "302",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.02437,
+          24.820201
+        ],
+        "type": "Point"
+      },
+      "id": "018935"
     },
     {
       "type": "Feature",
