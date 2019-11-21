@@ -600,23 +600,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2114",
-        "title": "北市南海店",
-        "address": "台北市中正區南海路１２、１４號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517262245369,
-          25.0324454868292
-        ],
-        "type": "Point"
-      },
-      "id": "2114"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2115",
         "title": "北市雙連店",
         "address": "台北市中山區民生西路６２號",
@@ -4959,8 +4942,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.1431031551,
-          25.0439512946673
+          121.1431299771901,
+          25.0437520314992
         ],
         "type": "Point"
       },
@@ -20133,6 +20116,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4641",
+        "title": "湖口戰車店",
+        "address": "新竹縣湖口鄉勝利路二段３５０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0270881854117,
+          24.8631630086793
+        ],
+        "type": "Point"
+      },
+      "id": "4641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4645",
         "title": "新竹大蓮店",
         "address": "新竹市東區南大路２９９、３０１號",
@@ -20354,6 +20354,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4665",
+        "title": "外埔馬鳴埔店",
+        "address": "台中市外埔區大馬路１８６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6618708235595,
+          24.340153737478
+        ],
+        "type": "Point"
+      },
+      "id": "4665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4666",
+        "title": "蘇澳龍祥店",
+        "address": "宜蘭縣蘇澳鎮龍祥二路１、３號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.8280662390646,
+          24.6336611430545
+        ],
+        "type": "Point"
+      },
+      "id": "4666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4667",
         "title": "芎林華科店",
         "address": "新竹縣芎林鄉大華路１號",
@@ -20367,6 +20401,23 @@
         "type": "Point"
       },
       "id": "4667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4675",
+        "title": "楊梅日光店",
+        "address": "桃園市楊梅區青山一街９９、１０１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1753025904086,
+          24.9218423701966
+        ],
+        "type": "Point"
+      },
+      "id": "4675"
     },
     {
       "type": "Feature",
