@@ -6427,25 +6427,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013473",
-        "title": "全家蘆洲民華店",
-        "address": "新北市蘆洲區民族路422巷82弄14,16號",
-        "post": "247",
-        "all": "COFFEE,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.473796,
-          25.09383
-        ],
-        "type": "Point"
-      },
-      "id": "013473"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013475",
         "title": "全家台中世貿店",
         "address": "台中市西屯區朝富路18-5號",
@@ -66577,6 +66558,25 @@
         "type": "Point"
       },
       "id": "018908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018909",
+        "title": "全家蘆洲民華店",
+        "address": "新北市蘆洲區民族路422巷82弄14,16號",
+        "post": "247",
+        "all": "COFFEE,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.473796,
+          25.09383
+        ],
+        "type": "Point"
+      },
+      "id": "018909"
     },
     {
       "type": "Feature",
