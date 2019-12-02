@@ -60814,23 +60814,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "197869",
-        "title": "航祥",
-        "address": "桃園市大園區三民路一段785號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.252383,
-          25.090224
-        ],
-        "type": "Point"
-      },
-      "id": "197869"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197870",
         "title": "新崛江",
         "address": "高雄市新興區振成里新田路114號",
@@ -60861,6 +60844,23 @@
         "type": "Point"
       },
       "id": "197881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197906",
+        "title": "航祥",
+        "address": "桃園市大園區三民路一段785號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.252383,
+          25.090224
+        ],
+        "type": "Point"
+      },
+      "id": "197906"
     },
     {
       "type": "Feature",
