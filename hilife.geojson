@@ -20473,6 +20473,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4673",
+        "title": "蘆竹海山店",
+        "address": "桃園市蘆竹區海山路二段５１３、５１５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2547107099806,
+          25.1105933717189
+        ],
+        "type": "Point"
+      },
+      "id": "4673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4675",
         "title": "楊梅日光店",
         "address": "桃園市楊梅區青山一街９９、１０１號",
