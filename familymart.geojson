@@ -51457,25 +51457,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018002",
-        "title": "全家高雄天誠店",
-        "address": "高雄市鼓山區裕誠路1900號",
-        "post": "804",
-        "all": "COFFEE,SWEETPOTATO,Toilet,veg,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.29403471,
-          22.65989235
-        ],
-        "type": "Point"
-      },
-      "id": "018002"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018007",
         "title": "全家桃園御賞店",
         "address": "桃園市桃園區大興西路二段128號1樓",
@@ -67109,6 +67090,25 @@
         "type": "Point"
       },
       "id": "019024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019044",
+        "title": "全家高雄天誠店",
+        "address": "高雄市鼓山區裕誠路1900號",
+        "post": "804",
+        "all": "COFFEE,SWEETPOTATO,Toilet,veg,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.29403471,
+          22.65989235
+        ],
+        "type": "Point"
+      },
+      "id": "019044"
     }
   ]
 }
