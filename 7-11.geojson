@@ -10069,23 +10069,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127125",
-        "title": "大豐田",
-        "address": "花蓮縣壽豐鄉豐山村中山路201號203號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.495596,
-          23.849178
-        ],
-        "type": "Point"
-      },
-      "id": "127125"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127158",
         "title": "松美",
         "address": "台南市善化區小新里成功路2-2號",
@@ -62361,6 +62344,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199348",
+        "title": "安東",
+        "address": "台南市安南區安和路一段308號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.212608,
+          23.03243
+        ],
+        "type": "Point"
+      },
+      "id": "199348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199359",
         "title": "頂社",
         "address": "桃園市蘆竹區山林路三段170-2號",
@@ -62544,6 +62544,23 @@
         "type": "Point"
       },
       "id": "199500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199544",
+        "title": "大豐田",
+        "address": "花蓮縣壽豐鄉豐山村中山路201號203號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.495596,
+          23.849178
+        ],
+        "type": "Point"
+      },
+      "id": "199544"
     },
     {
       "type": "Feature",
@@ -69089,23 +69106,6 @@
         "type": "Point"
       },
       "id": "891730"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "891763",
-        "title": "安東",
-        "address": "台南市安南區安和路一段308號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.212608,
-          23.03243
-        ],
-        "type": "Point"
-      },
-      "id": "891763"
     },
     {
       "type": "Feature",
