@@ -634,23 +634,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "110828",
-        "title": "港華",
-        "address": "台北市內湖區港華街40號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.57491841122601,
-          25.0830430611604
-        ],
-        "type": "Point"
-      },
-      "id": "110828"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "110839",
         "title": "虎威",
         "address": "雲林縣虎尾鎮光復路122號1樓及成和街2號1樓",
@@ -59097,6 +59080,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196305",
+        "title": "安峰",
+        "address": "新北市新店區安康路二段350之3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.503098,
+          24.957756
+        ],
+        "type": "Point"
+      },
+      "id": "196305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196338",
         "title": "中醫五權",
         "address": "台中市北區學士路2號",
@@ -59195,6 +59195,40 @@
         "type": "Point"
       },
       "id": "196442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196464",
+        "title": "港華",
+        "address": "台北市內湖區港華街46號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.57479,
+          25.083033
+        ],
+        "type": "Point"
+      },
+      "id": "196464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196497",
+        "title": "京磚",
+        "address": "台北市大同區華陰街65號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.518353,
+          25.049582
+        ],
+        "type": "Point"
+      },
+      "id": "196497"
     },
     {
       "type": "Feature",
