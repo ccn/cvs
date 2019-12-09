@@ -3898,23 +3898,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "115982",
-        "title": "裕東",
-        "address": "高雄市鼓山區裕誠路1946號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.293944,
-          22.659011
-        ],
-        "type": "Point"
-      },
-      "id": "115982"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "116000",
         "title": "鉅晶",
         "address": "新竹市東區力行一路18號4樓",
@@ -61086,6 +61069,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198482",
+        "title": "高民",
+        "address": "桃園市平鎮區延平路二段214號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.210108,
+          24.947151
+        ],
+        "type": "Point"
+      },
+      "id": "198482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198493",
         "title": "大同南",
         "address": "新北市三重區大同南路102號106號",
@@ -61728,23 +61728,6 @@
         "type": "Point"
       },
       "id": "198921"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "198932",
-        "title": "壢美",
-        "address": "桃園市中壢區中美路39號1樓及建國北路55號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.226679164913,
-          24.958249629942397
-        ],
-        "type": "Point"
-      },
-      "id": "198932"
     },
     {
       "type": "Feature",
@@ -62582,6 +62565,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199511",
+        "title": "崑教",
+        "address": "台南市永康區崑大路195號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.252456,
+          22.998306
+        ],
+        "type": "Point"
+      },
+      "id": "199511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199544",
         "title": "大豐田",
         "address": "花蓮縣壽豐鄉豐山村中山路201號203號1樓",
@@ -62684,6 +62684,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199980",
+        "title": "興忠",
+        "address": "台北市中正區紹興北街3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.525347,
+          25.044747
+        ],
+        "type": "Point"
+      },
+      "id": "199980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200011",
         "title": "福鶯",
         "address": "桃園市龜山區山鶯路155號1樓",
@@ -62731,6 +62748,23 @@
         "type": "Point"
       },
       "id": "200158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200181",
+        "title": "易安",
+        "address": "宜蘭縣五結鄉五結中路二段377號379號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.797088,
+          24.694841
+        ],
+        "type": "Point"
+      },
+      "id": "200181"
     },
     {
       "type": "Feature",
@@ -63585,6 +63619,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201162",
+        "title": "裕東",
+        "address": "高雄市鼓山區裕誠路1946號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.293944,
+          22.659011
+        ],
+        "type": "Point"
+      },
+      "id": "201162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202464",
         "title": "留公",
         "address": "台北市信義區福德街247號249號",
@@ -63598,6 +63649,23 @@
         "type": "Point"
       },
       "id": "202464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202475",
+        "title": "壢美",
+        "address": "桃園市中壢區中美路39號1樓及建國北路55號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.226679164913,
+          24.958249629942397
+        ],
+        "type": "Point"
+      },
+      "id": "202475"
     },
     {
       "type": "Feature",
@@ -89880,23 +89948,6 @@
         "type": "Point"
       },
       "id": "977706"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "977784",
-        "title": "崑教",
-        "address": "台南市永康區崑大路195號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.252456,
-          22.998306
-        ],
-        "type": "Point"
-      },
-      "id": "977784"
     },
     {
       "type": "Feature",
