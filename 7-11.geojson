@@ -60865,6 +60865,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197917",
+        "title": "工站",
+        "address": "台中市南屯區五權西路三段350號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.60621,
+          24.162281
+        ],
+        "type": "Point"
+      },
+      "id": "197917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197940",
         "title": "安保",
         "address": "台北市內湖區安康路28號1樓",
@@ -60912,6 +60929,23 @@
         "type": "Point"
       },
       "id": "197995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198220",
+        "title": "信遠",
+        "address": "台北市信義區松仁路58號B2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567968,
+          25.036732
+        ],
+        "type": "Point"
+      },
+      "id": "198220"
     },
     {
       "type": "Feature",
@@ -62153,23 +62187,6 @@
         "type": "Point"
       },
       "id": "199212"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "199223",
-        "title": "工站",
-        "address": "台中市南屯區五權西路三段350號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.60621,
-          24.162281
-        ],
-        "type": "Point"
-      },
-      "id": "199223"
     },
     {
       "type": "Feature",
