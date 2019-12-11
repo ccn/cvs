@@ -57754,6 +57754,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195232",
+        "title": "內厝五",
+        "address": "桃園市大園區中興路二段359巷9弄3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "195232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195243",
         "title": "聖安",
         "address": "台南市安南區安中路六段850號1樓",
@@ -59212,6 +59229,23 @@
         "type": "Point"
       },
       "id": "196497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196556",
+        "title": "星海灣",
+        "address": "高雄市前鎮區中山二路180號及林森三路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.306166,
+          22.61054
+        ],
+        "type": "Point"
+      },
+      "id": "196556"
     },
     {
       "type": "Feature",
@@ -60929,23 +60963,6 @@
         "type": "Point"
       },
       "id": "197995"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "198220",
-        "title": "信遠",
-        "address": "台北市信義區松仁路58號B2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.567968,
-          25.036732
-        ],
-        "type": "Point"
-      },
-      "id": "198220"
     },
     {
       "type": "Feature",
@@ -73124,13 +73141,13 @@
       "properties": {
         "id": "912617",
         "title": "情友",
-        "address": "新竹縣寶山鄉雙溪村寶新路1號",
+        "address": "新竹縣寶山鄉雙溪村寶新路一段2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.987775,
-          24.763692
+          0,
+          0
         ],
         "type": "Point"
       },
