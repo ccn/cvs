@@ -20337,6 +20337,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4654",
+        "title": "萬巒佳興店",
+        "address": "屏東縣萬巒鄉佳和村佳興路３２-１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5962414790812,
+          22.5727595346599
+        ],
+        "type": "Point"
+      },
+      "id": "4654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4655",
         "title": "岡山飛鷹店",
         "address": "高雄市岡山區介壽西路西首１號",
