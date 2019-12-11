@@ -53946,25 +53946,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018173",
-        "title": "全家榮星店",
-        "address": "台北市中山區龍江路352號",
-        "post": "104",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.540849,
-          25.065891
-        ],
-        "type": "Point"
-      },
-      "id": "018173"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018174",
         "title": "全家東港鮪魚店",
         "address": "屏東縣東港鎮順漁路129號",
@@ -65684,6 +65665,25 @@
         "type": "Point"
       },
       "id": "018902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018903",
+        "title": "全家榮星店",
+        "address": "台北市中山區龍江路352號",
+        "post": "104",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.540849,
+          25.065891
+        ],
+        "type": "Point"
+      },
+      "id": "018903"
     },
     {
       "type": "Feature",
