@@ -59439,13 +59439,13 @@
       "properties": {
         "id": "196730",
         "title": "和田",
-        "address": "苗栗縣苑裡鎮新復里新復120之1號",
+        "address": "苗栗縣苑裡鎮新復里8鄰120-1號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.644456,
-          24.428358
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -62680,6 +62680,23 @@
         "type": "Point"
       },
       "id": "199854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199902",
+        "title": "超學",
+        "address": "台中市北區進化北路327號與325號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "199902"
     },
     {
       "type": "Feature",
