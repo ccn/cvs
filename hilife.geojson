@@ -10409,23 +10409,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3793",
-        "title": "太平鑫國軍店",
-        "address": "台中市太平區中山路二段３４８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.730374176669,
-          24.1510693120234
-        ],
-        "type": "Point"
-      },
-      "id": "3793"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3795",
         "title": "北市信長店",
         "address": "台北市信義區莊敬路２９０號",
@@ -20571,6 +20554,23 @@
         "type": "Point"
       },
       "id": "4681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4687",
+        "title": "信義玫瑰店",
+        "address": "台北市信義區信義路４段３７５號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5578144339331,
+          25.033281215124
+        ],
+        "type": "Point"
+      },
+      "id": "4687"
     },
     {
       "type": "Feature",
