@@ -56564,6 +56564,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194228",
+        "title": "高達",
+        "address": "桃園市楊梅區金山街302號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.16222,
+          24.911465
+        ],
+        "type": "Point"
+      },
+      "id": "194228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194239",
         "title": "加灣",
         "address": "花蓮縣秀林鄉景美村加灣178之20號",
@@ -57761,8 +57778,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.2337,
+          25.014291
         ],
         "type": "Point"
       },
@@ -59178,6 +59195,23 @@
         "type": "Point"
       },
       "id": "196420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196431",
+        "title": "威海",
+        "address": "桃園市龍潭區中正路三坑段563號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.246234,
+          24.835361
+        ],
+        "type": "Point"
+      },
+      "id": "196431"
     },
     {
       "type": "Feature",
@@ -62691,8 +62725,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.681327,
+          24.162964
         ],
         "type": "Point"
       },
@@ -73163,8 +73197,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.987911,
+          24.763788
         ],
         "type": "Point"
       },
