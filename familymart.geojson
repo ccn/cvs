@@ -10341,25 +10341,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014141",
-        "title": "全家德行店",
-        "address": "台北市士林區德行東路109巷3號",
-        "post": "111",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.528311,
-          25.107915
-        ],
-        "type": "Point"
-      },
-      "id": "014141"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014142",
         "title": "全家水源店",
         "address": "台北市中正區汀州路三段261號",
@@ -14935,25 +14916,6 @@
         "type": "Point"
       },
       "id": "014850"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014856",
-        "title": "全家新莊研店",
-        "address": "台北市南港區舊莊街一段169號",
-        "post": "115",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.621235,
-          25.039469
-        ],
-        "type": "Point"
-      },
-      "id": "014856"
     },
     {
       "type": "Feature",
@@ -67132,6 +67094,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019034",
+        "title": "全家新莊研店",
+        "address": "台北市南港區舊莊街一段169號",
+        "post": "115",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.621235,
+          25.039469
+        ],
+        "type": "Point"
+      },
+      "id": "019034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019044",
         "title": "全家高雄天誠店",
         "address": "高雄市鼓山區裕誠路1900號",
@@ -67147,6 +67128,25 @@
         "type": "Point"
       },
       "id": "019044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019087",
+        "title": "全家德行店",
+        "address": "台北市士林區德行東路109巷3號",
+        "post": "111",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.528311,
+          25.107915
+        ],
+        "type": "Point"
+      },
+      "id": "019087"
     }
   ]
 }
