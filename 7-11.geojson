@@ -26644,23 +26644,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "154862",
-        "title": "正果",
-        "address": "新北市三重區中正北路122號124號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.485427,
-          25.065169
-        ],
-        "type": "Point"
-      },
-      "id": "154862"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "154873",
         "title": "桃新站",
         "address": "桃園市桃園區中正路1號",
@@ -54167,23 +54150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190628",
-        "title": "臨沂",
-        "address": "台北市中正區文祥里臨沂街74號76號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.527801,
-          25.034531
-        ],
-        "type": "Point"
-      },
-      "id": "190628"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190639",
         "title": "平西",
         "address": "台中市北區陜西路107號109號",
@@ -61001,6 +60967,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198068",
+        "title": "臨沂",
+        "address": "台北市中正區文祥里臨沂街74號76號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.527801,
+          25.034531
+        ],
+        "type": "Point"
+      },
+      "id": "198068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198208",
+        "title": "瑞慈",
+        "address": "新北市瑞芳區三爪子坑路64之39號64之40號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.808851,
+          25.10543
+        ],
+        "type": "Point"
+      },
+      "id": "198208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198231",
         "title": "縣道",
         "address": "新北市板橋區縣民大道二段200巷1號3號1樓",
@@ -61035,6 +61035,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198264",
+        "title": "北車站",
+        "address": "台北市中正區忠孝西路一段49號地下一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517896,
+          25.046374
+        ],
+        "type": "Point"
+      },
+      "id": "198264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198275",
         "title": "日安",
         "address": "台北市士林區文林路444號1樓",
@@ -61048,6 +61065,23 @@
         "type": "Point"
       },
       "id": "198275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198297",
+        "title": "文瑞",
+        "address": "花蓮縣壽豐鄉中山路222號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.496126,
+          23.849451
+        ],
+        "type": "Point"
+      },
+      "id": "198297"
     },
     {
       "type": "Feature",
@@ -62599,6 +62633,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199485",
+        "title": "正果",
+        "address": "新北市三重區中正北路122號124號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.485427,
+          25.065169
+        ],
+        "type": "Point"
+      },
+      "id": "199485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199496",
         "title": "慶斌",
         "address": "新北市樹林區中洲街51巷1號",
@@ -62663,6 +62714,23 @@
         "type": "Point"
       },
       "id": "199544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199603",
+        "title": "鑫旺",
+        "address": "桃園市中壢區興安二街1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.262957,
+          24.966433
+        ],
+        "type": "Point"
+      },
+      "id": "199603"
     },
     {
       "type": "Feature",
@@ -75175,23 +75243,6 @@
         "type": "Point"
       },
       "id": "922577"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "922614",
-        "title": "鑫旺",
-        "address": "桃園市中壢區興安二街1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.262957,
-          24.966433
-        ],
-        "type": "Point"
-      },
-      "id": "922614"
     },
     {
       "type": "Feature",
