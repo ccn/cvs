@@ -61001,6 +61001,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198220",
+        "title": "信遠",
+        "address": "台北市信義區松仁路58號B2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567968,
+          25.036732
+        ],
+        "type": "Point"
+      },
+      "id": "198220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198231",
         "title": "縣道",
         "address": "新北市板橋區縣民大道二段200巷1號3號1樓",
@@ -61133,6 +61150,23 @@
         "type": "Point"
       },
       "id": "198345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198367",
+        "title": "柳豐",
+        "address": "新北市萬里區港東路162之11號162之12號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.690571,
+          25.204033
+        ],
+        "type": "Point"
+      },
+      "id": "198367"
     },
     {
       "type": "Feature",
@@ -62782,6 +62816,23 @@
         "type": "Point"
       },
       "id": "199854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199865",
+        "title": "美南",
+        "address": "高雄市鼓山區龍水二路1.3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.284477,
+          22.649626
+        ],
+        "type": "Point"
+      },
+      "id": "199865"
     },
     {
       "type": "Feature",
