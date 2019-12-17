@@ -16478,23 +16478,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "137546",
-        "title": "壢達",
-        "address": "桃園市平鎮區環南路231-5號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.206907,
-          24.951523
-        ],
-        "type": "Point"
-      },
-      "id": "137546"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "137557",
         "title": "國豪",
         "address": "苗栗縣竹南鎮延平路170號",
@@ -46636,23 +46619,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184450",
-        "title": "德民",
-        "address": "高雄市楠梓區海專路400號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.310102,
-          22.727336
-        ],
-        "type": "Point"
-      },
-      "id": "184450"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184461",
         "title": "瑞德",
         "address": "台北市中正區新生南路一段170巷14之3號1樓",
@@ -58927,6 +58893,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196176",
+        "title": "三麗",
+        "address": "台南市新化區協興里正新路305號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302812,
+          23.038692
+        ],
+        "type": "Point"
+      },
+      "id": "196176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196198",
         "title": "世成",
         "address": "台北市文山區木柵路一段111號1樓(世新大管院)",
@@ -60967,6 +60950,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198002",
+        "title": "德民",
+        "address": "高雄市楠梓區海專路400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.310102,
+          22.727336
+        ],
+        "type": "Point"
+      },
+      "id": "198002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198068",
         "title": "臨沂",
         "address": "台北市中正區文祥里臨沂街74號76號",
@@ -61150,23 +61150,6 @@
         "type": "Point"
       },
       "id": "198345"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "198367",
-        "title": "柳豐",
-        "address": "新北市萬里區港東路162之11號162之12號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.690571,
-          25.204033
-        ],
-        "type": "Point"
-      },
-      "id": "198367"
     },
     {
       "type": "Feature",
@@ -62769,6 +62752,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199636",
+        "title": "壢達",
+        "address": "桃園市平鎮區環南路231-5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.206907,
+          24.951523
+        ],
+        "type": "Point"
+      },
+      "id": "199636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199832",
         "title": "美吉",
         "address": "新北市三重區集美街223號225號",
@@ -63003,6 +63003,23 @@
         "type": "Point"
       },
       "id": "200321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200387",
+        "title": "七綻",
+        "address": "台中市北屯區文心路四段57號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.671986,
+          24.174118
+        ],
+        "type": "Point"
+      },
+      "id": "200387"
     },
     {
       "type": "Feature",
