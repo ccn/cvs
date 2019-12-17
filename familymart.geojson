@@ -632,25 +632,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011462",
-        "title": "全家土城新學店",
-        "address": "新北市土城區學府路一段187號1樓",
-        "post": "236",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.452197,
-          24.985021
-        ],
-        "type": "Point"
-      },
-      "id": "011462"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011489",
         "title": "全家新營國道南店",
         "address": "臺南市後壁區新厝69號",
@@ -67109,6 +67090,25 @@
         "type": "Point"
       },
       "id": "019034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019041",
+        "title": "全家土城新學店",
+        "address": "新北市土城區學府路一段187號1樓",
+        "post": "236",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.452197,
+          24.985021
+        ],
+        "type": "Point"
+      },
+      "id": "019041"
     },
     {
       "type": "Feature",
