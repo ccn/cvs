@@ -19691,6 +19691,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4596",
+        "title": "東勢石城店",
+        "address": "台中市東勢區茂興里石城街２００及２０２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.7916945693851,
+          24.2854572018442
+        ],
+        "type": "Point"
+      },
+      "id": "4596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4598",
         "title": "佳里進學店",
         "address": "台南市佳里區進學路２５號",
