@@ -62952,25 +62952,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018729",
-        "title": "全家三重中興店",
-        "address": "新北市三重區重新路五段595,597號",
-        "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FishPatty,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.478795048761,
-          25.0487283614526
-        ],
-        "type": "Point"
-      },
-      "id": "018729"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018731",
         "title": "全家嘉義北園店",
         "address": "嘉義市西區北社尾路31號1樓",
@@ -67185,6 +67166,25 @@
         "type": "Point"
       },
       "id": "019087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019168",
+        "title": "全家三重中興店",
+        "address": "新北市三重區重新路五段595,597號",
+        "post": "241",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FishPatty,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.478795048761,
+          25.0487283614526
+        ],
+        "type": "Point"
+      },
+      "id": "019168"
     }
   ]
 }
