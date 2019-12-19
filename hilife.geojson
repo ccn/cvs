@@ -20609,6 +20609,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4685",
+        "title": "龜山新路店",
+        "address": "桃園市龜山區中興路３０２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3344100216875,
+          24.9909042354418
+        ],
+        "type": "Point"
+      },
+      "id": "4685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4687",
         "title": "信義玫瑰店",
         "address": "台北市信義區信義路４段３７５號１樓",
@@ -20622,6 +20639,23 @@
         "type": "Point"
       },
       "id": "4687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4689",
+        "title": "台南圓滿店",
+        "address": "台南市南區國民路２６８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2110757772563,
+          22.9703357624199
+        ],
+        "type": "Point"
+      },
+      "id": "4689"
     },
     {
       "type": "Feature",
