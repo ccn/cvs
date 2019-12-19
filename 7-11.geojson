@@ -58179,6 +58179,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195564",
+        "title": "新安和",
+        "address": "新北市新店區安和路二段89號91號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "195564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195575",
         "title": "歸來",
         "address": "屏東縣屏東市和生路一段107-3號",
@@ -62697,6 +62714,23 @@
         "type": "Point"
       },
       "id": "199544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199577",
+        "title": "安運",
+        "address": "台南市安平區平安里華平路742號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.176061,
+          22.999092
+        ],
+        "type": "Point"
+      },
+      "id": "199577"
     },
     {
       "type": "Feature",
@@ -91631,23 +91665,6 @@
         "type": "Point"
       },
       "id": "982409"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982410",
-        "title": "安運",
-        "address": "台南市安平區平安里華平路742號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.176061,
-          22.999092
-        ],
-        "type": "Point"
-      },
-      "id": "982410"
     },
     {
       "type": "Feature",
