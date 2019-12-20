@@ -14914,23 +14914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "135159",
-        "title": "佳旺",
-        "address": "宜蘭縣宜蘭市舊城東路47號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.756224530305,
-          24.7574889206456
-        ],
-        "type": "Point"
-      },
-      "id": "135159"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "135229",
         "title": "漢神",
         "address": "台北市文山區景中街45號1樓",
@@ -58186,8 +58169,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.518345,
+          24.969236
         ],
         "type": "Point"
       },
@@ -59114,6 +59097,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196408",
+        "title": "鄉親寮",
+        "address": "南投縣中寮鄉永安街79之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.767179,
+          23.879275
+        ],
+        "type": "Point"
+      },
+      "id": "196408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196419",
         "title": "振福",
         "address": "台中市太平區振福路361巷6號1樓",
@@ -59178,6 +59178,23 @@
         "type": "Point"
       },
       "id": "196442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196453",
+        "title": "冠興",
+        "address": "桃園市觀音區成功路二段1247號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.103358,
+          25.036828
+        ],
+        "type": "Point"
+      },
+      "id": "196453"
     },
     {
       "type": "Feature",
@@ -59427,8 +59444,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.644456,
+          24.428358
         ],
         "type": "Point"
       },
@@ -60997,6 +61014,23 @@
         "type": "Point"
       },
       "id": "198208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198220",
+        "title": "信遠",
+        "address": "台北市信義區松仁路58號B2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567968,
+          25.036732
+        ],
+        "type": "Point"
+      },
+      "id": "198220"
     },
     {
       "type": "Feature",
@@ -62718,6 +62752,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199555",
+        "title": "佳旺",
+        "address": "宜蘭縣宜蘭市舊城東路47號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.756224530305,
+          24.7574889206456
+        ],
+        "type": "Point"
+      },
+      "id": "199555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199577",
         "title": "安運",
         "address": "台南市安平區平安里華平路742號1樓",
@@ -63687,23 +63738,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201069",
-        "title": "興洲",
-        "address": "新北市新莊區新泰路472號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.443141,
-          25.045279
-        ],
-        "type": "Point"
-      },
-      "id": "201069"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201070",
         "title": "好事達",
         "address": "高雄市大社區保社里旗楠路71號",
@@ -63853,6 +63887,23 @@
         "type": "Point"
       },
       "id": "201162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202442",
+        "title": "興洲",
+        "address": "新北市新莊區新泰路472號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.443141,
+          25.045279
+        ],
+        "type": "Point"
+      },
+      "id": "202442"
     },
     {
       "type": "Feature",
@@ -78620,8 +78671,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.190266,
+          25.07297
         ],
         "type": "Point"
       },
@@ -85273,23 +85324,6 @@
         "type": "Point"
       },
       "id": "965378"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "965437",
-        "title": "惠德",
-        "address": "南投縣草屯鎮太平路二段248號250號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.684051,
-          23.976408
-        ],
-        "type": "Point"
-      },
-      "id": "965437"
     },
     {
       "type": "Feature",
