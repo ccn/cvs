@@ -61565,25 +61565,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018642",
-        "title": "全家斗南利台店",
-        "address": "雲林縣斗南鎮忠孝路228-2號",
-        "post": "630",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.490318,
-          23.671869
-        ],
-        "type": "Point"
-      },
-      "id": "018642"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018645",
         "title": "全家新店寶元店",
         "address": "新北市新店區民權路19號",
@@ -65232,25 +65213,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018887",
-        "title": "全家板橋光復店",
-        "address": "新北市板橋區中山路二段503號1樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.482643,
-          25.021119
-        ],
-        "type": "Point"
-      },
-      "id": "018887"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018888",
         "title": "全家中壢後站店",
         "address": "桃園市中壢區健行路2號1樓",
@@ -66315,25 +66277,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018957",
-        "title": "全家林口幸福店",
-        "address": "新北市林口區文化三路一段35號1樓",
-        "post": "244",
-        "all": "COFFEE,Photo,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.36095,
-          25.066712
-        ],
-        "type": "Point"
-      },
-      "id": "018957"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018958",
         "title": "全家三重富貴店",
         "address": "新北市三重區三賢街201號",
@@ -66562,6 +66505,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018972",
+        "title": "全家永康正南一店",
+        "address": "台南市永康區正南一街103號",
+        "post": "710",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.229014,
+          23.02476609
+        ],
+        "type": "Point"
+      },
+      "id": "018972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018977",
         "title": "全家永康大橋店",
         "address": "台南市永康區大橋二街68號1樓",
@@ -66691,6 +66653,25 @@
         "type": "Point"
       },
       "id": "018985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018986",
+        "title": "全家板橋光復店",
+        "address": "新北市板橋區中山路二段503號1樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.482643,
+          25.021119
+        ],
+        "type": "Point"
+      },
+      "id": "018986"
     },
     {
       "type": "Feature",
@@ -66881,6 +66862,25 @@
         "type": "Point"
       },
       "id": "018997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018998",
+        "title": "全家斗南利台店",
+        "address": "雲林縣斗南鎮忠孝路228-2號",
+        "post": "630",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.490318,
+          23.671869
+        ],
+        "type": "Point"
+      },
+      "id": "018998"
     },
     {
       "type": "Feature",
@@ -67109,6 +67109,25 @@
         "type": "Point"
       },
       "id": "019052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019053",
+        "title": "全家林口幸福店",
+        "address": "新北市林口區文化三路一段35號1樓",
+        "post": "244",
+        "all": "COFFEE,Photo,WiFi,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.36095,
+          25.066712
+        ],
+        "type": "Point"
+      },
+      "id": "019053"
     },
     {
       "type": "Feature",
