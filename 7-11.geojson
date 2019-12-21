@@ -60984,6 +60984,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198013",
+        "title": "富莊",
+        "address": "桃園市中壢區莊敬路141號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.257343,
+          24.96786
+        ],
+        "type": "Point"
+      },
+      "id": "198013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198068",
         "title": "臨沂",
         "address": "台北市中正區文祥里臨沂街74號76號",
@@ -61099,6 +61116,23 @@
         "type": "Point"
       },
       "id": "198275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198286",
+        "title": "興隆",
+        "address": "台北市文山區興隆路二段205號207號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.549919,
+          25.000956
+        ],
+        "type": "Point"
+      },
+      "id": "198286"
     },
     {
       "type": "Feature",
@@ -61745,23 +61779,6 @@
         "type": "Point"
       },
       "id": "198839"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "198840",
-        "title": "高梓",
-        "address": "台南市仁德區後璧里中正路二段387號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.251756,
-          22.953123
-        ],
-        "type": "Point"
-      },
-      "id": "198840"
     },
     {
       "type": "Feature",
@@ -62735,6 +62752,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199522",
+        "title": "高梓",
+        "address": "台南市仁德區後璧里中正路二段387號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.251756,
+          22.953123
+        ],
+        "type": "Point"
+      },
+      "id": "199522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199544",
         "title": "大豐田",
         "address": "花蓮縣壽豐鄉豐山村中山路201號203號1樓",
@@ -62769,6 +62803,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199566",
+        "title": "麗騰",
+        "address": "宜蘭縣三星鄉大隱村大埔路112之7號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.715137,
+          24.670261
+        ],
+        "type": "Point"
+      },
+      "id": "199566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199577",
         "title": "安運",
         "address": "台南市安平區平安里華平路742號1樓",
@@ -62799,6 +62850,23 @@
         "type": "Point"
       },
       "id": "199603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199614",
+        "title": "樹龍",
+        "address": "新北市樹林區中正路222號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.419158,
+          25.006551
+        ],
+        "type": "Point"
+      },
+      "id": "199614"
     },
     {
       "type": "Feature",
@@ -75196,23 +75264,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "922360",
-        "title": "麗騰",
-        "address": "宜蘭縣三星鄉大隱村大埔路112之7號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.715137,
-          24.670261
-        ],
-        "type": "Point"
-      },
-      "id": "922360"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "922474",
         "title": "八角店",
         "address": "桃園市蘆竹區大竹路5號",
@@ -83437,23 +83488,6 @@
         "type": "Point"
       },
       "id": "957687"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "957702",
-        "title": "富莊",
-        "address": "桃園市中壢區莊敬路141號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.257343,
-          24.96786
-        ],
-        "type": "Point"
-      },
-      "id": "957702"
     },
     {
       "type": "Feature",
@@ -95898,23 +95932,6 @@
         "type": "Point"
       },
       "id": "996534"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "996567",
-        "title": "樹龍",
-        "address": "新北市樹林區中正路222號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.419158,
-          25.006551
-        ],
-        "type": "Point"
-      },
-      "id": "996567"
     },
     {
       "type": "Feature",
