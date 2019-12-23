@@ -48151,25 +48151,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017778",
-        "title": "全家新莊輔園店",
-        "address": "新北市新莊區中正路510號",
-        "post": "242",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SingleOrigin,Latte,FishPatty,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.434083,
-          25.032965
-        ],
-        "type": "Point"
-      },
-      "id": "017778"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017779",
         "title": "全家新竹橫山店",
         "address": "新竹縣橫山鄉橫山村4鄰中豐路一段262號",
@@ -67223,6 +67204,25 @@
         "type": "Point"
       },
       "id": "019087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019114",
+        "title": "全家新莊輔園店",
+        "address": "新北市新莊區中正路510號",
+        "post": "242",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,Kantoni,SingleOrigin,Latte,FishPatty,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.434083,
+          25.032965
+        ],
+        "type": "Point"
+      },
+      "id": "019114"
     },
     {
       "type": "Feature",
