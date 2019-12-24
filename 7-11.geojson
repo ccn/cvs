@@ -56819,23 +56819,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194527",
-        "title": "星展",
-        "address": "高雄市三民區天祥一路88號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.321093,
-          22.667392
-        ],
-        "type": "Point"
-      },
-      "id": "194527"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194538",
         "title": "基隆南站",
         "address": "基隆市仁愛區港西街5號1樓",
@@ -57988,6 +57971,23 @@
         "type": "Point"
       },
       "id": "195449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195450",
+        "title": "逢美",
+        "address": "台中市西屯區烈美街98號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.642413,
+          24.179125
+        ],
+        "type": "Point"
+      },
+      "id": "195450"
     },
     {
       "type": "Feature",
@@ -60899,6 +60899,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197939",
+        "title": "星展",
+        "address": "高雄市三民區天祥一路88號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.321093,
+          22.667392
+        ],
+        "type": "Point"
+      },
+      "id": "197939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197940",
         "title": "安保",
         "address": "台北市內湖區安康路28號1樓",
@@ -61069,23 +61086,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "198264",
-        "title": "北車站",
-        "address": "台北市中正區忠孝西路一段49號地下一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517896,
-          25.046374
-        ],
-        "type": "Point"
-      },
-      "id": "198264"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "198275",
         "title": "日安",
         "address": "台北市士林區文林路444號1樓",
@@ -61184,6 +61184,23 @@
         "type": "Point"
       },
       "id": "198345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198356",
+        "title": "山莊",
+        "address": "台中市霧峰區中正路650號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.693869,
+          24.048726
+        ],
+        "type": "Point"
+      },
+      "id": "198356"
     },
     {
       "type": "Feature",
@@ -62939,6 +62956,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199898",
+        "title": "金囍",
+        "address": "金門縣金湖鎮復興路115號.115-1號.115-2號.115-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.414895,
+          24.441926
+        ],
+        "type": "Point"
+      },
+      "id": "199898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199902",
         "title": "超學",
         "address": "台中市北區進化北路327號與325號1樓",
@@ -63092,6 +63126,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200217",
+        "title": "驛光",
+        "address": "桃園市中壢區新興路124號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.225506,
+          24.952633
+        ],
+        "type": "Point"
+      },
+      "id": "200217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200251",
+        "title": "康明",
+        "address": "台北市內湖區康寧路三段189巷21弄26號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.612374,
+          25.071378
+        ],
+        "type": "Point"
+      },
+      "id": "200251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200321",
         "title": "庚亞",
         "address": "桃園市龜山區復興一路150號1樓",
@@ -63122,6 +63190,23 @@
         "type": "Point"
       },
       "id": "200387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200435",
+        "title": "緯創",
+        "address": "新竹市東區新安路5號3樓之1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.998915,
+          24.781984
+        ],
+        "type": "Point"
+      },
+      "id": "200435"
     },
     {
       "type": "Feature",
@@ -63938,6 +64023,23 @@
         "type": "Point"
       },
       "id": "201162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202419",
+        "title": "北車站",
+        "address": "台北市中正區忠孝西路一段49號地下一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517896,
+          25.046374
+        ],
+        "type": "Point"
+      },
+      "id": "202419"
     },
     {
       "type": "Feature",
