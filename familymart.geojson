@@ -16079,25 +16079,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015010",
-        "title": "全家鶯歌行政店",
-        "address": "新北市鶯歌區中正一路154號",
-        "post": "239",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.352267,
-          24.955987
-        ],
-        "type": "Point"
-      },
-      "id": "015010"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015011",
         "title": "全家龍潭陸軍店",
         "address": "桃園市龍潭區中正路三林段81號崑崙樓一樓",
@@ -37545,25 +37526,6 @@
         "type": "Point"
       },
       "id": "017023"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017025",
-        "title": "全家土城立雲店",
-        "address": "新北市土城區金城路二段258之5號",
-        "post": "236",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.457355,
-          24.983367
-        ],
-        "type": "Point"
-      },
-      "id": "017025"
     },
     {
       "type": "Feature",
@@ -66448,6 +66410,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018976",
+        "title": "全家土城立雲店",
+        "address": "新北市土城區金城路二段258之5號",
+        "post": "236",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.457355,
+          24.983367
+        ],
+        "type": "Point"
+      },
+      "id": "018976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018977",
         "title": "全家永康大橋店",
         "address": "台南市永康區大橋二街68號1樓",
@@ -67052,6 +67033,25 @@
         "type": "Point"
       },
       "id": "019044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019049",
+        "title": "全家鶯歌行政店",
+        "address": "新北市鶯歌區中正一路154號",
+        "post": "239",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.352267,
+          24.955987
+        ],
+        "type": "Point"
+      },
+      "id": "019049"
     },
     {
       "type": "Feature",
