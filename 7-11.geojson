@@ -56088,6 +56088,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193867",
+        "title": "陽光城",
+        "address": "台南市善化區蓮潭里9鄰陽光大道198號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.307089,
+          23.111778
+        ],
+        "type": "Point"
+      },
+      "id": "193867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193878",
         "title": "香蘭",
         "address": "台東縣太麻里鄉太麻里街575號",
@@ -63190,23 +63207,6 @@
         "type": "Point"
       },
       "id": "200387"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "200435",
-        "title": "緯創",
-        "address": "新竹市東區新安路5號3樓之1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.998915,
-          24.781984
-        ],
-        "type": "Point"
-      },
-      "id": "200435"
     },
     {
       "type": "Feature",
@@ -76879,23 +76879,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "931434",
-        "title": "里德",
-        "address": "台中市大里區德芳南路211號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.687997,
-          24.101767
-        ],
-        "type": "Point"
-      },
-      "id": "931434"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "931456",
         "title": "德勇",
         "address": "桃園市八德區大勇里忠勇街365號",
@@ -89574,23 +89557,6 @@
         "type": "Point"
       },
       "id": "975331"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "975434",
-        "title": "康明",
-        "address": "台北市內湖區康寧路三段165巷23弄1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.612189,
-          25.071451
-        ],
-        "type": "Point"
-      },
-      "id": "975434"
     },
     {
       "type": "Feature",
