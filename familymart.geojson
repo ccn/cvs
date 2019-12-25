@@ -803,25 +803,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011636",
-        "title": "全家台東新生店",
-        "address": "台東縣台東市開封街646號1樓",
-        "post": "950",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.1390069,
-          22.7602155
-        ],
-        "type": "Point"
-      },
-      "id": "011636"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011639",
         "title": "全家屏東大埔店",
         "address": "屏東縣屏東市民族路303號一樓",
@@ -25898,25 +25879,6 @@
         "type": "Point"
       },
       "id": "016085"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016086",
-        "title": "全家板橋天和店",
-        "address": "新北市板橋區三民路二段140號1樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,SharePot,Kantoni,SingleOrigin,TANHOU,FreshFruit,SpicyKantoni,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.479008,
-          25.015983
-        ],
-        "type": "Point"
-      },
-      "id": "016086"
     },
     {
       "type": "Feature",
@@ -67151,6 +67113,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019063",
+        "title": "全家台東新生店",
+        "address": "台東縣台東市開封街646號1樓",
+        "post": "950",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1390069,
+          22.7602155
+        ],
+        "type": "Point"
+      },
+      "id": "019063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019065",
         "title": "全家北港順風店",
         "address": "雲林縣北港鎮中正路95號一樓,二樓",
@@ -67185,6 +67166,25 @@
         "type": "Point"
       },
       "id": "019074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019084",
+        "title": "全家板橋天和店",
+        "address": "新北市板橋區三民路二段140號1樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,SharePot,Kantoni,SingleOrigin,TANHOU,FreshFruit,SpicyKantoni,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.479008,
+          25.015983
+        ],
+        "type": "Point"
+      },
+      "id": "019084"
     },
     {
       "type": "Feature",
