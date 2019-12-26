@@ -27732,23 +27732,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "158303",
-        "title": "名寶",
-        "address": "台北市內湖區民權東路六段180巷17號19號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.592892,
-          25.068245
-        ],
-        "type": "Point"
-      },
-      "id": "158303"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "158336",
         "title": "歐洲",
         "address": "新北市三峽區三樹路199號",
@@ -35803,23 +35786,6 @@
         "type": "Point"
       },
       "id": "167846"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "167857",
-        "title": "桃農",
-        "address": "桃園市桃園區萬壽路三段111號113號115號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.321004,
-          24.991151
-        ],
-        "type": "Point"
-      },
-      "id": "167857"
     },
     {
       "type": "Feature",
@@ -59029,6 +58995,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196291",
+        "title": "航站五",
+        "address": "桃園市大園區航站南路9號5樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.231975,
+          25.077016
+        ],
+        "type": "Point"
+      },
+      "id": "196291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196305",
         "title": "安峰",
         "address": "新北市新店區安康路二段350之3號",
@@ -61035,6 +61018,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198105",
+        "title": "名寶",
+        "address": "台北市內湖區民權東路六段180巷17號19號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.592892,
+          25.068245
+        ],
+        "type": "Point"
+      },
+      "id": "198105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198208",
         "title": "瑞慈",
         "address": "新北市瑞芳區三爪子坑路64之39號64之40號1樓",
@@ -62667,6 +62667,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199430",
+        "title": "桃農",
+        "address": "桃園市桃園區萬壽路三段111號113號115號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.321004,
+          24.991151
+        ],
+        "type": "Point"
+      },
+      "id": "199430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199441",
         "title": "汀州",
         "address": "台北市中正區汀州路一段129號",
@@ -62850,6 +62867,23 @@
         "type": "Point"
       },
       "id": "199577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199588",
+        "title": "嘉好",
+        "address": "高雄市梓官區嘉展路370號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.255759,
+          22.736046
+        ],
+        "type": "Point"
+      },
+      "id": "199588"
     },
     {
       "type": "Feature",
@@ -63224,23 +63258,6 @@
         "type": "Point"
       },
       "id": "200480"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "200561",
-        "title": "康喜",
-        "address": "台北市文山區興隆路三段42號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.555654,
-          25.000271
-        ],
-        "type": "Point"
-      },
-      "id": "200561"
     },
     {
       "type": "Feature",
@@ -63891,23 +63908,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201081",
-        "title": "統家",
-        "address": "台北市大安區忠孝東路四段216巷27弄1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.553361394032,
-          25.0399389109956
-        ],
-        "type": "Point"
-      },
-      "id": "201081"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201092",
         "title": "臨海",
         "address": "高雄市鼓山區臨海二路8號",
@@ -64044,6 +64044,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "202431",
+        "title": "康喜",
+        "address": "台北市文山區興隆路三段42號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.555654,
+          25.000271
+        ],
+        "type": "Point"
+      },
+      "id": "202431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202442",
         "title": "興洲",
         "address": "新北市新莊區新泰路472號1樓",
@@ -64057,6 +64074,23 @@
         "type": "Point"
       },
       "id": "202442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202453",
+        "title": "統家",
+        "address": "台北市大安區忠孝東路四段216巷27弄1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.553361394032,
+          25.0399389109956
+        ],
+        "type": "Point"
+      },
+      "id": "202453"
     },
     {
       "type": "Feature",
@@ -94980,23 +95014,6 @@
         "type": "Point"
       },
       "id": "992923"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "992934",
-        "title": "嘉好",
-        "address": "高雄市梓官區嘉展路370號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.255759,
-          22.736046
-        ],
-        "type": "Point"
-      },
-      "id": "992934"
     },
     {
       "type": "Feature",
