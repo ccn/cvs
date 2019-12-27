@@ -18297,23 +18297,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "140542",
-        "title": "鎮山",
-        "address": "台南市中西區西湖里湖美街10號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.180201,
-          22.999237
-        ],
-        "type": "Point"
-      },
-      "id": "140542"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "140597",
         "title": "和平島",
         "address": "基隆市中正區和一路125號127號",
@@ -43559,23 +43542,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181875",
-        "title": "江翠",
-        "address": "新北市板橋區文化路二段417巷8號1樓10號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.474079,
-          25.033253
-        ],
-        "type": "Point"
-      },
-      "id": "181875"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181886",
         "title": "溪東",
         "address": "彰化縣溪湖鎮員鹿路一段403號",
@@ -53504,23 +53470,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190101",
-        "title": "醫林",
-        "address": "桃園市龜山區長庚醫護新村80號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.384674,
-          25.057978
-        ],
-        "type": "Point"
-      },
-      "id": "190101"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190123",
         "title": "世新大",
         "address": "台北市文山區木柵路一段17巷1號1樓",
@@ -60899,6 +60848,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197928",
+        "title": "鎮山",
+        "address": "台南市中西區西湖里湖美街10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.180201,
+          22.999237
+        ],
+        "type": "Point"
+      },
+      "id": "197928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197939",
         "title": "星展",
         "address": "高雄市三民區天祥一路88號",
@@ -61014,6 +60980,23 @@
         "type": "Point"
       },
       "id": "198068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198079",
+        "title": "康醫",
+        "address": "台北市內湖區成功路五段420巷30號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.608619,
+          25.075598
+        ],
+        "type": "Point"
+      },
+      "id": "198079"
     },
     {
       "type": "Feature",
@@ -62714,6 +62697,23 @@
         "type": "Point"
       },
       "id": "199463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199474",
+        "title": "江翠",
+        "address": "新北市板橋區文化路二段417巷8號1樓10號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.474079,
+          25.033253
+        ],
+        "type": "Point"
+      },
+      "id": "199474"
     },
     {
       "type": "Feature",
@@ -71282,23 +71282,6 @@
         "type": "Point"
       },
       "id": "900898"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "900913",
-        "title": "康醫",
-        "address": "台北市內湖區成功路五段420巷30號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.608619,
-          25.075598
-        ],
-        "type": "Point"
-      },
-      "id": "900913"
     },
     {
       "type": "Feature",
