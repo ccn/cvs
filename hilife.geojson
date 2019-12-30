@@ -10824,8 +10824,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.832259248839,
-          24.6129897044206
+          121.8322377911669,
+          24.6127946236214
         ],
         "type": "Point"
       },
@@ -15261,8 +15261,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.744045,
-          25.130287
+          121.7440745042992,
+          25.1302262919096
         ],
         "type": "Point"
       },
@@ -20677,6 +20677,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4691",
+        "title": "員林員外店",
+        "address": "彰化縣員林市中正路２５６號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5744477021203,
+          23.9547192403365
+        ],
+        "type": "Point"
+      },
+      "id": "4691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4692",
         "title": "和美郭靖店",
         "address": "彰化縣和美鎮彰和路三段臨３８１號",
@@ -20690,6 +20707,23 @@
         "type": "Point"
       },
       "id": "4692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4696",
+        "title": "永和開運店",
+        "address": "新北市永和區永利路２５０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5242501475109,
+          25.0031418435152
+        ],
+        "type": "Point"
+      },
+      "id": "4696"
     },
     {
       "type": "Feature",
