@@ -21833,23 +21833,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "146355",
-        "title": "士鑽",
-        "address": "台北市士林區文林路102號B1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.526199,
-          25.087836
-        ],
-        "type": "Point"
-      },
-      "id": "146355"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "146517",
         "title": "錠富",
         "address": "新北市石碇區隆盛村雙溪56號1樓",
@@ -30023,23 +30006,6 @@
         "type": "Point"
       },
       "id": "162162"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "162173",
-        "title": "雙鑫",
-        "address": "新北市新店區北新路二段169號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.542734,
-          24.976235
-        ],
-        "type": "Point"
-      },
-      "id": "162173"
     },
     {
       "type": "Feature",
@@ -40291,23 +40257,6 @@
         "type": "Point"
       },
       "id": "177290"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "177359",
-        "title": "文一",
-        "address": "台北市文山區木新路三段327號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.556352394195,
-          24.980470703279398
-        ],
-        "type": "Point"
-      },
-      "id": "177359"
     },
     {
       "type": "Feature",
@@ -53555,23 +53504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190282",
-        "title": "景華",
-        "address": "台北市文山區興東里景華街130號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.547032,
-          24.995788
-        ],
-        "type": "Point"
-      },
-      "id": "190282"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190293",
         "title": "冬樂",
         "address": "台北市士林區美崙街112號一樓",
@@ -60933,6 +60865,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197962",
+        "title": "文一",
+        "address": "台北市文山區木新路三段327號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.556352394195,
+          24.980470703279398
+        ],
+        "type": "Point"
+      },
+      "id": "197962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197973",
         "title": "花蓮",
         "address": "花蓮縣花蓮市國聯一路100號3樓",
@@ -60997,6 +60946,23 @@
         "type": "Point"
       },
       "id": "198013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198046",
+        "title": "新永元",
+        "address": "新北市永和區永元路28號30號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52226,
+          25.00068
+        ],
+        "type": "Point"
+      },
+      "id": "198046"
     },
     {
       "type": "Feature",
@@ -61099,6 +61065,40 @@
         "type": "Point"
       },
       "id": "198105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198116",
+        "title": "瑞寶",
+        "address": "台北市內湖區瑞光路583巷27號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.568115,
+          25.080918
+        ],
+        "type": "Point"
+      },
+      "id": "198116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198127",
+        "title": "雙鑫",
+        "address": "新北市新店區北新路二段169號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.542734,
+          24.976235
+        ],
+        "type": "Point"
+      },
+      "id": "198127"
     },
     {
       "type": "Feature",
@@ -63054,6 +63054,57 @@
         "type": "Point"
       },
       "id": "199647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199658",
+        "title": "金都",
+        "address": "台南市南區金華路一段235號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.189969514056,
+          22.9672766729481
+        ],
+        "type": "Point"
+      },
+      "id": "199658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199669",
+        "title": "鑫碁泰",
+        "address": "台北市內湖區康寧路三段63號65號67號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.608259,
+          25.072353
+        ],
+        "type": "Point"
+      },
+      "id": "199669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199670",
+        "title": "景華",
+        "address": "台北市文山區興東里景華街130號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.547032,
+          24.995788
+        ],
+        "type": "Point"
+      },
+      "id": "199670"
     },
     {
       "type": "Feature",
@@ -72285,23 +72336,6 @@
         "type": "Point"
       },
       "id": "903185"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "903244",
-        "title": "瑞寶",
-        "address": "台北市內湖區瑞光路583巷27號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.568115,
-          25.080918
-        ],
-        "type": "Point"
-      },
-      "id": "903244"
     },
     {
       "type": "Feature",
@@ -89561,23 +89595,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "972893",
-        "title": "鑫碁泰",
-        "address": "台北市內湖區康寧路三段63號65號67號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.608259,
-          25.072353
-        ],
-        "type": "Point"
-      },
-      "id": "972893"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "972918",
         "title": "皇后",
         "address": "新北市淡水區新春街87號",
@@ -92927,23 +92944,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "989042",
-        "title": "新永元",
-        "address": "新北市永和區永元路28號30號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52226,
-          25.00068
-        ],
-        "type": "Point"
-      },
-      "id": "989042"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "989064",
         "title": "仕新",
         "address": "桃園市中壢區日新路112號",
@@ -93280,23 +93280,6 @@
         "type": "Point"
       },
       "id": "990374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "990385",
-        "title": "金都",
-        "address": "台南市南區金華路一段235號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.189969514056,
-          22.9672766729481
-        ],
-        "type": "Point"
-      },
-      "id": "990385"
     },
     {
       "type": "Feature",
