@@ -26950,23 +26950,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "155212",
-        "title": "雲鐵",
-        "address": "雲林縣虎尾鎮站前東路301號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.416504,
-          23.736302
-        ],
-        "type": "Point"
-      },
-      "id": "155212"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "155223",
         "title": "蘭雅",
         "address": "台北市士林區德行東路6之2號1樓",
@@ -56734,6 +56717,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194608",
+        "title": "華立",
+        "address": "台南市仁德區仁義里中清路208號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.256286,
+          22.974141
+        ],
+        "type": "Point"
+      },
+      "id": "194608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194619",
         "title": "寶捷",
         "address": "新竹市東區田美三街35號",
@@ -63462,6 +63462,23 @@
         "type": "Point"
       },
       "id": "200332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200365",
+        "title": "埔溪",
+        "address": "桃園市大溪區埔頂路二段310號312號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.280987,
+          24.913996
+        ],
+        "type": "Point"
+      },
+      "id": "200365"
     },
     {
       "type": "Feature",
