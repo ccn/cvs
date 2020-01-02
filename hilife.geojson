@@ -20558,6 +20558,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4679",
+        "title": "新莊幸運店",
+        "address": "新北市新莊區幸福東路１４９、１５１號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4602724183337,
+          25.0493168014193
+        ],
+        "type": "Point"
+      },
+      "id": "4679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4681",
         "title": "大園A13店",
         "address": "桃園市大園區航站南路９號地下一層之１號",
