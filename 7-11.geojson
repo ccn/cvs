@@ -36249,23 +36249,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170152",
-        "title": "松鑽",
-        "address": "台北市松山區八德路四段686號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.576641,
-          25.049883
-        ],
-        "type": "Point"
-      },
-      "id": "170152"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170163",
         "title": "昌宏",
         "address": "新北市新莊區昌隆街31號",
@@ -52892,23 +52875,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189569",
-        "title": "新員民",
-        "address": "彰化縣員林市三民街20號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.573491724775,
-          23.9588991390142
-        ],
-        "type": "Point"
-      },
-      "id": "189569"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189592",
         "title": "松柏林",
         "address": "桃園市八德區介壽路二段685巷50弄2號1樓",
@@ -62769,6 +62735,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199452",
+        "title": "新員民",
+        "address": "彰化縣員林市三民街20號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.573491724775,
+          23.9588991390142
+        ],
+        "type": "Point"
+      },
+      "id": "199452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199463",
         "title": "馥竹",
         "address": "新北市淡水區民權路187巷19號1樓",
@@ -63468,13 +63451,13 @@
       "properties": {
         "id": "200365",
         "title": "埔溪",
-        "address": "桃園市大溪區埔頂路二段310號312號",
+        "address": "桃園市大溪區埔頂路二段310號312號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.280987,
-          24.913996
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -64295,6 +64278,23 @@
         "type": "Point"
       },
       "id": "201162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201210",
+        "title": "松鑽",
+        "address": "台北市松山區八德路四段686號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.576641,
+          25.049883
+        ],
+        "type": "Point"
+      },
+      "id": "201210"
     },
     {
       "type": "Feature",
