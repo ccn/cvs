@@ -46381,6 +46381,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184438",
+        "title": "威保",
+        "address": "台南市關廟區南雄路一段851號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.330339,
+          22.952339
+        ],
+        "type": "Point"
+      },
+      "id": "184438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184449",
         "title": "立揚",
         "address": "桃園市桃園區正光路116號1樓",
@@ -64503,6 +64520,57 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206569",
+        "title": "信義路",
+        "address": "新北市蘆洲區信義路341號341之1號341之2號341之3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.47791,
+          25.087
+        ],
+        "type": "Point"
+      },
+      "id": "206569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206640",
+        "title": "華峰",
+        "address": "新北市林口區文化三路一段617巷51號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.370256,
+          25.077409
+        ],
+        "type": "Point"
+      },
+      "id": "206640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206651",
+        "title": "正福",
+        "address": "新北市永和區中正路546號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517278,
+          25.005424
+        ],
+        "type": "Point"
+      },
+      "id": "206651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206684",
         "title": "微風南山",
         "address": "台北市信義區松智路17號B2樓",
@@ -64516,6 +64584,23 @@
         "type": "Point"
       },
       "id": "206684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206835",
+        "title": "榮鑽",
+        "address": "台北市中山區五常街23號25號民族東路410巷62號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.53809,
+          25.064434
+        ],
+        "type": "Point"
+      },
+      "id": "206835"
     },
     {
       "type": "Feature",
