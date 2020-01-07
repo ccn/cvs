@@ -27715,23 +27715,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "158369",
-        "title": "東展",
-        "address": "台中市東勢區南平里豐勢路336號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.829885,
-          24.253555
-        ],
-        "type": "Point"
-      },
-      "id": "158369"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "158370",
         "title": "鶯明",
         "address": "桃園市桃園區桃鶯路251號",
@@ -60763,6 +60746,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197892",
+        "title": "東展",
+        "address": "台中市東勢區南平里豐勢路336號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.829885,
+          24.253555
+        ],
+        "type": "Point"
+      },
+      "id": "197892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197906",
         "title": "航祥",
         "address": "桃園市大園區三民路一段785號1樓",
@@ -63211,6 +63211,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199935",
+        "title": "桃城",
+        "address": "嘉義市西區保安里北興街四段456號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "199935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199946",
         "title": "光環",
         "address": "新北市板橋區光環路二段68號70號1樓",
@@ -64601,6 +64618,23 @@
         "type": "Point"
       },
       "id": "206835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206949",
+        "title": "蓮和",
+        "address": "花蓮縣秀林鄉和平村和平263號(台泥和平廠)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.75142,
+          24.303024
+        ],
+        "type": "Point"
+      },
+      "id": "206949"
     },
     {
       "type": "Feature",
@@ -69633,23 +69667,6 @@
         "type": "Point"
       },
       "id": "890092"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "890140",
-        "title": "威保",
-        "address": "台南市關廟區南雄路一段829號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.3305,
-          22.952155
-        ],
-        "type": "Point"
-      },
-      "id": "890140"
     },
     {
       "type": "Feature",
