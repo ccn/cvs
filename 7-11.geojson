@@ -61273,6 +61273,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198367",
+        "title": "柳豐",
+        "address": "新北市萬里區港東路162之11號162之12號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.690571,
+          25.204033
+        ],
+        "type": "Point"
+      },
+      "id": "198367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198389",
         "title": "嘉馥",
         "address": "台北市信義區信義路六段21號23號1樓",
