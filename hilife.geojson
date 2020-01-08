@@ -18433,6 +18433,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4493",
+        "title": "龍潭森之丘店",
+        "address": "桃園市龍潭區梅龍路５１１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1915918626003,
+          24.8765939497751
+        ],
+        "type": "Point"
+      },
+      "id": "4493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4495",
         "title": "觀音紅糖店",
         "address": "桃園市觀音區文化路坑尾段３７６巷１號",
