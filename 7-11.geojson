@@ -64656,6 +64656,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207230",
+        "title": "高上",
+        "address": "高雄市三民區建國二路318號B1樓西側",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "207230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "780399",
         "title": "中港",
         "address": "新北市新莊區中港路133號",
