@@ -6332,25 +6332,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013555",
-        "title": "全家板橋興安店",
-        "address": "新北市板橋區大觀路二段37巷38號1樓",
-        "post": "220",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.448568,
-          25.002664
-        ],
-        "type": "Point"
-      },
-      "id": "013555"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013556",
         "title": "全家樹林俊霖店",
         "address": "新北市樹林區俊英街155巷1號1樓",
@@ -67489,6 +67470,25 @@
         "type": "Point"
       },
       "id": "019118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019119",
+        "title": "全家板橋興安店",
+        "address": "新北市板橋區大觀路二段37巷38號1樓",
+        "post": "220",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.448568,
+          25.002664
+        ],
+        "type": "Point"
+      },
+      "id": "019119"
     },
     {
       "type": "Feature",
