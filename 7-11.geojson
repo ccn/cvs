@@ -44715,6 +44715,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "183228",
+        "title": "源隆",
+        "address": "高雄市大寮區永芳里進學路103號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.393613,
+          22.604858
+        ],
+        "type": "Point"
+      },
+      "id": "183228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "183240",
         "title": "員大",
         "address": "彰化縣員林市員大路一段374號",
@@ -70704,23 +70721,6 @@
         "type": "Point"
       },
       "id": "893895"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "894289",
-        "title": "源隆",
-        "address": "高雄市大寮區永芳里進學路74號76號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.393791,
-          22.605662
-        ],
-        "type": "Point"
-      },
-      "id": "894289"
     },
     {
       "type": "Feature",
