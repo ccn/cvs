@@ -1297,25 +1297,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011856",
-        "title": "全家三重大勇店",
-        "address": "新北市三重區力行路二段2號一樓",
-        "post": "241",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.481841,
-          25.07198
-        ],
-        "type": "Point"
-      },
-      "id": "011856"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011872",
         "title": "全家新莊新中信店",
         "address": "新北市新莊區中信街41號1樓",
@@ -66201,6 +66182,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019006",
+        "title": "全家竹北新崙店",
+        "address": "新竹縣竹北市光明十一路31號",
+        "post": "302",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.998593,
+          24.82958
+        ],
+        "type": "Point"
+      },
+      "id": "019006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019008",
         "title": "全家松農店",
         "address": "台北市中山區農安街160號",
@@ -66448,6 +66448,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019022",
+        "title": "全家中壢青塘店",
+        "address": "桃園市中壢區高鐵南路二段223號1樓",
+        "post": "320",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.20583,
+          25.003605
+        ],
+        "type": "Point"
+      },
+      "id": "019022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019025",
         "title": "全家高雄林心店",
         "address": "高雄市前鎮區一心二路157號1樓",
@@ -66634,6 +66653,25 @@
         "type": "Point"
       },
       "id": "019037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019039",
+        "title": "全家台南國安店",
+        "address": "台南市安南區國安街56巷75號",
+        "post": "709",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.189711,
+          23.024497
+        ],
+        "type": "Point"
+      },
+      "id": "019039"
     },
     {
       "type": "Feature",
@@ -67018,6 +67056,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019064",
+        "title": "全家三重大勇店",
+        "address": "新北市三重區力行路二段2號一樓",
+        "post": "241",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.481841,
+          25.07198
+        ],
+        "type": "Point"
+      },
+      "id": "019064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019065",
         "title": "全家北港順風店",
         "address": "雲林縣北港鎮中正路95號一樓,二樓",
@@ -67132,6 +67189,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019078",
+        "title": "全家后里六家店",
+        "address": "台中市后里區四村路48號",
+        "post": "421",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.712532,
+          24.303916
+        ],
+        "type": "Point"
+      },
+      "id": "019078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019080",
         "title": "全家台福店",
         "address": "台北市大安區羅斯福路四段1號腳踏車部部份空間",
@@ -67242,6 +67318,25 @@
         "type": "Point"
       },
       "id": "019087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019088",
+        "title": "全家板橋江北店",
+        "address": "新北市板橋區長江路二段313號1樓",
+        "post": "220",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.471063,
+          25.03346
+        ],
+        "type": "Point"
+      },
+      "id": "019088"
     },
     {
       "type": "Feature",
