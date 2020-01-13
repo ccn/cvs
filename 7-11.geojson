@@ -46687,23 +46687,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184678",
-        "title": "祥泰",
-        "address": "新北市土城區中山路38號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.425618,
-          24.964254
-        ],
-        "type": "Point"
-      },
-      "id": "184678"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184715",
         "title": "聖保祿",
         "address": "桃園市桃園區福安里建新街68號",
@@ -59080,6 +59063,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196486",
+        "title": "崛星",
+        "address": "高雄市新興區五福二路209.211號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.301777,
+          22.62318
+        ],
+        "type": "Point"
+      },
+      "id": "196486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196497",
         "title": "京磚",
         "address": "台北市大同區華陰街65號1樓",
@@ -63524,8 +63524,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.280987,
+          24.913996
         ],
         "type": "Point"
       },
@@ -64350,6 +64350,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201184",
+        "title": "祥泰",
+        "address": "新北市土城區中山路38號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.425618,
+          24.964254
+        ],
+        "type": "Point"
+      },
+      "id": "201184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201209",
+        "title": "竹北",
+        "address": "新竹縣竹北市中正東路194號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.014818,
+          24.835292
+        ],
+        "type": "Point"
+      },
+      "id": "201209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201210",
         "title": "松鑽",
         "address": "台北市松山區八德路四段686號",
@@ -64639,6 +64673,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206824",
+        "title": "楓江",
+        "address": "新北市泰山區楓江路39之1號39之2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "206824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206835",
         "title": "榮鑽",
         "address": "台北市中山區五常街23號25號民族東路410巷62號1樓",
@@ -64652,6 +64703,40 @@
         "type": "Point"
       },
       "id": "206835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206879",
+        "title": "德育",
+        "address": "台北市松山區八德路三段171號173號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.55554,
+          25.048158
+        ],
+        "type": "Point"
+      },
+      "id": "206879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206916",
+        "title": "民鑽",
+        "address": "桃園市桃園區民生路57號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.314261,
+          24.991679
+        ],
+        "type": "Point"
+      },
+      "id": "206916"
     },
     {
       "type": "Feature",
@@ -64673,6 +64758,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207126",
+        "title": "聖德",
+        "address": "新北市土城區明德路二段207號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.446513,
+          24.983572
+        ],
+        "type": "Point"
+      },
+      "id": "207126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207230",
         "title": "高上",
         "address": "高雄市三民區建國二路318號B1樓西側",
@@ -64680,8 +64782,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.302846,
+          22.639186
         ],
         "type": "Point"
       },
@@ -71146,23 +71248,6 @@
         "type": "Point"
       },
       "id": "896193"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "896218",
-        "title": "竹北",
-        "address": "新竹縣竹北市中正東路194號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.014818,
-          24.835292
-        ],
-        "type": "Point"
-      },
-      "id": "896218"
     },
     {
       "type": "Feature",
