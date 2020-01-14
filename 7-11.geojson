@@ -24876,23 +24876,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "152040",
-        "title": "蓮發",
-        "address": "花蓮縣新城鄉北埔村7鄰北埔路172號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.604403,
-          24.032788
-        ],
-        "type": "Point"
-      },
-      "id": "152040"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "152051",
         "title": "金誼",
         "address": "金門縣金城鎮南門里浯江北堤路100號",
@@ -27609,23 +27592,6 @@
         "type": "Point"
       },
       "id": "158196"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "158277",
-        "title": "玉堂",
-        "address": "高雄市左營區曾子路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.312459,
-          22.675914
-        ],
-        "type": "Point"
-      },
-      "id": "158277"
     },
     {
       "type": "Feature",
@@ -41604,23 +41570,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "180492",
-        "title": "景鑽",
-        "address": "新北市中和區景新街373號373之1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.512284,
-          24.99052
-        ],
-        "type": "Point"
-      },
-      "id": "180492"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "180506",
         "title": "鎮天",
         "address": "新北市汐止區大同路三段611之5號611之6號1樓",
@@ -45476,6 +45425,23 @@
         "type": "Point"
       },
       "id": "183778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183789",
+        "title": "詠樂",
+        "address": "台北市大同區迪化街一段13號全棟",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.510284,
+          25.0542
+        ],
+        "type": "Point"
+      },
+      "id": "183789"
     },
     {
       "type": "Feature",
@@ -54541,23 +54507,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "192772",
-        "title": "光尚",
-        "address": "高雄市苓雅區光華一路226號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.31366,
-          22.629506
-        ],
-        "type": "Point"
-      },
-      "id": "192772"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "192783",
         "title": "唯勝",
         "address": "台南市中西區民權路三段150號一樓",
@@ -60950,6 +60899,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198035",
+        "title": "玉堂",
+        "address": "高雄市左營區曾子路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.312459,
+          22.675914
+        ],
+        "type": "Point"
+      },
+      "id": "198035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198046",
         "title": "新永元",
         "address": "新北市永和區永元路28號30號",
@@ -61099,6 +61065,23 @@
         "type": "Point"
       },
       "id": "198127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198172",
+        "title": "光尚",
+        "address": "高雄市苓雅區光華一路226號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.31366,
+          22.629506
+        ],
+        "type": "Point"
+      },
+      "id": "198172"
     },
     {
       "type": "Feature",
@@ -61320,6 +61303,23 @@
         "type": "Point"
       },
       "id": "198389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198390",
+        "title": "甲誠",
+        "address": "高雄市鳳山區三誠路76.78.80號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.325369,
+          22.593534
+        ],
+        "type": "Point"
+      },
+      "id": "198390"
     },
     {
       "type": "Feature",
@@ -63381,6 +63381,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200125",
+        "title": "義山",
+        "address": "新竹縣竹北市十興路318號.新瀧一街6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.023591,
+          24.833242
+        ],
+        "type": "Point"
+      },
+      "id": "200125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200158",
         "title": "永藝",
         "address": "新北市永和區永和路二段272號274號1樓",
@@ -64401,6 +64418,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201232",
+        "title": "景鑽",
+        "address": "新北市中和區景新街373號373之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.512284,
+          24.99052
+        ],
+        "type": "Point"
+      },
+      "id": "201232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -64775,19 +64809,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "207230",
-        "title": "高上",
-        "address": "高雄市三民區建國二路318號B1樓西側",
+        "id": "215105",
+        "title": "蓮發",
+        "address": "花蓮縣新城鄉北埔村7鄰北埔路172號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.302846,
-          22.639186
+          121.604403,
+          24.032788
         ],
         "type": "Point"
       },
-      "id": "207230"
+      "id": "215105"
     },
     {
       "type": "Feature",
