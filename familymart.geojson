@@ -7491,25 +7491,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013770",
-        "title": "全家林口隆林店",
-        "address": "新北市林口區文化二路二段90,92號",
-        "post": "244",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,SharePot,SingleOrigin,TANHOU,FreshFruit,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.378942,
-          25.081304
-        ],
-        "type": "Point"
-      },
-      "id": "013770"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013771",
         "title": "全家新莊新樹店",
         "address": "新北市新莊區新樹路613號1樓",
@@ -11686,25 +11667,6 @@
         "type": "Point"
       },
       "id": "014455"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014456",
-        "title": "全家華科大店",
-        "address": "台北市南港區研究院路三段245號",
-        "post": "115",
-        "all": "COFFEE,WiFi,Kantoni,Preorder,FLatte",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.609877,
-          25.033624
-        ],
-        "type": "Point"
-      },
-      "id": "014456"
     },
     {
       "type": "Feature",
@@ -67926,6 +67888,25 @@
         "type": "Point"
       },
       "id": "019143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019144",
+        "title": "全家林口隆林店",
+        "address": "新北市林口區文化二路二段90,92號",
+        "post": "244",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,veg,SharePot,SingleOrigin,TANHOU,FreshFruit,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.378942,
+          25.081304
+        ],
+        "type": "Point"
+      },
+      "id": "019144"
     },
     {
       "type": "Feature",
