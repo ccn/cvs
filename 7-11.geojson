@@ -22360,23 +22360,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "148339",
-        "title": "詠樂",
-        "address": "台北市大同區南京西路233巷15號17號1.2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.51053836343101,
-          25.0543579620209
-        ],
-        "type": "Point"
-      },
-      "id": "148339"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "148351",
         "title": "篤行",
         "address": "台中市北區篤行路120號122號",
@@ -54915,23 +54898,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193052",
-        "title": "中義",
-        "address": "高雄市新興區六合一路27號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.312092,
-          22.632201
-        ],
-        "type": "Point"
-      },
-      "id": "193052"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193063",
         "title": "新店",
         "address": "新北市新店區碧潭路14號1樓",
@@ -61290,6 +61256,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198378",
+        "title": "正成",
+        "address": "高雄市前鎮區成功二路62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302586,
+          22.601978
+        ],
+        "type": "Point"
+      },
+      "id": "198378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198389",
         "title": "嘉馥",
         "address": "台北市信義區信義路六段21號23號1樓",
@@ -63247,7 +63230,7 @@
       "properties": {
         "id": "199935",
         "title": "桃城",
-        "address": "嘉義市西區保安里北興街四段456號1樓",
+        "address": "嘉義市西區北興街456號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -64367,6 +64350,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201173",
+        "title": "中義",
+        "address": "高雄市新興區六合一路27號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.312092,
+          22.632201
+        ],
+        "type": "Point"
+      },
+      "id": "201173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201184",
         "title": "祥泰",
         "address": "新北市土城區中山路38號",
@@ -64703,6 +64703,23 @@
         "type": "Point"
       },
       "id": "206684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206721",
+        "title": "禾雅",
+        "address": "新竹市東區鐵道路一段66號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "206721"
     },
     {
       "type": "Feature",
