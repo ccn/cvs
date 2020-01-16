@@ -15669,8 +15669,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.3593089999999,
-          25.0715803974066
+          121.3595450343933,
+          25.0712694224378
         ],
         "type": "Point"
       },
@@ -19861,6 +19861,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4611",
+        "title": "中寮香蕉店",
+        "address": "南投縣中寮鄉永平路４４５-４８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.7309945600916,
+          23.8939560878346
+        ],
+        "type": "Point"
+      },
+      "id": "4611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4612",
         "title": "台南湖美店",
         "address": "台南市中西區民權路四段１３８號",
@@ -20575,6 +20592,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4677",
+        "title": "宜蘭廣進店",
+        "address": "宜蘭縣宜蘭市中山路一段１１８號１、２樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.7686208903249,
+          24.7243722723024
+        ],
+        "type": "Point"
+      },
+      "id": "4677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4679",
         "title": "新莊幸運店",
         "address": "新北市新莊區幸福東路１４９、１５１號一樓",
@@ -20758,6 +20792,23 @@
         "type": "Point"
       },
       "id": "4696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4701",
+        "title": "新莊昌平店",
+        "address": "新北市新莊區昌平街９６、９８號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4546991970001,
+          25.0549321127036
+        ],
+        "type": "Point"
+      },
+      "id": "4701"
     },
     {
       "type": "Feature",
