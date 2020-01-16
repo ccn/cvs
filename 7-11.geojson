@@ -45378,23 +45378,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183767",
-        "title": "華社",
-        "address": "高雄市大社區中華路16-66號1.2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.352278,
-          22.727412
-        ],
-        "type": "Point"
-      },
-      "id": "183767"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183778",
         "title": "佳立",
         "address": "台南市佳里區佳東路361號",
@@ -63483,6 +63466,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200284",
+        "title": "鑫歐洲",
+        "address": "台南市永康區埔園街339號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "200284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200295",
+        "title": "鑫中潭",
+        "address": "南投縣魚池鄉通文巷6-28號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.927409,
+          23.905373
+        ],
+        "type": "Point"
+      },
+      "id": "200295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200321",
         "title": "庚亞",
         "address": "桃園市龜山區復興一路150號1樓",
@@ -64418,6 +64435,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201221",
+        "title": "華社",
+        "address": "高雄市大社區中華路16-66號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.352278,
+          22.727412
+        ],
+        "type": "Point"
+      },
+      "id": "201221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201232",
         "title": "景鑽",
         "address": "新北市中和區景新街373號373之1號",
@@ -64656,6 +64690,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206592",
+        "title": "復麗",
+        "address": "桃園市桃園區復興路162號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.312446,
+          24.990438
+        ],
+        "type": "Point"
+      },
+      "id": "206592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206640",
         "title": "華峰",
         "address": "新北市林口區文化三路一段617巷51號",
@@ -64686,6 +64737,23 @@
         "type": "Point"
       },
       "id": "206651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206662",
+        "title": "元祖",
+        "address": "雲林縣元長鄉南村中山路4-100號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.31319,
+          23.64584
+        ],
+        "type": "Point"
+      },
+      "id": "206662"
     },
     {
       "type": "Feature",
@@ -64822,6 +64890,23 @@
         "type": "Point"
       },
       "id": "207126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207230",
+        "title": "高上",
+        "address": "高雄市三民區建國二路318號B1樓西側",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302846,
+          22.639186
+        ],
+        "type": "Point"
+      },
+      "id": "207230"
     },
     {
       "type": "Feature",
