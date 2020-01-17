@@ -2028,23 +2028,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112628",
-        "title": "新學和",
-        "address": "台中市南區學府路70號70-1號72號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.675297,
-          24.127034
-        ],
-        "type": "Point"
-      },
-      "id": "112628"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112639",
         "title": "美村",
         "address": "台中市西區美村路一段542號546號",
@@ -55697,23 +55680,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193834",
-        "title": "樂多",
-        "address": "金門縣金寧鄉伯玉路二段229號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          118.338985,
-          24.440419
-        ],
-        "type": "Point"
-      },
-      "id": "193834"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193856",
         "title": "莊壢",
         "address": "桃園市中壢區莊敬路199號",
@@ -56169,6 +56135,23 @@
         "type": "Point"
       },
       "id": "194240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194251",
+        "title": "和冠",
+        "address": "彰化縣和美鎮湖內里彰新路六段臨566號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.509652,
+          24.149443
+        ],
+        "type": "Point"
+      },
+      "id": "194251"
     },
     {
       "type": "Feature",
@@ -62990,6 +62973,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199599",
+        "title": "民越",
+        "address": "桃園市桃園區大有路141號143號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.321018,
+          25.006416
+        ],
+        "type": "Point"
+      },
+      "id": "199599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199603",
         "title": "鑫旺",
         "address": "桃園市中壢區興安二街1號",
@@ -63218,8 +63218,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.433721,
+          23.488242
         ],
         "type": "Point"
       },
@@ -63473,8 +63473,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.251344,
+          23.032847
         ],
         "type": "Point"
       },
@@ -64782,8 +64782,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.983689,
+          24.812489
         ],
         "type": "Point"
       },
@@ -64799,8 +64799,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.435047,
+          25.062574
         ],
         "type": "Point"
       },
@@ -64907,6 +64907,40 @@
         "type": "Point"
       },
       "id": "207230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213578",
+        "title": "新學和",
+        "address": "台中市南區學府路70號70-1號72號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.675297,
+          24.127034
+        ],
+        "type": "Point"
+      },
+      "id": "213578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215091",
+        "title": "樂多",
+        "address": "金門縣金寧鄉伯玉路二段229號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.338985,
+          24.440419
+        ],
+        "type": "Point"
+      },
+      "id": "215091"
     },
     {
       "type": "Feature",
@@ -89710,23 +89744,6 @@
         "type": "Point"
       },
       "id": "972321"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "972387",
-        "title": "民越",
-        "address": "桃園市桃園區大有路141號143號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.321018,
-          25.006416
-        ],
-        "type": "Point"
-      },
-      "id": "972387"
     },
     {
       "type": "Feature",
