@@ -49475,23 +49475,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "186814",
-        "title": "鴻林",
-        "address": "高雄市岡山區仁壽里公園西路三段131號133號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.284792,
-          22.792912
-        ],
-        "type": "Point"
-      },
-      "id": "186814"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "186825",
         "title": "頂新",
         "address": "新北市中和區興南路二段49號51號",
@@ -58383,6 +58366,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196006",
+        "title": "埔安",
+        "address": "南投縣埔里鎮西安路一段409-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.969659,
+          23.975347
+        ],
+        "type": "Point"
+      },
+      "id": "196006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196017",
         "title": "象上",
         "address": "苗栗縣頭屋鄉象山村象山路176號",
@@ -61303,6 +61303,23 @@
         "type": "Point"
       },
       "id": "198415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198460",
+        "title": "梧汊港",
+        "address": "台中市清水區北堤路30號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.521047,
+          24.293068
+        ],
+        "type": "Point"
+      },
+      "id": "198460"
     },
     {
       "type": "Feature",
@@ -64707,6 +64724,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206606",
+        "title": "美豐",
+        "address": "台中市后里區三豐路五段128號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.72936,
+          24.329263
+        ],
+        "type": "Point"
+      },
+      "id": "206606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206617",
+        "title": "山隴",
+        "address": "連江縣南竿鄉介壽村232號233號284號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.951703,
+          26.156104
+        ],
+        "type": "Point"
+      },
+      "id": "206617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206640",
         "title": "華峰",
         "address": "新北市林口區文化三路一段617巷51號",
@@ -64792,6 +64843,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206743",
+        "title": "新晨",
+        "address": "桃園市大園區國際路一段187號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.189925,
+          25.068156
+        ],
+        "type": "Point"
+      },
+      "id": "206743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206776",
+        "title": "和旅",
+        "address": "台北市萬華區西寧南路105號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.50672,
+          25.045098
+        ],
+        "type": "Point"
+      },
+      "id": "206776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206824",
         "title": "楓江",
         "address": "新北市泰山區楓江路39之1號39之2號1樓",
@@ -64860,6 +64945,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206927",
+        "title": "浤淶",
+        "address": "台中市大雅區中清路四段408號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.639204,
+          24.232539
+        ],
+        "type": "Point"
+      },
+      "id": "206927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206949",
         "title": "蓮和",
         "address": "花蓮縣秀林鄉和平村和平263號(台泥和平廠)",
@@ -64873,6 +64975,40 @@
         "type": "Point"
       },
       "id": "206949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206972",
+        "title": "欣民",
+        "address": "桃園市中壢區民權路三段985號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.207981,
+          24.986651
+        ],
+        "type": "Point"
+      },
+      "id": "206972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207012",
+        "title": "羅鑫",
+        "address": "台北市大安區羅斯福路三段29號31號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "207012"
     },
     {
       "type": "Feature",
@@ -64924,6 +65060,23 @@
         "type": "Point"
       },
       "id": "213578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215057",
+        "title": "鴻林",
+        "address": "高雄市岡山區仁壽里公園西路三段131號133號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.284792,
+          22.792912
+        ],
+        "type": "Point"
+      },
+      "id": "215057"
     },
     {
       "type": "Feature",
