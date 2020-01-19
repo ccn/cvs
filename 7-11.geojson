@@ -64758,6 +64758,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206628",
+        "title": "行善",
+        "address": "台北市內湖區行善路486號1樓新湖二路369號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "206628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206640",
         "title": "華峰",
         "address": "新北市林口區文化三路一段617巷51號",
@@ -64822,6 +64839,23 @@
         "type": "Point"
       },
       "id": "206684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206709",
+        "title": "博一",
+        "address": "台中市北區英才路388號388之1號及博館一街37號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.668014,
+          24.154473
+        ],
+        "type": "Point"
+      },
+      "id": "206709"
     },
     {
       "type": "Feature",
@@ -65009,6 +65043,40 @@
         "type": "Point"
       },
       "id": "207012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207056",
+        "title": "敦仁",
+        "address": "台北市大安區忠孝東路四段148號部份",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.549792,
+          25.041252
+        ],
+        "type": "Point"
+      },
+      "id": "207056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207090",
+        "title": "宜商",
+        "address": "宜蘭縣宜蘭市延平路39之8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.767286,
+          24.755996
+        ],
+        "type": "Point"
+      },
+      "id": "207090"
     },
     {
       "type": "Feature",
