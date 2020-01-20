@@ -20796,6 +20796,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4697",
+        "title": "永和光民店",
+        "address": "新北市永和區中正路１４４、１４６號一樓到四樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5148395437129,
+          24.9963461059349
+        ],
+        "type": "Point"
+      },
+      "id": "4697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4701",
         "title": "新莊昌平店",
         "address": "新北市新莊區昌平街９６、９８號一樓",
