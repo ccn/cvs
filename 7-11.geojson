@@ -63517,6 +63517,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200310",
+        "title": "龍旺",
+        "address": "苗栗縣頭份市自強路117號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.908664,
+          24.687903
+        ],
+        "type": "Point"
+      },
+      "id": "200310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200321",
         "title": "庚亞",
         "address": "桃園市龜山區復興一路150號1樓",
@@ -63619,6 +63636,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200468",
+        "title": "北圓",
+        "address": "彰化縣北斗鎮中華路91.93號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.525989,
+          23.872863
+        ],
+        "type": "Point"
+      },
+      "id": "200468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200480",
         "title": "中研",
         "address": "台北市南港區研究院路二段128號1樓(學術活動中心)",
@@ -63632,6 +63666,40 @@
         "type": "Point"
       },
       "id": "200480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200491",
+        "title": "興長安",
+        "address": "屏東縣屏東市光復路352號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.474323,
+          22.668888
+        ],
+        "type": "Point"
+      },
+      "id": "200491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200538",
+        "title": "米鄉",
+        "address": "台東縣池上鄉福原村中山路241號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.219487,
+          23.125276
+        ],
+        "type": "Point"
+      },
+      "id": "200538"
     },
     {
       "type": "Feature",
@@ -64860,6 +64928,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206710",
+        "title": "文饌",
+        "address": "台北市士林區福德路12號14號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "206710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206721",
         "title": "禾雅",
         "address": "新竹市東區鐵道路一段66號",
@@ -65081,6 +65166,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207104",
+        "title": "金鶯鎮",
+        "address": "新北市鶯歌區尖山路217之3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.34232,
+          24.945827
+        ],
+        "type": "Point"
+      },
+      "id": "207104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207126",
         "title": "聖德",
         "address": "新北市土城區明德路二段207號1樓",
@@ -65111,6 +65213,23 @@
         "type": "Point"
       },
       "id": "207230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207241",
+        "title": "悅誠",
+        "address": "高雄市三民區民族一路427-20號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.314873,
+          22.656221
+        ],
+        "type": "Point"
+      },
+      "id": "207241"
     },
     {
       "type": "Feature",
