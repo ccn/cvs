@@ -8471,23 +8471,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "123204",
-        "title": "新馬偕",
-        "address": "新竹市東區光復路二段690號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.990929,
-          24.800329
-        ],
-        "type": "Point"
-      },
-      "id": "123204"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "123248",
         "title": "樹廣",
         "address": "台中市太平區樹德路98-9號",
@@ -18315,7 +18298,7 @@
       "type": "Feature",
       "properties": {
         "id": "140748",
-        "title": "祥濱",
+        "title": "翔濱",
         "address": "基隆市中正區建國里祥豐街339號",
         "marker-color": "#01ac50"
       },
@@ -19364,23 +19347,6 @@
         "type": "Point"
       },
       "id": "142238"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "142261",
-        "title": "蘆順",
-        "address": "桃園市蘆竹區奉化路168號170號172號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.290075,
-          25.038525
-        ],
-        "type": "Point"
-      },
-      "id": "142261"
     },
     {
       "type": "Feature",
@@ -35055,23 +35021,6 @@
         "type": "Point"
       },
       "id": "167466"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "167477",
-        "title": "京東",
-        "address": "台北市松山區南京東路五段16號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.558747,
-          25.051325
-        ],
-        "type": "Point"
-      },
-      "id": "167477"
     },
     {
       "type": "Feature",
@@ -51719,23 +51668,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188670",
-        "title": "順苓",
-        "address": "高雄市小港區漢民路381號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.356743,
-          22.566984
-        ],
-        "type": "Point"
-      },
-      "id": "188670"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188681",
         "title": "松民",
         "address": "台北市松山區三民路10號",
@@ -56084,23 +56016,6 @@
         "type": "Point"
       },
       "id": "194239"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "194240",
-        "title": "三隆",
-        "address": "高雄市大寮區光明路二段810號1F",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.417881,
-          22.601094
-        ],
-        "type": "Point"
-      },
-      "id": "194240"
     },
     {
       "type": "Feature",
@@ -64503,6 +64418,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201195",
+        "title": "京東",
+        "address": "台北市松山區南京東路五段16號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.558747,
+          25.051325
+        ],
+        "type": "Point"
+      },
+      "id": "201195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201209",
         "title": "竹北",
         "address": "新竹縣竹北市中正東路194號",
@@ -64860,15 +64792,32 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "206628",
-        "title": "行善",
-        "address": "台北市內湖區行善路486號1樓新湖二路369號1樓",
+        "id": "206617",
+        "title": "山隴",
+        "address": "連江縣南竿鄉介壽村232號233號284號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          119.951703,
+          26.156104
+        ],
+        "type": "Point"
+      },
+      "id": "206617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206628",
+        "title": "行善",
+        "address": "台北市內湖區行善路468號1樓新湖二路369號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.585363,
+          25.064635
         ],
         "type": "Point"
       },
@@ -65353,6 +65302,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207399",
+        "title": "旺泰",
+        "address": "新北市新莊區榮華路二段105號1樓.中信街151號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44772,
+          25.055528
+        ],
+        "type": "Point"
+      },
+      "id": "207399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207403",
         "title": "延福",
         "address": "新北市土城區延平街36號1樓",
@@ -65370,6 +65336,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213556",
+        "title": "順苓",
+        "address": "高雄市小港區漢民路381號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.356743,
+          22.566984
+        ],
+        "type": "Point"
+      },
+      "id": "213556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213578",
         "title": "新學和",
         "address": "台中市南區學府路70號70-1號72號1樓",
@@ -65383,6 +65366,40 @@
         "type": "Point"
       },
       "id": "213578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213590",
+        "title": "三隆",
+        "address": "高雄市大寮區光明路二段810號1F",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.417881,
+          22.601094
+        ],
+        "type": "Point"
+      },
+      "id": "213590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213604",
+        "title": "新馬偕",
+        "address": "新竹市東區光復路二段690號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.990929,
+          24.800329
+        ],
+        "type": "Point"
+      },
+      "id": "213604"
     },
     {
       "type": "Feature",
@@ -65434,6 +65451,23 @@
         "type": "Point"
       },
       "id": "215105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215116",
+        "title": "蘆順",
+        "address": "桃園市蘆竹區奉化路168號170號172號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.290075,
+          25.038525
+        ],
+        "type": "Point"
+      },
+      "id": "215116"
     },
     {
       "type": "Feature",
@@ -94504,23 +94538,6 @@
         "type": "Point"
       },
       "id": "990880"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "990891",
-        "title": "新嘉友",
-        "address": "嘉義市西區竹圍里中興路241號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.433997648335,
-          23.4821774738071
-        ],
-        "type": "Point"
-      },
-      "id": "990891"
     },
     {
       "type": "Feature",
