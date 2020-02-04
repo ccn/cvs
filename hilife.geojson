@@ -1399,6 +1399,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "2267",
+        "title": "北縣金陽店",
+        "address": "新北市金山區中正路２６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6357956566276,
+          25.2222989652786
+        ],
+        "type": "Point"
+      },
+      "id": "2267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "2269",
         "title": "苗栗苗鑫店",
         "address": "苗栗縣苗栗市光復路１６１號",
