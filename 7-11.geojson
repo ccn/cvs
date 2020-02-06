@@ -7910,23 +7910,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "122636",
-        "title": "竹科",
-        "address": "新竹市東區埔頂路8號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.00778,
-          24.792699
-        ],
-        "type": "Point"
-      },
-      "id": "122636"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "122647",
         "title": "樂高",
         "address": "桃園市龜山區文化七路85號1樓",
@@ -41810,13 +41793,13 @@
       "properties": {
         "id": "180805",
         "title": "錚大",
-        "address": "嘉義縣民雄鄉文隆村鴨母坔85號",
+        "address": "嘉義縣民雄鄉文隆村11鄰鴨母坔85號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.438619649331,
-          23.543654688342603
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -50937,23 +50920,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188108",
-        "title": "璟觀",
-        "address": "新竹市香山區景觀大道830號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.958163,
-          24.760257
-        ],
-        "type": "Point"
-      },
-      "id": "188108"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188119",
         "title": "球場",
         "address": "高雄市鳥松區本館路196號1樓",
@@ -56022,13 +55988,13 @@
       "properties": {
         "id": "194251",
         "title": "和冠",
-        "address": "彰化縣和美鎮湖內里彰新路六段臨566號",
+        "address": "彰化縣和美鎮彰新路六段臨566號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.509652,
-          24.149443
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -63519,13 +63485,13 @@
       "properties": {
         "id": "200398",
         "title": "大琬",
-        "address": "雲林縣大埤鄉南和村中正路19號",
+        "address": "雲林縣大埤鄉中正路19號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.432548,
-          23.645154
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -64862,13 +64828,13 @@
       "properties": {
         "id": "206662",
         "title": "元祖",
-        "address": "雲林縣元長鄉南村中山路4-100號",
+        "address": "雲林縣元長鄉長南村中山路4-100號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.31319,
-          23.64584
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -65468,6 +65434,40 @@
         "type": "Point"
       },
       "id": "215116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215149",
+        "title": "竹科",
+        "address": "新竹市東區埔頂路8號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.00778,
+          24.792699
+        ],
+        "type": "Point"
+      },
+      "id": "215149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215150",
+        "title": "璟觀",
+        "address": "新竹市香山區景觀大道830號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.958163,
+          24.760257
+        ],
+        "type": "Point"
+      },
+      "id": "215150"
     },
     {
       "type": "Feature",
