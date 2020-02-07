@@ -63126,23 +63126,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "199957",
-        "title": "微風1",
-        "address": "台北市中正區北平西路3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517081,
-          25.047924
-        ],
-        "type": "Point"
-      },
-      "id": "199957"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "199980",
         "title": "興忠",
         "address": "台北市中正區紹興北街3號1樓,B1",
@@ -64828,7 +64811,7 @@
       "properties": {
         "id": "206662",
         "title": "元祖",
-        "address": "雲林縣元長鄉長南村中山路4-100號",
+        "address": "雲林縣元長鄉中山路4-100號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -65366,6 +65349,23 @@
         "type": "Point"
       },
       "id": "213604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213648",
+        "title": "微風1",
+        "address": "台北市中正區北平西路3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517081,
+          25.047924
+        ],
+        "type": "Point"
+      },
+      "id": "213648"
     },
     {
       "type": "Feature",
