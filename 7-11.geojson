@@ -6108,23 +6108,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "120559",
-        "title": "萬華",
-        "address": "台北市萬華區莒光路216號萬大路57號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500735,
-          25.031338
-        ],
-        "type": "Point"
-      },
-      "id": "120559"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "120571",
         "title": "八福",
         "address": "桃園市八德區福國街76-1號",
@@ -63449,6 +63432,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200376",
+        "title": "小巨蛋",
+        "address": "台北市松山區南京東路四段2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.549433,
+          25.050944
+        ],
+        "type": "Point"
+      },
+      "id": "200376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200387",
         "title": "七綻",
         "address": "台中市北屯區文心路四段57號",
@@ -64486,6 +64486,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201265",
+        "title": "萬華",
+        "address": "台北市萬華區莒光路216號萬大路57號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500735,
+          25.031338
+        ],
+        "type": "Point"
+      },
+      "id": "201265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -65196,6 +65213,23 @@
         "type": "Point"
       },
       "id": "207126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207137",
+        "title": "阿波羅",
+        "address": "台北市大安區忠孝東路四段222號224號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.553588,
+          25.041212
+        ],
+        "type": "Point"
+      },
+      "id": "207137"
     },
     {
       "type": "Feature",
