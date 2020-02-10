@@ -58655,6 +58655,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196372",
+        "title": "墩煌",
+        "address": "南投縣草屯鎮芬草路三段36號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196383",
         "title": "虎真",
         "address": "雲林縣虎尾鎮穎川里頂南398號",
