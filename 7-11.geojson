@@ -39275,23 +39275,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "174659",
-        "title": "雅慶",
-        "address": "高雄市苓雅區同慶里同慶路88號90號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.320327,
-          22.6274
-        ],
-        "type": "Point"
-      },
-      "id": "174659"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "174660",
         "title": "頂崁",
         "address": "新北市三重區光復路一段82號1樓",
@@ -60610,6 +60593,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197951",
+        "title": "雅慶",
+        "address": "高雄市苓雅區同慶里同慶路88號90號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.320327,
+          22.6274
+        ],
+        "type": "Point"
+      },
+      "id": "197951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197962",
         "title": "文一",
         "address": "台北市文山區木新路三段327號",
@@ -64486,23 +64486,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201254",
-        "title": "福溢",
-        "address": "台北市士林區德行西路96號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.521269,
-          25.104145
-        ],
-        "type": "Point"
-      },
-      "id": "201254"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201265",
         "title": "萬華",
         "address": "台北市萬華區莒光路216號萬大路57號1樓",
@@ -64516,6 +64499,23 @@
         "type": "Point"
       },
       "id": "201265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201276",
+        "title": "潤泰",
+        "address": "台北市中山區八德路二段314號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.542807,
+          25.047182
+        ],
+        "type": "Point"
+      },
+      "id": "201276"
     },
     {
       "type": "Feature",
@@ -65349,6 +65349,23 @@
         "type": "Point"
       },
       "id": "213556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213567",
+        "title": "福溢",
+        "address": "台北市士林區德行西路96號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.521269,
+          25.104145
+        ],
+        "type": "Point"
+      },
+      "id": "213567"
     },
     {
       "type": "Feature",
@@ -97071,23 +97088,6 @@
         "type": "Point"
       },
       "id": "996523"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "996534",
-        "title": "潤泰",
-        "address": "台北市中山區八德路二段314號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.542807,
-          25.047182
-        ],
-        "type": "Point"
-      },
-      "id": "996534"
     },
     {
       "type": "Feature",
