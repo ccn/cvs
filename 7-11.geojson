@@ -34838,23 +34838,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167352",
-        "title": "小巨蛋",
-        "address": "台北市松山區南京東路四段2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.549433,
-          25.050944
-        ],
-        "type": "Point"
-      },
-      "id": "167352"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167363",
         "title": "瑞星",
         "address": "桃園市八德區介壽路二段616號618號1樓",
@@ -59110,6 +59093,23 @@
         "type": "Point"
       },
       "id": "196774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196844",
+        "title": "ES",
+        "address": "新北市樹林區佳園路二段70-1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.390629,
+          24.95988
+        ],
+        "type": "Point"
+      },
+      "id": "196844"
     },
     {
       "type": "Feature",
