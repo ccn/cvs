@@ -20813,6 +20813,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4706",
+        "title": "松山民生店",
+        "address": "台北市松山區民生東路五段１２３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5609977570509,
+          25.0588413592645
+        ],
+        "type": "Point"
+      },
+      "id": "4706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4710",
         "title": "宜蘭黃龍店",
         "address": "宜蘭縣宜蘭市建軍路４６號(編號BG０１００３１-０４４)",
