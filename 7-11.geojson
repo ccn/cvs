@@ -2385,6 +2385,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "113126",
+        "title": "山上",
+        "address": "台南市山上區南洲337-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.35212,
+          23.103194
+        ],
+        "type": "Point"
+      },
+      "id": "113126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "113137",
         "title": "珊湖",
         "address": "苗栗縣頭份市中正三路271號1樓及親民路1號3號1樓",
