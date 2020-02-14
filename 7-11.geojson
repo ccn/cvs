@@ -55942,8 +55942,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.509652,
+          24.149443
         ],
         "type": "Point"
       },
@@ -58628,8 +58628,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.661606,
+          23.998458
         ],
         "type": "Point"
       },
@@ -63160,6 +63160,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200033",
+        "title": "南衫",
+        "address": "新竹市東區南大路123.125號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "200033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200066",
         "title": "參龍",
         "address": "台北市內湖區新湖一路95號1樓",
@@ -63490,8 +63507,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.432548,
+          23.645154
         ],
         "type": "Point"
       },
@@ -64850,8 +64867,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.31319,
+          23.64584
         ],
         "type": "Point"
       },
