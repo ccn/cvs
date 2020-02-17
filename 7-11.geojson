@@ -26372,23 +26372,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "154817",
-        "title": "仁雄",
-        "address": "高雄市仁武區仁雄路6之11號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.353688,
-          22.680873
-        ],
-        "type": "Point"
-      },
-      "id": "154817"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "154828",
         "title": "青草湖",
         "address": "新竹市東區明湖里明湖路3鄰1012-1號",
@@ -60865,6 +60848,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198161",
+        "title": "仁雄",
+        "address": "高雄市仁武區仁雄路6之11號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.353688,
+          22.680873
+        ],
+        "type": "Point"
+      },
+      "id": "198161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198172",
         "title": "光尚",
         "address": "高雄市苓雅區光華一路226號",
@@ -61167,6 +61167,23 @@
         "type": "Point"
       },
       "id": "198415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198448",
+        "title": "善志",
+        "address": "高雄市鳳山區善志街27號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.335599,
+          22.601803
+        ],
+        "type": "Point"
+      },
+      "id": "198448"
     },
     {
       "type": "Feature",
