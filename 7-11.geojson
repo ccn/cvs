@@ -1807,23 +1807,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112374",
-        "title": "敬群",
-        "address": "台北市中山區樂群二路154號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.557629,
-          25.079591
-        ],
-        "type": "Point"
-      },
-      "id": "112374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112385",
         "title": "大陽",
         "address": "彰化縣彰化市延平里大埔路405號",
@@ -42216,23 +42199,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181185",
-        "title": "松機",
-        "address": "台北市松山區敦化北路340之10號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.549644,
-          25.063818
-        ],
-        "type": "Point"
-      },
-      "id": "181185"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181200",
         "title": "堤頂",
         "address": "台北市內湖區堤頂大道二段411號1樓",
@@ -62922,6 +62888,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199625",
+        "title": "新新豐",
+        "address": "新竹縣新豐鄉新興路177號179號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.99486,
+          24.868835
+        ],
+        "type": "Point"
+      },
+      "id": "199625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199636",
         "title": "壢達",
         "address": "桃園市平鎮區環南路231-5號1樓",
@@ -63615,6 +63598,23 @@
         "type": "Point"
       },
       "id": "200491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200505",
+        "title": "永益",
+        "address": "高雄市小港區民益路46號1樓及2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.348152,
+          22.56676
+        ],
+        "type": "Point"
+      },
+      "id": "200505"
     },
     {
       "type": "Feature",
@@ -64979,6 +64979,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206732",
+        "title": "新嘉友",
+        "address": "嘉義市西區福全里友愛路222.222-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.43411,
+          23.481659
+        ],
+        "type": "Point"
+      },
+      "id": "206732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206743",
         "title": "新晨",
         "address": "桃園市大園區國際路一段187號",
@@ -65451,6 +65468,23 @@
         "type": "Point"
       },
       "id": "213604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213626",
+        "title": "敬群",
+        "address": "台北市中山區樂群二路154號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.557629,
+          25.079591
+        ],
+        "type": "Point"
+      },
+      "id": "213626"
     },
     {
       "type": "Feature",
@@ -84236,23 +84270,6 @@
         "type": "Point"
       },
       "id": "954622"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "954633",
-        "title": "新新豐",
-        "address": "新竹縣新豐鄉新興路177號179號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.99486,
-          24.868835
-        ],
-        "type": "Point"
-      },
-      "id": "954633"
     },
     {
       "type": "Feature",
