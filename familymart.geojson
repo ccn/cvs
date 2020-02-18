@@ -63541,6 +63541,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018898",
+        "title": "全家汐止導航店",
+        "address": "新北市汐止區樟樹二路68號",
+        "post": "221",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.640002,
+          25.061981
+        ],
+        "type": "Point"
+      },
+      "id": "018898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018900",
         "title": "全家土城吉城店",
         "address": "新北市土城區延吉街80號1樓",
@@ -66999,25 +67018,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019109",
-        "title": "全家新社興安店",
-        "address": "台中市新社區興社街四段26之1號一樓",
-        "post": "426",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.808619,
-          24.241469
-        ],
-        "type": "Point"
-      },
-      "id": "019109"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019111",
         "title": "全家中和國華店",
         "address": "新北市中和區中正路868-1號",
@@ -68268,6 +68268,25 @@
         "type": "Point"
       },
       "id": "019194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019200",
+        "title": "全家新社興安店",
+        "address": "台中市新社區興社街四段26之1號一樓",
+        "post": "426",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.808619,
+          24.241469
+        ],
+        "type": "Point"
+      },
+      "id": "019200"
     },
     {
       "type": "Feature",
