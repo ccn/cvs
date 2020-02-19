@@ -21204,23 +21204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "144522",
-        "title": "老街",
-        "address": "新北市淡水區公明街48號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.443164,
-          25.168817
-        ],
-        "type": "Point"
-      },
-      "id": "144522"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "144555",
         "title": "星河",
         "address": "台中市沙鹿區鹿峰里中山路646號",
@@ -55935,6 +55918,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194284",
+        "title": "沐東風",
+        "address": "台南市東區德昌路58號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.23749,
+          22.965096
+        ],
+        "type": "Point"
+      },
+      "id": "194284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194295",
         "title": "華敬",
         "address": "屏東縣屏東市中正里華正路12號1樓.14號1樓",
@@ -56509,6 +56509,23 @@
         "type": "Point"
       },
       "id": "194734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194745",
+        "title": "奇佳",
+        "address": "台南市新化區信義路373號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304032,
+          23.034452
+        ],
+        "type": "Point"
+      },
+      "id": "194745"
     },
     {
       "type": "Feature",
