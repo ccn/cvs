@@ -29534,23 +29534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "161468",
-        "title": "瑞金",
-        "address": "基隆市安樂區基金三路75-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.696577,
-          25.15466
-        ],
-        "type": "Point"
-      },
-      "id": "161468"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "161491",
         "title": "黃埔",
         "address": "高雄市鳳山區鎮東里光遠路73號",
@@ -41696,8 +41679,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.424401,
+          23.54325
         ],
         "type": "Point"
       },
@@ -60610,6 +60593,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197984",
+        "title": "瑞金",
+        "address": "基隆市安樂區基金三路75-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.696577,
+          25.15466
+        ],
+        "type": "Point"
+      },
+      "id": "197984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197995",
         "title": "政戰",
         "address": "台北市北投區中央北路二段15號17號",
@@ -61292,13 +61292,13 @@
       "properties": {
         "id": "198585",
         "title": "金芝",
-        "address": "新北市三芝區中興街一段2號",
+        "address": "新北市三芝區中興街2號6號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.497648,
-          25.259636
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -63184,8 +63184,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.975302,
+          24.80098
         ],
         "type": "Point"
       },
@@ -65404,6 +65404,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207850",
+        "title": "松機",
+        "address": "台北市松山區敦化北路340之10號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.549644,
+          25.063818
+        ],
+        "type": "Point"
+      },
+      "id": "207850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213556",
         "title": "順苓",
         "address": "高雄市小港區漢民路381號",
@@ -67293,13 +67310,13 @@
       "properties": {
         "id": "862374",
         "title": "景仁",
-        "address": "新北市中和區東南里14鄰忠孝街103號1樓",
+        "address": "新北市中和區忠孝街103號103之1號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.511907,
-          24.98623
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -68976,13 +68993,13 @@
       "properties": {
         "id": "875141",
         "title": "月眉",
-        "address": "台中市后里區民生路226號",
+        "address": "台中市后里區民生路226.228號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.713535,
-          24.306341
+          0,
+          0
         ],
         "type": "Point"
       },
