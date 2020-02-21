@@ -58434,6 +58434,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196257",
+        "title": "新捷市",
+        "address": "桃園市桃園區龍泉六街49號及龍城一街89號91號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.272076,
+          24.983662
+        ],
+        "type": "Point"
+      },
+      "id": "196257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196268",
         "title": "卓聯",
         "address": "台北市大安區羅斯福路四段1號1樓卓聯大樓",
