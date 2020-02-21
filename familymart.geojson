@@ -651,25 +651,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011680",
-        "title": "全家中埔中華店",
-        "address": "嘉義縣中埔鄉和睦村中華路678號",
-        "post": "606",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.45773087,
-          23.44615672
-        ],
-        "type": "Point"
-      },
-      "id": "011680"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011685",
         "title": "全家宜蘭廣鑫店",
         "address": "宜蘭縣冬山鄉廣興路267號",
@@ -21703,25 +21684,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015800",
-        "title": "全家嘉義朝陽店",
-        "address": "嘉義市東區垂楊路132號壹樓",
-        "post": "600",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,SharePot,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.457644,
-          23.474732
-        ],
-        "type": "Point"
-      },
-      "id": "015800"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015801",
         "title": "全家台南富農一店",
         "address": "臺南市東區富農街二段3號1樓",
@@ -31541,25 +31503,6 @@
         "type": "Point"
       },
       "id": "016618"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016619",
-        "title": "全家斗六重光店",
-        "address": "雲林縣斗六市南聖路78巷47號1樓",
-        "post": "640",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.556042,
-          23.700463
-        ],
-        "type": "Point"
-      },
-      "id": "016619"
     },
     {
       "type": "Feature",
@@ -68063,6 +68006,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019172",
+        "title": "全家板橋觀光店",
+        "address": "新北市板橋區縣民大道二段196號1樓",
+        "post": "220",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.469339,
+          25.017063
+        ],
+        "type": "Point"
+      },
+      "id": "019172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019173",
+        "title": "全家新竹牛埔店",
+        "address": "新竹市香山區經國路三段90號",
+        "post": "300",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.953216,
+          24.798172
+        ],
+        "type": "Point"
+      },
+      "id": "019173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019174",
         "title": "全家光復車站店",
         "address": "花蓮縣光復鄉中山路二段223號",
@@ -68097,6 +68078,25 @@
         "type": "Point"
       },
       "id": "019177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019178",
+        "title": "全家斗六新光店",
+        "address": "雲林縣斗六市成功路553號壹樓",
+        "post": "640",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.555605,
+          23.700909
+        ],
+        "type": "Point"
+      },
+      "id": "019178"
     },
     {
       "type": "Feature",
@@ -68268,6 +68268,25 @@
         "type": "Point"
       },
       "id": "019194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019195",
+        "title": "全家中埔中華店",
+        "address": "嘉義縣中埔鄉和睦村中華路678號",
+        "post": "606",
+        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,SharePot,SUNMAI,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.45773087,
+          23.44615672
+        ],
+        "type": "Point"
+      },
+      "id": "019195"
     },
     {
       "type": "Feature",
