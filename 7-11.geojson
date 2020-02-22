@@ -64384,23 +64384,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201140",
-        "title": "仁泰",
-        "address": "新北市泰山區明志路二段1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.430305,
-          25.053794
-        ],
-        "type": "Point"
-      },
-      "id": "201140"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201162",
         "title": "裕東",
         "address": "高雄市鼓山區裕誠路1946號1樓",
@@ -65570,6 +65553,23 @@
         "type": "Point"
       },
       "id": "215057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215068",
+        "title": "仁泰",
+        "address": "新北市泰山區明志路二段1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.430305,
+          25.053794
+        ],
+        "type": "Point"
+      },
+      "id": "215068"
     },
     {
       "type": "Feature",
