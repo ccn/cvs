@@ -28939,23 +28939,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "159498",
-        "title": "建康",
-        "address": "新北市中和區建康路270號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.492926,
-          25.000138
-        ],
-        "type": "Point"
-      },
-      "id": "159498"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "159502",
         "title": "龍客",
         "address": "高雄市前金區大同二路1號",
@@ -33916,23 +33899,6 @@
         "type": "Point"
       },
       "id": "166555"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "166588",
-        "title": "屏醫",
-        "address": "屏東縣屏東市自由路270號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.495747,
-          22.673223
-        ],
-        "type": "Point"
-      },
-      "id": "166588"
     },
     {
       "type": "Feature",
@@ -65655,6 +65621,23 @@
         "type": "Point"
       },
       "id": "215150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215208",
+        "title": "建康",
+        "address": "新北市中和區建康路270號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.492926,
+          25.000138
+        ],
+        "type": "Point"
+      },
+      "id": "215208"
     },
     {
       "type": "Feature",
