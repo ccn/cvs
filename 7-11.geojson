@@ -8879,23 +8879,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "124632",
-        "title": "中新",
-        "address": "新竹縣竹北市中正西路389號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.994523996206,
-          24.8429872275389
-        ],
-        "type": "Point"
-      },
-      "id": "124632"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "124676",
         "title": "崇原",
         "address": "台南市東山區東原里24鄰前大埔191號1樓",
@@ -55459,6 +55442,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193915",
+        "title": "坪高",
+        "address": "高雄市小港區高坪二十二路321號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.384708,
+          22.557669
+        ],
+        "type": "Point"
+      },
+      "id": "193915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193926",
         "title": "東加",
         "address": "台中市北屯區東山路一段185號",
@@ -58821,6 +58821,23 @@
         "type": "Point"
       },
       "id": "196626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196637",
+        "title": "龍鎮",
+        "address": "高雄市鳳山區龍成路58.60.62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.32937,
+          22.596142
+        ],
+        "type": "Point"
+      },
+      "id": "196637"
     },
     {
       "type": "Feature",
@@ -65370,6 +65387,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207414",
+        "title": "東成",
+        "address": "台北市中正區延平南路129巷3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.509874,
+          25.037951
+        ],
+        "type": "Point"
+      },
+      "id": "207414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207850",
         "title": "松機",
         "address": "台北市松山區敦化北路340之10號1樓",
@@ -65638,6 +65672,23 @@
         "type": "Point"
       },
       "id": "215208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215219",
+        "title": "中新",
+        "address": "新竹縣竹北市中正西路389號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.994523996206,
+          24.8429872275389
+        ],
+        "type": "Point"
+      },
+      "id": "215219"
     },
     {
       "type": "Feature",
@@ -91087,23 +91138,6 @@
         "type": "Point"
       },
       "id": "976150"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "976208",
-        "title": "復大",
-        "address": "台中市東區復興路四段231-5號231-6號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.687771,
-          24.136692
-        ],
-        "type": "Point"
-      },
-      "id": "976208"
     },
     {
       "type": "Feature",
