@@ -1730,7 +1730,7 @@
       "geometry": {
         "coordinates": [
           121.412067,
-          25.158552
+          25.1584184730835
         ],
         "type": "Point"
       },
@@ -1865,8 +1865,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.662466194738,
-          24.1887450782685
+          120.6625091100822,
+          24.1886765702936
         ],
         "type": "Point"
       },
@@ -17940,23 +17940,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4460",
-        "title": "內湖拿鐵店",
-        "address": "台北市內湖區新湖二路１６８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.579736,
-          25.062971
-        ],
-        "type": "Point"
-      },
-      "id": "4460"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4461",
         "title": "萬華環州店",
         "address": "台北市萬華區環河南路二段９６號１樓及２樓、９８號",
@@ -20507,23 +20490,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4674",
-        "title": "新竹創聯店",
-        "address": "新竹市東區科學園區力行六路２、６、１０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.0150740161002,
-          24.773932775677
-        ],
-        "type": "Point"
-      },
-      "id": "4674"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4675",
         "title": "楊梅日光店",
         "address": "桃園市楊梅區青山一街９９、１０１號",
@@ -20826,6 +20792,23 @@
         "type": "Point"
       },
       "id": "4710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4714",
+        "title": "新店全球店",
+        "address": "新北市新店區寶橋路２３５巷１２８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5518653951858,
+          24.9836243754994
+        ],
+        "type": "Point"
+      },
+      "id": "4714"
     },
     {
       "type": "Feature",
@@ -21738,8 +21721,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.418521295759,
-          25.0236121185237
+          121.4185963976114,
+          25.0235537879603
         ],
         "type": "Point"
       },
