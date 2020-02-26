@@ -45548,6 +45548,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184128",
+        "title": "造橋鄉",
+        "address": "苗栗縣造橋鄉造橋村平仁路105-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "184128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184139",
         "title": "統新",
         "address": "台北市中正區臨沂街27巷10號1樓",
@@ -59046,23 +59063,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "196844",
-        "title": "ES",
-        "address": "新北市樹林區佳園路二段70-1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.390629,
-          24.95988
-        ],
-        "type": "Point"
-      },
-      "id": "196844"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "196855",
         "title": "侯成",
         "address": "宜蘭縣蘇澳鎮福德路463號465號1樓",
@@ -63381,6 +63381,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200262",
+        "title": "興鑽",
+        "address": "桃園市蘆竹區中興路188號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.262528,
+          25.013755
+        ],
+        "type": "Point"
+      },
+      "id": "200262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200284",
         "title": "鑫歐洲",
         "address": "台南市永康區埔園街339號",
@@ -65183,6 +65200,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206950",
+        "title": "社子",
+        "address": "桃園市新屋區中興路1532之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.086527,
+          24.948524
+        ],
+        "type": "Point"
+      },
+      "id": "206950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206972",
         "title": "欣民",
         "address": "桃園市中壢區民權路三段985號",
@@ -65400,6 +65434,23 @@
         "type": "Point"
       },
       "id": "207414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207425",
+        "title": "港都",
+        "address": "基隆市中正區義二路8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.745209,
+          25.130589
+        ],
+        "type": "Point"
+      },
+      "id": "207425"
     },
     {
       "type": "Feature",
