@@ -8206,8 +8206,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.451367757778,
-          25.1317450861026
+          121.4513476412104,
+          25.1316273137857
         ],
         "type": "Point"
       },
@@ -20792,6 +20792,23 @@
         "type": "Point"
       },
       "id": "4710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4712",
+        "title": "平鎮好漢店",
+        "address": "桃園市平鎮區陸光路３００號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1810091542384,
+          24.9434140709168
+        ],
+        "type": "Point"
+      },
+      "id": "4712"
     },
     {
       "type": "Feature",
