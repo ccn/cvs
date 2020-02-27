@@ -5044,8 +5044,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.987446004463,
-          24.7811448014625
+          120.987543905092,
+          24.781143583853
         ],
         "type": "Point"
       },
@@ -13941,23 +13941,6 @@
         "type": "Point"
       },
       "id": "4149"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4150",
-        "title": "竹北新崙店",
-        "address": "新竹縣竹北市中華路６７、６９、７１、７３號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.999318,
-          24.828612
-        ],
-        "type": "Point"
-      },
-      "id": "4150"
     },
     {
       "type": "Feature",
@@ -23580,23 +23563,6 @@
         "type": "Point"
       },
       "id": "V002"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "V003",
-        "title": "首府依德店",
-        "address": "台北市信義區市府路１號B２",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5641421116242,
-          25.0373667955373
-        ],
-        "type": "Point"
-      },
-      "id": "V003"
     }
   ]
 }
