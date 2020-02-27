@@ -28684,23 +28684,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "159340",
-        "title": "台場",
-        "address": "台北市松山區八德路三段20-2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551158,
-          25.048086
-        ],
-        "type": "Point"
-      },
-      "id": "159340"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "159351",
         "title": "新桃府",
         "address": "桃園市桃園區縣府路312號312之1號",
@@ -45555,8 +45538,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.868404,
+          24.643138
         ],
         "type": "Point"
       },
@@ -61477,23 +61460,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "198703",
-        "title": "一揚",
-        "address": "高雄市路竹區國昌路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.260952,
-          22.854014
-        ],
-        "type": "Point"
-      },
-      "id": "198703"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "198714",
         "title": "富源",
         "address": "桃園市觀音區富源里57之1號2號",
@@ -64180,23 +64146,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200974",
-        "title": "金樹",
-        "address": "屏東縣屏東市仁愛路16號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.492088,
-          22.669764
-        ],
-        "type": "Point"
-      },
-      "id": "200974"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200985",
         "title": "二水",
         "address": "彰化縣二水鄉員集路四段8號10號",
@@ -64384,6 +64333,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201151",
+        "title": "金樹",
+        "address": "屏東縣屏東市仁愛路16號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.492088,
+          22.669764
+        ],
+        "type": "Point"
+      },
+      "id": "201151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201162",
         "title": "裕東",
         "address": "高雄市鼓山區裕誠路1946號1樓",
@@ -64567,6 +64533,23 @@
         "type": "Point"
       },
       "id": "201276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201302",
+        "title": "台場",
+        "address": "台北市松山區八德路三段20-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551158,
+          25.048086
+        ],
+        "type": "Point"
+      },
+      "id": "201302"
     },
     {
       "type": "Feature",
@@ -65353,6 +65336,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207218",
+        "title": "頂安",
+        "address": "台北市大安區大安路一段67號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.546272,
+          25.042485
+        ],
+        "type": "Point"
+      },
+      "id": "207218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207230",
         "title": "高上",
         "address": "高雄市三民區建國二路318號B1樓西側",
@@ -65740,6 +65740,23 @@
         "type": "Point"
       },
       "id": "215219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215220",
+        "title": "一揚",
+        "address": "高雄市路竹區國昌路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.260952,
+          22.854014
+        ],
+        "type": "Point"
+      },
+      "id": "215220"
     },
     {
       "type": "Feature",
@@ -67417,8 +67434,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.511907,
+          24.98623
         ],
         "type": "Point"
       },
@@ -69100,8 +69117,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.713535,
+          24.306341
         ],
         "type": "Point"
       },
