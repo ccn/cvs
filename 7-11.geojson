@@ -36470,23 +36470,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170691",
-        "title": "樂和",
-        "address": "台北市大安區樂利路29號29-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551507,
-          25.02742
-        ],
-        "type": "Point"
-      },
-      "id": "170691"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170705",
         "title": "北新",
         "address": "新北市新店區北新路一段289號291號",
@@ -40767,23 +40750,6 @@
         "type": "Point"
       },
       "id": "180159"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "180160",
-        "title": "鳳鼻",
-        "address": "新竹縣新豐鄉鳳坑村坑子口750之2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.965938,
-          24.896202
-        ],
-        "type": "Point"
-      },
-      "id": "180160"
     },
     {
       "type": "Feature",
@@ -52042,23 +52008,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189064",
-        "title": "新唐",
-        "address": "新竹市東區研新三路4號2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.990386993375,
-          24.7795570060566
-        ],
-        "type": "Point"
-      },
-      "id": "189064"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189075",
         "title": "永富",
         "address": "基隆市七堵區永富路99號101號103號1樓",
@@ -60865,23 +60814,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "198220",
-        "title": "信遠",
-        "address": "台北市信義區松仁路58號B2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.567968,
-          25.036732
-        ],
-        "type": "Point"
-      },
-      "id": "198220"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "198231",
         "title": "縣道",
         "address": "新北市板橋區縣民大道二段200巷1號3號1樓",
@@ -63109,6 +63041,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199968",
+        "title": "微風2",
+        "address": "台北市中正區北平西路3號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.519384869613,
+          25.0471334366581
+        ],
+        "type": "Point"
+      },
+      "id": "199968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199980",
         "title": "興忠",
         "address": "台北市中正區紹興北街3號1樓,B1",
@@ -64537,6 +64486,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201287",
+        "title": "樂和",
+        "address": "台北市大安區樂利路29號29-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551507,
+          25.02742
+        ],
+        "type": "Point"
+      },
+      "id": "201287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201302",
         "title": "台場",
         "address": "台北市松山區八德路三段20-2號",
@@ -65591,6 +65557,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213707",
+        "title": "信遠",
+        "address": "台北市信義區松仁路58號B2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567968,
+          25.036732
+        ],
+        "type": "Point"
+      },
+      "id": "213707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215057",
         "title": "鴻林",
         "address": "高雄市岡山區仁壽里公園西路三段131號133號",
@@ -65706,6 +65689,23 @@
         "type": "Point"
       },
       "id": "215150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215194",
+        "title": "新唐",
+        "address": "新竹市東區研新三路4號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.990386993375,
+          24.7795570060566
+        ],
+        "type": "Point"
+      },
+      "id": "215194"
     },
     {
       "type": "Feature",
