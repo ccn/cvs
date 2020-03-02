@@ -65013,6 +65013,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206802",
+        "title": "京典",
+        "address": "台北市中山區南京東路三段86號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.539493,
+          25.051757
+        ],
+        "type": "Point"
+      },
+      "id": "206802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206824",
         "title": "楓江",
         "address": "新北市泰山區楓江路39之1號39之2號1樓",
@@ -65179,6 +65196,23 @@
         "type": "Point"
       },
       "id": "206972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206994",
+        "title": "銅利",
+        "address": "苗栗縣銅鑼鄉中興路2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.800535,
+          24.494047
+        ],
+        "type": "Point"
+      },
+      "id": "206994"
     },
     {
       "type": "Feature",
@@ -65575,7 +65609,7 @@
       "type": "Feature",
       "properties": {
         "id": "215057",
-        "title": "鴻林",
+        "title": "昶林",
         "address": "高雄市岡山區仁壽里公園西路三段131號133號",
         "marker-color": "#01ac50"
       },
