@@ -20796,6 +20796,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4713",
+        "title": "屏東大學店",
+        "address": "屏東縣屏東市民生路４-１８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5055833097696,
+          22.6665202961053
+        ],
+        "type": "Point"
+      },
+      "id": "4713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4714",
         "title": "新店全球店",
         "address": "新北市新店區寶橋路２３５巷１２８號",
@@ -20809,6 +20826,23 @@
         "type": "Point"
       },
       "id": "4714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4718",
+        "title": "新竹創聯店",
+        "address": "新竹市東區科學園區力行六路２、６、１０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0151555894684,
+          24.7739848419977
+        ],
+        "type": "Point"
+      },
+      "id": "4718"
     },
     {
       "type": "Feature",
