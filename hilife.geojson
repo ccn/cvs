@@ -18569,23 +18569,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4508",
-        "title": "霧峰四德店",
-        "address": "台中市霧峰區四德路４７７之２號、之２之１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.676126,
-          24.063839
-        ],
-        "type": "Point"
-      },
-      "id": "4508"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4509",
         "title": "羅東聖母店",
         "address": "宜蘭縣羅東鎮中正南路１６０號",
@@ -20707,6 +20690,23 @@
         "type": "Point"
       },
       "id": "4697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4699",
+        "title": "台中興大店",
+        "address": "台中市南區國光路２５０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6732910387751,
+          24.1210305873605
+        ],
+        "type": "Point"
+      },
+      "id": "4699"
     },
     {
       "type": "Feature",
