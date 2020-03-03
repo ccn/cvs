@@ -19489,13 +19489,13 @@
       "properties": {
         "id": "142478",
         "title": "美光",
-        "address": "台中市后里區三豐路429之1號",
+        "address": "台中市后里區三豐路四段369號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.724097,
-          24.318325
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -21829,23 +21829,6 @@
         "type": "Point"
       },
       "id": "147141"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "147244",
-        "title": "天虹",
-        "address": "高雄市鳳山區鎮南里五甲二路744號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.328747,
-          22.593857
-        ],
-        "type": "Point"
-      },
-      "id": "147244"
     },
     {
       "type": "Feature",
@@ -24209,23 +24192,6 @@
         "type": "Point"
       },
       "id": "151508"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "151519",
-        "title": "北回",
-        "address": "嘉義縣水上鄉回歸村中山路三段167號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.414845,
-          23.453296
-        ],
-        "type": "Point"
-      },
-      "id": "151519"
     },
     {
       "type": "Feature",
@@ -30176,23 +30142,6 @@
         "type": "Point"
       },
       "id": "163626"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "163637",
-        "title": "北泰",
-        "address": "新竹縣竹北市中正西路134號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.001569,
-          24.840542
-        ],
-        "type": "Point"
-      },
-      "id": "163637"
     },
     {
       "type": "Feature",
@@ -57720,23 +57669,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "195793",
-        "title": "泓寶",
-        "address": "彰化縣社頭鄉員集路四段697號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.576839,
-          23.935229
-        ],
-        "type": "Point"
-      },
-      "id": "195793"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "195807",
         "title": "富比世",
         "address": "台北市信義區松仁路246號248號1樓",
@@ -60589,6 +60521,23 @@
         "type": "Point"
       },
       "id": "198013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198024",
+        "title": "天虹",
+        "address": "高雄市鳳山區鎮南里五甲二路744號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.328747,
+          22.593857
+        ],
+        "type": "Point"
+      },
+      "id": "198024"
     },
     {
       "type": "Feature",
@@ -64503,6 +64452,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201298",
+        "title": "擎天崗",
+        "address": "台北市北投區湖山路一段12號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.547476,
+          25.152493
+        ],
+        "type": "Point"
+      },
+      "id": "201298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201302",
         "title": "台場",
         "address": "台北市松山區八德路三段20-2號",
@@ -65591,6 +65557,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213671",
+        "title": "北回",
+        "address": "嘉義縣水上鄉回歸村中山路三段167號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.414845,
+          23.453296
+        ],
+        "type": "Point"
+      },
+      "id": "213671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213693",
+        "title": "北泰",
+        "address": "新竹縣竹北市中正西路134號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.001569,
+          24.840542
+        ],
+        "type": "Point"
+      },
+      "id": "213693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213707",
         "title": "信遠",
         "address": "台北市信義區松仁路58號B2樓",
@@ -65689,6 +65689,23 @@
         "type": "Point"
       },
       "id": "215116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215127",
+        "title": "易順",
+        "address": "彰化縣社頭鄉員集路四段697號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.576839,
+          23.935229
+        ],
+        "type": "Point"
+      },
+      "id": "215127"
     },
     {
       "type": "Feature",
@@ -84920,23 +84937,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "957322",
-        "title": "銅利",
-        "address": "苗栗縣銅鑼鄉中興一街1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.801758,
-          24.492385
-        ],
-        "type": "Point"
-      },
-      "id": "957322"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "957333",
         "title": "天龍",
         "address": "新北市三重區龍門路217號219號221號",
@@ -86667,23 +86667,6 @@
         "type": "Point"
       },
       "id": "964869"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "964995",
-        "title": "擎天崗",
-        "address": "台北市北投區湖山路一段12號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.547476,
-          25.152493
-        ],
-        "type": "Point"
-      },
-      "id": "964995"
     },
     {
       "type": "Feature",
@@ -92589,13 +92572,13 @@
       "properties": {
         "id": "981325",
         "title": "后糖",
-        "address": "台中市后里區甲后路835號1樓",
+        "address": "台中市后里區甲后路二段363號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.694041,
-          24.313437
+          0,
+          0
         ],
         "type": "Point"
       },
