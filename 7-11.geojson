@@ -32902,13 +32902,13 @@
       "properties": {
         "id": "165817",
         "title": "九德",
-        "address": "台中市烏日區九德里中華路45號47號1樓",
+        "address": "台中市烏日區九德村中華路43.45.47號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.641382,
-          24.109982
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -56530,6 +56530,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194907",
+        "title": "頂豐",
+        "address": "雲林縣斗六市榴南里斗工十路62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.589665,
+          23.713401
+        ],
+        "type": "Point"
+      },
+      "id": "194907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194918",
         "title": "屏棧",
         "address": "屏東縣屏東市崇智里光復路45號",
@@ -71016,13 +71033,13 @@
       "properties": {
         "id": "890999",
         "title": "佳怡",
-        "address": "宜蘭縣員山鄉員山路一段184號186號",
+        "address": "宜蘭縣員山鄉員山路一段186號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.727377,
-          24.746035
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -96057,13 +96074,13 @@
       "properties": {
         "id": "992624",
         "title": "北福",
-        "address": "新北市永和區福和路121號1樓",
+        "address": "新北市永和區福和路121號1樓2樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.521713,
-          25.007686
+          0,
+          0
         ],
         "type": "Point"
       },
