@@ -24325,6 +24325,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "016081",
+        "title": "全家水上福德店",
+        "address": "嘉義縣水上鄉中正路161號,163號1樓",
+        "post": "608",
+        "all": "COFFEE,Smoothie,WiFi,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.398642,
+          23.427677
+        ],
+        "type": "Point"
+      },
+      "id": "016081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "016082",
         "title": "全家台南新大林店",
         "address": "台南市南區大同路二段136巷2號",
@@ -25081,6 +25100,25 @@
         "type": "Point"
       },
       "id": "016160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "016161",
+        "title": "全家水上鎮安店",
+        "address": "嘉義縣水上鄉寬士村崎仔頭31之2號",
+        "post": "608",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.425855,
+          23.446624
+        ],
+        "type": "Point"
+      },
+      "id": "016161"
     },
     {
       "type": "Feature",
@@ -26525,6 +26563,25 @@
         "type": "Point"
       },
       "id": "016273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "016275",
+        "title": "全家水上柳子林店",
+        "address": "嘉義縣水上鄉柳林村1500號",
+        "post": "608",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,TANHOU,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.41166875082,
+          23.4305104608338
+        ],
+        "type": "Point"
+      },
+      "id": "016275"
     },
     {
       "type": "Feature",
@@ -61983,6 +62040,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018846",
+        "title": "全家水上中興店",
+        "address": "嘉義縣水上鄉中興路279號(配送用)",
+        "post": "608",
+        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.401851,
+          23.430295
+        ],
+        "type": "Point"
+      },
+      "id": "018846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018847",
         "title": "全家中壢新中原店",
         "address": "桃園市中壢區新中北路243號1樓",
@@ -67280,6 +67356,25 @@
         "type": "Point"
       },
       "id": "019174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019177",
+        "title": "全家中埔雙興店",
+        "address": "嘉義縣中埔鄉和興村33鄰中華路307號壹樓",
+        "post": "608",
+        "all": "Kantoni",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.453711,
+          23.439543
+        ],
+        "type": "Point"
+      },
+      "id": "019177"
     },
     {
       "type": "Feature",
