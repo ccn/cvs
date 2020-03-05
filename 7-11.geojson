@@ -27545,23 +27545,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "158462",
-        "title": "憲金",
-        "address": "新北市蘆洲區光華路22巷1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.469433,
-          25.08344
-        ],
-        "type": "Point"
-      },
-      "id": "158462"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "158473",
         "title": "福多",
         "address": "新北市樹林區三福街39號41號",
@@ -64503,6 +64486,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201313",
+        "title": "憲金",
+        "address": "新北市蘆洲區光華路22巷1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.469433,
+          25.08344
+        ],
+        "type": "Point"
+      },
+      "id": "201313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -65434,6 +65434,23 @@
         "type": "Point"
       },
       "id": "207425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207768",
+        "title": "美圳",
+        "address": "新北市三重區過圳街14.16號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.488742,
+          25.05886
+        ],
+        "type": "Point"
+      },
+      "id": "207768"
     },
     {
       "type": "Feature",
