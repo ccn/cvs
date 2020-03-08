@@ -65438,6 +65438,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207506",
+        "title": "泰民",
+        "address": "新北市板橋區民族路222巷13.15號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468676,
+          25.006825
+        ],
+        "type": "Point"
+      },
+      "id": "207506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207768",
         "title": "美圳",
         "address": "新北市三重區過圳街14.16號1樓",
