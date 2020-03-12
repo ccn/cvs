@@ -7586,25 +7586,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013866",
-        "title": "全家台東文化店",
-        "address": "台東縣台東市中山路345號1,2樓",
-        "post": "950",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.1499316,
-          22.7544698
-        ],
-        "type": "Point"
-      },
-      "id": "013866"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013868",
         "title": "全家南投中寮店",
         "address": "南投縣中寮鄉永安街98號",
@@ -68439,6 +68420,25 @@
         "type": "Point"
       },
       "id": "019268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019281",
+        "title": "全家台東文化店",
+        "address": "台東縣台東市中山路345號1,2樓",
+        "post": "950",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,COFFEEDeliver,SharePot,SUNMAI,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1499316,
+          22.7544698
+        ],
+        "type": "Point"
+      },
+      "id": "019281"
     },
     {
       "type": "Feature",
