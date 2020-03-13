@@ -43525,6 +43525,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "182568",
+        "title": "力大",
+        "address": "台南市東區生產路508號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.229548,
+          22.964892
+        ],
+        "type": "Point"
+      },
+      "id": "182568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "182579",
         "title": "大屯",
         "address": "雲林縣虎尾鎮西屯里大屯349號",
@@ -63264,13 +63281,13 @@
       "properties": {
         "id": "200295",
         "title": "鑫中潭",
-        "address": "南投縣魚池鄉通文巷6-28號",
+        "address": "南投縣魚池鄉新城村通文巷6之28號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.927409,
-          23.905373
+          0,
+          0
         ],
         "type": "Point"
       },
