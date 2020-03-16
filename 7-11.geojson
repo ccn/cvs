@@ -24859,23 +24859,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "153294",
-        "title": "台金",
-        "address": "台北市信義區市府路45號B1之53",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.56410140162299,
-          25.0335798886105
-        ],
-        "type": "Point"
-      },
-      "id": "153294"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "153308",
         "title": "萬長",
         "address": "台北市萬華區東園街78號1樓",
@@ -29670,23 +29653,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162221",
-        "title": "護專",
-        "address": "台北市北投區振興街31號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.522299,
-          25.118001
-        ],
-        "type": "Point"
-      },
-      "id": "162221"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162313",
         "title": "深坑",
         "address": "新北市深坑區北深路三段145號",
@@ -31706,23 +31672,6 @@
         "type": "Point"
       },
       "id": "164939"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "164951",
-        "title": "力大",
-        "address": "台南市東區生產路299號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.22975,
-          22.965254
-        ],
-        "type": "Point"
-      },
-      "id": "164951"
     },
     {
       "type": "Feature",
@@ -58944,6 +58893,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196970",
+        "title": "美光(臨時店)",
+        "address": "台中市后里區三豐路四段369號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.724097,
+          24.318325
+        ],
+        "type": "Point"
+      },
+      "id": "196970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197032",
         "title": "明水",
         "address": "台北市中山區明水路636號樂群三路1號",
@@ -64996,6 +64962,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206765",
+        "title": "京江",
+        "address": "台北市中山區南京東路三段91之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5389,
+          25.052136
+        ],
+        "type": "Point"
+      },
+      "id": "206765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206776",
         "title": "和旅",
         "address": "台北市萬華區西寧南路105號",
@@ -65336,6 +65319,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207160",
+        "title": "楓華",
+        "address": "新北市新店區中華路20號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.540496,
+          24.967704
+        ],
+        "type": "Point"
+      },
+      "id": "207160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207218",
         "title": "頂安",
         "address": "台北市大安區大安路一段67號1樓",
@@ -65383,6 +65383,23 @@
         "type": "Point"
       },
       "id": "207241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207300",
+        "title": "富慶",
+        "address": "高雄市左營區富民路65號一.二樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.305025,
+          22.659112
+        ],
+        "type": "Point"
+      },
+      "id": "207300"
     },
     {
       "type": "Feature",
@@ -65468,6 +65485,23 @@
         "type": "Point"
       },
       "id": "207506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207584",
+        "title": "通苑",
+        "address": "苗栗縣通霄鎮中山路42號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.660252,
+          24.455692
+        ],
+        "type": "Point"
+      },
+      "id": "207584"
     },
     {
       "type": "Feature",
@@ -65604,6 +65638,23 @@
         "type": "Point"
       },
       "id": "213626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213637",
+        "title": "護專",
+        "address": "台北市北投區振興街31號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.522299,
+          25.118001
+        ],
+        "type": "Point"
+      },
+      "id": "213637"
     },
     {
       "type": "Feature",
