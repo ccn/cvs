@@ -12963,6 +12963,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "014751",
+        "title": "全家竹南家扶店",
+        "address": "苗栗縣竹南鎮科學路160號1樓",
+        "post": "350",
+        "all": "COFFEE,SWEETPOTATO,icecream,oneice,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.917224,
+          24.714633
+        ],
+        "type": "Point"
+      },
+      "id": "014751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "014758",
         "title": "全家岡山忠誠店",
         "address": "高雄市岡山區成功路97號一樓",
@@ -33688,6 +33707,25 @@
         "type": "Point"
       },
       "id": "016883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "016886",
+        "title": "全家新竹聯詠店",
+        "address": "新竹縣寶山鄉雙溪村創新一路1-2號B1F",
+        "post": "308",
+        "all": "COFFEE,SWEETPOTATO,SharePot,Kantoni,SingleOrigin,SpicyKantoni,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.00165,
+          24.77286
+        ],
+        "type": "Point"
+      },
+      "id": "016886"
     },
     {
       "type": "Feature",
@@ -65995,7 +66033,7 @@
         "id": "019102",
         "title": "全家北車店",
         "address": "台北市中正區忠孝西路一段45號1F部分",
-        "post": "104",
+        "post": "100",
         "all": "Preorder",
         "marker-color": "#01ac50"
       },
@@ -67759,6 +67797,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019213",
+        "title": "全家南港公宅店",
+        "address": "台北市南港區南港路二段38巷6之2號",
+        "post": "115",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.604808,
+          25.055179
+        ],
+        "type": "Point"
+      },
+      "id": "019213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019214",
         "title": "全家板橋僑二店",
         "address": "新北市板橋區僑中二街116巷1號1樓",
@@ -68268,6 +68325,44 @@
         "type": "Point"
       },
       "id": "019246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019250",
+        "title": "全家台中彩虹村店",
+        "address": "台中市南屯區嶺東南路167號",
+        "post": "408",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.61020761,
+          24.13599169
+        ],
+        "type": "Point"
+      },
+      "id": "019250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019251",
+        "title": "全家台南康平店",
+        "address": "台南市安平區健康三街22號",
+        "post": "708",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.168074,
+          22.98554
+        ],
+        "type": "Point"
+      },
+      "id": "019251"
     },
     {
       "type": "Feature",
