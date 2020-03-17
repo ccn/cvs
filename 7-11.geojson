@@ -63789,23 +63789,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200826",
-        "title": "新大港",
-        "address": "台南市北區大和里大港街140號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.190006,
-          23.013516
-        ],
-        "type": "Point"
-      },
-      "id": "200826"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200837",
         "title": "德偉",
         "address": "新北市中和區中興街162號164號",
@@ -65944,6 +65927,40 @@
         "type": "Point"
       },
       "id": "215220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215231",
+        "title": "新大港",
+        "address": "台南市北區大和里大港街140號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.190006,
+          23.013516
+        ],
+        "type": "Point"
+      },
+      "id": "215231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215242",
+        "title": "鳳美",
+        "address": "新竹市東區中華路二段64號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.98099398687,
+          24.8083971067538
+        ],
+        "type": "Point"
+      },
+      "id": "215242"
     },
     {
       "type": "Feature",
@@ -95303,23 +95320,6 @@
         "type": "Point"
       },
       "id": "991355"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "991399",
-        "title": "鳳美",
-        "address": "新竹市東區中華路二段64號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.98099398687,
-          24.8083971067538
-        ],
-        "type": "Point"
-      },
-      "id": "991399"
     },
     {
       "type": "Feature",
