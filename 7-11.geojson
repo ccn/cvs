@@ -55255,6 +55255,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193890",
+        "title": "金采",
+        "address": "新竹市北區金雅路62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.964139,
+          24.824235
+        ],
+        "type": "Point"
+      },
+      "id": "193890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193904",
         "title": "大勝",
         "address": "新竹縣竹北市勝利十一路101號",
@@ -56747,6 +56764,23 @@
         "type": "Point"
       },
       "id": "195092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195117",
+        "title": "花海",
+        "address": "彰化縣花壇鄉長春村彰員路一段280號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.574418,
+          24.012275
+        ],
+        "type": "Point"
+      },
+      "id": "195117"
     },
     {
       "type": "Feature",
@@ -58893,23 +58927,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "196970",
-        "title": "美光(臨時店)",
-        "address": "台中市后里區三豐路四段369號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.724097,
-          24.318325
-        ],
-        "type": "Point"
-      },
-      "id": "196970"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197032",
         "title": "明水",
         "address": "台北市中山區明水路636號樂群三路1號",
@@ -60963,6 +60980,23 @@
         "type": "Point"
       },
       "id": "198415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198437",
+        "title": "塭內",
+        "address": "台南市佳里區塭內里塭子內12-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.164521,
+          23.125841
+        ],
+        "type": "Point"
+      },
+      "id": "198437"
     },
     {
       "type": "Feature",
@@ -65455,6 +65489,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207458",
+        "title": "勇忠",
+        "address": "高雄市仁武區仁勇路30號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.357124,
+          22.67576
+        ],
+        "type": "Point"
+      },
+      "id": "207458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207506",
         "title": "泰民",
         "address": "新北市板橋區民族路222巷13.15號1樓",
@@ -65485,6 +65536,23 @@
         "type": "Point"
       },
       "id": "207584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207610",
+        "title": "復惠",
+        "address": "台北市松山區復興北路335號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.544487,
+          25.059896
+        ],
+        "type": "Point"
+      },
+      "id": "207610"
     },
     {
       "type": "Feature",
