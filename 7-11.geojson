@@ -58502,23 +58502,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "196442",
-        "title": "鑫中華",
-        "address": "台中市中區中華路一段153.155號一樓157號一二樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.67673,
-          24.145345
-        ],
-        "type": "Point"
-      },
-      "id": "196442"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "196453",
         "title": "冠興",
         "address": "桃園市觀音區成功路二段1247號",
@@ -65774,6 +65757,23 @@
         "type": "Point"
       },
       "id": "213707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213763",
+        "title": "鑫中華",
+        "address": "台中市中區中華路一段153.155號一樓157號一二樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.67673,
+          24.145345
+        ],
+        "type": "Point"
+      },
+      "id": "213763"
     },
     {
       "type": "Feature",
