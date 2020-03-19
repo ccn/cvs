@@ -20116,6 +20116,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4644",
+        "title": "內湖樂康店",
+        "address": "台北市內湖區康樂街１３６巷１８弄１號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6183759690471,
+          25.0717888121626
+        ],
+        "type": "Point"
+      },
+      "id": "4644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4645",
         "title": "新竹大蓮店",
         "address": "新竹市東區南大路２９９、３０１號",
