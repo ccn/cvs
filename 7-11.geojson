@@ -61122,7 +61122,7 @@
       "properties": {
         "id": "198585",
         "title": "金芝",
-        "address": "新北市三芝區中興街2號6號1樓",
+        "address": "新北市三芝區中興街一段2號6號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -63269,8 +63269,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.927409,
+          23.905373
         ],
         "type": "Point"
       },
@@ -66029,6 +66029,23 @@
         "type": "Point"
       },
       "id": "215242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215264",
+        "title": "青允",
+        "address": "屏東縣萬巒鄉新置村新隆路75號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.624799,
+          22.526501
+        ],
+        "type": "Point"
+      },
+      "id": "215264"
     },
     {
       "type": "Feature",
@@ -87215,23 +87232,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "965655",
-        "title": "青允",
-        "address": "屏東縣萬巒鄉新置村新隆路75號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.624799,
-          22.526501
-        ],
-        "type": "Point"
-      },
-      "id": "965655"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "965758",
         "title": "龍美",
         "address": "桃園市龍潭區民豐路3號4號5號1樓",
@@ -95666,13 +95666,13 @@
       "properties": {
         "id": "991827",
         "title": "蓮華",
-        "address": "花蓮縣花蓮市民生里中山路183-185號1樓",
+        "address": "花蓮縣花蓮市民生里中山路183號185號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.609548396565,
-          23.976776198707498
+          0,
+          0
         ],
         "type": "Point"
       },
