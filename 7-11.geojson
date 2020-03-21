@@ -4289,23 +4289,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "117025",
-        "title": "鳳南",
-        "address": "高雄市鳳山區二甲里鳳南一路25號27號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.340605,
-          22.593517
-        ],
-        "type": "Point"
-      },
-      "id": "117025"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "117140",
         "title": "德信",
         "address": "基隆市信義區東信路50號52號",
@@ -17851,23 +17834,6 @@
         "type": "Point"
       },
       "id": "139140"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "139173",
-        "title": "傑元",
-        "address": "新北市新莊區中正路929巷11號13號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.411209,
-          25.020338
-        ],
-        "type": "Point"
-      },
-      "id": "139173"
     },
     {
       "type": "Feature",
@@ -52860,13 +52826,13 @@
       "properties": {
         "id": "190260",
         "title": "南站",
-        "address": "台南市仁德區中洲里中洲1-15號1樓",
+        "address": "台南市仁德區中洲村中洲路1巷220號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.265068,
-          22.90597
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -59337,13 +59303,13 @@
       "properties": {
         "id": "197294",
         "title": "北站",
-        "address": "台南市仁德區中洲里中洲1-16號1樓",
+        "address": "台南市仁德區中洲村中洲路1巷200號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.266173,
-          22.906465
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -64384,23 +64350,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201276",
-        "title": "潤泰",
-        "address": "台北市中山區八德路二段314號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.542807,
-          25.047182
-        ],
-        "type": "Point"
-      },
-      "id": "201276"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201287",
         "title": "樂和",
         "address": "台北市大安區樂利路29號29-1號",
@@ -65540,6 +65489,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207621",
+        "title": "金蓬",
+        "address": "台北市中山區民權西路73號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.519888,
+          25.063043
+        ],
+        "type": "Point"
+      },
+      "id": "207621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207768",
         "title": "美圳",
         "address": "新北市三重區過圳街14.16號1樓",
@@ -65621,6 +65587,23 @@
         "type": "Point"
       },
       "id": "213578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213589",
+        "title": "潤泰",
+        "address": "台北市中山區八德路二段314號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.542807,
+          25.047182
+        ],
+        "type": "Point"
+      },
+      "id": "213589"
     },
     {
       "type": "Feature",
@@ -65727,6 +65710,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213682",
+        "title": "鳳南",
+        "address": "高雄市鳳山區二甲里鳳南一路25號27號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.340605,
+          22.593517
+        ],
+        "type": "Point"
+      },
+      "id": "213682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213693",
         "title": "北泰",
         "address": "新竹縣竹北市中正西路134號1樓",
@@ -65808,6 +65808,23 @@
         "type": "Point"
       },
       "id": "215068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215079",
+        "title": "傑元",
+        "address": "新北市新莊區中正路929巷11號13號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.411209,
+          25.020338
+        ],
+        "type": "Point"
+      },
+      "id": "215079"
     },
     {
       "type": "Feature",
