@@ -61953,23 +61953,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "199175",
-        "title": "寶科",
-        "address": "新北市新店區寶橋路235巷5號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.551536,
-          24.98019
-        ],
-        "type": "Point"
-      },
-      "id": "199175"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "199186",
         "title": "見晴",
         "address": "台北市內湖區瑞光路196號",
@@ -62782,6 +62765,23 @@
         "type": "Point"
       },
       "id": "199670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199821",
+        "title": "寶科",
+        "address": "新北市新店區寶橋路235巷5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.551536,
+          24.98019
+        ],
+        "type": "Point"
+      },
+      "id": "199821"
     },
     {
       "type": "Feature",
@@ -65281,6 +65281,23 @@
         "type": "Point"
       },
       "id": "207160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207182",
+        "title": "河南",
+        "address": "台中市西屯區河南路二段443號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.643236,
+          24.170087
+        ],
+        "type": "Point"
+      },
+      "id": "207182"
     },
     {
       "type": "Feature",
