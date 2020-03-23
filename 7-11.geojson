@@ -65353,6 +65353,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207296",
+        "title": "楠鎮",
+        "address": "高雄市楠梓區加昌路600-11號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.305126,
+          22.719601
+        ],
+        "type": "Point"
+      },
+      "id": "207296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207300",
         "title": "富慶",
         "address": "高雄市左營區富民路65號一.二樓",
@@ -65366,6 +65383,23 @@
         "type": "Point"
       },
       "id": "207300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207388",
+        "title": "景大和",
+        "address": "台中市北屯區景賢路191號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "207388"
     },
     {
       "type": "Feature",
