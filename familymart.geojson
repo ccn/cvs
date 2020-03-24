@@ -63446,25 +63446,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018949",
-        "title": "全家三重集成店",
-        "address": "新北市三重區環河南路254巷43號之1,2號",
-        "post": "241",
-        "all": "COFFEE,SWEETPOTATO,Photo,WiFi,Rest,COFFEEDeliver,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.489486,
-          25.051541
-        ],
-        "type": "Point"
-      },
-      "id": "018949"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018951",
         "title": "全家中和新漳和店",
         "address": "新北市中和區中和路24號1樓",
@@ -67683,6 +67664,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019211",
+        "title": "全家高雄美麗綻店",
+        "address": "高雄市新興區自立二路96號1,2樓",
+        "post": "800",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.298981,
+          22.631428
+        ],
+        "type": "Point"
+      },
+      "id": "019211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019212",
         "title": "全家中和仁義店",
         "address": "新北市中和區仁愛街36號",
@@ -67736,25 +67736,6 @@
         "type": "Point"
       },
       "id": "019214"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "019215",
-        "title": "全家蘆洲新福原店",
-        "address": "新北市蘆洲區中原路70號",
-        "post": "247",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.458475,
-          25.082117
-        ],
-        "type": "Point"
-      },
-      "id": "019215"
     },
     {
       "type": "Feature",
@@ -68253,6 +68234,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019247",
+        "title": "全家龍昌店",
+        "address": "台北市大同區重慶北路三段327號1樓(如附圖)",
+        "post": "103",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.514062,
+          25.074338
+        ],
+        "type": "Point"
+      },
+      "id": "019247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019248",
         "title": "全家銅鑼朝陽店",
         "address": "苗栗縣銅鑼鄉朝陽村朝東43之10號",
@@ -68633,6 +68633,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019285",
+        "title": "全家嘉義友愛店",
+        "address": "嘉義市西區中興路241號1樓",
+        "post": "600",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.434337,
+          23.482165
+        ],
+        "type": "Point"
+      },
+      "id": "019285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019288",
         "title": "全家新港新天后店",
         "address": "嘉義縣新港鄉宮前村中山路25號一樓",
@@ -68743,6 +68762,25 @@
         "type": "Point"
       },
       "id": "019316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019318",
+        "title": "全家蘆洲新福原店",
+        "address": "新北市蘆洲區中原路70號",
+        "post": "247",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.458475,
+          25.082117
+        ],
+        "type": "Point"
+      },
+      "id": "019318"
     }
   ]
 }
