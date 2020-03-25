@@ -53011,23 +53011,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190466",
-        "title": "板信",
-        "address": "新北市板橋區信義路142號144號146號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.45863,
-          24.99191
-        ],
-        "type": "Point"
-      },
-      "id": "190466"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190477",
         "title": "麗安",
         "address": "台北市內湖區內湖路一段445號1樓",
@@ -56305,6 +56288,23 @@
         "type": "Point"
       },
       "id": "194756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194778",
+        "title": "美朵",
+        "address": "高雄市鼓山區美術東四路132,136號1樓及132號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194778"
     },
     {
       "type": "Feature",
@@ -60627,6 +60627,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198149",
+        "title": "板信",
+        "address": "新北市板橋區信義路142號144號146號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.45863,
+          24.99191
+        ],
+        "type": "Point"
+      },
+      "id": "198149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198161",
         "title": "仁雄",
         "address": "高雄市仁武區仁雄路6之11號1樓",
@@ -63241,6 +63258,23 @@
         "type": "Point"
       },
       "id": "200295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200309",
+        "title": "羅盛",
+        "address": "台北市文山區羅斯福路六段235號237號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.541394,
+          24.995484
+        ],
+        "type": "Point"
+      },
+      "id": "200309"
     },
     {
       "type": "Feature",
