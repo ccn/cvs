@@ -18178,40 +18178,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "140704",
-        "title": "新憲德",
-        "address": "高雄市前鎮區瑞隆路619號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.325403,
-          22.604948
-        ],
-        "type": "Point"
-      },
-      "id": "140704"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "140748",
-        "title": "翔濱",
-        "address": "基隆市中正區建國里祥豐街339號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.767709,
-          25.144727
-        ],
-        "type": "Point"
-      },
-      "id": "140748"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "140852",
         "title": "南投",
         "address": "南投縣南投市民族路289號291號293號",
@@ -37520,23 +37486,6 @@
         "type": "Point"
       },
       "id": "171764"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "173520",
-        "title": "市鑫",
-        "address": "台中市中區自由路二段9號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.680436,
-          24.138506
-        ],
-        "type": "Point"
-      },
-      "id": "173520"
     },
     {
       "type": "Feature",
@@ -58587,6 +58536,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196604",
+        "title": "斗六明德",
+        "address": "雲林縣斗六市明德路101號.103號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.537175,
+          23.698348
+        ],
+        "type": "Point"
+      },
+      "id": "196604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196615",
         "title": "高捷站",
         "address": "高雄市三民區建國二路320號B1樓",
@@ -65387,6 +65353,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207285",
+        "title": "頂福",
+        "address": "新竹市香山區中山路622號626號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.954663,
+          24.796088
+        ],
+        "type": "Point"
+      },
+      "id": "207285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207296",
         "title": "楠鎮",
         "address": "高雄市楠梓區加昌路600-11號1樓",
@@ -65625,6 +65608,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207861",
+        "title": "山林",
+        "address": "桃園市蘆竹區海山路407號409號411號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.276905,
+          25.089295
+        ],
+        "type": "Point"
+      },
+      "id": "207861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213556",
         "title": "順苓",
         "address": "高雄市小港區漢民路381號",
@@ -65842,6 +65842,23 @@
         "type": "Point"
       },
       "id": "213707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213730",
+        "title": "新憲德",
+        "address": "高雄市前鎮區瑞隆路619號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.325403,
+          22.604948
+        ],
+        "type": "Point"
+      },
+      "id": "213730"
     },
     {
       "type": "Feature",
@@ -66148,6 +66165,57 @@
         "type": "Point"
       },
       "id": "215264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215275",
+        "title": "市鑫",
+        "address": "台中市中區自由路二段9號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.680436,
+          24.138506
+        ],
+        "type": "Point"
+      },
+      "id": "215275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215286",
+        "title": "無尾熊",
+        "address": "台中市南區德富路73號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.653955,
+          24.120686
+        ],
+        "type": "Point"
+      },
+      "id": "215286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215297",
+        "title": "翔濱",
+        "address": "基隆市中正區建國里祥豐街339號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.767709,
+          25.144727
+        ],
+        "type": "Point"
+      },
+      "id": "215297"
     },
     {
       "type": "Feature",
@@ -77487,23 +77555,6 @@
         "type": "Point"
       },
       "id": "922898"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "922913",
-        "title": "無尾熊",
-        "address": "台中市南區德富路73號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.653955,
-          24.120686
-        ],
-        "type": "Point"
-      },
-      "id": "922913"
     },
     {
       "type": "Feature",
