@@ -16706,8 +16706,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.421618,
-          25.025314
+          121.4216340932541,
+          25.0252070620955
         ],
         "type": "Point"
       },
@@ -20826,6 +20826,23 @@
         "type": "Point"
       },
       "id": "4714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4715",
+        "title": "林口捷韻店",
+        "address": "新北市林口區文化北路一段１２３號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3559344166412,
+          25.0684623229507
+        ],
+        "type": "Point"
+      },
+      "id": "4715"
     },
     {
       "type": "Feature",
