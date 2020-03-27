@@ -14472,23 +14472,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "132884",
-        "title": "福泉",
-        "address": "新北市中和區福祥路68號70號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.499387,
-          25.005163
-        ],
-        "type": "Point"
-      },
-      "id": "132884"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "132895",
         "title": "滿冠",
         "address": "宜蘭縣宜蘭市新興路68號1樓",
@@ -52780,8 +52763,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.265044,
+          22.905964
         ],
         "type": "Point"
       },
@@ -59274,8 +59257,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.266173,
+          22.906465
         ],
         "type": "Point"
       },
@@ -61076,8 +61059,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.497648,
+          25.259636
         ],
         "type": "Point"
       },
@@ -61813,23 +61796,6 @@
         "type": "Point"
       },
       "id": "199083"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "199094",
-        "title": "軍建",
-        "address": "台中市北屯區軍福十三路198號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.724403,
-          24.172335
-        ],
-        "type": "Point"
-      },
-      "id": "199094"
     },
     {
       "type": "Feature",
@@ -65411,8 +65377,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.722435,
+          24.166609
         ],
         "type": "Point"
       },
@@ -65778,6 +65744,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213660",
+        "title": "福泉",
+        "address": "新北市中和區福祥路68號70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.499387,
+          25.005163
+        ],
+        "type": "Point"
+      },
+      "id": "213660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213671",
         "title": "北回",
         "address": "嘉義縣水上鄉回歸村中山路三段167號",
@@ -66046,6 +66029,23 @@
         "type": "Point"
       },
       "id": "215150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215183",
+        "title": "軍建",
+        "address": "台中市北屯區軍福十三路198號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.724403,
+          24.172335
+        ],
+        "type": "Point"
+      },
+      "id": "215183"
     },
     {
       "type": "Feature",
@@ -73458,23 +73458,6 @@
         "type": "Point"
       },
       "id": "901846"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "901868",
-        "title": "頂福",
-        "address": "新竹市香山區中山路628號630號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.950012965503,
-          24.7952520608269
-        ],
-        "type": "Point"
-      },
-      "id": "901868"
     },
     {
       "type": "Feature",
@@ -95824,8 +95807,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.609512,
+          23.976688
         ],
         "type": "Point"
       },
