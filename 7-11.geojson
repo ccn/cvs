@@ -47962,23 +47962,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "186135",
-        "title": "大社",
-        "address": "高雄市大社區翠屏里三民路304號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.347636,
-          22.728856
-        ],
-        "type": "Point"
-      },
-      "id": "186135"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "186146",
         "title": "金生",
         "address": "金門縣金城鎮西門里民生路67.69號",
@@ -57414,6 +57397,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195645",
+        "title": "城庚",
+        "address": "新北市土城區金城路二段6號B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44873,
+          24.976436
+        ],
+        "type": "Point"
+      },
+      "id": "195645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195667",
         "title": "岡好",
         "address": "高雄市岡山區岡山路612、612-2號1樓",
@@ -64299,23 +64299,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201265",
-        "title": "萬華",
-        "address": "台北市萬華區莒光路216號萬大路57號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500735,
-          25.031338
-        ],
-        "type": "Point"
-      },
-      "id": "201265"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201287",
         "title": "樂和",
         "address": "台北市大安區樂利路29號29-1號",
@@ -64962,6 +64945,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206846",
+        "title": "佳嘉",
+        "address": "彰化縣北斗鎮七星里13鄰五權路臨176號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "206846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206879",
         "title": "德育",
         "address": "台北市松山區八德路三段171號173號1樓",
@@ -65557,6 +65557,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207805",
+        "title": "金福佑",
+        "address": "新北市淡水區中正路113號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44,
+          25.169921
+        ],
+        "type": "Point"
+      },
+      "id": "207805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207850",
         "title": "松機",
         "address": "台北市松山區敦化北路340之10號1樓",
@@ -65587,6 +65604,57 @@
         "type": "Point"
       },
       "id": "207861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207920",
+        "title": "公力",
+        "address": "桃園市大園區中正東路一段708之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.228735,
+          25.038851
+        ],
+        "type": "Point"
+      },
+      "id": "207920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207975",
+        "title": "源福",
+        "address": "新北市新莊區福壽街29.31號及福樂街108巷26號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.458071,
+          25.048331
+        ],
+        "type": "Point"
+      },
+      "id": "207975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208015",
+        "title": "新新明",
+        "address": "桃園市中壢區民族路208號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.210098,
+          24.956538
+        ],
+        "type": "Point"
+      },
+      "id": "208015"
     },
     {
       "type": "Feature",
@@ -65859,6 +65927,57 @@
         "type": "Point"
       },
       "id": "213763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213811",
+        "title": "大社",
+        "address": "高雄市大社區翠屏里三民路304號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.347636,
+          22.728856
+        ],
+        "type": "Point"
+      },
+      "id": "213811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213833",
+        "title": "樂安",
+        "address": "台北市大安區樂業街71號73號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.550849,
+          25.02197
+        ],
+        "type": "Point"
+      },
+      "id": "213833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213844",
+        "title": "萬華",
+        "address": "台北市萬華區莒光路216號萬大路57號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500735,
+          25.031338
+        ],
+        "type": "Point"
+      },
+      "id": "213844"
     },
     {
       "type": "Feature",
@@ -87058,23 +87177,6 @@
         "type": "Point"
       },
       "id": "965057"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "965079",
-        "title": "樂安",
-        "address": "台北市大安區樂業街71號73號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.550849,
-          25.02197
-        ],
-        "type": "Point"
-      },
-      "id": "965079"
     },
     {
       "type": "Feature",
