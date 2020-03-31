@@ -27409,23 +27409,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "158440",
-        "title": "華豐",
-        "address": "高雄市鼓山區華豐里裕誠路1160號明倫路138號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.297896,
-          22.665947
-        ],
-        "type": "Point"
-      },
-      "id": "158440"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "158451",
         "title": "蘆正",
         "address": "新北市蘆洲區中正路261號",
@@ -36674,23 +36657,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171052",
-        "title": "慶豐",
-        "address": "高雄市鼓山區慶豐街1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.292236,
-          22.665731
-        ],
-        "type": "Point"
-      },
-      "id": "171052"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171063",
         "title": "和金",
         "address": "台北市大安區和平東路一段91號",
@@ -38710,23 +38676,6 @@
         "type": "Point"
       },
       "id": "174523"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "174534",
-        "title": "鑫吉",
-        "address": "台北市信義區虎林街85號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.577138411504,
-          25.044790927538397
-        ],
-        "type": "Point"
-      },
-      "id": "174534"
     },
     {
       "type": "Feature",
@@ -46428,23 +46377,6 @@
         "type": "Point"
       },
       "id": "185006"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185028",
-        "title": "埔西",
-        "address": "新北市板橋區文化路一段419之5號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.467415,
-          25.022542
-        ],
-        "type": "Point"
-      },
-      "id": "185028"
     },
     {
       "type": "Feature",
@@ -56377,23 +56309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194918",
-        "title": "屏棧",
-        "address": "屏東縣屏東市崇智里光復路45號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.485312,
-          22.669348
-        ],
-        "type": "Point"
-      },
-      "id": "194918"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194929",
         "title": "金昇",
         "address": "台南市南區金華路二段341號",
@@ -63449,23 +63364,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200583",
-        "title": "鐵興",
-        "address": "新竹縣竹北市文興路一段246號248號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.028318,
-          24.810244
-        ],
-        "type": "Point"
-      },
-      "id": "200583"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200594",
         "title": "康葫",
         "address": "台北市內湖區民權東路六段296巷3號1樓",
@@ -64384,6 +64282,57 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201335",
+        "title": "慶豐",
+        "address": "高雄市鼓山區慶豐街1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.292236,
+          22.665731
+        ],
+        "type": "Point"
+      },
+      "id": "201335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201357",
+        "title": "屏棧",
+        "address": "屏東縣屏東市崇智里光復路45號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.485312,
+          22.669348
+        ],
+        "type": "Point"
+      },
+      "id": "201357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201379",
+        "title": "埔西",
+        "address": "新北市板橋區文化路一段419之5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.467415,
+          25.022542
+        ],
+        "type": "Point"
+      },
+      "id": "201379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -64945,23 +64894,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "206846",
-        "title": "佳嘉",
-        "address": "彰化縣北斗鎮七星里13鄰五權路臨176號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "id": "206846"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "206879",
         "title": "德育",
         "address": "台北市松山區八德路三段171號173號1樓",
@@ -65213,23 +65145,6 @@
         "type": "Point"
       },
       "id": "207137"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "207148",
-        "title": "忠興",
-        "address": "台北市信義區永吉路30巷178弄1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.568613,
-          25.041638
-        ],
-        "type": "Point"
-      },
-      "id": "207148"
     },
     {
       "type": "Feature",
@@ -65506,6 +65421,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207595",
+        "title": "荻亞",
+        "address": "台南市中西區朝陽里中山路153號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.210362,
+          22.996335
+        ],
+        "type": "Point"
+      },
+      "id": "207595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207610",
         "title": "復惠",
         "address": "台北市松山區復興北路335號1樓",
@@ -65536,6 +65468,23 @@
         "type": "Point"
       },
       "id": "207621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207702",
+        "title": "鐵興",
+        "address": "新竹縣竹北市嘉豐六路二段16號.18號.12號部分",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.028673,
+          24.809834
+        ],
+        "type": "Point"
+      },
+      "id": "207702"
     },
     {
       "type": "Feature",
@@ -65893,6 +65842,23 @@
         "type": "Point"
       },
       "id": "213707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213729",
+        "title": "華豐",
+        "address": "高雄市鼓山區華豐里裕誠路1160號明倫路138號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.297896,
+          22.665947
+        ],
+        "type": "Point"
+      },
+      "id": "213729"
     },
     {
       "type": "Feature",
@@ -66271,6 +66237,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215253",
+        "title": "鑫吉",
+        "address": "台北市信義區虎林街85號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.577138411504,
+          25.044790927538397
+        ],
+        "type": "Point"
+      },
+      "id": "215253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215264",
         "title": "青允",
         "address": "屏東縣萬巒鄉新置村新隆路75號",
@@ -66335,6 +66318,23 @@
         "type": "Point"
       },
       "id": "215297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215334",
+        "title": "忠興",
+        "address": "台北市信義區永吉路30巷178弄1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.568613,
+          25.041638
+        ],
+        "type": "Point"
+      },
+      "id": "215334"
     },
     {
       "type": "Feature",
