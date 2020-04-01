@@ -28973,23 +28973,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "160177",
-        "title": "左運",
-        "address": "高雄市左營區高鐵路107號B1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.309064,
-          22.687953
-        ],
-        "type": "Point"
-      },
-      "id": "160177"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "160188",
         "title": "仁毅",
         "address": "台東縣台東市馬蘭里新生路680號682號684號1樓",
@@ -34528,23 +34511,6 @@
         "type": "Point"
       },
       "id": "167396"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "167411",
-        "title": "南昌",
-        "address": "台北市中正區南昌路一段67號69號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517508,
-          25.03104
-        ],
-        "type": "Point"
-      },
-      "id": "167411"
     },
     {
       "type": "Feature",
@@ -41107,6 +41073,23 @@
         "type": "Point"
       },
       "id": "180609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "180610",
+        "title": "奉天宮",
+        "address": "嘉義縣新港鄉中山路33號.35號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "180610"
     },
     {
       "type": "Feature",
@@ -51430,23 +51413,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188898",
-        "title": "加賀",
-        "address": "台南市歸仁區大廟里大廟一街1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.277162,
-          22.997053
-        ],
-        "type": "Point"
-      },
-      "id": "188898"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188913",
         "title": "海青",
         "address": "高雄市鼓山區青海路641號1樓",
@@ -52637,23 +52603,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190248",
-        "title": "國勝",
-        "address": "高雄市左營區富國路112號116號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.306743,
-          22.659341
-        ],
-        "type": "Point"
-      },
-      "id": "190248"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190259",
         "title": "信德",
         "address": "台北市信義區松德路200巷10號",
@@ -52837,23 +52786,6 @@
         "type": "Point"
       },
       "id": "190411"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "190422",
-        "title": "翔鳳",
-        "address": "新北市鶯歌區鶯桃路467號469號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.331982,
-          24.965841
-        ],
-        "type": "Point"
-      },
-      "id": "190422"
     },
     {
       "type": "Feature",
@@ -54571,23 +54503,6 @@
         "type": "Point"
       },
       "id": "193498"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "193513",
-        "title": "潭秀",
-        "address": "台中市潭子區雅潭路一段60號62號64號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.70346,
-          24.216009
-        ],
-        "type": "Point"
-      },
-      "id": "193513"
     },
     {
       "type": "Feature",
@@ -64299,6 +64214,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201346",
+        "title": "潭秀",
+        "address": "台中市潭子區雅潭路一段60號62號64號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.70346,
+          24.216009
+        ],
+        "type": "Point"
+      },
+      "id": "201346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201357",
         "title": "屏棧",
         "address": "屏東縣屏東市崇智里光復路45號",
@@ -64312,6 +64244,23 @@
         "type": "Point"
       },
       "id": "201357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201368",
+        "title": "翔鳳",
+        "address": "新北市鶯歌區鶯桃路467號469號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.331982,
+          24.965841
+        ],
+        "type": "Point"
+      },
+      "id": "201368"
     },
     {
       "type": "Feature",
@@ -65880,6 +65829,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213752",
+        "title": "南昌",
+        "address": "台北市中正區南昌路一段67號69號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517508,
+          25.03104
+        ],
+        "type": "Point"
+      },
+      "id": "213752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213763",
         "title": "鑫中華",
         "address": "台中市中區中華路一段153.155號一樓157號一二樓",
@@ -65897,6 +65863,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213785",
+        "title": "國勝",
+        "address": "高雄市左營區富國路112號116號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.306743,
+          22.659341
+        ],
+        "type": "Point"
+      },
+      "id": "213785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213811",
         "title": "大社",
         "address": "高雄市大社區翠屏里三民路304號",
@@ -65910,6 +65893,23 @@
         "type": "Point"
       },
       "id": "213811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213822",
+        "title": "左運",
+        "address": "高雄市左營區高鐵路107號B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.309064,
+          22.687953
+        ],
+        "type": "Point"
+      },
+      "id": "213822"
     },
     {
       "type": "Feature",
@@ -66318,6 +66318,23 @@
         "type": "Point"
       },
       "id": "215297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215323",
+        "title": "加賀",
+        "address": "台南市歸仁區大廟里大廟一街1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.277162,
+          22.997053
+        ],
+        "type": "Point"
+      },
+      "id": "215323"
     },
     {
       "type": "Feature",
