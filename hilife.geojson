@@ -13996,6 +13996,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4156",
+        "title": "萬巒萬金店",
+        "address": "屏東縣萬巒鄉萬金村營區路１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.622356,
+          22.609474
+        ],
+        "type": "Point"
+      },
+      "id": "4156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4157",
         "title": "竹北新鳳店",
         "address": "新竹縣竹北市鳳岡路三段２５６、２５８號",
