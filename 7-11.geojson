@@ -63602,23 +63602,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200860",
-        "title": "鼎瑞",
-        "address": "高雄市三民區鼎泰里裕誠路56號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.314878,
-          22.663863
-        ],
-        "type": "Point"
-      },
-      "id": "200860"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200871",
         "title": "革新",
         "address": "台北市信義區永吉路32號34號",
@@ -65655,6 +65638,23 @@
         "type": "Point"
       },
       "id": "213604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213615",
+        "title": "鼎瑞",
+        "address": "高雄市三民區鼎泰里裕誠路56號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.314878,
+          22.663863
+        ],
+        "type": "Point"
+      },
+      "id": "213615"
     },
     {
       "type": "Feature",
