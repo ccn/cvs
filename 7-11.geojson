@@ -35637,23 +35637,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170141",
-        "title": "開源",
-        "address": "台北市信義區松山路136號138號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.577578,
-          25.04727
-        ],
-        "type": "Point"
-      },
-      "id": "170141"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170163",
         "title": "昌宏",
         "address": "新北市新莊區昌隆街31號",
@@ -64265,6 +64248,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201380",
+        "title": "旗廟",
+        "address": "高雄市旗津區振興里廟前路12號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.26790657682,
+          22.611808435391
+        ],
+        "type": "Point"
+      },
+      "id": "201380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201391",
+        "title": "開源",
+        "address": "台北市信義區松山路136號138號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.577578,
+          25.04727
+        ],
+        "type": "Point"
+      },
+      "id": "201391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -65763,13 +65780,13 @@
       "properties": {
         "id": "213693",
         "title": "北泰",
-        "address": "新竹縣竹北市中正西路134號1樓",
+        "address": "新竹縣竹北市中正西路132號134號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.001569,
-          24.840542
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -74603,13 +74620,13 @@
       "properties": {
         "id": "906553",
         "title": "正濱",
-        "address": "基隆市中正區豐稔街27號",
+        "address": "基隆市中正區豐稔街27號29號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.760974,
-          25.140875
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -94950,23 +94967,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "990411",
-        "title": "旗廟",
-        "address": "高雄市旗津區振興里廟前路12號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.26790657682,
-          22.611808435391
-        ],
-        "type": "Point"
-      },
-      "id": "990411"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "990422",
         "title": "友達電",
         "address": "桃園市龜山區華亞二路189號B1",
@@ -96193,13 +96193,13 @@
       "properties": {
         "id": "992141",
         "title": "鹿草",
-        "address": "嘉義縣鹿草鄉西井村20鄰528號530號1樓",
+        "address": "嘉義縣鹿草鄉西井村20鄰528號530號1樓.2樓部分",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.308352570612,
-          23.412030226808398
+          0,
+          0
         ],
         "type": "Point"
       },
