@@ -7453,25 +7453,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013906",
-        "title": "全家中和新忠店",
-        "address": "新北市中和區忠孝街27號1樓",
-        "post": "235",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.510389,
-          24.983009
-        ],
-        "type": "Point"
-      },
-      "id": "013906"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013908",
         "title": "全家平鎮南勢店",
         "address": "桃園市平鎮區中豐路南勢二段206號1樓",
@@ -23048,25 +23029,6 @@
         "type": "Point"
       },
       "id": "016023"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016025",
-        "title": "全家汐止長虹店",
-        "address": "新北市汐止區福德二路81-1號",
-        "post": "221",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.633941,
-          25.065912
-        ],
-        "type": "Point"
-      },
-      "id": "016025"
     },
     {
       "type": "Feature",
@@ -68709,6 +68671,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019364",
+        "title": "全家中和新忠店",
+        "address": "新北市中和區忠孝街27號1樓",
+        "post": "235",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,veg,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.510389,
+          24.983009
+        ],
+        "type": "Point"
+      },
+      "id": "019364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019365",
         "title": "全家日月光五店",
         "address": "高雄市楠梓區經六路66號",
@@ -68819,6 +68800,25 @@
         "type": "Point"
       },
       "id": "019376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019378",
+        "title": "全家汐止長虹店",
+        "address": "新北市汐止區福德二路81-1號",
+        "post": "221",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.633941,
+          25.065912
+        ],
+        "type": "Point"
+      },
+      "id": "019378"
     },
     {
       "type": "Feature",
