@@ -65897,6 +65897,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213796",
+        "title": "康興",
+        "address": "台南市永康區中華路196號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.23562,
+          23.004487
+        ],
+        "type": "Point"
+      },
+      "id": "213796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213811",
         "title": "大社",
         "address": "高雄市大社區翠屏里三民路304號",
@@ -95358,23 +95375,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "991001",
-        "title": "康興",
-        "address": "台南市永康區中華路196號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.23562,
-          23.004487
-        ],
-        "type": "Point"
-      },
-      "id": "991001"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "991056",
         "title": "聯電F",
         "address": "新竹市東區力行六路3號B1樓",
@@ -96193,7 +96193,7 @@
       "properties": {
         "id": "992141",
         "title": "鹿草",
-        "address": "嘉義縣鹿草鄉西井村20鄰528號530號1樓.2樓部分",
+        "address": "嘉義縣鹿草鄉西井村20鄰鹿草路215、217號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
