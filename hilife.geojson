@@ -2861,23 +2861,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2539",
-        "title": "台中中大店",
-        "address": "台中市南區興大路３００號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.671526767405,
-          24.118799508241
-        ],
-        "type": "Point"
-      },
-      "id": "2539"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2540",
         "title": "桃縣桃子店",
         "address": "桃園市蘆竹區濱海路一段２０３號",
@@ -4189,7 +4172,7 @@
       "properties": {
         "id": "2741",
         "title": "八德桃鑽店",
-        "address": "桃園市八德區興豐路８３８、８４０號",
+        "address": "桃園市八德區興豐路８３８、８４０、８４２號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -4693,23 +4676,6 @@
         "type": "Point"
       },
       "id": "2831"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "2832",
-        "title": "台中中鑽店",
-        "address": "台中市南區工學里工學路１６９號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.658893760394,
-          24.1169725875227
-        ],
-        "type": "Point"
-      },
-      "id": "2832"
     },
     {
       "type": "Feature",
@@ -5577,23 +5543,6 @@
         "type": "Point"
       },
       "id": "2995"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "2998",
-        "title": "台中中慶店",
-        "address": "台中市南區樹德里１２鄰大慶街二段２７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.650314,
-          24.115675
-        ],
-        "type": "Point"
-      },
-      "id": "2998"
     },
     {
       "type": "Feature",
@@ -11106,23 +11055,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3897",
-        "title": "台中正氣店",
-        "address": "台中市南區忠孝路１６６號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.6825860249271,
-          24.1295603143754
-        ],
-        "type": "Point"
-      },
-      "id": "3897"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3898",
         "title": "北市鑫湖店",
         "address": "台北市內湖區基湖路３５巷１１號",
@@ -11867,23 +11799,6 @@
         "type": "Point"
       },
       "id": "3963"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3964",
-        "title": "台中衛斯理店",
-        "address": "台中市南區五權南一路５２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.669882,
-          24.112634
-        ],
-        "type": "Point"
-      },
-      "id": "3964"
     },
     {
       "type": "Feature",
@@ -20643,23 +20558,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4699",
-        "title": "台中興大店",
-        "address": "台中市南區國光路２５０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.6732910387751,
-          24.1210305873605
-        ],
-        "type": "Point"
-      },
-      "id": "4699"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4701",
         "title": "新莊昌平店",
         "address": "新北市新莊區昌平街９６、９８號一樓",
@@ -21399,7 +21297,7 @@
       "geometry": {
         "coordinates": [
           121.54866,
-          25.002068
+          25.0020376141712
         ],
         "type": "Point"
       },
