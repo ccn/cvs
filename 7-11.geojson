@@ -4068,23 +4068,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "116538",
-        "title": "湯旺",
-        "address": "新北市三重區重新路五段609巷2之3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.467991,
-          25.045631
-        ],
-        "type": "Point"
-      },
-      "id": "116538"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "116594",
         "title": "佳辰",
         "address": "新北市樹林區佳園路三段488號",
@@ -39277,13 +39260,13 @@
       "properties": {
         "id": "175054",
         "title": "大明",
-        "address": "台中市大里區中興路二段833號835號",
+        "address": "台中市大里區中興路二段833號835號及中興路二段祥興一巷2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.686524,
-          24.121055
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -63415,23 +63398,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200745",
-        "title": "新汐農",
-        "address": "新北市汐止區樟樹一路113號115號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.6419,
-          25.064096
-        ],
-        "type": "Point"
-      },
-      "id": "200745"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200756",
         "title": "新聖母",
         "address": "宜蘭縣羅東鎮中正南路160號(聖母醫院內)",
@@ -66033,6 +65999,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215080",
+        "title": "湯旺",
+        "address": "新北市三重區重新路五段609巷2之3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.467991,
+          25.045631
+        ],
+        "type": "Point"
+      },
+      "id": "215080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215091",
         "title": "樂多",
         "address": "金門縣金寧鄉伯玉路二段229號",
@@ -66148,6 +66131,23 @@
         "type": "Point"
       },
       "id": "215150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215172",
+        "title": "新汐農",
+        "address": "新北市汐止區樟樹一路113號115號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6419,
+          25.064096
+        ],
+        "type": "Point"
+      },
+      "id": "215172"
     },
     {
       "type": "Feature",
