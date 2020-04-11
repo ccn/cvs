@@ -42573,23 +42573,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181794",
-        "title": "北崁",
-        "address": "桃園市蘆竹區中正路85號87號89號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.294291,
-          25.043073
-        ],
-        "type": "Point"
-      },
-      "id": "181794"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181808",
         "title": "萬運",
         "address": "台北市萬華區西園路一段153號地下室",
@@ -51222,23 +51205,6 @@
         "type": "Point"
       },
       "id": "188795"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "188809",
-        "title": "福濱",
-        "address": "新北市三重區龍濱路51號53號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.502767,
-          25.068811
-        ],
-        "type": "Point"
-      },
-      "id": "188809"
     },
     {
       "type": "Feature",
@@ -65693,6 +65659,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213659",
+        "title": "福濱",
+        "address": "新北市三重區龍濱路51號53號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.502767,
+          25.068811
+        ],
+        "type": "Point"
+      },
+      "id": "213659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213660",
         "title": "福泉",
         "address": "新北市中和區福祥路68號70號",
@@ -65751,8 +65734,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.001547,
+          24.840519
         ],
         "type": "Point"
       },
@@ -65944,6 +65927,23 @@
         "type": "Point"
       },
       "id": "213844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213888",
+        "title": "北崁",
+        "address": "桃園市蘆竹區中正路85號87號89號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.294291,
+          25.043073
+        ],
+        "type": "Point"
+      },
+      "id": "213888"
     },
     {
       "type": "Feature",
@@ -74642,8 +74642,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.760994,
+          25.140898
         ],
         "type": "Point"
       },
@@ -84905,13 +84905,13 @@
       "properties": {
         "id": "954529",
         "title": "長榮大",
-        "address": "台南市歸仁區大潭里長榮路一段396號(長榮大學內第4宿舍B1)",
+        "address": "台南市歸仁區長大路1號(長榮大學內第4宿舍B1)",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.27245,
-          22.905639
+          0,
+          0
         ],
         "type": "Point"
       },
