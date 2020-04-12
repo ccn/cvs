@@ -65498,25 +65498,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019143",
-        "title": "全家樂和店",
-        "address": "台北市大安區安和路二段169號",
-        "post": "106",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SUNMAI,Kantoni,SingleOrigin,TANHOU,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.550109,
-          25.028229
-        ],
-        "type": "Point"
-      },
-      "id": "019143"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019144",
         "title": "全家林口隆林店",
         "address": "新北市林口區文化二路二段90,92號",
@@ -68876,6 +68857,25 @@
         "type": "Point"
       },
       "id": "019386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019398",
+        "title": "全家樂和店",
+        "address": "台北市大安區安和路二段169號",
+        "post": "106",
+        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,SharePot,SUNMAI,Kantoni,SingleOrigin,TANHOU,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.550109,
+          25.028229
+        ],
+        "type": "Point"
+      },
+      "id": "019398"
     },
     {
       "type": "Feature",
