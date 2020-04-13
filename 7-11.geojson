@@ -63126,6 +63126,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200457",
+        "title": "民華",
+        "address": "新北市中和區民德路270號272號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.467681,
+          24.996643
+        ],
+        "type": "Point"
+      },
+      "id": "200457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200468",
         "title": "北圓",
         "address": "彰化縣北斗鎮中華路91.93號",
@@ -64771,6 +64788,23 @@
         "type": "Point"
       },
       "id": "206835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206846",
+        "title": "佳嘉",
+        "address": "彰化縣北斗鎮七星里13鄰五權路臨176號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.528425,
+          23.868925
+        ],
+        "type": "Point"
+      },
+      "id": "206846"
     },
     {
       "type": "Feature",
