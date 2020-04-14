@@ -65472,6 +65472,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207872",
+        "title": "靖立",
+        "address": "桃園市八德區豐德一路17號豐田一路83號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.287386,
+          24.926439
+        ],
+        "type": "Point"
+      },
+      "id": "207872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207920",
         "title": "公力",
         "address": "桃園市大園區中正東路一段708之1號",
