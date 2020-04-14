@@ -15433,25 +15433,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015119",
-        "title": "全家清江店",
-        "address": "台北市北投區清江路1號,中央南路一段63號",
-        "post": "112",
-        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.50137,
-          25.131811
-        ],
-        "type": "Point"
-      },
-      "id": "015119"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015122",
         "title": "全家新店中華店",
         "address": "新北市新店區中華路50號",
@@ -58943,25 +58924,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018699",
-        "title": "全家高雄車頭店",
-        "address": "高雄市三民區建國二路318號B1西側",
-        "post": "807",
-        "all": "COFFEE,SWEETPOTATO,icecream,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FishPatty",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.302837,
-          22.639143
-        ],
-        "type": "Point"
-      },
-      "id": "018699"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018700",
         "title": "全家屏東車頭店",
         "address": "屏東縣屏東市公勇路62號1樓",
@@ -68500,6 +68462,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019355",
+        "title": "全家清江店",
+        "address": "台北市北投區清江路1號,中央南路一段63號",
+        "post": "112",
+        "all": "COFFEE,SWEETPOTATO,WiFi,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.50137,
+          25.131811
+        ],
+        "type": "Point"
+      },
+      "id": "019355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019356",
         "title": "全家中壢延平店",
         "address": "桃園市中壢區延平路552號",
@@ -68747,6 +68728,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019375",
+        "title": "全家京林店",
+        "address": "台北市中山區南京東路二段72號1樓,72-2號",
+        "post": "104",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.530705,
+          25.051889
+        ],
+        "type": "Point"
+      },
+      "id": "019375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019376",
         "title": "全家北傑店",
         "address": "台北市中正區忠孝西路一段47號B1F",
@@ -68933,6 +68933,25 @@
         "type": "Point"
       },
       "id": "019419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019427",
+        "title": "全家高雄車頭店",
+        "address": "高雄市三民區建國二路318號B1西側",
+        "post": "807",
+        "all": "COFFEE,SWEETPOTATO,icecream,oneice,twoice,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FishPatty",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302837,
+          22.639143
+        ],
+        "type": "Point"
+      },
+      "id": "019427"
     }
   ]
 }
