@@ -56785,6 +56785,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195368",
+        "title": "豐年",
+        "address": "台中市太平區環太東路345號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.726976,
+          24.153902
+        ],
+        "type": "Point"
+      },
+      "id": "195368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195379",
         "title": "迎竹",
         "address": "新竹市東區大學路1001-2號",
