@@ -58604,6 +58604,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196970",
+        "title": "美光(臨時店)",
+        "address": "台中市后里區三豐路四段369號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.724097,
+          24.318325
+        ],
+        "type": "Point"
+      },
+      "id": "196970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197032",
         "title": "明水",
         "address": "台北市中山區明水路636號樂群三路1號",
@@ -64027,23 +64044,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201243",
-        "title": "忠聯",
-        "address": "台北市中正區忠孝東路二段100號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.530537,
-          25.042845
-        ],
-        "type": "Point"
-      },
-      "id": "201243"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201287",
         "title": "樂和",
         "address": "台北市大安區樂利路29號29-1號",
@@ -65336,6 +65336,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207539",
+        "title": "電通市",
+        "address": "桃園市蘆竹區南山路一段27號29號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.292093,
+          25.051912
+        ],
+        "type": "Point"
+      },
+      "id": "207539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207584",
         "title": "通苑",
         "address": "苗栗縣通霄鎮中山路42號",
@@ -66012,6 +66029,23 @@
         "type": "Point"
       },
       "id": "213888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213914",
+        "title": "忠聯",
+        "address": "台北市中正區忠孝東路二段100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.530537,
+          25.042845
+        ],
+        "type": "Point"
+      },
+      "id": "213914"
     },
     {
       "type": "Feature",
