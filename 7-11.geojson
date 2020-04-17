@@ -39265,8 +39265,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.686488,
+          24.121
         ],
         "type": "Point"
       },
@@ -57142,6 +57142,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195597",
+        "title": "金旺",
+        "address": "彰化縣彰化市延平路536號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.538549,
+          24.062995
+        ],
+        "type": "Point"
+      },
+      "id": "195597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195601",
         "title": "大合宜",
         "address": "新北市板橋區合宜路151號1樓",
@@ -58600,23 +58617,6 @@
         "type": "Point"
       },
       "id": "196888"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196970",
-        "title": "美光(臨時店)",
-        "address": "台中市后里區三豐路四段369號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.724097,
-          24.318325
-        ],
-        "type": "Point"
-      },
-      "id": "196970"
     },
     {
       "type": "Feature",
@@ -71696,13 +71696,13 @@
       "properties": {
         "id": "890999",
         "title": "佳怡",
-        "address": "宜蘭縣員山鄉員山路一段186號",
+        "address": "宜蘭縣員山鄉員山路一段184號186號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.727267,
-          24.745921
+          121.727377,
+          24.746035
         ],
         "type": "Point"
       },
@@ -85012,8 +85012,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.274795,
+          22.905322
         ],
         "type": "Point"
       },
@@ -96300,8 +96300,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.309303,
+          23.40978
         ],
         "type": "Point"
       },
@@ -97638,13 +97638,13 @@
       "properties": {
         "id": "996143",
         "title": "試院",
-        "address": "台北市文山區木柵路一段139號",
+        "address": "台北市文山區木柵路一段139號141號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.550272,
-          24.987532
+          0,
+          0
         ],
         "type": "Point"
       },
