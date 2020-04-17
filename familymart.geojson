@@ -61318,6 +61318,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018872",
+        "title": "全家大村寶村店",
+        "address": "彰化縣大村鄉山腳路75-7號",
+        "post": "515",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5865269,
+          23.9893889
+        ],
+        "type": "Point"
+      },
+      "id": "018872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018873",
         "title": "全家台中陽光店",
         "address": "台中市西屯區西屯路二段258之21號",
@@ -64248,7 +64267,7 @@
         "title": "全家台中金大益店",
         "address": "台中市西區精誠路238號",
         "post": "403",
-        "all": "SWEETPOTATO,icecream,oneice,twoice,Kantoni,Preorder,LCoffee,SCoffee",
+        "all": "SWEETPOTATO,icecream,oneice,twoice,Kantoni,Preorder,laundry,LCoffee,SCoffee",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -68747,6 +68766,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019378",
+        "title": "全家汐止長虹店",
+        "address": "新北市汐止區福德二路81-1號",
+        "post": "221",
+        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.633941,
+          25.065912
+        ],
+        "type": "Point"
+      },
+      "id": "019378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019380",
         "title": "全家新莊新建店",
         "address": "新北市新莊區中正路新建巷40號1樓",
@@ -68842,25 +68880,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019397",
-        "title": "全家汐止長虹店",
-        "address": "新北市汐止區福德二路81-1號",
-        "post": "221",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Rest,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.633941,
-          25.065912
-        ],
-        "type": "Point"
-      },
-      "id": "019397"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019398",
         "title": "全家樂和店",
         "address": "台北市大安區安和路二段169號",
@@ -68876,25 +68895,6 @@
         "type": "Point"
       },
       "id": "019398"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "019408",
-        "title": "全家大村寶村店",
-        "address": "彰化縣大村鄉山腳路75-7號",
-        "post": "515",
-        "all": "COFFEE,SWEETPOTATO,WiFi,Toilet,Rest,SharePot,Kantoni,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.5865269,
-          23.9893889
-        ],
-        "type": "Point"
-      },
-      "id": "019408"
     },
     {
       "type": "Feature",
