@@ -34379,23 +34379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167293",
-        "title": "鼎強",
-        "address": "高雄市三民區鼎強里鼎金後路432號1.2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.324508,
-          22.671258
-        ],
-        "type": "Point"
-      },
-      "id": "167293"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167318",
         "title": "愛樂",
         "address": "嘉義縣民雄鄉福樂村埤角547號",
@@ -64244,6 +64227,23 @@
         "type": "Point"
       },
       "id": "201391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201405",
+        "title": "鼎強",
+        "address": "高雄市三民區鼎強里鼎金後路432號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.324508,
+          22.671258
+        ],
+        "type": "Point"
+      },
+      "id": "201405"
     },
     {
       "type": "Feature",
