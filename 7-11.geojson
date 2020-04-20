@@ -65353,6 +65353,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207540",
+        "title": "達基力",
+        "address": "花蓮縣秀林鄉崇德村海濱3號3之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.653235,
+          24.166806
+        ],
+        "type": "Point"
+      },
+      "id": "207540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207584",
         "title": "通苑",
         "address": "苗栗縣通霄鎮中山路42號",
