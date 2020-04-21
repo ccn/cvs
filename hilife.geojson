@@ -1909,23 +1909,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2342",
-        "title": "北縣板震店",
-        "address": "新北市板橋區中山路１段５０巷５號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.46119894057,
-          25.0089465500007
-        ],
-        "type": "Point"
-      },
-      "id": "2342"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2346",
         "title": "雲縣雲鑽店",
         "address": "雲林縣崙背鄉南光路４號、中山路２６５、２６７號",
@@ -21217,23 +21200,6 @@
         "type": "Point"
       },
       "id": "B643"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "B697",
-        "title": "北市中山三店",
-        "address": "台北市中山區中山北路二段６５巷１３號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.524002,
-          25.057134
-        ],
-        "type": "Point"
-      },
-      "id": "B697"
     },
     {
       "type": "Feature",
