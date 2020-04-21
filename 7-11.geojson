@@ -49084,23 +49084,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187068",
-        "title": "常興",
-        "address": "台南市仁德區中正路三段701號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.255507,
-          22.991613
-        ],
-        "type": "Point"
-      },
-      "id": "187068"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187079",
         "title": "權美",
         "address": "台中市西區美村路一段736號",
@@ -57159,23 +57142,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "195623",
-        "title": "昆嵋",
-        "address": "台北市萬華區峨嵋街74號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.504319,
-          25.04406
-        ],
-        "type": "Point"
-      },
-      "id": "195623"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "195645",
         "title": "城庚",
         "address": "新北市土城區金城路二段6號B1",
@@ -61715,23 +61681,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "199201",
-        "title": "揚善",
-        "address": "桃園市楊梅區中山北路一段23號25號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.150042,
-          24.907285
-        ],
-        "type": "Point"
-      },
-      "id": "199201"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "199212",
         "title": "龍池",
         "address": "桃園市龍潭區中豐路上林段187號189號1樓",
@@ -64248,6 +64197,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201427",
+        "title": "昆嵋",
+        "address": "台北市萬華區峨嵋街74號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.504319,
+          25.04406
+        ],
+        "type": "Point"
+      },
+      "id": "201427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -66067,6 +66033,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213925",
+        "title": "常興",
+        "address": "台南市仁德區中正路三段701號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.255507,
+          22.991613
+        ],
+        "type": "Point"
+      },
+      "id": "213925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215057",
         "title": "昶林",
         "address": "高雄市岡山區仁壽里公園西路三段131號133號",
@@ -66505,6 +66488,23 @@
         "type": "Point"
       },
       "id": "215334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215367",
+        "title": "揚善",
+        "address": "桃園市楊梅區中山北路一段23號25號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.150042,
+          24.907285
+        ],
+        "type": "Point"
+      },
+      "id": "215367"
     },
     {
       "type": "Feature",
