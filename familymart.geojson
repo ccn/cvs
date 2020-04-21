@@ -20924,25 +20924,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015826",
-        "title": "全家龜山文學店",
-        "address": "桃園市龜山區文化二路34巷14弄12號1樓",
-        "post": "333",
-        "all": "COFFEE,SWEETPOTATO,WiFi,icecream,Rest,oneice,SharePot,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.364784,
-          25.059175
-        ],
-        "type": "Point"
-      },
-      "id": "015826"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015827",
         "title": "全家新莊福樂店",
         "address": "新北市新莊區福樂街30號1樓",
@@ -47030,25 +47011,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017931",
-        "title": "全家基隆新站前店",
-        "address": "基隆市仁愛區忠一路19號",
-        "post": "200",
-        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.739715,
-          25.131325
-        ],
-        "type": "Point"
-      },
-      "id": "017931"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017933",
         "title": "全家日津店",
         "address": "台北市中山區天津街47號1樓及地下室",
@@ -57138,25 +57100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018573",
-        "title": "全家淡水新頂店",
-        "address": "新北市淡水區新市五路二段3號1樓",
-        "post": "251",
-        "all": "COFFEE,SWEETPOTATO,veg,SharePot,Kantoni,SingleOrigin,FreshFruit,Preorder,Latte,FLatte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.42907087,
-          25.20028698
-        ],
-        "type": "Point"
-      },
-      "id": "018573"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018575",
         "title": "全家內門羅漢門店",
         "address": "高雄市內門區南屏路235號(配送用)",
@@ -62150,25 +62093,6 @@
         "type": "Point"
       },
       "id": "018928"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018929",
-        "title": "全家外埔國王店",
-        "address": "台中市外埔區甲后路757之1號一樓",
-        "post": "438",
-        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Parking,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,HotTea",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.636194,
-          24.343222
-        ],
-        "type": "Point"
-      },
-      "id": "018929"
     },
     {
       "type": "Feature",
@@ -68880,6 +68804,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019388",
+        "title": "全家外埔國王店",
+        "address": "台中市外埔區甲后路757之1號一樓",
+        "post": "438",
+        "all": "COFFEE,SWEETPOTATO,Smoothie,WiFi,Parking,Toilet,Rest,SharePot,SingleOrigin,Preorder,Latte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.636194,
+          24.343222
+        ],
+        "type": "Point"
+      },
+      "id": "019388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019391",
         "title": "全家基隆鑫忠二店",
         "address": "基隆市仁愛區忠二路15號壹樓",
@@ -68933,6 +68876,25 @@
         "type": "Point"
       },
       "id": "019398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019402",
+        "title": "全家淡水新頂店",
+        "address": "新北市淡水區新市五路二段3號1樓",
+        "post": "251",
+        "all": "COFFEE,SWEETPOTATO,veg,SharePot,Kantoni,SingleOrigin,FreshFruit,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.42907087,
+          25.20028698
+        ],
+        "type": "Point"
+      },
+      "id": "019402"
     },
     {
       "type": "Feature",
@@ -69066,6 +69028,25 @@
         "type": "Point"
       },
       "id": "019427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019437",
+        "title": "全家基隆新站前店",
+        "address": "基隆市仁愛區忠一路19號",
+        "post": "200",
+        "all": "COFFEE,SWEETPOTATO,WiFi,COFFEEDeliver,SharePot,Kantoni,SingleOrigin,Preorder,Latte,FLatte,HotTea",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.739715,
+          25.131325
+        ],
+        "type": "Point"
+      },
+      "id": "019437"
     }
   ]
 }
