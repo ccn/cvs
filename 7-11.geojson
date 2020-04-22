@@ -54745,6 +54745,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193753",
+        "title": "名湖",
+        "address": "高雄市仁武區八德東路490號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "193753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193775",
         "title": "興富",
         "address": "花蓮縣富里鄉中山路61號",
