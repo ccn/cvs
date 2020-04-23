@@ -65149,6 +65149,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207274",
+        "title": "樂河",
+        "address": "台中市北屯區軍和街457號1樓和461號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "207274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207285",
         "title": "頂福",
         "address": "新竹市香山區中山路622號626號",
