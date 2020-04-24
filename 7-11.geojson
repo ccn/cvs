@@ -44851,23 +44851,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183893",
-        "title": "三重一",
-        "address": "新北市三重區正義南路133號135號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.49873,
-          25.057855
-        ],
-        "type": "Point"
-      },
-      "id": "183893"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183907",
         "title": "席悅",
         "address": "台南市東區東光里東興路41號1樓",
@@ -54752,8 +54735,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.346168,
+          22.686998
         ],
         "type": "Point"
       },
@@ -63942,23 +63925,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201210",
-        "title": "松鑽",
-        "address": "台北市松山區八德路四段686號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.576641,
-          25.049883
-        ],
-        "type": "Point"
-      },
-      "id": "201210"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201221",
         "title": "華社",
         "address": "高雄市大社區中華路16-66號1.2樓",
@@ -65156,8 +65122,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.72479,
+          24.177173
         ],
         "type": "Point"
       },
@@ -66050,6 +66016,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213903",
+        "title": "松鑽",
+        "address": "台北市松山區八德路四段686號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.576641,
+          25.049883
+        ],
+        "type": "Point"
+      },
+      "id": "213903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213914",
         "title": "忠聯",
         "address": "台北市中正區忠孝東路二段100號1樓",
@@ -66522,6 +66505,23 @@
         "type": "Point"
       },
       "id": "215334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215345",
+        "title": "三重一",
+        "address": "新北市三重區正義南路133號135號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.49873,
+          25.057855
+        ],
+        "type": "Point"
+      },
+      "id": "215345"
     },
     {
       "type": "Feature",
@@ -97694,8 +97694,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.550292,
+          24.987633
         ],
         "type": "Point"
       },
