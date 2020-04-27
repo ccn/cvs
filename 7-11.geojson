@@ -16886,23 +16886,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "138147",
-        "title": "泉僑",
-        "address": "桃園市龍潭區文化路12-3號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.244882,
-          24.849545
-        ],
-        "type": "Point"
-      },
-      "id": "138147"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138158",
         "title": "大遠百",
         "address": "新竹市東區西門街105號",
@@ -29173,23 +29156,6 @@
         "type": "Point"
       },
       "id": "161181"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "161217",
-        "title": "新劍潭",
-        "address": "台北市士林區福港街246號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517487,
-          25.084339
-        ],
-        "type": "Point"
-      },
-      "id": "161217"
     },
     {
       "type": "Feature",
@@ -64928,6 +64894,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207001",
+        "title": "大智湧",
+        "address": "桃園市八德區大智路11號13號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.299838,
+          24.964128
+        ],
+        "type": "Point"
+      },
+      "id": "207001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207012",
         "title": "羅鑫",
         "address": "台北市大安區羅斯福路三段29號31號1樓",
@@ -65043,6 +65026,23 @@
         "type": "Point"
       },
       "id": "207160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207171",
+        "title": "忠泰",
+        "address": "台北市中正區忠孝西路一段78號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.513833,
+          25.04687
+        ],
+        "type": "Point"
+      },
+      "id": "207171"
     },
     {
       "type": "Feature",
@@ -65421,6 +65421,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207735",
+        "title": "板安",
+        "address": "新北市板橋區長安街202.204號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.474464,
+          25.011681
+        ],
+        "type": "Point"
+      },
+      "id": "207735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207746",
+        "title": "浩瀚",
+        "address": "新北市八里區龍形二街2-11號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.450737,
+          25.131172
+        ],
+        "type": "Point"
+      },
+      "id": "207746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207768",
         "title": "美圳",
         "address": "新北市三重區過圳街14.16號1樓",
@@ -65523,6 +65557,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207964",
+        "title": "關渡站",
+        "address": "台北市北投區大度路三段270巷69號71號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.467181,
+          25.125037
+        ],
+        "type": "Point"
+      },
+      "id": "207964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207975",
         "title": "源福",
         "address": "新北市新莊區福壽街29.31號及福樂街108巷26號",
@@ -65553,6 +65604,23 @@
         "type": "Point"
       },
       "id": "208015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208082",
+        "title": "港富",
+        "address": "基隆市中山區中華路93號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.737905,
+          25.147494
+        ],
+        "type": "Point"
+      },
+      "id": "208082"
     },
     {
       "type": "Feature",
@@ -65995,6 +66063,23 @@
         "type": "Point"
       },
       "id": "213844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213855",
+        "title": "新劍潭",
+        "address": "台北市士林區福港街246號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517487,
+          25.084339
+        ],
+        "type": "Point"
+      },
+      "id": "213855"
     },
     {
       "type": "Feature",
@@ -66522,6 +66607,23 @@
         "type": "Point"
       },
       "id": "215345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215356",
+        "title": "泉僑",
+        "address": "桃園市龍潭區文化路12-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.244882,
+          24.849545
+        ],
+        "type": "Point"
+      },
+      "id": "215356"
     },
     {
       "type": "Feature",
