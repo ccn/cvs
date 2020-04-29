@@ -12109,23 +12109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "130718",
-        "title": "雅亭",
-        "address": "台中市北區中清路一段320號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.675729,
-          24.16029
-        ],
-        "type": "Point"
-      },
-      "id": "130718"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "130729",
         "title": "韻翔",
         "address": "桃園市平鎮區文化街71號1樓",
@@ -48642,23 +48625,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "186733",
-        "title": "祥裕",
-        "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.294118,
-          22.662653
-        ],
-        "type": "Point"
-      },
-      "id": "186733"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "186755",
         "title": "安林",
         "address": "新北市林口區文化二路一段24號26號",
@@ -55646,6 +55612,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194561",
+        "title": "晞寶",
+        "address": "台中市大雅區昌平路四段556號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "194561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194572",
         "title": "復錦",
         "address": "台北市中山區復興北路348號1樓",
@@ -57040,23 +57023,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "195575",
-        "title": "歸來",
-        "address": "屏東縣屏東市和生路一段107-3號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.505372,
-          22.659406
-        ],
-        "type": "Point"
-      },
-      "id": "195575"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "195586",
         "title": "欣興",
         "address": "桃園市中壢區新興路226號228號",
@@ -58362,6 +58328,23 @@
         "type": "Point"
       },
       "id": "196671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196682",
+        "title": "下埔下",
+        "address": "金門縣金寧鄉慈湖路一段69.71號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196682"
     },
     {
       "type": "Feature",
@@ -60351,6 +60334,23 @@
         "type": "Point"
       },
       "id": "198208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198219",
+        "title": "雙鈺",
+        "address": "台南市永康區永華路399號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.257377,
+          23.017815
+        ],
+        "type": "Point"
+      },
+      "id": "198219"
     },
     {
       "type": "Feature",
@@ -62765,6 +62765,23 @@
         "type": "Point"
       },
       "id": "200217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200228",
+        "title": "三沅",
+        "address": "桃園市楊梅區三民北路88號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.170283,
+          24.910504
+        ],
+        "type": "Point"
+      },
+      "id": "200228"
     },
     {
       "type": "Feature",
@@ -65576,13 +65593,13 @@
       "properties": {
         "id": "207975",
         "title": "源福",
-        "address": "新北市新莊區福壽街29.31號及福樂街108巷26號",
+        "address": "新北市新莊區福壽街29.31號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.458071,
-          25.048331
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -65927,6 +65944,23 @@
         "type": "Point"
       },
       "id": "213730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213741",
+        "title": "祥裕",
+        "address": "高雄市鼓山區明誠里裕誠路1610號1612號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.294118,
+          22.662653
+        ],
+        "type": "Point"
+      },
+      "id": "213741"
     },
     {
       "type": "Feature",
@@ -66641,6 +66675,23 @@
         "type": "Point"
       },
       "id": "215367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215390",
+        "title": "歸來",
+        "address": "屏東縣屏東市和生路一段107-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.505372,
+          22.659406
+        ],
+        "type": "Point"
+      },
+      "id": "215390"
     },
     {
       "type": "Feature",
@@ -81454,13 +81505,13 @@
       "properties": {
         "id": "942722",
         "title": "新羅福",
-        "address": "台北市中正區羅斯福路三段82號",
+        "address": "台北市中正區羅斯福路三段80號82號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.526474,
-          25.021987
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -95003,13 +95054,13 @@
       "properties": {
         "id": "990134",
         "title": "興安邦",
-        "address": "高雄市三民區安邦里察哈爾二街83號1樓",
+        "address": "高雄市三民區安邦里察哈爾二街83號1樓.85號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.300247,
-          22.647753
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -95575,23 +95626,6 @@
         "type": "Point"
       },
       "id": "990905"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "990916",
-        "title": "苗治",
-        "address": "苗栗縣苗栗市自治路72號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.819054,
-          24.566017
-        ],
-        "type": "Point"
-      },
-      "id": "990916"
     },
     {
       "type": "Feature",
@@ -98318,13 +98352,13 @@
       "properties": {
         "id": "997766",
         "title": "三豐路",
-        "address": "台中市豐原區三豐路909號",
+        "address": "台中市豐原區三豐路289號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.721553,
-          24.271544
+          0,
+          0
         ],
         "type": "Point"
       },
