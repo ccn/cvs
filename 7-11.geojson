@@ -22275,23 +22275,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "148616",
-        "title": "遠平",
-        "address": "台中市北屯區北平路三段75-4號75-5號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.681445,
-          24.17124
-        ],
-        "type": "Point"
-      },
-      "id": "148616"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "148627",
         "title": "光員",
         "address": "新北市土城區光明街15號",
@@ -30010,23 +29993,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "163729",
-        "title": "軟科",
-        "address": "高雄市前鎮區復興四路10號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.299619,
-          22.604559
-        ],
-        "type": "Point"
-      },
-      "id": "163729"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "163730",
         "title": "戰國",
         "address": "新北市板橋區永豐街173號175號",
@@ -36147,23 +36113,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170727",
-        "title": "水龍吟",
-        "address": "桃園市龍潭區中原路一段506號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.19914913823999,
-          24.8480952448483
-        ],
-        "type": "Point"
-      },
-      "id": "170727"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170738",
         "title": "北府",
         "address": "台北市信義區松仁路162號164號1樓",
@@ -40308,23 +40257,6 @@
         "type": "Point"
       },
       "id": "180137"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "180148",
-        "title": "維陽",
-        "address": "新北市板橋區陽明街158號160號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.463507,
-          25.024136
-        ],
-        "type": "Point"
-      },
-      "id": "180148"
     },
     {
       "type": "Feature",
@@ -54847,23 +54779,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193926",
-        "title": "東加",
-        "address": "台中市北屯區東山路一段185號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.708327,
-          24.170529
-        ],
-        "type": "Point"
-      },
-      "id": "193926"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193948",
         "title": "彰欣",
         "address": "彰化縣彰化市彰興路一段臨528號",
@@ -55619,8 +55534,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.672086,
+          24.228655
         ],
         "type": "Point"
       },
@@ -58339,8 +58254,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          118.312121,
+          24.441788
         ],
         "type": "Point"
       },
@@ -64163,6 +64078,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201416",
+        "title": "東加",
+        "address": "台中市北屯區東山路一段185號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.708327,
+          24.170529
+        ],
+        "type": "Point"
+      },
+      "id": "201416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201427",
         "title": "昆嵋",
         "address": "台北市萬華區峨嵋街74號1樓",
@@ -64176,6 +64108,23 @@
         "type": "Point"
       },
       "id": "201427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201449",
+        "title": "維陽",
+        "address": "新北市板橋區陽明街158號160號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.463507,
+          25.024136
+        ],
+        "type": "Point"
+      },
+      "id": "201449"
     },
     {
       "type": "Feature",
@@ -65598,8 +65547,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.458071,
+          25.048331
         ],
         "type": "Point"
       },
@@ -66033,6 +65982,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213800",
+        "title": "軟科",
+        "address": "高雄市前鎮區復興四路10號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.299619,
+          22.604559
+        ],
+        "type": "Point"
+      },
+      "id": "213800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213811",
         "title": "大社",
         "address": "高雄市大社區翠屏里三民路304號",
@@ -66118,6 +66084,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213877",
+        "title": "遠平",
+        "address": "台中市北屯區北平路三段75-4號75-5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.681445,
+          24.17124
+        ],
+        "type": "Point"
+      },
+      "id": "213877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213888",
         "title": "北崁",
         "address": "桃園市蘆竹區中正路85號87號89號1樓",
@@ -66182,6 +66165,23 @@
         "type": "Point"
       },
       "id": "213925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213969",
+        "title": "水龍吟",
+        "address": "桃園市龍潭區中原路一段506號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.19914913823999,
+          24.8480952448483
+        ],
+        "type": "Point"
+      },
+      "id": "213969"
     },
     {
       "type": "Feature",
@@ -81510,8 +81510,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.526426,
+          25.02195
         ],
         "type": "Point"
       },
@@ -95059,8 +95059,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.300082,
+          22.647669
         ],
         "type": "Point"
       },
@@ -95802,13 +95802,13 @@
       "properties": {
         "id": "991171",
         "title": "新有光",
-        "address": "高雄市三民區有光路123號",
+        "address": "高雄市三民區有光路123號.125號.127號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.331641613974,
-          22.637417525985597
+          0,
+          0
         ],
         "type": "Point"
       },
