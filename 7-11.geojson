@@ -31064,23 +31064,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "164629",
-        "title": "友達宿舍",
-        "address": "台中市西屯區科雅路2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.618256,
-          24.203302
-        ],
-        "type": "Point"
-      },
-      "id": "164629"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "164641",
         "title": "新福玉",
         "address": "台北市南港區成福路145號147號",
@@ -64826,6 +64809,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206961",
+        "title": "旭日",
+        "address": "台中市北區五權路272.274.276號與太平路221號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.67813,
+          24.151398
+        ],
+        "type": "Point"
+      },
+      "id": "206961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206972",
         "title": "欣民",
         "address": "桃園市中壢區民權路三段985號",
@@ -65043,40 +65043,6 @@
         "type": "Point"
       },
       "id": "207218"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "207230",
-        "title": "高上",
-        "address": "高雄市三民區建國二路318號B1樓西側",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.302846,
-          22.639186
-        ],
-        "type": "Point"
-      },
-      "id": "207230"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "207241",
-        "title": "悅誠",
-        "address": "高雄市三民區民族一路427-20號2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.314873,
-          22.656221
-        ],
-        "type": "Point"
-      },
-      "id": "207241"
     },
     {
       "type": "Feature",
@@ -66594,6 +66560,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215312",
+        "title": "友達宿舍",
+        "address": "台中市西屯區科雅路2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.618256,
+          24.203302
+        ],
+        "type": "Point"
+      },
+      "id": "215312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215323",
         "title": "加賀",
         "address": "台南市歸仁區大廟里大廟一街1號",
@@ -66692,6 +66675,40 @@
         "type": "Point"
       },
       "id": "215390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216636",
+        "title": "悅誠",
+        "address": "高雄市三民區民族一路427-20號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.314873,
+          22.656221
+        ],
+        "type": "Point"
+      },
+      "id": "216636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216647",
+        "title": "高上",
+        "address": "高雄市三民區建國二路318號B1樓西側",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302846,
+          22.639186
+        ],
+        "type": "Point"
+      },
+      "id": "216647"
     },
     {
       "type": "Feature",
@@ -95630,23 +95647,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "990950",
-        "title": "銅鑼",
-        "address": "苗栗縣銅鑼鄉銅鑼村中正路173號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.78729685686099,
-          24.4886859899452
-        ],
-        "type": "Point"
-      },
-      "id": "990950"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "990983",
         "title": "嘉庚",
         "address": "嘉義縣朴子市仁和里嘉朴路西段8號",
@@ -98352,7 +98352,7 @@
       "properties": {
         "id": "997766",
         "title": "三豐路",
-        "address": "台中市豐原區三豐路289號",
+        "address": "台中市豐原區三豐路二段289號",
         "marker-color": "#01ac50"
       },
       "geometry": {
