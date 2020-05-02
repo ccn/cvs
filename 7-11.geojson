@@ -56989,6 +56989,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195656",
+        "title": "銅鑼",
+        "address": "苗栗縣銅鑼鄉銅鑼村中正路173號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.78729685686099,
+          24.4886859899452
+        ],
+        "type": "Point"
+      },
+      "id": "195656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195667",
         "title": "岡好",
         "address": "高雄市岡山區岡山路612、612-2號1樓",
@@ -65553,6 +65570,23 @@
         "type": "Point"
       },
       "id": "208082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208200",
+        "title": "F18B",
+        "address": "台南市安定區北園二路8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.263442,
+          23.116543
+        ],
+        "type": "Point"
+      },
+      "id": "208200"
     },
     {
       "type": "Feature",
