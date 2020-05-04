@@ -62548,6 +62548,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200044",
+        "title": "世貿二",
+        "address": "台北市信義區信義路五段5號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.562325,
+          25.033867
+        ],
+        "type": "Point"
+      },
+      "id": "200044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200066",
         "title": "參龍",
         "address": "台北市內湖區新湖一路95號1樓",
