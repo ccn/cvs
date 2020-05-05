@@ -39411,23 +39411,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "177430",
-        "title": "延慶",
-        "address": "高雄市三民區中民里永年街48號50號52號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.31788460561401,
-          22.6415665401811
-        ],
-        "type": "Point"
-      },
-      "id": "177430"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "177441",
         "title": "亞太",
         "address": "台中市北區賴福里中清路一段508號",
@@ -56887,23 +56870,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "195553",
-        "title": "博林",
-        "address": "新北市樹林區博愛街123號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.426088,
-          24.990755
-        ],
-        "type": "Point"
-      },
-      "id": "195553"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "195564",
         "title": "新安和",
         "address": "新北市新店區安和路二段89號91號",
@@ -57342,6 +57308,23 @@
         "type": "Point"
       },
       "id": "195922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195933",
+        "title": "三和",
+        "address": "台中市烏日區三榮路一段558號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "195933"
     },
     {
       "type": "Feature",
@@ -64080,13 +64063,13 @@
       "properties": {
         "id": "201405",
         "title": "鼎強",
-        "address": "高雄市三民區鼎強里鼎金後路432號1.2樓",
+        "address": "高雄市三民區鼎金後路432號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.324508,
-          22.671258
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -64125,6 +64108,23 @@
         "type": "Point"
       },
       "id": "201427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201438",
+        "title": "博林",
+        "address": "新北市樹林區博愛街123號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.426088,
+          24.990755
+        ],
+        "type": "Point"
+      },
+      "id": "201438"
     },
     {
       "type": "Feature",
@@ -66199,6 +66199,23 @@
         "type": "Point"
       },
       "id": "213969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214009",
+        "title": "延慶",
+        "address": "高雄市三民區中民里永年街48號50號52號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.31788460561401,
+          22.6415665401811
+        ],
+        "type": "Point"
+      },
+      "id": "214009"
     },
     {
       "type": "Feature",
