@@ -52450,23 +52450,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190363",
-        "title": "寶德",
-        "address": "台北市松山區八德路四段321號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.56708840434,
-          25.0493649436836
-        ],
-        "type": "Point"
-      },
-      "id": "190363"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190400",
         "title": "重富",
         "address": "新北市三重區溪尾街321號323號1樓",
@@ -62425,6 +62408,23 @@
         "type": "Point"
       },
       "id": "199902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199924",
+        "title": "原義",
+        "address": "台中市西屯區忠義街80號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.659515,
+          24.161487
+        ],
+        "type": "Point"
+      },
+      "id": "199924"
     },
     {
       "type": "Feature",
@@ -86520,13 +86520,13 @@
       "properties": {
         "id": "960203",
         "title": "麗池",
-        "address": "新北市林口區文化二路二段120號",
+        "address": "新北市林口區中山路583號1樓.文化二路二段120號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.379683,
-          25.08219
+          0,
+          0
         ],
         "type": "Point"
       },
