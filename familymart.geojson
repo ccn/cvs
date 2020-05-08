@@ -26529,25 +26529,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016395",
-        "title": "全家布袋金滿店",
-        "address": "嘉義縣布袋鎮永安里207號1樓",
-        "post": "625",
-        "all": "WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.186328086477,
-          23.3733888773227
-        ],
-        "type": "Point"
-      },
-      "id": "016395"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016396",
         "title": "全家竹崎中山店",
         "address": "嘉義縣竹崎鄉中山路282號",
@@ -69218,6 +69199,25 @@
         "type": "Point"
       },
       "id": "019478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019486",
+        "title": "全家布袋金滿店",
+        "address": "嘉義縣布袋鎮永安里207號1樓",
+        "post": "625",
+        "all": "WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.186328086477,
+          23.3733888773227
+        ],
+        "type": "Point"
+      },
+      "id": "019486"
     },
     {
       "type": "Feature",
