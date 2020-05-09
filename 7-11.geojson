@@ -12755,23 +12755,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "131294",
-        "title": "新天強",
-        "address": "台北市士林區克強路11及11-1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52448437528,
-          25.1087991519319
-        ],
-        "type": "Point"
-      },
-      "id": "131294"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "131308",
         "title": "東侑",
         "address": "台中市北屯區東山路一段396號1樓",
@@ -46942,23 +46925,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "185589",
-        "title": "集德",
-        "address": "新北市蘆洲區集賢路228號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.482124,
-          25.08641
-        ],
-        "type": "Point"
-      },
-      "id": "185589"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "185590",
         "title": "得勝",
         "address": "新北市蘆洲區得勝街67號1樓",
@@ -53364,23 +53330,6 @@
         "type": "Point"
       },
       "id": "192750"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "192761",
-        "title": "原億",
-        "address": "新北市三重區仁和街95號97號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.497992,
-          25.07403
-        ],
-        "type": "Point"
-      },
-      "id": "192761"
     },
     {
       "type": "Feature",
@@ -65557,6 +65506,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207986",
+        "title": "瑞鑽",
+        "address": "台北市內湖區瑞光路478巷24號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.568673,
+          25.078288
+        ],
+        "type": "Point"
+      },
+      "id": "207986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208015",
         "title": "新新明",
         "address": "桃園市中壢區民族路208號1樓",
@@ -66743,6 +66709,57 @@
         "type": "Point"
       },
       "id": "215390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215459",
+        "title": "集德",
+        "address": "新北市蘆洲區集賢路228號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.482124,
+          25.08641
+        ],
+        "type": "Point"
+      },
+      "id": "215459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215460",
+        "title": "原億",
+        "address": "新北市三重區仁和街95號97號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.497992,
+          25.07403
+        ],
+        "type": "Point"
+      },
+      "id": "215460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215471",
+        "title": "新天強",
+        "address": "台北市士林區克強路11及11-1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52448437528,
+          25.1087991519319
+        ],
+        "type": "Point"
+      },
+      "id": "215471"
     },
     {
       "type": "Feature",
