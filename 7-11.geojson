@@ -57975,6 +57975,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196501",
+        "title": "寶德",
+        "address": "台北市松山區八德路四段295號297號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.566344,
+          25.049187
+        ],
+        "type": "Point"
+      },
+      "id": "196501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196556",
         "title": "星海灣",
         "address": "高雄市前鎮區中山二路180號及林森三路1號",
@@ -62327,6 +62344,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "199876",
+        "title": "統合",
+        "address": "台北市大安區忠孝東路四段181巷7弄11之1號11之2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.55134,
+          25.042191
+        ],
+        "type": "Point"
+      },
+      "id": "199876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "199898",
         "title": "金囍",
         "address": "金門縣金湖鎮復興路115號.115-1號.115-2號.115-3號",
@@ -65472,6 +65506,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207942",
+        "title": "建志",
+        "address": "高雄市三民區建工路462號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.32728,
+          22.651407
+        ],
+        "type": "Point"
+      },
+      "id": "207942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207964",
         "title": "關渡站",
         "address": "台北市北投區大度路三段270巷69號71號1樓",
@@ -65570,6 +65621,23 @@
         "type": "Point"
       },
       "id": "208200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208266",
+        "title": "民裕",
+        "address": "新北市新莊區裕民街102.104號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.418221,
+          25.023229
+        ],
+        "type": "Point"
+      },
+      "id": "208266"
     },
     {
       "type": "Feature",
