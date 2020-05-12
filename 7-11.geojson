@@ -57516,6 +57516,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196143",
+        "title": "禾順",
+        "address": "彰化縣線西鄉沿海路一段849巷10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.462734,
+          24.133921
+        ],
+        "type": "Point"
+      },
+      "id": "196143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196154",
         "title": "龍竹",
         "address": "台中市龍井區竹坑里沙田路四段316號",
@@ -64027,23 +64044,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201391",
-        "title": "開源",
-        "address": "台北市信義區松山路136號138號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.577578,
-          25.04727
-        ],
-        "type": "Point"
-      },
-      "id": "201391"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201405",
         "title": "鼎強",
         "address": "高雄市三民區鼎金後路432號1樓",
@@ -64125,6 +64125,40 @@
         "type": "Point"
       },
       "id": "201449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201450",
+        "title": "開源",
+        "address": "台北市信義區松山路136號138號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.577578,
+          25.04727
+        ],
+        "type": "Point"
+      },
+      "id": "201450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201472",
+        "title": "文大",
+        "address": "台北市士林區格致路57號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.546486,
+          25.137934
+        ],
+        "type": "Point"
+      },
+      "id": "201472"
     },
     {
       "type": "Feature",
@@ -78813,23 +78847,6 @@
         "type": "Point"
       },
       "id": "928368"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "928427",
-        "title": "文大",
-        "address": "台北市士林區格致路57號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.546486,
-          25.137934
-        ],
-        "type": "Point"
-      },
-      "id": "928427"
     },
     {
       "type": "Feature",
