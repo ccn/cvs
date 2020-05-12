@@ -66771,25 +66771,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019296",
-        "title": "全家新竹延平店",
-        "address": "新竹市香山區延平路二段727巷1號",
-        "post": "300",
-        "all": "WiFi,Rest,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.921396,
-          24.806549
-        ],
-        "type": "Point"
-      },
-      "id": "019296"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019298",
         "title": "全家永和耕莘店",
         "address": "新北市永和區中興街95號1樓",
@@ -69142,6 +69123,25 @@
         "type": "Point"
       },
       "id": "019465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019466",
+        "title": "全家新竹延平店",
+        "address": "新竹市香山區延平路二段727巷1號",
+        "post": "300",
+        "all": "WiFi,Rest,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.921396,
+          24.806549
+        ],
+        "type": "Point"
+      },
+      "id": "019466"
     },
     {
       "type": "Feature",
