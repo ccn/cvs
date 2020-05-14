@@ -20252,23 +20252,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "143655",
-        "title": "秋葉原",
-        "address": "台北市中正區市民大道三段2號B2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531239,
-          25.04556
-        ],
-        "type": "Point"
-      },
-      "id": "143655"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "143666",
         "title": "明日",
         "address": "台北市萬華區成都路27巷1號1樓",
@@ -29332,13 +29315,13 @@
       "properties": {
         "id": "161907",
         "title": "員成",
-        "address": "彰化縣員林市中山路二段216號",
+        "address": "彰化縣員林市中山路二段214.216號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.571405,
-          23.96574
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -41005,23 +40988,6 @@
         "type": "Point"
       },
       "id": "180757"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "180779",
-        "title": "福鹿",
-        "address": "彰化縣福興鄉彰鹿路七段652.654號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.441747,
-          24.048786
-        ],
-        "type": "Point"
-      },
-      "id": "180779"
     },
     {
       "type": "Feature",
@@ -65166,6 +65132,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207366",
+        "title": "鑫科",
+        "address": "台中市北區三民路三段133號.135之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.684428,
+          24.151083
+        ],
+        "type": "Point"
+      },
+      "id": "207366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207388",
         "title": "景大和",
         "address": "台中市北屯區景賢路191號",
@@ -65519,6 +65502,23 @@
         "type": "Point"
       },
       "id": "207872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207908",
+        "title": "東基",
+        "address": "台東縣台東市開封街350號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.146055,
+          22.763732
+        ],
+        "type": "Point"
+      },
+      "id": "207908"
     },
     {
       "type": "Feature",
@@ -66199,6 +66199,23 @@
         "type": "Point"
       },
       "id": "213888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213899",
+        "title": "福鹿",
+        "address": "彰化縣福興鄉彰鹿路七段652.654號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.441747,
+          24.048786
+        ],
+        "type": "Point"
+      },
+      "id": "213899"
     },
     {
       "type": "Feature",
