@@ -17889,23 +17889,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "139368",
-        "title": "竹南建國",
-        "address": "苗栗縣竹南鎮龍鳳里龍山路一段162號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.866605,
-          24.692115
-        ],
-        "type": "Point"
-      },
-      "id": "139368"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "140025",
         "title": "義明",
         "address": "高雄市三民區寶國里義華路171號",
@@ -45616,23 +45599,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184575",
-        "title": "聯合",
-        "address": "台北市信義區忠孝東路四段559巷6號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.563667,
-          25.041836
-        ],
-        "type": "Point"
-      },
-      "id": "184575"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184586",
         "title": "大敦",
         "address": "台北市大安區敦化南路二段63巷7號1樓",
@@ -64112,6 +64078,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201461",
+        "title": "欣欣鼎",
+        "address": "屏東縣屏東市崇蘭里自由路666號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.480940700829,
+          22.6834076888096
+        ],
+        "type": "Point"
+      },
+      "id": "201461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201472",
         "title": "文大",
         "address": "台北市士林區格致路57號",
@@ -64125,6 +64108,23 @@
         "type": "Point"
       },
       "id": "201472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201483",
+        "title": "聯合",
+        "address": "台北市信義區忠孝東路四段559巷6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.563667,
+          25.041836
+        ],
+        "type": "Point"
+      },
+      "id": "201483"
     },
     {
       "type": "Feature",
@@ -64652,6 +64652,23 @@
         "type": "Point"
       },
       "id": "206802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206813",
+        "title": "新前鋒",
+        "address": "高雄市鼓山區九如四路1999.2001號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.285432,
+          22.667909
+        ],
+        "type": "Point"
+      },
+      "id": "206813"
     },
     {
       "type": "Feature",
@@ -66488,6 +66505,23 @@
         "type": "Point"
       },
       "id": "215150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215161",
+        "title": "竹南建國",
+        "address": "苗栗縣竹南鎮龍鳳里龍山路一段162號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.866605,
+          24.692115
+        ],
+        "type": "Point"
+      },
+      "id": "215161"
     },
     {
       "type": "Feature",
@@ -91635,23 +91669,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "972561",
-        "title": "新前鋒",
-        "address": "高雄市鼓山區雄峰里九如四路2007號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.28576458535001,
-          22.6682716326271
-        ],
-        "type": "Point"
-      },
-      "id": "972561"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "972594",
         "title": "長星",
         "address": "台北市大安區基隆路三段85號",
@@ -94249,23 +94266,6 @@
         "type": "Point"
       },
       "id": "982454"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982476",
-        "title": "欣欣鼎",
-        "address": "屏東縣屏東市崇蘭里自由路666號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.480940700829,
-          22.6834076888096
-        ],
-        "type": "Point"
-      },
-      "id": "982476"
     },
     {
       "type": "Feature",
