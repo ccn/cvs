@@ -65319,6 +65319,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207573",
+        "title": "啟碁",
+        "address": "新竹縣寶山鄉園區二路20號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.998974,
+          24.778738
+        ],
+        "type": "Point"
+      },
+      "id": "207573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207584",
         "title": "通苑",
         "address": "苗栗縣通霄鎮中山路42號",
