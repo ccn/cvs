@@ -67892,6 +67892,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019377",
+        "title": "全家淡水凱旋店",
+        "address": "新北市淡水區義山路一段216號",
+        "post": "251",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.43827514,
+          25.1908495
+        ],
+        "type": "Point"
+      },
+      "id": "019377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019379",
         "title": "全家光明店",
         "address": "台北市北投區光明路23號,25號",
@@ -68705,6 +68724,25 @@
         "type": "Point"
       },
       "id": "019434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019435",
+        "title": "全家新竹金湖店",
+        "address": "新竹市東區明湖路399號1樓",
+        "post": "300",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.967483,
+          24.782778
+        ],
+        "type": "Point"
+      },
+      "id": "019435"
     },
     {
       "type": "Feature",
