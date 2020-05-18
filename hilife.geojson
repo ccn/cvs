@@ -8046,6 +8046,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3424",
+        "title": "淡水純德二店",
+        "address": "新北市淡水區真理街２６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4363215912421,
+          25.178093649381
+        ],
+        "type": "Point"
+      },
+      "id": "3424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "3433",
         "title": "北市士陽店",
         "address": "台北市士林區雨聲街１０５號",
