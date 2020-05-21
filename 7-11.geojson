@@ -9746,23 +9746,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127011",
-        "title": "中禪",
-        "address": "南投縣埔里鎮西安路一段306號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.969723,
-          23.973158
-        ],
-        "type": "Point"
-      },
-      "id": "127011"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127022",
         "title": "天公",
         "address": "台南市中西區忠義路二段109號",
@@ -65727,6 +65710,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208325",
+        "title": "東蘭",
+        "address": "台中市東勢區東蘭路194號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.795759,
+          24.286292
+        ],
+        "type": "Point"
+      },
+      "id": "208325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213556",
         "title": "順苓",
         "address": "高雄市小港區漢民路381號",
@@ -81244,23 +81244,6 @@
         "type": "Point"
       },
       "id": "941567"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "941615",
-        "title": "新強",
-        "address": "高雄市苓雅區意誠里新光路64號66號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.301239,
-          22.611271
-        ],
-        "type": "Point"
-      },
-      "id": "941615"
     },
     {
       "type": "Feature",
