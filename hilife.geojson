@@ -20966,6 +20966,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4711",
+        "title": "鹿谷農會店",
+        "address": "南投縣鹿谷鄉中正路二段７７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.75336233639,
+          23.746332471886
+        ],
+        "type": "Point"
+      },
+      "id": "4711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4712",
         "title": "平鎮好漢店",
         "address": "桃園市平鎮區陸光路３００號",
