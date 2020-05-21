@@ -65080,25 +65080,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019194",
-        "title": "全家台南康樂二店",
-        "address": "台南市中西區康樂街150號一樓",
-        "post": "700",
-        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.195105,
-          22.994878
-        ],
-        "type": "Point"
-      },
-      "id": "019194"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019195",
         "title": "全家中埔中華店",
         "address": "嘉義縣中埔鄉和睦村中華路678號",
@@ -69294,6 +69275,25 @@
         "type": "Point"
       },
       "id": "019506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019520",
+        "title": "全家台南康樂二店",
+        "address": "台南市中西區康樂街150號一樓",
+        "post": "700",
+        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.195105,
+          22.994878
+        ],
+        "type": "Point"
+      },
+      "id": "019520"
     },
     {
       "type": "Feature",
