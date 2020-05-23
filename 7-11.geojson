@@ -53793,6 +53793,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193203",
+        "title": "集成",
+        "address": "新北市三重區環河南路254巷43之1,43之2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.489306,
+          25.051629
+        ],
+        "type": "Point"
+      },
+      "id": "193203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193214",
         "title": "立軒",
         "address": "新北市林口區文化一路一段200號202號1樓2樓",
