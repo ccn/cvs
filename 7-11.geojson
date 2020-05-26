@@ -55833,23 +55833,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194941",
-        "title": "建成",
-        "address": "新北市汐止區大同路二段663號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.664781,
-          25.071834
-        ],
-        "type": "Point"
-      },
-      "id": "194941"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194952",
         "title": "源山",
         "address": "嘉義縣中埔鄉同仁村同仁1-20號1樓",
@@ -66900,6 +66883,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215378",
+        "title": "苗勝",
+        "address": "苗栗縣苗栗市勝利里中正路1045號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.816247,
+          24.548454
+        ],
+        "type": "Point"
+      },
+      "id": "215378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215390",
         "title": "歸來",
         "address": "屏東縣屏東市和生路一段107-3號",
@@ -68477,23 +68477,6 @@
         "type": "Point"
       },
       "id": "860541"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "860611",
-        "title": "苗勝",
-        "address": "苗栗縣苗栗市勝利里中正路1045號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.816247,
-          24.548454
-        ],
-        "type": "Point"
-      },
-      "id": "860611"
     },
     {
       "type": "Feature",
