@@ -29823,23 +29823,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "163648",
-        "title": "秀鴻",
-        "address": "彰化縣秀水鄉埔崙村民生街960號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.494038,
-          24.026963
-        ],
-        "type": "Point"
-      },
-      "id": "163648"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "163659",
         "title": "金宴",
         "address": "台北市中山區建國北路二段151巷8號1樓",
@@ -64928,6 +64911,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207067",
+        "title": "海口",
+        "address": "苗栗縣竹南鎮明勝路491-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.858956,
+          24.67306
+        ],
+        "type": "Point"
+      },
+      "id": "207067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207090",
         "title": "宜商",
         "address": "宜蘭縣宜蘭市延平路39之8號1樓",
@@ -65642,6 +65642,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208048",
+        "title": "金西屯",
+        "address": "台中市西屯區西屯路三段79-33號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.630119,
+          24.18337
+        ],
+        "type": "Point"
+      },
+      "id": "208048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208082",
         "title": "港富",
         "address": "基隆市中山區中華路93號",
@@ -65689,6 +65706,23 @@
         "type": "Point"
       },
       "id": "208200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208222",
+        "title": "承義",
+        "address": "新北市土城區忠承路22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.441119,
+          24.967504
+        ],
+        "type": "Point"
+      },
+      "id": "208222"
     },
     {
       "type": "Feature",
@@ -66981,6 +67015,23 @@
         "type": "Point"
       },
       "id": "215471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215552",
+        "title": "秀鴻",
+        "address": "彰化縣秀水鄉埔崙村民生街960號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.494038,
+          24.026963
+        ],
+        "type": "Point"
+      },
+      "id": "215552"
     },
     {
       "type": "Feature",
