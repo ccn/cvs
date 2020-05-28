@@ -11038,23 +11038,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "129051",
-        "title": "鑫程",
-        "address": "高雄市岡山區大德二路61號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.306389,
-          22.791295
-        ],
-        "type": "Point"
-      },
-      "id": "129051"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "129062",
         "title": "航興",
         "address": "桃園市蘆竹區中福里大興路233號1樓",
@@ -50801,23 +50784,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188762",
-        "title": "景圓",
-        "address": "新北市中和區圓通路162-1號162-2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.497514,
-          24.995425
-        ],
-        "type": "Point"
-      },
-      "id": "188762"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188773",
         "title": "鼎富",
         "address": "台南市關廟區南花里中正路881號",
@@ -64095,6 +64061,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201508",
+        "title": "鑫程",
+        "address": "高雄市岡山區大德二路61號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.306389,
+          22.791295
+        ],
+        "type": "Point"
+      },
+      "id": "201508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201519",
+        "title": "群弘益",
+        "address": "高雄市岡山區碧紅里中山北路2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.299185,
+          22.793054
+        ],
+        "type": "Point"
+      },
+      "id": "201519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -66390,6 +66390,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214054",
+        "title": "中樂",
+        "address": "台北市中正區延平南路47號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.510506,
+          25.045116
+        ],
+        "type": "Point"
+      },
+      "id": "214054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215057",
         "title": "昶林",
         "address": "高雄市岡山區仁壽里公園西路三段131號133號",
@@ -67015,6 +67032,23 @@
         "type": "Point"
       },
       "id": "215471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215482",
+        "title": "景圓",
+        "address": "新北市中和區圓通路162-1號162-2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.497514,
+          24.995425
+        ],
+        "type": "Point"
+      },
+      "id": "215482"
     },
     {
       "type": "Feature",
@@ -80143,23 +80177,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "932910",
-        "title": "中樂",
-        "address": "台北市中正區延平南路47號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.510506,
-          25.045116
-        ],
-        "type": "Point"
-      },
-      "id": "932910"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "932965",
         "title": "新統興",
         "address": "高雄市三民區黃興路151號",
@@ -80785,23 +80802,6 @@
         "type": "Point"
       },
       "id": "936336"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "936381",
-        "title": "群弘益",
-        "address": "高雄市岡山區碧紅里中山北路2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.299185,
-          22.793054
-        ],
-        "type": "Point"
-      },
-      "id": "936381"
     },
     {
       "type": "Feature",
