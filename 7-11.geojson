@@ -31829,23 +31829,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "165286",
-        "title": "安豐",
-        "address": "彰化縣彰化市南安里彰鹿路166號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.512416,
-          24.056941
-        ],
-        "type": "Point"
-      },
-      "id": "165286"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "165297",
         "title": "正華",
         "address": "新北市板橋區中正路274號276號",
@@ -33372,23 +33355,6 @@
         "type": "Point"
       },
       "id": "166533"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "166544",
-        "title": "富裕",
-        "address": "台南市東區後甲里裕農路657號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.236357,
-          22.988751
-        ],
-        "type": "Point"
-      },
-      "id": "166544"
     },
     {
       "type": "Feature",
@@ -50274,23 +50240,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188359",
-        "title": "實萬",
-        "address": "新北市汐止區汐萬路二段248號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.646376,
-          25.088966
-        ],
-        "type": "Point"
-      },
-      "id": "188359"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188360",
         "title": "新東勢",
         "address": "屏東縣內埔鄉東勢村大同路三段2號6號1樓",
@@ -65523,6 +65472,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207883",
+        "title": "嘉倫",
+        "address": "台南市西港區中山路469之8號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.20138,
+          23.128598
+        ],
+        "type": "Point"
+      },
+      "id": "207883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207908",
         "title": "東基",
         "address": "台東縣台東市開封街350號1樓",
@@ -65757,6 +65723,23 @@
         "type": "Point"
       },
       "id": "208325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208484",
+        "title": "大鋒",
+        "address": "台中市潭子區大富路一段48-9號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.681215,
+          24.207487
+        ],
+        "type": "Point"
+      },
+      "id": "208484"
     },
     {
       "type": "Feature",
@@ -66968,6 +66951,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215404",
+        "title": "富裕",
+        "address": "台南市東區後甲里裕農路657號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.236357,
+          22.988751
+        ],
+        "type": "Point"
+      },
+      "id": "215404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215437",
         "title": "重富",
         "address": "新北市三重區溪尾街321號323號1樓",
@@ -67053,6 +67053,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215493",
+        "title": "安豐",
+        "address": "彰化縣彰化市南安里彰鹿路166號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.512416,
+          24.056941
+        ],
+        "type": "Point"
+      },
+      "id": "215493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215552",
         "title": "秀鴻",
         "address": "彰化縣秀水鄉埔崙村民生街960號",
@@ -67066,6 +67083,23 @@
         "type": "Point"
       },
       "id": "215552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215611",
+        "title": "實萬",
+        "address": "新北市汐止區汐萬路二段248號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.646376,
+          25.088966
+        ],
+        "type": "Point"
+      },
+      "id": "215611"
     },
     {
       "type": "Feature",
