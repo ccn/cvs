@@ -1042,23 +1042,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "111441",
-        "title": "合維",
-        "address": "台北市大安區四維路170巷8號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54762538947301,
-          25.0281958700811
-        ],
-        "type": "Point"
-      },
-      "id": "111441"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "111452",
         "title": "新揚",
         "address": "新竹市東區民生路149號151號153號1樓",
@@ -32749,13 +32732,13 @@
       "properties": {
         "id": "166005",
         "title": "廣得亨",
-        "address": "屏東縣萬丹鄉廈北村下蚶187-10號",
+        "address": "屏東縣萬丹鄉 廈北村 南北路二段289號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.466742,
-          22.598424
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -47775,23 +47758,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "186364",
-        "title": "總站",
-        "address": "台北市信義區吳興街486號488號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.569502405202,
-          25.0234878532766
-        ],
-        "type": "Point"
-      },
-      "id": "186364"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "186375",
         "title": "鳳駿",
         "address": "高雄市鳳山區北門里鳳松路108.110.112號1樓",
@@ -57261,23 +57227,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "196095",
-        "title": "嘉賢",
-        "address": "嘉義市西區光路里世賢路四段120號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.443744,
-          23.461762
-        ],
-        "type": "Point"
-      },
-      "id": "196095"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "196110",
         "title": "盛發",
         "address": "新北市蘆洲區光復路10號",
@@ -64044,6 +63993,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201531",
+        "title": "總站",
+        "address": "台北市信義區吳興街486號488號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.569502405202,
+          25.0234878532766
+        ],
+        "type": "Point"
+      },
+      "id": "201531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -66339,6 +66305,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213936",
+        "title": "合維",
+        "address": "台北市大安區四維路170巷8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.54762538947301,
+          25.0281958700811
+        ],
+        "type": "Point"
+      },
+      "id": "213936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213969",
         "title": "水龍吟",
         "address": "桃園市龍潭區中原路一段506號1樓",
@@ -67083,6 +67066,23 @@
         "type": "Point"
       },
       "id": "215552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215563",
+        "title": "嘉賢",
+        "address": "嘉義市西區光路里世賢路四段120號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.443744,
+          23.461762
+        ],
+        "type": "Point"
+      },
+      "id": "215563"
     },
     {
       "type": "Feature",
