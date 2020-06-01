@@ -65166,6 +65166,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207492",
+        "title": "展奇",
+        "address": "高雄市鳳山區青年路2段169號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.349918,
+          22.634605
+        ],
+        "type": "Point"
+      },
+      "id": "207492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207506",
         "title": "泰民",
         "address": "新北市板橋區民族路222巷13.15號1樓",
@@ -65672,6 +65689,23 @@
         "type": "Point"
       },
       "id": "208266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208288",
+        "title": "大晉",
+        "address": "台中市沙鹿區東晉路133號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.57301,
+          24.222334
+        ],
+        "type": "Point"
+      },
+      "id": "208288"
     },
     {
       "type": "Feature",
@@ -66794,6 +66828,23 @@
         "type": "Point"
       },
       "id": "215297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215301",
+        "title": "鑫友達",
+        "address": "台中市西屯區中科路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.615503,
+          24.208063
+        ],
+        "type": "Point"
+      },
+      "id": "215301"
     },
     {
       "type": "Feature",
@@ -90968,23 +91019,6 @@
         "type": "Point"
       },
       "id": "971203"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "971269",
-        "title": "鑫友達",
-        "address": "台中市西屯區中科路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.615503,
-          24.208063
-        ],
-        "type": "Point"
-      },
-      "id": "971269"
     },
     {
       "type": "Feature",
