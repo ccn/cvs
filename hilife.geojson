@@ -18637,6 +18637,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4504",
+        "title": "龍潭虎穴店",
+        "address": "桃園市龍潭區福龍路二段３２５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.221862,
+          24.885076
+        ],
+        "type": "Point"
+      },
+      "id": "4504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4507",
         "title": "古坑圓滿店",
         "address": "雲林縣古坑鄉湳子村１鄰湳子２３之３２號",
@@ -20048,6 +20065,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4626",
+        "title": "東勢東崎店",
+        "address": "台中市東勢區東崎路五段３０８及３１０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.8352229038192,
+          24.2511469250046
+        ],
+        "type": "Point"
+      },
+      "id": "4626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4627",
         "title": "台中嘉明湖店",
         "address": "台中市南屯區永春東七路６０２號",
@@ -21119,6 +21153,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4730",
+        "title": "竹山集山店",
+        "address": "南投縣竹山鎮祖師街１５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6847645326627,
+          23.7581674402253
+        ],
+        "type": "Point"
+      },
+      "id": "4730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4732",
         "title": "嘉義保建店",
         "address": "嘉義市東區保建街４０號&４２號&４６號",
@@ -21132,6 +21183,23 @@
         "type": "Point"
       },
       "id": "4732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4738",
+        "title": "大寮工業店",
+        "address": "高雄市大寮區華中路１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4289734368688,
+          22.582634930187
+        ],
+        "type": "Point"
+      },
+      "id": "4738"
     },
     {
       "type": "Feature",
