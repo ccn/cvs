@@ -9899,23 +9899,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127309",
-        "title": "藍山",
-        "address": "新北市中和區南山路41號及37巷2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.502187,
-          24.99872
-        ],
-        "type": "Point"
-      },
-      "id": "127309"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127332",
         "title": "和和",
         "address": "新北市永和區秀朗路二段128號",
@@ -30839,23 +30822,6 @@
         "type": "Point"
       },
       "id": "164548"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "164559",
-        "title": "天裕",
-        "address": "台北市士林區中山北路七段156號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.532660381736,
-          25.124054205080302
-        ],
-        "type": "Point"
-      },
-      "id": "164559"
     },
     {
       "type": "Feature",
@@ -63993,6 +63959,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201520",
+        "title": "藍山",
+        "address": "新北市中和區南山路41號及37巷2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.502187,
+          24.99872
+        ],
+        "type": "Point"
+      },
+      "id": "201520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201531",
         "title": "總站",
         "address": "台北市信義區吳興街486號488號1樓",
@@ -65727,6 +65710,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208428",
+        "title": "勝堉",
+        "address": "台南市東區育樂街1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.217983,
+          22.99534
+        ],
+        "type": "Point"
+      },
+      "id": "208428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208484",
         "title": "大鋒",
         "address": "台中市潭子區大富路一段48-9號",
@@ -66407,6 +66407,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214065",
+        "title": "新保捷",
+        "address": "新北市永和區保生路22巷2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.506959,
+          25.007635
+        ],
+        "type": "Point"
+      },
+      "id": "214065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215057",
         "title": "昶林",
         "address": "高雄市岡山區仁壽里公園西路三段131號133號",
@@ -66556,23 +66573,6 @@
         "type": "Point"
       },
       "id": "215138"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "215149",
-        "title": "竹科",
-        "address": "新竹市東區埔頂路8號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.00778,
-          24.792699
-        ],
-        "type": "Point"
-      },
-      "id": "215149"
     },
     {
       "type": "Feature",
@@ -67104,6 +67104,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215541",
+        "title": "復美",
+        "address": "新北市永和區秀朗路一段146號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.518158,
+          25.00333
+        ],
+        "type": "Point"
+      },
+      "id": "215541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215552",
         "title": "秀鴻",
         "address": "彰化縣秀水鄉埔崙村民生街960號",
@@ -67151,6 +67168,40 @@
         "type": "Point"
       },
       "id": "215611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215677",
+        "title": "天裕",
+        "address": "台北市士林區中山北路七段156號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.532660381736,
+          25.124054205080302
+        ],
+        "type": "Point"
+      },
+      "id": "215677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216625",
+        "title": "竹科",
+        "address": "新竹市東區埔頂路8號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.00778,
+          24.792699
+        ],
+        "type": "Point"
+      },
+      "id": "216625"
     },
     {
       "type": "Feature",
@@ -95766,23 +95817,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "990640",
-        "title": "新保捷",
-        "address": "新北市永和區保生路22巷2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.506959,
-          25.007635
-        ],
-        "type": "Point"
-      },
-      "id": "990640"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "990662",
         "title": "興仁",
         "address": "高雄市鳳山區興仁里五甲一路204號206號1樓",
@@ -98941,23 +98975,6 @@
         "type": "Point"
       },
       "id": "999083"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "999359",
-        "title": "復美",
-        "address": "新北市永和區秀朗路一段146號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.518158,
-          25.00333
-        ],
-        "type": "Point"
-      },
-      "id": "999359"
     },
     {
       "type": "Feature",
