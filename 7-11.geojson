@@ -47216,13 +47216,13 @@
       "properties": {
         "id": "185969",
         "title": "親親",
-        "address": "台中市北區錦洲里北屯路14號1樓",
+        "address": "台中市北區錦洲里北屯路14號.14-2號.14-3號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.692009,
-          24.160239
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -66390,6 +66390,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214010",
+        "title": "新輔英",
+        "address": "屏東縣東港鎮興台里中山路3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.453879,
+          22.465082
+        ],
+        "type": "Point"
+      },
+      "id": "214010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214054",
         "title": "中樂",
         "address": "台北市中正區延平南路47號",
@@ -76688,23 +76705,6 @@
         "type": "Point"
       },
       "id": "913067"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "913078",
-        "title": "新輔英",
-        "address": "屏東縣東港鎮興台里中山路3號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.453879,
-          22.465082
-        ],
-        "type": "Point"
-      },
-      "id": "913078"
     },
     {
       "type": "Feature",
