@@ -10579,23 +10579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "128391",
-        "title": "新旭勝",
-        "address": "新北市汐止區建成路160巷2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.661558,
-          25.073571
-        ],
-        "type": "Point"
-      },
-      "id": "128391"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "128494",
         "title": "稻埕",
         "address": "台北市大同區南京西路436號1F",
@@ -46891,23 +46874,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "185741",
-        "title": "東平驛",
-        "address": "台中市中區台灣大道一段531號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.676831,
-          24.144429
-        ],
-        "type": "Point"
-      },
-      "id": "185741"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "185752",
         "title": "博瑞",
         "address": "高雄市鳳山區瑞興里博愛路221號223號",
@@ -54864,6 +54830,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "194310",
+        "title": "航空城",
+        "address": "澎湖縣馬公市烏崁里烏崁106-20號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.618778,
+          23.548819
+        ],
+        "type": "Point"
+      },
+      "id": "194310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "194321",
         "title": "安醫",
         "address": "台南市安南區州南里12鄰長和路二段66號B1",
@@ -56679,6 +56662,23 @@
         "type": "Point"
       },
       "id": "195689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195704",
+        "title": "金聯發",
+        "address": "台北市內湖區金龍路137號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.590125,
+          25.085967
+        ],
+        "type": "Point"
+      },
+      "id": "195704"
     },
     {
       "type": "Feature",
@@ -66437,6 +66437,23 @@
         "type": "Point"
       },
       "id": "214065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214113",
+        "title": "新旭勝",
+        "address": "新北市汐止區建成路160巷2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.661558,
+          25.073571
+        ],
+        "type": "Point"
+      },
+      "id": "214113"
     },
     {
       "type": "Feature",
