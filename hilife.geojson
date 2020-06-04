@@ -7995,23 +7995,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3421",
-        "title": "北市榮輝店",
-        "address": "台北市中山區民權東路３段７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5412308374338,
-          25.062551384573
-        ],
-        "type": "Point"
-      },
-      "id": "3421"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3422",
         "title": "南投投香店",
         "address": "南投縣草屯鎮新豐路２９８號",
@@ -21183,6 +21166,23 @@
         "type": "Point"
       },
       "id": "4732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4736",
+        "title": "新竹科園店",
+        "address": "新竹市東區科學園路１５１號及光復路一段５３１巷１３２",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0117384502003,
+          24.7830491911357
+        ],
+        "type": "Point"
+      },
+      "id": "4736"
     },
     {
       "type": "Feature",
