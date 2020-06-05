@@ -21221,6 +21221,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4751",
+        "title": "左營陸戰店",
+        "address": "高雄市左營區先鋒路９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.279349833326,
+          22.6744457665698
+        ],
+        "type": "Point"
+      },
+      "id": "4751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
@@ -23132,8 +23149,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.3115935101009,
-          25.0157927566211
+          121.3115586413837,
+          25.015848660279
         ],
         "type": "Point"
       },
