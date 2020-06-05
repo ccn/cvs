@@ -59361,25 +59361,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018884",
-        "title": "全家關西正義店",
-        "address": "新竹縣關西鎮正義路254號,256號",
-        "post": "306",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.173134,
-          24.796827
-        ],
-        "type": "Point"
-      },
-      "id": "018884"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018885",
         "title": "全家吉安自強店",
         "address": "花蓮縣吉安鄉勝安村自強路129號一樓131號",
@@ -69009,6 +68990,25 @@
         "type": "Point"
       },
       "id": "019516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019518",
+        "title": "全家關西正義店",
+        "address": "新竹縣關西鎮正義路254號,256號",
+        "post": "306",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.173134,
+          24.796827
+        ],
+        "type": "Point"
+      },
+      "id": "019518"
     },
     {
       "type": "Feature",
