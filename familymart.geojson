@@ -65023,25 +65023,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019261",
-        "title": "全家大溪仁美店",
-        "address": "桃園市大溪區介壽路542號",
-        "post": "335",
-        "all": null,
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.288125,
-          24.910883
-        ],
-        "type": "Point"
-      },
-      "id": "019261"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019262",
         "title": "全家屏東醫院店",
         "address": "屏東縣屏東市自由路270號",
@@ -69389,6 +69370,25 @@
         "type": "Point"
       },
       "id": "019553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019555",
+        "title": "全家大溪仁美店",
+        "address": "桃園市大溪區介壽路542號",
+        "post": "335",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.288125,
+          24.910883
+        ],
+        "type": "Point"
+      },
+      "id": "019555"
     },
     {
       "type": "Feature",
