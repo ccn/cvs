@@ -16070,23 +16070,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "137111",
-        "title": "金聯發",
-        "address": "台北市內湖區內湖路三段141巷7號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.589237,
-          25.086326
-        ],
-        "type": "Point"
-      },
-      "id": "137111"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "137122",
         "title": "育德",
         "address": "台南市北區民德路87號",
@@ -32686,8 +32669,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.466588,
+          22.598753
         ],
         "type": "Point"
       },
@@ -47187,8 +47170,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.692056,
+          24.160399
         ],
         "type": "Point"
       },
@@ -65744,6 +65727,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208587",
+        "title": "裕元",
+        "address": "台中市西屯區安和路168號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.625112,
+          24.180509
+        ],
+        "type": "Point"
+      },
+      "id": "208587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213556",
         "title": "順苓",
         "address": "高雄市小港區漢民路381號",
@@ -66097,6 +66097,23 @@
         "type": "Point"
       },
       "id": "213763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213774",
+        "title": "英順",
+        "address": "屏東縣潮州鎮介壽路145號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.535934,
+          22.542776
+        ],
+        "type": "Point"
+      },
+      "id": "213774"
     },
     {
       "type": "Feature",
@@ -72557,23 +72574,6 @@
         "type": "Point"
       },
       "id": "891246"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "891279",
-        "title": "英順",
-        "address": "屏東縣潮州鎮介壽路145號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.535934,
-          22.542776
-        ],
-        "type": "Point"
-      },
-      "id": "891279"
     },
     {
       "type": "Feature",
