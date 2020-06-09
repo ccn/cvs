@@ -7655,23 +7655,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3365",
-        "title": "新竹竹磐店",
-        "address": "新竹市北區西大路７３４號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.959346826867,
-          24.8098988094864
-        ],
-        "type": "Point"
-      },
-      "id": "3365"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3366",
         "title": "中縣中航店",
         "address": "台中市沙鹿區中航路一段３１０號",
@@ -20864,6 +20847,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4698",
+        "title": "三重頂崁店",
+        "address": "新北市三重區光復路二段１１７之１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4722712162127,
+          25.0582112404921
+        ],
+        "type": "Point"
+      },
+      "id": "4698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4699",
         "title": "台中興大店",
         "address": "台中市南區國光路２５０號",
@@ -21795,23 +21795,6 @@
         "type": "Point"
       },
       "id": "C388"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "C615",
-        "title": "北市興隆店",
-        "address": "台北市文山區興隆路２段２０３巷１６號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54866,
-          25.0020376141712
-        ],
-        "type": "Point"
-      },
-      "id": "C615"
     },
     {
       "type": "Feature",
