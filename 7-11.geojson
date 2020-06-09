@@ -4767,13 +4767,13 @@
       "properties": {
         "id": "118785",
         "title": "忠信",
-        "address": "新北市永和區中興街101號",
+        "address": "新北市永和區中興街97號99號101號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.518428,
-          25.012237
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -55153,23 +55153,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194631",
-        "title": "得月樓",
-        "address": "金門縣金城鎮金水里前水頭139-2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          118.297429,
-          24.412131
-        ],
-        "type": "Point"
-      },
-      "id": "194631"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194642",
         "title": "復星",
         "address": "台北市松山區復興北路15之16號1樓",
@@ -65268,6 +65251,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207724",
+        "title": "線東",
+        "address": "彰化縣和美鎮線東路四段臨402號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.525057,
+          24.108919
+        ],
+        "type": "Point"
+      },
+      "id": "207724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207735",
         "title": "板安",
         "address": "新北市板橋區長安街202.204號",
@@ -65740,6 +65740,23 @@
         "type": "Point"
       },
       "id": "208587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208635",
+        "title": "健勝",
+        "address": "台中市北區健行路701號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.673531,
+          24.159055
+        ],
+        "type": "Point"
+      },
+      "id": "208635"
     },
     {
       "type": "Feature",
@@ -66488,6 +66505,23 @@
         "type": "Point"
       },
       "id": "214065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214102",
+        "title": "得月樓",
+        "address": "金門縣金城鎮金水里前水頭139-2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.297429,
+          24.412131
+        ],
+        "type": "Point"
+      },
+      "id": "214102"
     },
     {
       "type": "Feature",
