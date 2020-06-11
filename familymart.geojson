@@ -936,25 +936,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012079",
-        "title": "全家中壢柏德店",
-        "address": "桃園市中壢區實踐路221號",
-        "post": "320",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.239081,
-          24.957267
-        ],
-        "type": "Point"
-      },
-      "id": "012079"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012081",
         "title": "全家鹿港車站店",
         "address": "彰化縣鹿港鎮民權路202號",
@@ -5074,25 +5055,6 @@
         "type": "Point"
       },
       "id": "013522"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "013548",
-        "title": "全家大北店",
-        "address": "臺北市士林區文林路320號",
-        "post": "111",
-        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SUNMAI,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.526144,
-          25.092366
-        ],
-        "type": "Point"
-      },
-      "id": "013548"
     },
     {
       "type": "Feature",
@@ -66163,25 +66125,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019341",
-        "title": "全家埔里愛埔店",
-        "address": "南投縣埔里鎮中山路四段87號",
-        "post": "545",
-        "all": "SWEETPOTATO,WiFi,Parking,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.934115,
-          23.965888
-        ],
-        "type": "Point"
-      },
-      "id": "019341"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019343",
         "title": "全家正義店",
         "address": "台北市中山區長安東路一段55號",
@@ -68367,6 +68310,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019482",
+        "title": "全家埔里愛埔店",
+        "address": "南投縣埔里鎮中山路四段87號",
+        "post": "545",
+        "all": "SWEETPOTATO,WiFi,Parking,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.934115,
+          23.965888
+        ],
+        "type": "Point"
+      },
+      "id": "019482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019483",
         "title": "全家竹山金溪店",
         "address": "南投縣竹山鎮東鄉路5之73號1樓",
@@ -69203,6 +69165,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019534",
+        "title": "全家新市清水店",
+        "address": "台南市新市區社內里社內102-5號",
+        "post": "744",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.280367,
+          23.076309
+        ],
+        "type": "Point"
+      },
+      "id": "019534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019535",
         "title": "全家五股五福店",
         "address": "新北市五股區五福路24號",
@@ -69313,6 +69294,25 @@
         "type": "Point"
       },
       "id": "019546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019548",
+        "title": "全家大北店",
+        "address": "臺北市士林區文林路320號",
+        "post": "111",
+        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,SUNMAI,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.526144,
+          25.092366
+        ],
+        "type": "Point"
+      },
+      "id": "019548"
     },
     {
       "type": "Feature",
@@ -69484,6 +69484,25 @@
         "type": "Point"
       },
       "id": "019592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019616",
+        "title": "全家中壢柏德店",
+        "address": "桃園市中壢區實踐路221號",
+        "post": "320",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.239081,
+          24.957267
+        ],
+        "type": "Point"
+      },
+      "id": "019616"
     }
   ]
 }
