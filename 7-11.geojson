@@ -64894,6 +64894,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207263",
+        "title": "橋富",
+        "address": "台南市永康區大橋二街130、132號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.229233,
+          23.019964
+        ],
+        "type": "Point"
+      },
+      "id": "207263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207274",
         "title": "樂河",
         "address": "台中市北屯區軍和街457號1樓和461號1樓2樓",
@@ -65672,6 +65689,23 @@
         "type": "Point"
       },
       "id": "208325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208369",
+        "title": "金門城",
+        "address": "金門縣金城鎮金門城128-6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.307378,
+          24.403036
+        ],
+        "type": "Point"
+      },
+      "id": "208369"
     },
     {
       "type": "Feature",
