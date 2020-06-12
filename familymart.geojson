@@ -52388,25 +52388,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018405",
-        "title": "全家台南北忠店",
-        "address": "台南市北區北門路二段368號1樓(如附圖)",
-        "post": "704",
-        "all": "SWEETPOTATO,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.215599,
-          23.008369
-        ],
-        "type": "Point"
-      },
-      "id": "018405"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018406",
         "title": "全家頭份尖山店",
         "address": "苗栗縣頭份市中華路8號",
@@ -60174,25 +60155,6 @@
         "type": "Point"
       },
       "id": "018942"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018943",
-        "title": "全家桃園大業店",
-        "address": "桃園市桃園區大業路一段137,139號",
-        "post": "330",
-        "all": "SWEETPOTATO,WiFi,Rest,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.315717,
-          25.007503
-        ],
-        "type": "Point"
-      },
-      "id": "018943"
     },
     {
       "type": "Feature",
@@ -68933,6 +68895,25 @@
         "type": "Point"
       },
       "id": "019516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019517",
+        "title": "全家桃園大業店",
+        "address": "桃園市桃園區大業路一段137,139號",
+        "post": "330",
+        "all": "SWEETPOTATO,WiFi,Rest,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.315717,
+          25.007503
+        ],
+        "type": "Point"
+      },
+      "id": "019517"
     },
     {
       "type": "Feature",
