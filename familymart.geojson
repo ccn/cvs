@@ -63123,25 +63123,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019141",
-        "title": "全家屏東昌賢店",
-        "address": "屏東縣屏東市建民路63號",
-        "post": "900",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.481099,
-          22.666952
-        ],
-        "type": "Point"
-      },
-      "id": "019141"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019144",
         "title": "全家林口隆林店",
         "address": "新北市林口區文化二路二段90,92號",
@@ -69260,6 +69241,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019545",
+        "title": "全家台東香蘭店",
+        "address": "台東縣太麻里鄉蘭里段950地號",
+        "post": "950",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0075749,
+          22.61560072
+        ],
+        "type": "Point"
+      },
+      "id": "019545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019546",
         "title": "全家台南勝興店",
         "address": "台南市中西區武聖路153號1樓",
@@ -69427,6 +69427,25 @@
         "type": "Point"
       },
       "id": "019569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019586",
+        "title": "全家屏東昌賢店",
+        "address": "屏東縣屏東市建民路63號",
+        "post": "900",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.481099,
+          22.666952
+        ],
+        "type": "Point"
+      },
+      "id": "019586"
     },
     {
       "type": "Feature",
