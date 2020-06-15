@@ -3507,23 +3507,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "114668",
-        "title": "敦禾",
-        "address": "台北市大安區敦化南路二段265巷6號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54957439079601,
-          25.025447860453
-        ],
-        "type": "Point"
-      },
-      "id": "114668"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "114680",
         "title": "恆吉",
         "address": "南投縣埔里鎮南興街172號",
@@ -5543,23 +5526,6 @@
         "type": "Point"
       },
       "id": "120010"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "120021",
-        "title": "大山",
-        "address": "苗栗縣後龍鎮大山里龍文路6號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.80755,
-          24.643928
-        ],
-        "type": "Point"
-      },
-      "id": "120021"
     },
     {
       "type": "Feature",
@@ -17498,23 +17464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "139003",
-        "title": "友成",
-        "address": "台北市士林區社中街211號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508421363035,
-          25.091105090382403
-        ],
-        "type": "Point"
-      },
-      "id": "139003"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "139014",
         "title": "雲嘉",
         "address": "雲林縣斗南鎮新光里21鄰光華路231號",
@@ -23546,23 +23495,6 @@
         "type": "Point"
       },
       "id": "151092"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "151117",
-        "title": "國雙",
-        "address": "台北市萬華區新忠里西藏路125巷17號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.502573,
-          25.028041
-        ],
-        "type": "Point"
-      },
-      "id": "151117"
     },
     {
       "type": "Feature",
@@ -55765,6 +55697,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195128",
+        "title": "大統",
+        "address": "嘉義市西區西平里博愛路二段696號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.428353,
+          23.468865
+        ],
+        "type": "Point"
+      },
+      "id": "195128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195139",
         "title": "青年",
         "address": "台北市萬華區青年路188號1樓",
@@ -65166,6 +65115,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207562",
+        "title": "麥中",
+        "address": "雲林縣麥寮鄉麥豐村中山路437巷1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.246194,
+          23.750419
+        ],
+        "type": "Point"
+      },
+      "id": "207562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207573",
         "title": "啟碁",
         "address": "新竹縣寶山鄉園區二路20號1樓",
@@ -65349,6 +65315,23 @@
         "type": "Point"
       },
       "id": "207805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207816",
+        "title": "興鳳",
+        "address": "彰化縣埤頭鄉斗苑東路731號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.474278,
+          23.889666
+        ],
+        "type": "Point"
+      },
+      "id": "207816"
     },
     {
       "type": "Feature",
@@ -65757,6 +65740,23 @@
         "type": "Point"
       },
       "id": "208484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208509",
+        "title": "林美",
+        "address": "屏東縣林邊鄉中林路295號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.519303,
+          22.438479
+        ],
+        "type": "Point"
+      },
+      "id": "208509"
     },
     {
       "type": "Feature",
@@ -66543,6 +66543,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214087",
+        "title": "福基",
+        "address": "新北市新莊區福基里五工路70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.45792,
+          25.063562
+        ],
+        "type": "Point"
+      },
+      "id": "214087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214102",
         "title": "得月樓",
         "address": "金門縣金城鎮金水里前水頭139-2號1樓",
@@ -66573,6 +66590,23 @@
         "type": "Point"
       },
       "id": "214113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214135",
+        "title": "學勤",
+        "address": "新北市三峽區學勤路105號及大德路211號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.374835,
+          24.946465
+        ],
+        "type": "Point"
+      },
+      "id": "214135"
     },
     {
       "type": "Feature",
@@ -67104,6 +67138,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215389",
+        "title": "大山",
+        "address": "苗栗縣後龍鎮大山里龍文路6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.80755,
+          24.643928
+        ],
+        "type": "Point"
+      },
+      "id": "215389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215390",
         "title": "歸來",
         "address": "屏東縣屏東市和生路一段107-3號",
@@ -67240,6 +67291,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215530",
+        "title": "敦禾",
+        "address": "台北市大安區敦化南路二段265巷6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.54957439079601,
+          25.025447860453
+        ],
+        "type": "Point"
+      },
+      "id": "215530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215541",
         "title": "復美",
         "address": "新北市永和區秀朗路一段146號",
@@ -67355,6 +67423,40 @@
         "type": "Point"
       },
       "id": "215688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215714",
+        "title": "友成",
+        "address": "台北市士林區社中街211號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.508421363035,
+          25.091105090382403
+        ],
+        "type": "Point"
+      },
+      "id": "215714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215736",
+        "title": "國雙",
+        "address": "台北市萬華區新忠里西藏路125巷17號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.502573,
+          25.028041
+        ],
+        "type": "Point"
+      },
+      "id": "215736"
     },
     {
       "type": "Feature",
@@ -83033,23 +83135,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "946366",
-        "title": "福基",
-        "address": "新北市新莊區福基里五工路70號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.45792,
-          25.063562
-        ],
-        "type": "Point"
-      },
-      "id": "946366"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "946377",
         "title": "渡船頭",
         "address": "新北市淡水區中正路57號59號",
@@ -94266,23 +94351,6 @@
         "type": "Point"
       },
       "id": "981990"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982007",
-        "title": "學勤",
-        "address": "新北市三峽區學勤路105號及大德路211號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.374835,
-          24.946465
-        ],
-        "type": "Point"
-      },
-      "id": "982007"
     },
     {
       "type": "Feature",
