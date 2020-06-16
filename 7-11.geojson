@@ -29143,23 +29143,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "161963",
-        "title": "福港",
-        "address": "新北市新莊區中港路390號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.4524,
-          25.049244
-        ],
-        "type": "Point"
-      },
-      "id": "161963"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162014",
         "title": "新康華",
         "address": "台南市永康區大橋二街38號",
@@ -35106,23 +35089,6 @@
         "type": "Point"
       },
       "id": "170026"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "170048",
-        "title": "富朋",
-        "address": "新北市永和區永和路二段116號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.515144,
-          25.011985
-        ],
-        "type": "Point"
-      },
-      "id": "170048"
     },
     {
       "type": "Feature",
@@ -52178,23 +52144,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190640",
-        "title": "鳳仁",
-        "address": "高雄市鳳山區鳳仁路174號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.370612,
-          22.636237
-        ],
-        "type": "Point"
-      },
-      "id": "190640"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190651",
         "title": "富新",
         "address": "新北市新莊區瓊林南路118-5號",
@@ -59403,23 +59352,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "197962",
-        "title": "文一",
-        "address": "台北市文山區木新路三段327號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.556352394195,
-          24.980470703279398
-        ],
-        "type": "Point"
-      },
-      "id": "197962"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197973",
         "title": "花蓮",
         "address": "花蓮縣花蓮市國聯一路100號3樓",
@@ -60130,23 +60062,6 @@
         "type": "Point"
       },
       "id": "198529"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "198541",
-        "title": "長坤",
-        "address": "新北市林口區文化一路一段43號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.370838,
-          25.06971
-        ],
-        "type": "Point"
-      },
-      "id": "198541"
     },
     {
       "type": "Feature",
@@ -61241,13 +61156,13 @@
       "properties": {
         "id": "199326",
         "title": "中芸",
-        "address": "高雄市林園區中芸里鳳芸二路57號1樓",
+        "address": "高雄市林園區中芸里鳳芸二路57號1樓及鳳芸路3號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.397257,
-          22.487123
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -62854,23 +62769,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200778",
-        "title": "新宏國",
-        "address": "桃園市八德區中華路292號294號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.276047,
-          24.981753
-        ],
-        "type": "Point"
-      },
-      "id": "200778"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200790",
         "title": "添丁",
         "address": "新北市永和區永貞路365號367號1樓",
@@ -63870,6 +63768,23 @@
         "type": "Point"
       },
       "id": "201542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201553",
+        "title": "富朋",
+        "address": "新北市永和區永和路二段116號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.515144,
+          25.011985
+        ],
+        "type": "Point"
+      },
+      "id": "201553"
     },
     {
       "type": "Feature",
@@ -65217,23 +65132,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "207702",
-        "title": "鐵興",
-        "address": "新竹縣竹北市嘉豐六路二段16號.18號.12號部分",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.028673,
-          24.809834
-        ],
-        "type": "Point"
-      },
-      "id": "207702"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "207724",
         "title": "線東",
         "address": "彰化縣和美鎮線東路四段臨402號",
@@ -65791,6 +65689,40 @@
         "type": "Point"
       },
       "id": "208635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208679",
+        "title": "勁賀",
+        "address": "桃園市蘆竹區光明路二段139號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.287642,
+          25.04799
+        ],
+        "type": "Point"
+      },
+      "id": "208679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208750",
+        "title": "于義",
+        "address": "苗栗縣竹南鎮公義路1098號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.901082,
+          24.711571
+        ],
+        "type": "Point"
+      },
+      "id": "208750"
     },
     {
       "type": "Feature",
@@ -66458,6 +66390,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213958",
+        "title": "鐵興",
+        "address": "新竹縣竹北市嘉豐六路二段16號.18號.12號部分",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.028673,
+          24.809834
+        ],
+        "type": "Point"
+      },
+      "id": "213958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213969",
         "title": "水龍吟",
         "address": "桃園市龍潭區中原路一段506號1樓",
@@ -66471,6 +66420,23 @@
         "type": "Point"
       },
       "id": "213969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213992",
+        "title": "新田",
+        "address": "高雄市新興區新田路189號191號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302403,
+          22.621765
+        ],
+        "type": "Point"
+      },
+      "id": "213992"
     },
     {
       "type": "Feature",
@@ -66505,6 +66471,23 @@
         "type": "Point"
       },
       "id": "214010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214032",
+        "title": "鳳仁",
+        "address": "高雄市鳳山區鳳仁路174號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.370612,
+          22.636237
+        ],
+        "type": "Point"
+      },
+      "id": "214032"
     },
     {
       "type": "Feature",
@@ -67189,6 +67172,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215415",
+        "title": "新宏國",
+        "address": "桃園市八德區中華路292號294號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.276047,
+          24.981753
+        ],
+        "type": "Point"
+      },
+      "id": "215415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215437",
         "title": "重富",
         "address": "新北市三重區溪尾街321號323號1樓",
@@ -67359,6 +67359,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215585",
+        "title": "長坤",
+        "address": "新北市林口區文化一路一段43號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.370838,
+          25.06971
+        ],
+        "type": "Point"
+      },
+      "id": "215585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215600",
         "title": "翁和",
         "address": "桃園市大溪區仁文里介壽路1153號一樓",
@@ -67389,6 +67406,23 @@
         "type": "Point"
       },
       "id": "215611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215644",
+        "title": "福港",
+        "address": "新北市新莊區中港路390號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4524,
+          25.049244
+        ],
+        "type": "Point"
+      },
+      "id": "215644"
     },
     {
       "type": "Feature",
@@ -73764,23 +73798,6 @@
         "type": "Point"
       },
       "id": "895857"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "895879",
-        "title": "新田",
-        "address": "高雄市新興區新田路189號191號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.302403,
-          22.621765
-        ],
-        "type": "Point"
-      },
-      "id": "895879"
     },
     {
       "type": "Feature",
