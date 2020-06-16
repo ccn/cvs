@@ -1050,25 +1050,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012128",
-        "title": "全家新店新和店",
-        "address": "新北市新店區永安街81號1樓",
-        "post": "231",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,veg,TANHOU,FreshFruit,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.519839,
-          24.986719
-        ],
-        "type": "Point"
-      },
-      "id": "012128"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012135",
         "title": "全家高雄美舞店",
         "address": "高雄市鼓山區美術東五路118號",
@@ -54630,25 +54611,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018545",
-        "title": "全家嘉義祥鳳店",
-        "address": "嘉義市東區吳鳳北路112號1F",
-        "post": "600",
-        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.453614,
-          23.477186
-        ],
-        "type": "Point"
-      },
-      "id": "018545"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018546",
         "title": "全家樹林日新店",
         "address": "新北市樹林區日新街50號1樓",
@@ -61546,25 +61508,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019041",
-        "title": "全家土城新學店",
-        "address": "新北市土城區學府路一段187號1樓",
-        "post": "236",
-        "all": "SWEETPOTATO,WiFi,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.452197,
-          24.985021
-        ],
-        "type": "Point"
-      },
-      "id": "019041"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019042",
         "title": "全家永康永德店",
         "address": "台南市永康區永大路三段417號",
@@ -65361,25 +65304,6 @@
         "type": "Point"
       },
       "id": "019291"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "019292",
-        "title": "全家龍井龍津店",
-        "address": "台中市龍井區中央路二段33號",
-        "post": "434",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.523246,
-          24.203803
-        ],
-        "type": "Point"
-      },
-      "id": "019292"
     },
     {
       "type": "Feature",
@@ -69374,6 +69298,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019556",
+        "title": "全家土城新學店",
+        "address": "新北市土城區學府路一段187號1樓",
+        "post": "236",
+        "all": "SWEETPOTATO,WiFi,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.452197,
+          24.985021
+        ],
+        "type": "Point"
+      },
+      "id": "019556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019566",
         "title": "全家淡水新春店",
         "address": "新北市淡水區新春街95之7號1樓",
@@ -69431,6 +69374,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019585",
+        "title": "全家嘉義祥鳳店",
+        "address": "嘉義市東區吳鳳北路112號1F",
+        "post": "600",
+        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.453614,
+          23.477186
+        ],
+        "type": "Point"
+      },
+      "id": "019585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019586",
         "title": "全家屏東昌賢店",
         "address": "屏東縣屏東市建民路63號",
@@ -69484,6 +69446,44 @@
         "type": "Point"
       },
       "id": "019592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019608",
+        "title": "全家新店新和店",
+        "address": "新北市新店區永安街81號1樓",
+        "post": "231",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,veg,TANHOU,FreshFruit,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.519839,
+          24.986719
+        ],
+        "type": "Point"
+      },
+      "id": "019608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019609",
+        "title": "全家龍井龍津店",
+        "address": "台中市龍井區中央路二段33號",
+        "post": "434",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.523246,
+          24.203803
+        ],
+        "type": "Point"
+      },
+      "id": "019609"
     },
     {
       "type": "Feature",
