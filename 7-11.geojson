@@ -44562,23 +44562,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184081",
-        "title": "亞新灣",
-        "address": "高雄市前鎮區林森四路255號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.305213,
-          22.610348
-        ],
-        "type": "Point"
-      },
-      "id": "184081"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184092",
         "title": "駁藝",
         "address": "高雄市鹽埕區大勇路29號",
@@ -55544,6 +55527,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195036",
+        "title": "金秀和",
+        "address": "花蓮縣花蓮市和平路597號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.599002,
+          23.979257
+        ],
+        "type": "Point"
+      },
+      "id": "195036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195047",
         "title": "祥綸",
         "address": "桃園市大園區高鐵北路三段45號",
@@ -62565,6 +62565,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200527",
+        "title": "合行",
+        "address": "高雄市路竹區大同路168.170.170-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.266123,
+          22.862886
+        ],
+        "type": "Point"
+      },
+      "id": "200527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200538",
         "title": "米鄉",
         "address": "台東縣池上鄉福原村中山路241號",
@@ -66420,6 +66437,23 @@
         "type": "Point"
       },
       "id": "213969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213970",
+        "title": "亞新灣",
+        "address": "高雄市前鎮區林森四路255號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.305213,
+          22.610348
+        ],
+        "type": "Point"
+      },
+      "id": "213970"
     },
     {
       "type": "Feature",
