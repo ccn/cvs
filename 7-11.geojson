@@ -55969,6 +55969,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195324",
+        "title": "文一",
+        "address": "台北市文山區木新路三段351號353號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.55576,
+          24.980245
+        ],
+        "type": "Point"
+      },
+      "id": "195324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195335",
         "title": "仁寶",
         "address": "新北市永和區仁愛路266號1樓",
@@ -63466,23 +63483,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201357",
-        "title": "屏棧",
-        "address": "屏東縣屏東市崇智里光復路45號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.485312,
-          22.669348
-        ],
-        "type": "Point"
-      },
-      "id": "201357"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201368",
         "title": "翔鳳",
         "address": "新北市鶯歌區鶯桃路467號469號",
@@ -65506,6 +65506,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208196",
+        "title": "尚順",
+        "address": "苗栗縣頭份市東民五街1號和3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.90331,
+          24.68888
+        ],
+        "type": "Point"
+      },
+      "id": "208196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208200",
         "title": "F18B",
         "address": "台南市安定區北園二路8號1樓",
@@ -66607,6 +66624,23 @@
         "type": "Point"
       },
       "id": "214113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214124",
+        "title": "屏棧",
+        "address": "屏東縣屏東市崇智里光復路45號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.485312,
+          22.669348
+        ],
+        "type": "Point"
+      },
+      "id": "214124"
     },
     {
       "type": "Feature",
