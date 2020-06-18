@@ -19674,6 +19674,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4597",
+        "title": "宜蘭陽明店",
+        "address": "宜蘭縣宜蘭市陽明二路７８、８０、８２號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.7635512463232,
+          24.750383059828
+        ],
+        "type": "Point"
+      },
+      "id": "4597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4598",
         "title": "佳里進學店",
         "address": "台南市佳里區進學路２５號",
@@ -21149,6 +21166,23 @@
         "type": "Point"
       },
       "id": "4738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4740",
+        "title": "松山撫遠店",
+        "address": "台北市松山區撫遠街３９４巷１號、３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5655143750175,
+          25.064956301119
+        ],
+        "type": "Point"
+      },
+      "id": "4740"
     },
     {
       "type": "Feature",
