@@ -61178,8 +61178,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.397257,
+          22.487123
         ],
         "type": "Point"
       },
@@ -65472,6 +65472,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208071",
+        "title": "鑫崙",
+        "address": "雲林縣斗南鎮新崙路65之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.431729,
+          23.679247
+        ],
+        "type": "Point"
+      },
+      "id": "208071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208082",
         "title": "港富",
         "address": "基隆市中山區中華路93號",
@@ -65774,6 +65791,23 @@
         "type": "Point"
       },
       "id": "208819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208853",
+        "title": "上饌",
+        "address": "台北市士林區基河路125號127號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.523839,
+          25.088355
+        ],
+        "type": "Point"
+      },
+      "id": "208853"
     },
     {
       "type": "Feature",
