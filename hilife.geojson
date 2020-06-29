@@ -3905,8 +3905,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.565941912667,
-          25.0642263643819
+          121.56594700893,
+          25.0641974152229
         ],
         "type": "Point"
       },
@@ -7152,8 +7152,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.5562021242065,
-          25.0296048646693
+          121.5561699376983,
+          25.0295270943764
         ],
         "type": "Point"
       },
@@ -16138,23 +16138,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4317",
-        "title": "新竹交大店",
-        "address": "新竹市東區大學路１００１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.9996814232788,
-          24.7864614070707
-        ],
-        "type": "Point"
-      },
-      "id": "4317"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4318",
         "title": "台中永太店",
         "address": "台中市北區太原路二段２４０號",
@@ -19521,6 +19504,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4584",
+        "title": "新豐新庄子店",
+        "address": "新竹縣新豐鄉建興路二段６２７巷１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.9868241139807,
+          24.8958047693251
+        ],
+        "type": "Point"
+      },
+      "id": "4584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4585",
         "title": "宜蘭好運店",
         "address": "宜蘭縣宜蘭市校舍路１６１、１６１-１、１６１-２號",
@@ -21119,6 +21119,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4731",
+        "title": "萬巒教堂店",
+        "address": "屏東縣萬巒鄉萬金村萬德路２號及萬興路１５號及１７號全",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6104846997971,
+          22.595126533279
+        ],
+        "type": "Point"
+      },
+      "id": "4731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4732",
         "title": "嘉義保建店",
         "address": "嘉義市東區保建街４０號&４２號&４６號",
@@ -21204,6 +21221,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4742",
+        "title": "烏日學田店",
+        "address": "台中市烏日區成功東路３號、５號１樓部份",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6032003717412,
+          24.1146797861551
+        ],
+        "type": "Point"
+      },
+      "id": "4742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4751",
         "title": "左營陸戰店",
         "address": "高雄市左營區先鋒路９號",
@@ -21217,6 +21251,23 @@
         "type": "Point"
       },
       "id": "4751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4758",
+        "title": "桃園興業店",
+        "address": "桃園市桃園區大興路１７２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.311334635582,
+          25.0158487843931
+        ],
+        "type": "Point"
+      },
+      "id": "4758"
     },
     {
       "type": "Feature",
