@@ -4034,23 +4034,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "116594",
-        "title": "佳辰",
-        "address": "新北市樹林區佳園路三段488號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.38244,
-          24.944283
-        ],
-        "type": "Point"
-      },
-      "id": "116594"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "116608",
         "title": "觀亭",
         "address": "高雄市內門區觀亭里南屏路78號",
@@ -4387,23 +4370,6 @@
         "type": "Point"
       },
       "id": "117896"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "117911",
-        "title": "樂民",
-        "address": "高雄市楠梓區加昌里壽民路58號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.295929,
-          22.721452
-        ],
-        "type": "Point"
-      },
-      "id": "117911"
     },
     {
       "type": "Feature",
@@ -7702,23 +7668,6 @@
         "type": "Point"
       },
       "id": "122511"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "122522",
-        "title": "博美",
-        "address": "台北市中正區武昌街一段45號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.51139236373601,
-          25.0442759267998
-        ],
-        "type": "Point"
-      },
-      "id": "122522"
     },
     {
       "type": "Feature",
@@ -21234,23 +21183,6 @@
         "type": "Point"
       },
       "id": "146126"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "146171",
-        "title": "鑫建昌",
-        "address": "高雄市楠梓區建昌里右昌街148號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.289954,
-          22.710552
-        ],
-        "type": "Point"
-      },
-      "id": "146171"
     },
     {
       "type": "Feature",
@@ -34787,23 +34719,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "169808",
-        "title": "板民",
-        "address": "新北市板橋區三民路二段77號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.479397,
-          25.016814
-        ],
-        "type": "Point"
-      },
-      "id": "169808"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "169820",
         "title": "武青",
         "address": "桃園市大園區五青路287號289號1樓",
@@ -38782,23 +38697,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "177072",
-        "title": "宏旭",
-        "address": "台北市萬華區西園路一段238號1之2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.49884035437299,
-          25.0349038942561
-        ],
-        "type": "Point"
-      },
-      "id": "177072"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "177108",
         "title": "重惠",
         "address": "高雄市左營區福山里華夏路1152號1樓",
@@ -42076,23 +41974,6 @@
         "type": "Point"
       },
       "id": "182018"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "182166",
-        "title": "板府",
-        "address": "新北市板橋區中山路一段158巷4號6號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.466059,
-          25.011694
-        ],
-        "type": "Point"
-      },
-      "id": "182166"
     },
     {
       "type": "Feature",
@@ -52837,23 +52718,6 @@
         "type": "Point"
       },
       "id": "192886"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "192897",
-        "title": "泰安",
-        "address": "苗栗縣泰安鄉錦水村圓墩83-2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.95299,
-          24.46817
-        ],
-        "type": "Point"
-      },
-      "id": "192897"
     },
     {
       "type": "Feature",
@@ -63738,6 +63602,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201586",
+        "title": "博美",
+        "address": "台北市中正區武昌街一段45號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.51139236373601,
+          25.0442759267998
+        ],
+        "type": "Point"
+      },
+      "id": "201586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -66832,6 +66713,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214043",
+        "title": "伊東",
+        "address": "台北市中山區伊通街30號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.534660380814,
+          25.050953949763
+        ],
+        "type": "Point"
+      },
+      "id": "214043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214054",
         "title": "中樂",
         "address": "台北市中正區延平南路47號",
@@ -66866,6 +66764,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214076",
+        "title": "板府",
+        "address": "新北市板橋區中山路一段158巷4號6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.466059,
+          25.011694
+        ],
+        "type": "Point"
+      },
+      "id": "214076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214087",
         "title": "福基",
         "address": "新北市新莊區福基里五工路70號",
@@ -66879,6 +66794,23 @@
         "type": "Point"
       },
       "id": "214087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214098",
+        "title": "鑫建昌",
+        "address": "高雄市楠梓區建昌里右昌街148號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.289954,
+          22.710552
+        ],
+        "type": "Point"
+      },
+      "id": "214098"
     },
     {
       "type": "Feature",
@@ -66981,6 +66913,40 @@
         "type": "Point"
       },
       "id": "214180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214205",
+        "title": "樂民",
+        "address": "高雄市楠梓區加昌里壽民路58號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.295929,
+          22.721452
+        ],
+        "type": "Point"
+      },
+      "id": "214205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214216",
+        "title": "光武",
+        "address": "高雄市三民區寶德里覺民路338號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.335307,
+          22.640441
+        ],
+        "type": "Point"
+      },
+      "id": "214216"
     },
     {
       "type": "Feature",
@@ -67614,6 +67580,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215448",
+        "title": "佳辰",
+        "address": "新北市樹林區佳園路三段488號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.38244,
+          24.944283
+        ],
+        "type": "Point"
+      },
+      "id": "215448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215459",
         "title": "集德",
         "address": "新北市蘆洲區集賢路228號1樓",
@@ -67818,6 +67801,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215596",
+        "title": "泰安",
+        "address": "苗栗縣泰安鄉錦水村圓墩83-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.95299,
+          24.46817
+        ],
+        "type": "Point"
+      },
+      "id": "215596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215600",
         "title": "翁和",
         "address": "桃園市大溪區仁文里介壽路1153號一樓",
@@ -67903,6 +67903,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215655",
+        "title": "宏旭",
+        "address": "台北市萬華區西園路一段238號1之2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.49884035437299,
+          25.0349038942561
+        ],
+        "type": "Point"
+      },
+      "id": "215655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215666",
+        "title": "真開",
+        "address": "苗栗縣竹南鎮大厝里開元路412號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.86998,
+          24.678939
+        ],
+        "type": "Point"
+      },
+      "id": "215666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215677",
         "title": "天裕",
         "address": "台北市士林區中山北路七段156號1樓",
@@ -67937,6 +67971,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215703",
+        "title": "懷民",
+        "address": "新北市板橋區民治街111號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.47855,
+          25.031196
+        ],
+        "type": "Point"
+      },
+      "id": "215703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215714",
         "title": "友成",
         "address": "台北市士林區社中街211號1樓",
@@ -67950,6 +68001,23 @@
         "type": "Point"
       },
       "id": "215714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215725",
+        "title": "板民",
+        "address": "新北市板橋區三民路二段77號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.479397,
+          25.016814
+        ],
+        "type": "Point"
+      },
+      "id": "215725"
     },
     {
       "type": "Feature",
@@ -68018,6 +68086,23 @@
         "type": "Point"
       },
       "id": "215781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215792",
+        "title": "金民",
+        "address": "金門縣金城鎮民生路6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.320251,
+          24.433477
+        ],
+        "type": "Point"
+      },
+      "id": "215792"
     },
     {
       "type": "Feature",
@@ -73526,23 +73611,6 @@
         "type": "Point"
       },
       "id": "891914"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "891970",
-        "title": "金民",
-        "address": "金門縣金城鎮民生路6號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          118.320251,
-          24.433477
-        ],
-        "type": "Point"
-      },
-      "id": "891970"
     },
     {
       "type": "Feature",
@@ -83050,23 +83118,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "943806",
-        "title": "光武",
-        "address": "高雄市三民區寶德里覺民路338號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.335307,
-          22.640441
-        ],
-        "type": "Point"
-      },
-      "id": "943806"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "943851",
         "title": "直興",
         "address": "台中市豐原區水源路695號",
@@ -89659,23 +89710,6 @@
         "type": "Point"
       },
       "id": "967020"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "967064",
-        "title": "真開",
-        "address": "苗栗縣竹南鎮大厝里開元路412號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.86998,
-          24.678939
-        ],
-        "type": "Point"
-      },
-      "id": "967064"
     },
     {
       "type": "Feature",
@@ -98996,23 +99030,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "996279",
-        "title": "懷民",
-        "address": "新北市板橋區民治街111號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.47855,
-          25.031196
-        ],
-        "type": "Point"
-      },
-      "id": "996279"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "996280",
         "title": "登發",
         "address": "高雄市仁武區八卦里八德南路65號",
@@ -99689,23 +99706,6 @@
         "type": "Point"
       },
       "id": "999083"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "999751",
-        "title": "伊東",
-        "address": "台北市中山區伊通街30號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.534660380814,
-          25.050953949763
-        ],
-        "type": "Point"
-      },
-      "id": "999751"
     },
     {
       "type": "Feature",
