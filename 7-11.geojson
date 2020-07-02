@@ -17855,23 +17855,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141039",
-        "title": "新醫",
-        "address": "台南市新營區民權里民權路96號96-1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.312128,
-          23.309072
-        ],
-        "type": "Point"
-      },
-      "id": "141039"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141051",
         "title": "佳佳",
         "address": "台北市中山區民生東路二段157號",
@@ -66917,6 +66900,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214191",
+        "title": "新醫",
+        "address": "台南市新營區民權里民權路96號96-1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.312128,
+          23.309072
+        ],
+        "type": "Point"
+      },
+      "id": "214191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214205",
         "title": "樂民",
         "address": "高雄市楠梓區加昌里壽民路58號",
@@ -68056,23 +68056,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "215770",
-        "title": "后庄",
-        "address": "台中市北屯區后庄里后庄路141號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.665594,
-          24.190586
-        ],
-        "type": "Point"
-      },
-      "id": "215770"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "215781",
         "title": "永泰",
         "address": "高雄市苓雅區苓雅二路243號",
@@ -68103,6 +68086,23 @@
         "type": "Point"
       },
       "id": "215792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216603",
+        "title": "后庄",
+        "address": "台中市北屯區后庄里后庄路141號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.665594,
+          24.190586
+        ],
+        "type": "Point"
+      },
+      "id": "216603"
     },
     {
       "type": "Feature",
