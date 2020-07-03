@@ -65003,8 +65003,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.270263,
+          24.902926
         ],
         "type": "Point"
       },
@@ -65625,6 +65625,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208532",
+        "title": "文龍",
+        "address": "高雄市鳳山區文龍東路199號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.369497,
+          22.640733
+        ],
+        "type": "Point"
+      },
+      "id": "208532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208587",
         "title": "裕元",
         "address": "台中市西屯區安和路168號",
@@ -65757,6 +65774,23 @@
         "type": "Point"
       },
       "id": "208819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208820",
+        "title": "清華",
+        "address": "高雄市三民區義華路92號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.342906,
+          22.642609
+        ],
+        "type": "Point"
+      },
+      "id": "208820"
     },
     {
       "type": "Feature",
@@ -68086,6 +68120,23 @@
         "type": "Point"
       },
       "id": "215792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215839",
+        "title": "莊福",
+        "address": "台北市中山區長春路168號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.533233,
+          25.054356
+        ],
+        "type": "Point"
+      },
+      "id": "215839"
     },
     {
       "type": "Feature",
@@ -80683,23 +80734,6 @@
         "type": "Point"
       },
       "id": "931571"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "931607",
-        "title": "莊福",
-        "address": "台北市中山區長春路168號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.533233,
-          25.054356
-        ],
-        "type": "Point"
-      },
-      "id": "931607"
     },
     {
       "type": "Feature",
