@@ -63468,13 +63468,13 @@
       "properties": {
         "id": "201520",
         "title": "藍山",
-        "address": "新北市中和區南山路41號及37巷2號",
+        "address": "新北市中和區南山路41號43號1樓及南山路37巷2號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.502187,
-          24.99872
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -64482,6 +64482,23 @@
         "type": "Point"
       },
       "id": "207137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207159",
+        "title": "北忠",
+        "address": "台中市沙鹿區北勢東路806號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.570078,
+          24.229834
+        ],
+        "type": "Point"
+      },
+      "id": "207159"
     },
     {
       "type": "Feature",
@@ -66936,13 +66953,13 @@
       "properties": {
         "id": "214205",
         "title": "樂民",
-        "address": "高雄市楠梓區加昌里壽民路58號",
+        "address": "高雄市楠梓區加昌里壽民路60號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.295929,
-          22.721452
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -67837,13 +67854,13 @@
       "properties": {
         "id": "215600",
         "title": "翁和",
-        "address": "桃園市大溪區仁文里介壽路1153號一樓",
+        "address": "桃園市大溪區仁文里介壽路1151號1153號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.283927,
-          24.900666
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -67922,13 +67939,13 @@
       "properties": {
         "id": "215655",
         "title": "宏旭",
-        "address": "台北市萬華區西園路一段238號1之2樓",
+        "address": "台北市萬華區西園路一段238號1樓2樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.49884035437299,
-          25.0349038942561
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -84786,13 +84803,13 @@
       "properties": {
         "id": "951298",
         "title": "后寶",
-        "address": "台中市后里區三豐路113之24號25號",
+        "address": "台中市后里區三豐路三段415.417號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.723644,
-          24.294641
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -97689,13 +97706,13 @@
       "properties": {
         "id": "992222",
         "title": "豐勇",
-        "address": "台中市豐原區豐中路125號127號129號",
+        "address": "台中市豐原區三豐路一段155.157.159號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.721318,
-          24.25781
+          0,
+          0
         ],
         "type": "Point"
       },
