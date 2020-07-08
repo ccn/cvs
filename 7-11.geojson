@@ -65404,6 +65404,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208130",
+        "title": "福州一",
+        "address": "桃園市中壢區福州一街102號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.231814,
+          24.965116
+        ],
+        "type": "Point"
+      },
+      "id": "208130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208196",
         "title": "尚順",
         "address": "苗栗縣頭份市東民五街1號和3號",
@@ -65791,6 +65808,23 @@
         "type": "Point"
       },
       "id": "208820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208831",
+        "title": "朝日",
+        "address": "台南市善化區蓮潭里龍目井路433.435號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.305299,
+          23.109175
+        ],
+        "type": "Point"
+      },
+      "id": "208831"
     },
     {
       "type": "Feature",
