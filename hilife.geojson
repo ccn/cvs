@@ -3225,8 +3225,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.650105,
-          24.176473
+          120.6501640085983,
+          24.176384909839
         ],
         "type": "Point"
       },
@@ -15356,23 +15356,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4262",
-        "title": "林口鑫醒中店",
-        "address": "新北市林口區粉寮路一段７５巷８０號(醒吾中學販賣部)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.395811,
-          25.079494
-        ],
-        "type": "Point"
-      },
-      "id": "4262"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4263",
         "title": "楊梅高嶺店",
         "address": "桃園市楊梅區民族路五段１４１、１４３、１４５號",
@@ -20877,23 +20860,6 @@
         "type": "Point"
       },
       "id": "4704"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4706",
-        "title": "松山民生店",
-        "address": "台北市松山區民生東路五段１２３號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5609977570509,
-          25.0588413592645
-        ],
-        "type": "Point"
-      },
-      "id": "4706"
     },
     {
       "type": "Feature",
