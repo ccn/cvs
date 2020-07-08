@@ -13115,25 +13115,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015067",
-        "title": "全家冬山永興店",
-        "address": "宜蘭縣冬山鄉永興路一段1號1樓",
-        "post": "269",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.780719,
-          24.653826
-        ],
-        "type": "Point"
-      },
-      "id": "015067"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015068",
         "title": "全家冬山群英店",
         "address": "宜蘭縣冬山鄉冬山路三段595號",
@@ -67193,7 +67174,7 @@
         "title": "全家中壢華勛店",
         "address": "桃園市中壢區華美一路143號",
         "post": "320",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -69769,6 +69750,25 @@
         "type": "Point"
       },
       "id": "019682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019684",
+        "title": "全家冬山永興店",
+        "address": "宜蘭縣冬山鄉永興路一段1號1樓",
+        "post": "269",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.780719,
+          24.653826
+        ],
+        "type": "Point"
+      },
+      "id": "019684"
     },
     {
       "type": "Feature",
