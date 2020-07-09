@@ -31098,23 +31098,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "165068",
-        "title": "東復",
-        "address": "台北市松山區復興北路313巷25號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.546337389566,
-          25.0590749779365
-        ],
-        "type": "Point"
-      },
-      "id": "165068"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "165079",
         "title": "西港",
         "address": "台南市西港區西港里中山路366-1號",
@@ -57635,6 +57618,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196877",
+        "title": "央福",
+        "address": "新北市新莊區中央路128號130號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.456635,
+          25.059181
+        ],
+        "type": "Point"
+      },
+      "id": "196877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196888",
         "title": "星光美",
         "address": "新北市三重區重新路三段27號1樓",
@@ -68171,6 +68171,23 @@
         "type": "Point"
       },
       "id": "215839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215851",
+        "title": "東復",
+        "address": "台北市松山區復興北路313巷25號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.546337389566,
+          25.0590749779365
+        ],
+        "type": "Point"
+      },
+      "id": "215851"
     },
     {
       "type": "Feature",
