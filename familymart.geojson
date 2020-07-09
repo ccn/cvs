@@ -65004,25 +65004,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019354",
-        "title": "全家關山民族店",
-        "address": "台東縣關山鎮里壟里民族路53-1號",
-        "post": "956",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,COFFEEDeliver,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.162792469942,
-          23.0449403741644
-        ],
-        "type": "Point"
-      },
-      "id": "019354"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019355",
         "title": "全家清江店",
         "address": "台北市北投區清江路1號,中央南路一段63號",
@@ -69712,6 +69693,25 @@
         "type": "Point"
       },
       "id": "019660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019671",
+        "title": "全家關山民族店",
+        "address": "台東縣關山鎮里壟里民族路53-1號",
+        "post": "956",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,veg,oneice,COFFEEDeliver,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.162792469942,
+          23.0449403741644
+        ],
+        "type": "Point"
+      },
+      "id": "019671"
     },
     {
       "type": "Feature",
