@@ -1110,23 +1110,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2208",
-        "title": "新竹竹站店",
-        "address": "新竹市東區中正路１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.9712707858723,
-          24.802446663872
-        ],
-        "type": "Point"
-      },
-      "id": "2208"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2209",
         "title": "北縣重強店",
         "address": "新北市三重區自強路一段１６４、１６６號",
@@ -10511,23 +10494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3830",
-        "title": "北市十信店",
-        "address": "台北市北投區北投路２段５５號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.496451600908,
-          25.1339175413625
-        ],
-        "type": "Point"
-      },
-      "id": "3830"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3831",
         "title": "大里光正店",
         "address": "台中市大里區仁化路２４３、２４７號",
@@ -15883,23 +15849,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4302",
-        "title": "高市三信店",
-        "address": "高雄市苓雅區三多一路１８６號(創學中心１樓)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.328136,
-          22.622763
-        ],
-        "type": "Point"
-      },
-      "id": "4302"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4304",
         "title": "湖口德成店",
         "address": "新竹縣湖口鄉中山路一段５０６號",
@@ -21217,6 +21166,23 @@
         "type": "Point"
       },
       "id": "4751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4757",
+        "title": "新竹水仙店",
+        "address": "新竹市東區園區二路３２５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0199186067871,
+          24.7570923670643
+        ],
+        "type": "Point"
+      },
+      "id": "4757"
     },
     {
       "type": "Feature",
