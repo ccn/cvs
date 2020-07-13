@@ -33529,23 +33529,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167097",
-        "title": "庚大",
-        "address": "桃園市龜山區文化一路259號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.390321,
-          25.032627
-        ],
-        "type": "Point"
-      },
-      "id": "167097"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167134",
         "title": "綜合",
         "address": "台南市中西區水仙里民生路二段26號28號1樓",
@@ -65880,6 +65863,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208901",
+        "title": "鶯湖",
+        "address": "新北市鶯歌區大湖路374號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.346014,
+          24.973015
+        ],
+        "type": "Point"
+      },
+      "id": "208901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208912",
         "title": "鳳鳴",
         "address": "新北市鶯歌區永和街115巷44.46號1樓",
@@ -66012,6 +66012,23 @@
         "type": "Point"
       },
       "id": "209247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209605",
+        "title": "八景島",
+        "address": "桃園市中壢區春德路107號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "209605"
     },
     {
       "type": "Feature",
@@ -67032,6 +67049,23 @@
         "type": "Point"
       },
       "id": "214216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214238",
+        "title": "庚大",
+        "address": "桃園市龜山區文化一路259號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.390321,
+          25.032627
+        ],
+        "type": "Point"
+      },
+      "id": "214238"
     },
     {
       "type": "Feature",
