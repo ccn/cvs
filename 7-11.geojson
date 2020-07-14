@@ -61732,6 +61732,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200022",
+        "title": "軟體",
+        "address": "台中市大里區東湖里中山路131號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.69428,
+          24.082413
+        ],
+        "type": "Point"
+      },
+      "id": "200022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200033",
         "title": "南衫",
         "address": "新竹市東區南大路123.125號",
@@ -62935,23 +62952,6 @@
         "type": "Point"
       },
       "id": "201128"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "201139",
-        "title": "新北竹",
-        "address": "新竹縣竹北市博愛街358.360號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.008534,
-          24.836158
-        ],
-        "type": "Point"
-      },
-      "id": "201139"
     },
     {
       "type": "Feature",
@@ -65421,6 +65421,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208185",
+        "title": "寶軒",
+        "address": "高雄市岡山區仁壽南路100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.28286,
+          22.781799
+        ],
+        "type": "Point"
+      },
+      "id": "208185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208196",
         "title": "尚順",
         "address": "苗栗縣頭份市東民五街1號和3號",
@@ -66777,6 +66794,23 @@
         "type": "Point"
       },
       "id": "214010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214021",
+        "title": "新北竹",
+        "address": "新竹縣竹北市博愛街358.360號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.008534,
+          24.836158
+        ],
+        "type": "Point"
+      },
+      "id": "214021"
     },
     {
       "type": "Feature",
