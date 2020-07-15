@@ -17941,25 +17941,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015711",
-        "title": "全家桃園建國店",
-        "address": "桃園市桃園區延平路135之1號1樓",
-        "post": "330",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.314779,
-          24.983695
-        ],
-        "type": "Point"
-      },
-      "id": "015711"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015715",
         "title": "全家桃園明德店",
         "address": "桃園市桃園區中華路三號一樓之九,三號一樓之十",
@@ -69731,6 +69712,25 @@
         "type": "Point"
       },
       "id": "019672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019677",
+        "title": "全家桃園建國店",
+        "address": "桃園市桃園區延平路135之1號1樓",
+        "post": "330",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.314779,
+          24.983695
+        ],
+        "type": "Point"
+      },
+      "id": "019677"
     },
     {
       "type": "Feature",
