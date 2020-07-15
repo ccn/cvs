@@ -65540,6 +65540,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208358",
+        "title": "附育",
+        "address": "彰化縣彰化市中山路三段229號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.558881,
+          24.086403
+        ],
+        "type": "Point"
+      },
+      "id": "208358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208369",
         "title": "金門城",
         "address": "金門縣金城鎮金門城128-6號",
@@ -65880,23 +65897,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "208901",
-        "title": "鶯湖",
-        "address": "新北市鶯歌區大湖路374號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.346014,
-          24.973015
-        ],
-        "type": "Point"
-      },
-      "id": "208901"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "208912",
         "title": "鳳鳴",
         "address": "新北市鶯歌區永和街115巷44.46號1樓",
@@ -66029,6 +66029,23 @@
         "type": "Point"
       },
       "id": "209247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209270",
+        "title": "長洲",
+        "address": "新北市蘆洲區長安街25.27號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.463856,
+          25.079138
+        ],
+        "type": "Point"
+      },
+      "id": "209270"
     },
     {
       "type": "Feature",
@@ -68273,6 +68290,23 @@
         "type": "Point"
       },
       "id": "215839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215840",
+        "title": "觀工",
+        "address": "桃園市觀音區成功路一段525號527號1F",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.125122,
+          25.054724
+        ],
+        "type": "Point"
+      },
+      "id": "215840"
     },
     {
       "type": "Feature",
@@ -76008,23 +76042,6 @@
         "type": "Point"
       },
       "id": "903152"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "903185",
-        "title": "觀工",
-        "address": "桃園市觀音區成功路一段525號527號1F",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.125122,
-          25.054724
-        ],
-        "type": "Point"
-      },
-      "id": "903185"
     },
     {
       "type": "Feature",
