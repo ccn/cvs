@@ -45072,23 +45072,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184715",
-        "title": "聖保祿",
-        "address": "桃園市桃園區福安里建新街68號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.311977,
-          24.982909
-        ],
-        "type": "Point"
-      },
-      "id": "184715"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184737",
         "title": "大華",
         "address": "台北市萬華區萬大路495號497號",
@@ -63585,6 +63568,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201597",
+        "title": "聖保祿",
+        "address": "桃園市桃園區福安里建新街68號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.311977,
+          24.982909
+        ],
+        "type": "Point"
+      },
+      "id": "201597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -65757,6 +65757,23 @@
         "type": "Point"
       },
       "id": "208679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208691",
+        "title": "欣來義",
+        "address": "屏東縣新埤鄉萬安路4-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.57237,
+          22.504701
+        ],
+        "type": "Point"
+      },
+      "id": "208691"
     },
     {
       "type": "Feature",
