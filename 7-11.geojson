@@ -27460,23 +27460,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "158934",
-        "title": "府樂",
-        "address": "新竹縣竹北市縣政九路80號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.009454,
-          24.826337
-        ],
-        "type": "Point"
-      },
-      "id": "158934"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "158945",
         "title": "美慈",
         "address": "新北市三重區慈愛街52號",
@@ -66016,6 +65999,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209155",
+        "title": "景陽",
+        "address": "新北市中和區景新街29號31號33號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.503821,
+          24.999205
+        ],
+        "type": "Point"
+      },
+      "id": "209155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209203",
         "title": "豐沛",
         "address": "新竹縣橫山鄉中豐路一段21號1樓",
@@ -66074,8 +66074,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.213542,
+          25.016691
         ],
         "type": "Point"
       },
@@ -67117,6 +67117,23 @@
         "type": "Point"
       },
       "id": "214216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214227",
+        "title": "府樂",
+        "address": "新竹縣竹北市縣政九路80號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.009454,
+          24.826337
+        ],
+        "type": "Point"
+      },
+      "id": "214227"
     },
     {
       "type": "Feature",
@@ -80524,8 +80541,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.562641,
+          22.604647
         ],
         "type": "Point"
       },
