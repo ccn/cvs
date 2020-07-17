@@ -69279,6 +69279,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019634",
+        "title": "全家台中輕井澤店",
+        "address": "台中市南屯區黎明路二段706號1樓及2樓",
+        "post": "408",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.63413,
+          24.159247
+        ],
+        "type": "Point"
+      },
+      "id": "019634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019635",
         "title": "全家永康永慶店",
         "address": "台南市永康區復國一路344號,346號",
