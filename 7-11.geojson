@@ -10562,23 +10562,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "128678",
-        "title": "雅客",
-        "address": "屏東縣恆春鎮墾丁里墾丁路166號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.798892,
-          21.945269
-        ],
-        "type": "Point"
-      },
-      "id": "128678"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "128689",
         "title": "五工",
         "address": "新北市新莊區福基里17鄰五工二路91號",
@@ -19551,23 +19534,6 @@
         "type": "Point"
       },
       "id": "143024"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "143035",
-        "title": "立飛",
-        "address": "新北市淡水區民生路126號128號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.463986,
-          25.138242
-        ],
-        "type": "Point"
-      },
-      "id": "143035"
     },
     {
       "type": "Feature",
@@ -67036,6 +67002,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214157",
+        "title": "雅客",
+        "address": "屏東縣恆春鎮墾丁里墾丁路166號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.798892,
+          21.945269
+        ],
+        "type": "Point"
+      },
+      "id": "214157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214168",
         "title": "中農",
         "address": "台中市東區台中路195號197號199號",
@@ -68358,6 +68341,23 @@
         "type": "Point"
       },
       "id": "215851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215862",
+        "title": "立飛",
+        "address": "新北市淡水區民生路126號128號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.463986,
+          25.138242
+        ],
+        "type": "Point"
+      },
+      "id": "215862"
     },
     {
       "type": "Feature",
@@ -86939,23 +86939,6 @@
         "type": "Point"
       },
       "id": "955348"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "956134",
-        "title": "同昌",
-        "address": "台北市中正區南昌路二段173號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.522798,
-          25.025511
-        ],
-        "type": "Point"
-      },
-      "id": "956134"
     },
     {
       "type": "Feature",
