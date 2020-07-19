@@ -20660,6 +20660,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4693",
+        "title": "北港黑金剛店",
+        "address": "雲林縣北港鎮穎寧街７２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2948495988687,
+          23.5786568734998
+        ],
+        "type": "Point"
+      },
+      "id": "4693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4696",
         "title": "永和開運店",
         "address": "新北市永和區永利路２５０號",
