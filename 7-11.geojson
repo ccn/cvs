@@ -65676,6 +65676,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208613",
+        "title": "興國",
+        "address": "高雄市三民區建國二路123號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308485,
+          22.637394
+        ],
+        "type": "Point"
+      },
+      "id": "208613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208635",
         "title": "健勝",
         "address": "台中市北區健行路701號",
