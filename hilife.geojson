@@ -21187,6 +21187,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4760",
+        "title": "新竹廣場店",
+        "address": "新竹市東區林森路２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.9708434949191,
+          24.8019267336532
+        ],
+        "type": "Point"
+      },
+      "id": "4760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
