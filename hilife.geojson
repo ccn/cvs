@@ -15006,8 +15006,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.4622971091233,
-          25.0542111226733
+          121.4622917447052,
+          25.0541576663289
         ],
         "type": "Point"
       },
@@ -15975,8 +15975,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.498486,
-          25.066399
+          121.4984752711639,
+          25.0663309714154
         ],
         "type": "Point"
       },
@@ -21153,6 +21153,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4755",
+        "title": "蘆洲保新店",
+        "address": "新北市蘆洲區民族路５０４號、三民路１２８巷５３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4694595960997,
+          25.090373036395
+        ],
+        "type": "Point"
+      },
+      "id": "4755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4757",
         "title": "新竹水仙店",
         "address": "新竹市東區園區二路３２５號",
@@ -22288,23 +22305,6 @@
         "type": "Point"
       },
       "id": "D390"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "D605",
-        "title": "北縣重陽二店",
-        "address": "新北市三重區重陽路四段１３２、１３４號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.492565974612,
-          25.0714668514121
-        ],
-        "type": "Point"
-      },
-      "id": "D605"
     },
     {
       "type": "Feature",
