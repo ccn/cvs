@@ -44188,23 +44188,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184092",
-        "title": "駁藝",
-        "address": "高雄市鹽埕區大勇路29號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.282405,
-          22.621355
-        ],
-        "type": "Point"
-      },
-      "id": "184092"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184106",
         "title": "龍億",
         "address": "台中市龍井區沙田路五段143號",
@@ -63534,6 +63517,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201601",
+        "title": "駁藝",
+        "address": "高雄市鹽埕區大勇路29號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.282405,
+          22.621355
+        ],
+        "type": "Point"
+      },
+      "id": "201601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -65251,6 +65251,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208037",
+        "title": "環禹",
+        "address": "台中市大雅區雅環路二段126號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.652487,
+          24.227062
+        ],
+        "type": "Point"
+      },
+      "id": "208037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208048",
         "title": "金西屯",
         "address": "台中市西屯區西屯路三段79-33號",
@@ -66012,6 +66029,23 @@
         "type": "Point"
       },
       "id": "209203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209214",
+        "title": "經國一",
+        "address": "桃園市桃園區經國路838號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.300781,
+          25.030899
+        ],
+        "type": "Point"
+      },
+      "id": "209214"
     },
     {
       "type": "Feature",
