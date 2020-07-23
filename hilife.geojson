@@ -9814,23 +9814,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3720",
-        "title": "高縣潮明店",
-        "address": "高雄市大寮區光明路一段６７８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.4201887894681,
-          22.5696515262756
-        ],
-        "type": "Point"
-      },
-      "id": "3720"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3725",
         "title": "高縣岡本店",
         "address": "高雄市岡山區本洲路５５-４７號",
@@ -18015,8 +17998,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.555399,
-          25.056334
+          121.5554258220902,
+          25.0562999829182
         ],
         "type": "Point"
       },
@@ -18446,23 +18429,6 @@
         "type": "Point"
       },
       "id": "4507"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4509",
-        "title": "羅東聖母店",
-        "address": "宜蘭縣羅東鎮中正南路１６０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.772118,
-          24.670818
-        ],
-        "type": "Point"
-      },
-      "id": "4509"
     },
     {
       "type": "Feature",
