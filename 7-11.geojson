@@ -33002,23 +33002,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "166706",
-        "title": "京育",
-        "address": "台北市松山區南京東路四段52巷1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.553716,
-          25.051164
-        ],
-        "type": "Point"
-      },
-      "id": "166706"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "166739",
         "title": "金華",
         "address": "台北市大安區金華街140號1樓",
@@ -63262,23 +63245,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201450",
-        "title": "開源",
-        "address": "台北市信義區松山路136號138號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.577578,
-          25.04727
-        ],
-        "type": "Point"
-      },
-      "id": "201450"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201461",
         "title": "欣欣鼎",
         "address": "屏東縣屏東市崇蘭里自由路666號1樓",
@@ -64724,6 +64690,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207469",
+        "title": "瑞高",
+        "address": "高雄市前鎮區崗山中街225.257號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "207469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207492",
         "title": "展奇",
         "address": "高雄市鳳山區青年路2段169號1.2樓",
@@ -65506,6 +65489,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208336",
+        "title": "克強",
+        "address": "高雄市苓雅區自強三路156號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.298387,
+          22.617705
+        ],
+        "type": "Point"
+      },
+      "id": "208336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208358",
         "title": "附育",
         "address": "彰化縣彰化市中山路三段229號1樓",
@@ -65897,6 +65897,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208901",
+        "title": "鶯湖",
+        "address": "新北市鶯歌區大湖路374號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.346014,
+          24.973015
+        ],
+        "type": "Point"
+      },
+      "id": "208901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208912",
         "title": "鳳鳴",
         "address": "新北市鶯歌區永和街115巷44.46號1樓",
@@ -66080,6 +66097,23 @@
         "type": "Point"
       },
       "id": "209270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209339",
+        "title": "松怡",
+        "address": "台北市中山區民權東路二段146號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.534236,
+          25.062235
+        ],
+        "type": "Point"
+      },
+      "id": "209339"
     },
     {
       "type": "Feature",
@@ -67053,6 +67087,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214146",
+        "title": "開源",
+        "address": "台北市信義區松山路136號138號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.577578,
+          25.04727
+        ],
+        "type": "Point"
+      },
+      "id": "214146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214157",
         "title": "雅客",
         "address": "屏東縣恆春鎮墾丁里墾丁路166號",
@@ -67916,6 +67967,23 @@
         "type": "Point"
       },
       "id": "215493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215507",
+        "title": "京育",
+        "address": "台北市松山區南京東路四段52巷1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.553716,
+          25.051164
+        ],
+        "type": "Point"
+      },
+      "id": "215507"
     },
     {
       "type": "Feature",
