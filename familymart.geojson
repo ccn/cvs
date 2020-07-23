@@ -65935,25 +65935,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019426",
-        "title": "全家中壢龍門店",
-        "address": "桃園市中壢區龍岡路三段616號",
-        "post": "320",
-        "all": "SWEETPOTATO,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.241473,
-          24.928586
-        ],
-        "type": "Point"
-      },
-      "id": "019426"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019428",
         "title": "全家員林新育英店",
         "address": "彰化縣員林市育英路106號",
@@ -69807,6 +69788,25 @@
         "type": "Point"
       },
       "id": "019692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019763",
+        "title": "全家中壢龍門店",
+        "address": "桃園市中壢區龍岡路三段616號",
+        "post": "320",
+        "all": "SWEETPOTATO,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.241473,
+          24.928586
+        ],
+        "type": "Point"
+      },
+      "id": "019763"
     },
     {
       "type": "Feature",
