@@ -6370,25 +6370,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013935",
-        "title": "全家汐止興中店",
-        "address": "新北市汐止區中興路158號",
-        "post": "221",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.63226,
-          25.065113
-        ],
-        "type": "Point"
-      },
-      "id": "013935"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013938",
         "title": "全家鑫德店",
         "address": "臺北市松山區八德路二段400號",
@@ -69602,6 +69583,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019665",
+        "title": "全家大湖金湖店",
+        "address": "苗栗縣大湖鄉中原路87-2號",
+        "post": "364",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.866149,
+          24.424668
+        ],
+        "type": "Point"
+      },
+      "id": "019665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019669",
         "title": "全家新營中興店",
         "address": "台南市新營區中興路32號一樓",
@@ -69826,6 +69826,25 @@
         "type": "Point"
       },
       "id": "019779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019780",
+        "title": "全家汐止興中店",
+        "address": "新北市汐止區中興路158號",
+        "post": "221",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.63226,
+          25.065113
+        ],
+        "type": "Point"
+      },
+      "id": "019780"
     },
     {
       "type": "Feature",
