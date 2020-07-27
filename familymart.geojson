@@ -8479,6 +8479,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "014383",
+        "title": "全家新園新東店",
+        "address": "屏東縣新園鄉新東路1號",
+        "post": "932",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.453141,
+          22.527169
+        ],
+        "type": "Point"
+      },
+      "id": "014383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "014389",
         "title": "全家天文店",
         "address": "台北市士林區美崙街118號",
@@ -22212,6 +22231,25 @@
         "type": "Point"
       },
       "id": "016165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "016166",
+        "title": "全家新園興隆店",
+        "address": "屏東縣新園鄉鹽埔村鹽龍路158號。160號",
+        "post": "932",
+        "all": "SWEETPOTATO,Photo,WiFi,Rest,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.443788,
+          22.481165
+        ],
+        "type": "Point"
+      },
+      "id": "016166"
     },
     {
       "type": "Feature",
