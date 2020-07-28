@@ -38629,23 +38629,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "177289",
-        "title": "金碧",
-        "address": "台北市內湖區金龍路215號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.587246420431,
-          25.088230079059198
-        ],
-        "type": "Point"
-      },
-      "id": "177289"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "177290",
         "title": "鑫永年",
         "address": "高雄市三民區安康里九如一路877號",
@@ -55952,6 +55935,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195612",
+        "title": "蓮權",
+        "address": "花蓮縣花蓮市民權路136號138號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.631292,
+          23.994078
+        ],
+        "type": "Point"
+      },
+      "id": "195612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195645",
         "title": "城庚",
         "address": "新北市土城區金城路二段6號B1",
@@ -64877,6 +64877,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207654",
+        "title": "高昌",
+        "address": "高雄市楠梓區創新路615號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.330499,
+          22.74706
+        ],
+        "type": "Point"
+      },
+      "id": "207654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207724",
         "title": "線東",
         "address": "彰化縣和美鎮線東路四段臨402號",
@@ -65591,6 +65608,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208451",
+        "title": "諺東",
+        "address": "彰化縣和美鎮彰美路二段臨236號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208484",
         "title": "大鋒",
         "address": "台中市潭子區大富路一段48-9號",
@@ -65706,6 +65740,23 @@
         "type": "Point"
       },
       "id": "208613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208624",
+        "title": "潮貴",
+        "address": "台中市西屯區朝馬路158號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.633515,
+          24.170024
+        ],
+        "type": "Point"
+      },
+      "id": "208624"
     },
     {
       "type": "Feature",
@@ -65982,6 +66033,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209041",
+        "title": "星月",
+        "address": "雲林縣口湖鄉福安路26-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.162053,
+          23.618599
+        ],
+        "type": "Point"
+      },
+      "id": "209041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209096",
         "title": "泉富",
         "address": "台中市潭子區中山路一段57號1樓",
@@ -66012,6 +66080,23 @@
         "type": "Point"
       },
       "id": "209100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209133",
+        "title": "蘇澳",
+        "address": "宜蘭縣蘇澳鎮中山路一段66號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "209133"
     },
     {
       "type": "Feature",
@@ -66067,6 +66152,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209225",
+        "title": "月湖",
+        "address": "台中市后里區公安路147-15號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.706957,
+          24.306376
+        ],
+        "type": "Point"
+      },
+      "id": "209225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209247",
         "title": "虹博",
         "address": "台中市西區博館路185號",
@@ -66114,6 +66216,23 @@
         "type": "Point"
       },
       "id": "209339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209502",
+        "title": "金碧",
+        "address": "台北市內湖區金龍路219號217巷1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.586973,
+          25.088377
+        ],
+        "type": "Point"
+      },
+      "id": "209502"
     },
     {
       "type": "Feature",
@@ -78371,23 +78490,6 @@
         "type": "Point"
       },
       "id": "916206"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "916262",
-        "title": "蘇澳",
-        "address": "宜蘭縣蘇澳鎮蘇北里中山路一段74號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.851610591994,
-          24.5963383555281
-        ],
-        "type": "Point"
-      },
-      "id": "916262"
     },
     {
       "type": "Feature",
