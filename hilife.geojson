@@ -14326,8 +14326,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.491946,
-          25.064839
+          121.4918977202377,
+          25.0647661113011
         ],
         "type": "Point"
       },
@@ -21098,6 +21098,23 @@
         "type": "Point"
       },
       "id": "4751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4754",
+        "title": "內湖安康店",
+        "address": "台北市內湖區安康路１４２號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5999967363052,
+          25.0628899511681
+        ],
+        "type": "Point"
+      },
+      "id": "4754"
     },
     {
       "type": "Feature",
