@@ -26763,6 +26763,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "158174",
+        "title": "中鋼小港",
+        "address": "高雄市小港區鳳宮里中鋼路1號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.35334962964,
+          22.5582682504561
+        ],
+        "type": "Point"
+      },
+      "id": "158174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "158196",
         "title": "美術館",
         "address": "高雄市鼓山區美術館路73號1樓",
@@ -64248,6 +64265,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206983",
+        "title": "揚金",
+        "address": "桃園市平鎮區金陵路二段288號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.224406,
+          24.936853
+        ],
+        "type": "Point"
+      },
+      "id": "206983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206994",
         "title": "銅利",
         "address": "苗栗縣銅鑼鄉中興路2號",
@@ -65744,23 +65778,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "208624",
-        "title": "潮貴",
-        "address": "台中市西屯區朝馬路158號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.633515,
-          24.170024
-        ],
-        "type": "Point"
-      },
-      "id": "208624"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "208635",
         "title": "健勝",
         "address": "台中市北區健行路701號",
@@ -65842,6 +65859,23 @@
         "type": "Point"
       },
       "id": "208750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208761",
+        "title": "聯發E",
+        "address": "新竹市東區篤行路5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208761"
     },
     {
       "type": "Feature",
@@ -66216,6 +66250,23 @@
         "type": "Point"
       },
       "id": "209339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209443",
+        "title": "家利",
+        "address": "新竹縣湖口鄉民生街465巷3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "209443"
     },
     {
       "type": "Feature",
