@@ -38153,23 +38153,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "174822",
-        "title": "高工",
-        "address": "台中市南區高工路168號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.661669779186,
-          24.1132306785121
-        ],
-        "type": "Point"
-      },
-      "id": "174822"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "174833",
         "title": "建中",
         "address": "新北市新莊區建中街6號8號",
@@ -64726,7 +64709,7 @@
       "properties": {
         "id": "207469",
         "title": "瑞高",
-        "address": "高雄市前鎮區崗山中街225.257號一樓",
+        "address": "高雄市前鎮區崗山中街257號一樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -67406,6 +67389,23 @@
         "type": "Point"
       },
       "id": "214238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214250",
+        "title": "高工",
+        "address": "台中市南區高工路168號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.661669779186,
+          24.1132306785121
+        ],
+        "type": "Point"
+      },
+      "id": "214250"
     },
     {
       "type": "Feature",
