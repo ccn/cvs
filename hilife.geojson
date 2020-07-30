@@ -21085,6 +21085,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4746",
+        "title": "楊梅福羚店",
+        "address": "桃園市楊梅區梅獅路二段１８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1747095346619,
+          24.9100234055201
+        ],
+        "type": "Point"
+      },
+      "id": "4746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4751",
         "title": "左營陸戰店",
         "address": "高雄市左營區先鋒路９號",
