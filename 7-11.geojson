@@ -37949,23 +37949,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "174660",
-        "title": "頂崁",
-        "address": "新北市三重區光復路一段82號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.471783,
-          25.050355
-        ],
-        "type": "Point"
-      },
-      "id": "174660"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "174671",
         "title": "鎮宮",
         "address": "桃園市平鎮區中山路233號235號237號1樓",
@@ -42080,23 +42063,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182373",
-        "title": "國藝",
-        "address": "桃園市桃園區南平路185號187號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.302101,
-          25.019537
-        ],
-        "type": "Point"
-      },
-      "id": "182373"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182384",
         "title": "榮豐",
         "address": "桃園市八德區興豐路2168號",
@@ -43708,23 +43674,6 @@
         "type": "Point"
       },
       "id": "183712"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "183723",
-        "title": "迴龍站",
-        "address": "新北市新莊區中正路895號895號之1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.41241,
-          25.022016
-        ],
-        "type": "Point"
-      },
-      "id": "183723"
     },
     {
       "type": "Feature",
@@ -65632,8 +65581,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.529045,
+          24.095792
         ],
         "type": "Point"
       },
@@ -65853,8 +65802,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.023685,
+          24.768055
         ],
         "type": "Point"
       },
@@ -66108,8 +66057,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.8515,
+          24.596178
         ],
         "type": "Point"
       },
@@ -66244,12 +66193,29 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.058548,
+          24.907003
         ],
         "type": "Point"
       },
       "id": "209443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209498",
+        "title": "民悅",
+        "address": "新北市蘆洲區民族路316.318號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.476965,
+          25.090437
+        ],
+        "type": "Point"
+      },
+      "id": "209498"
     },
     {
       "type": "Feature",
@@ -67393,6 +67359,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214249",
+        "title": "頂崁",
+        "address": "新北市三重區光復路一段82號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.471783,
+          25.050355
+        ],
+        "type": "Point"
+      },
+      "id": "214249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214250",
         "title": "高工",
         "address": "台中市南區高工路168號1樓",
@@ -67406,6 +67389,23 @@
         "type": "Point"
       },
       "id": "214250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214261",
+        "title": "宏宇",
+        "address": "桃園市平鎮區金陵路二段104號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.222954,
+          24.94081
+        ],
+        "type": "Point"
+      },
+      "id": "214261"
     },
     {
       "type": "Feature",
@@ -68647,6 +68647,40 @@
         "type": "Point"
       },
       "id": "215862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215873",
+        "title": "國藝",
+        "address": "桃園市桃園區南平路185號187號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.302101,
+          25.019537
+        ],
+        "type": "Point"
+      },
+      "id": "215873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215884",
+        "title": "迴龍站",
+        "address": "新北市新莊區中正路895號895號之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.41241,
+          25.022016
+        ],
+        "type": "Point"
+      },
+      "id": "215884"
     },
     {
       "type": "Feature",
@@ -74465,23 +74499,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "893172",
-        "title": "宏宇",
-        "address": "桃園市平鎮區金陵路二段104號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.222954,
-          24.94081
-        ],
-        "type": "Point"
-      },
-      "id": "893172"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "893231",
         "title": "嘟嘟",
         "address": "台中市北區興進路60號",
@@ -79992,13 +80009,13 @@
       "properties": {
         "id": "923167",
         "title": "大坪",
-        "address": "苗栗縣造橋鄉十字路16號",
+        "address": "苗栗縣造橋鄉大西一街100號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.89772,
-          24.623801
+          0,
+          0
         ],
         "type": "Point"
       },
