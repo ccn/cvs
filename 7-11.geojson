@@ -62259,23 +62259,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200653",
-        "title": "大展",
-        "address": "新北市樹林區俊英街232號234號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.425049,
-          25.01033
-        ],
-        "type": "Point"
-      },
-      "id": "200653"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200664",
         "title": "鑫廣",
         "address": "台中市南區福順里忠明南路787號",
@@ -68443,6 +68426,23 @@
         "type": "Point"
       },
       "id": "215688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215699",
+        "title": "大展",
+        "address": "新北市樹林區俊英街232號234號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.425049,
+          25.01033
+        ],
+        "type": "Point"
+      },
+      "id": "215699"
     },
     {
       "type": "Feature",
