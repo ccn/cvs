@@ -65642,6 +65642,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208554",
+        "title": "豆油",
+        "address": "雲林縣西螺鎮振興里振興55-3號.55-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.469144,
+          23.792162
+        ],
+        "type": "Point"
+      },
+      "id": "208554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208587",
         "title": "裕元",
         "address": "台中市西屯區安和路168號",
@@ -65995,6 +66012,23 @@
         "type": "Point"
       },
       "id": "209041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209074",
+        "title": "華川",
+        "address": "新北市板橋區四川路二段245巷11.13號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.450908,
+          24.993313
+        ],
+        "type": "Point"
+      },
+      "id": "209074"
     },
     {
       "type": "Feature",
@@ -68511,6 +68545,23 @@
         "type": "Point"
       },
       "id": "215736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215747",
+        "title": "盛民興",
+        "address": "台中市太平區中山路二段366號366-1號368號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.72845,
+          24.150254
+        ],
+        "type": "Point"
+      },
+      "id": "215747"
     },
     {
       "type": "Feature",
@@ -80683,23 +80734,6 @@
         "type": "Point"
       },
       "id": "930062"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "930109",
-        "title": "盛民興",
-        "address": "台中市太平區中山路二段366號366-1號368號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.72845,
-          24.150254
-        ],
-        "type": "Point"
-      },
-      "id": "930109"
     },
     {
       "type": "Feature",
