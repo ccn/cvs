@@ -1544,25 +1544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012515",
-        "title": "全家台中金南屯店",
-        "address": "台中市南屯區南屯路二段159號",
-        "post": "408",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.651418,
-          24.13601
-        ],
-        "type": "Point"
-      },
-      "id": "012515"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012517",
         "title": "全家下營中山店",
         "address": "台南市下營區中山路二段32號",
@@ -6727,25 +6708,6 @@
         "type": "Point"
       },
       "id": "014091"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014093",
-        "title": "全家中壢中北店",
-        "address": "桃園市中壢區中北路31號",
-        "post": "320",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.23636,
-          24.956029
-        ],
-        "type": "Point"
-      },
-      "id": "014093"
     },
     {
       "type": "Feature",
@@ -21813,25 +21775,6 @@
         "type": "Point"
       },
       "id": "016162"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016163",
-        "title": "全家新化鑫義店",
-        "address": "台南市新化區信義路371號",
-        "post": "712",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SUNMAI,Kantoni,Preorder,SCoffee",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.30437,
-          23.03444
-        ],
-        "type": "Point"
-      },
-      "id": "016163"
     },
     {
       "type": "Feature",
@@ -43971,25 +43914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017979",
-        "title": "全家台中英皇店",
-        "address": "台中市北屯區軍福十六路277號",
-        "post": "406",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,COFFEEDeliver,SUNMAI,Kantoni,FreshFruit,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.723996,
-          24.174353
-        ],
-        "type": "Point"
-      },
-      "id": "017979"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017986",
         "title": "全家基隆巴塞店",
         "address": "基隆市中正區新豐街385號1,2樓",
@@ -65403,25 +65327,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019428",
-        "title": "全家員林新育英店",
-        "address": "彰化縣員林市育英路106號",
-        "post": "510",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.574597895497,
-          23.9622227136747
-        ],
-        "type": "Point"
-      },
-      "id": "019428"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019430",
         "title": "全家新市大社店",
         "address": "台南市新市區大社里335號",
@@ -69089,6 +68994,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019659",
+        "title": "全家員林新育英店",
+        "address": "彰化縣員林市育英路106號",
+        "post": "510",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.574597895497,
+          23.9622227136747
+        ],
+        "type": "Point"
+      },
+      "id": "019659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019660",
         "title": "全家高雄國泰店",
         "address": "高雄市鼓山區九如四路687,689號",
@@ -69792,6 +69716,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019764",
+        "title": "全家台中金南屯店",
+        "address": "台中市南屯區南屯路二段159號",
+        "post": "408",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.651418,
+          24.13601
+        ],
+        "type": "Point"
+      },
+      "id": "019764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019769",
         "title": "全家龍井大火力店",
         "address": "台中市龍井區龍昌路10號",
@@ -69982,6 +69925,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019793",
+        "title": "全家新化鑫義店",
+        "address": "台南市新化區信義路371號",
+        "post": "712",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SUNMAI,Kantoni,Preorder,SCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.30437,
+          23.03444
+        ],
+        "type": "Point"
+      },
+      "id": "019793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019808",
+        "title": "全家台中英皇店",
+        "address": "台中市北屯區軍福十六路277號",
+        "post": "406",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,COFFEEDeliver,SUNMAI,Kantoni,FreshFruit,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.723996,
+          24.174353
+        ],
+        "type": "Point"
+      },
+      "id": "019808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019900",
         "title": "全家新城佳山店",
         "address": "花蓮縣新城鄉佳林村佳林105號",
@@ -70035,6 +70016,25 @@
         "type": "Point"
       },
       "id": "019909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019954",
+        "title": "全家中壢中北店",
+        "address": "桃園市中壢區中北路31號",
+        "post": "320",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.23636,
+          24.956029
+        ],
+        "type": "Point"
+      },
+      "id": "019954"
     }
   ]
 }
