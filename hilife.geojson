@@ -7832,8 +7832,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.204897803888,
-          24.945884243551
+          121.2051982112976,
+          24.9462660632648
         ],
         "type": "Point"
       },
@@ -21081,6 +21081,23 @@
         "type": "Point"
       },
       "id": "4746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4750",
+        "title": "恆春大光店",
+        "address": "屏東縣恆春鎮大光路８９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.7404731829015,
+          21.9487241051859
+        ],
+        "type": "Point"
+      },
+      "id": "4750"
     },
     {
       "type": "Feature",
