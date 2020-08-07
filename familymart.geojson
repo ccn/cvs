@@ -3919,6 +3919,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "013368",
+        "title": "全家台南和緯店",
+        "address": "台南市北區和緯路三段333號1樓",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.195891,
+          23.009742
+        ],
+        "type": "Point"
+      },
+      "id": "013368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "013369",
         "title": "全家高雄常德店",
         "address": "高雄市楠梓區常德路320號一樓與二樓四坪空間",
@@ -10417,6 +10436,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "014781",
+        "title": "全家台南臨安店",
+        "address": "台南市北區成功路586號一樓",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.195197,
+          23.002282
+        ],
+        "type": "Point"
+      },
+      "id": "014781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "014782",
         "title": "全家高雄尚義店",
         "address": "高雄市新興區中正二路220號1樓",
@@ -13852,6 +13890,25 @@
         "type": "Point"
       },
       "id": "015211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "015215",
+        "title": "全家台南北成店",
+        "address": "台南市北區北成路39號",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,COFFEEDeliver,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.210832,
+          23.018563
+        ],
+        "type": "Point"
+      },
+      "id": "015215"
     },
     {
       "type": "Feature",
@@ -26472,6 +26529,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "016590",
+        "title": "全家台南公園店",
+        "address": "台南市北區公園北路131號1樓",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,icecream,oneice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.210518,
+          23.004445
+        ],
+        "type": "Point"
+      },
+      "id": "016590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "016592",
         "title": "全家屏東中華店",
         "address": "屏東縣屏東市自由路422號",
@@ -29147,6 +29223,25 @@
         "type": "Point"
       },
       "id": "016859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "016862",
+        "title": "全家台南長順店",
+        "address": "台南市北區長北街112號",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.204795,
+          23.002395
+        ],
+        "type": "Point"
+      },
+      "id": "016862"
     },
     {
       "type": "Feature",
@@ -32035,6 +32130,25 @@
         "type": "Point"
       },
       "id": "017083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017085",
+        "title": "全家台南北園店",
+        "address": "台南市北區北園街20號1樓及夾層",
+        "post": "704",
+        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,Rest,veg,SUNMAI,Preorder,Rpotato",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.223285,
+          23.010625
+        ],
+        "type": "Point"
+      },
+      "id": "017085"
     },
     {
       "type": "Feature",
@@ -36561,6 +36675,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017417",
+        "title": "全家台南南園店",
+        "address": "台南市北區南園街102號1,2樓",
+        "post": "704",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.225477,
+          23.007748
+        ],
+        "type": "Point"
+      },
+      "id": "017417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017418",
         "title": "全家林園鳳林店",
         "address": "高雄市林園區鳳林路一段92號",
@@ -36975,6 +37108,25 @@
         "type": "Point"
       },
       "id": "017452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017453",
+        "title": "全家台南和順店",
+        "address": "台南市北區公園南路360號1樓",
+        "post": "704",
+        "all": "SWEETPOTATO,Smoothie,WiFi,Rest,veg,COFFEEDeliver,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.202408,
+          23.003144
+        ],
+        "type": "Point"
+      },
+      "id": "017453"
     },
     {
       "type": "Feature",
@@ -37868,6 +38020,44 @@
         "type": "Point"
       },
       "id": "017518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017520",
+        "title": "全家台南育德店",
+        "address": "台南市北區育德路433號1樓",
+        "post": "704",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,Preorder,SCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.206505,
+          23.013784
+        ],
+        "type": "Point"
+      },
+      "id": "017520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017521",
+        "title": "全家台南大興店",
+        "address": "台南市北區大興街398號",
+        "post": "704",
+        "all": "SWEETPOTATO,Photo,WiFi,Parking,Toilet,Rest,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.182912,
+          23.009285
+        ],
+        "type": "Point"
+      },
+      "id": "017521"
     },
     {
       "type": "Feature",
@@ -45715,6 +45905,25 @@
         "type": "Point"
       },
       "id": "018119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "018120",
+        "title": "全家台南國宅店",
+        "address": "台南市北區北門路二段545號一樓",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.216157,
+          23.01059
+        ],
+        "type": "Point"
+      },
+      "id": "018120"
     },
     {
       "type": "Feature",
@@ -56150,6 +56359,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018808",
+        "title": "全家台南文成店",
+        "address": "台南市北區海安路三段817號1樓",
+        "post": "704",
+        "all": "SWEETPOTATO,icecream,oneice,twoice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.200045,
+          23.016079
+        ],
+        "type": "Point"
+      },
+      "id": "018808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018809",
         "title": "全家台南安富店",
         "address": "台南市安南區安富街250號",
@@ -58601,6 +58829,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "018993",
+        "title": "全家台南忠成店",
+        "address": "台南市北區成功路118,120號",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.205183,
+          22.998624
+        ],
+        "type": "Point"
+      },
+      "id": "018993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "018995",
         "title": "全家新店皇家店",
         "address": "新北市新店區永平街27號一樓",
@@ -59813,6 +60060,25 @@
         "type": "Point"
       },
       "id": "019072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019073",
+        "title": "全家台南好運店",
+        "address": "台南市北區公園路291號",
+        "post": "704",
+        "all": "SWEETPOTATO,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.209336,
+          23.002406
+        ],
+        "type": "Point"
+      },
+      "id": "019073"
     },
     {
       "type": "Feature",
@@ -62720,6 +62986,25 @@
         "type": "Point"
       },
       "id": "019269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019270",
+        "title": "全家台南大豐店",
+        "address": "台南市北區中華北路一段80號1樓全部",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.185925,
+          23.00871
+        ],
+        "type": "Point"
+      },
+      "id": "019270"
     },
     {
       "type": "Feature",
@@ -68344,6 +68629,25 @@
         "type": "Point"
       },
       "id": "019635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019636",
+        "title": "全家台南長成店",
+        "address": "台南市北區成功路212號",
+        "post": "704",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.203376,
+          22.999098
+        ],
+        "type": "Point"
+      },
+      "id": "019636"
     },
     {
       "type": "Feature",
