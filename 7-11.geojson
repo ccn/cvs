@@ -65472,6 +65472,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208347",
+        "title": "薪永樂",
+        "address": "彰化縣彰化市民族路494.496號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208358",
         "title": "附育",
         "address": "彰化縣彰化市中山路三段229號1樓",
