@@ -64843,6 +64843,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207698",
+        "title": "文漾",
+        "address": "高雄市新興區文橫二路164-1號.164-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.303645,
+          22.623423
+        ],
+        "type": "Point"
+      },
+      "id": "207698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207724",
         "title": "線東",
         "address": "彰化縣和美鎮線東路四段臨402號",
@@ -65659,6 +65676,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208543",
+        "title": "安西",
+        "address": "台南市安南區安中路一段136號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.208671,
+          23.035529
+        ],
+        "type": "Point"
+      },
+      "id": "208543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208554",
         "title": "豆油",
         "address": "雲林縣西螺鎮振興里振興55-3號",
@@ -65723,6 +65757,23 @@
         "type": "Point"
       },
       "id": "208613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208624",
+        "title": "潮貴",
+        "address": "台中市西屯區朝馬路158號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.633515,
+          24.170024
+        ],
+        "type": "Point"
+      },
+      "id": "208624"
     },
     {
       "type": "Feature",
@@ -66216,6 +66267,23 @@
         "type": "Point"
       },
       "id": "209270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209317",
+        "title": "社苓",
+        "address": "苗栗縣苑裡鎮社苓里12鄰131-4號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.676718,
+          24.404916
+        ],
+        "type": "Point"
+      },
+      "id": "209317"
     },
     {
       "type": "Feature",
