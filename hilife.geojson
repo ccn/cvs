@@ -3592,23 +3592,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2643",
-        "title": "北縣城廣店",
-        "address": "新北市土城區廣明街５０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.455360642814,
-          24.993299620624
-        ],
-        "type": "Point"
-      },
-      "id": "2643"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2645",
         "title": "台南南德店",
         "address": "台南市東區崇德路９８６號一樓",
@@ -10161,8 +10144,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.4454848267914,
-          25.0938305988127
+          121.4454754390599,
+          25.0938816087953
         ],
         "type": "Point"
       },
