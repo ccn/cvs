@@ -14251,23 +14251,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "132976",
-        "title": "和碩",
-        "address": "台北市北投區立功街76號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.469653335915,
-          25.1256312115109
-        ],
-        "type": "Point"
-      },
-      "id": "132976"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "132998",
         "title": "胡適",
         "address": "台北市南港區研究院路二段94號96號98巷1號",
@@ -35212,23 +35195,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170543",
-        "title": "朱崙",
-        "address": "台北市中山區朱崙街60號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.543505,
-          25.04981
-        ],
-        "type": "Point"
-      },
-      "id": "170543"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170554",
         "title": "頭份",
         "address": "苗栗縣頭份市中正路232號",
@@ -35463,23 +35429,6 @@
         "type": "Point"
       },
       "id": "170761"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "170772",
-        "title": "芙蓉",
-        "address": "台北市大安區仁愛路三段74號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.538598383252,
-          25.038097904805298
-        ],
-        "type": "Point"
-      },
-      "id": "170772"
     },
     {
       "type": "Feature",
@@ -43827,23 +43776,6 @@
         "type": "Point"
       },
       "id": "183848"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "183859",
-        "title": "和碩二",
-        "address": "台北市北投區立德路150之3號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.473369,
-          25.127216
-        ],
-        "type": "Point"
-      },
-      "id": "183859"
     },
     {
       "type": "Feature",
@@ -55544,23 +55476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "195379",
-        "title": "迎竹",
-        "address": "新竹市東區大學路1001-2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.996446,
-          24.783824
-        ],
-        "type": "Point"
-      },
-      "id": "195379"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "195380",
         "title": "精材三",
         "address": "桃園市中壢區中園路188號B1樓",
@@ -59586,6 +59501,23 @@
         "type": "Point"
       },
       "id": "198448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198459",
+        "title": "新崙",
+        "address": "高雄市鳳山區中崙路501.503.505號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.350697,
+          22.602396
+        ],
+        "type": "Point"
+      },
+      "id": "198459"
     },
     {
       "type": "Feature",
@@ -65965,6 +65897,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208864",
+        "title": "沅丞",
+        "address": "苗栗縣竹南鎮友義路67號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.90717,
+          24.722975
+        ],
+        "type": "Point"
+      },
+      "id": "208864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208897",
         "title": "新丁台",
         "address": "台中市霧峰區四德路477-2號477-2-1號",
@@ -66029,6 +65978,23 @@
         "type": "Point"
       },
       "id": "208923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208934",
+        "title": "花博",
+        "address": "彰化縣溪州鄉中央路三段263號.265號.267號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.494609,
+          23.849994
+        ],
+        "type": "Point"
+      },
+      "id": "208934"
     },
     {
       "type": "Feature",
@@ -66165,6 +66131,23 @@
         "type": "Point"
       },
       "id": "209155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209188",
+        "title": "瑞隆",
+        "address": "高雄市前鎮區瑞隆路382.384號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.330696,
+          22.605592
+        ],
+        "type": "Point"
+      },
+      "id": "209188"
     },
     {
       "type": "Feature",
@@ -66322,6 +66305,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209421",
+        "title": "朱崙",
+        "address": "台北市中山區復興北路56號58號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.543772,
+          25.050044
+        ],
+        "type": "Point"
+      },
+      "id": "209421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209443",
         "title": "家利",
         "address": "新竹縣湖口鄉民生街465巷3號",
@@ -66386,6 +66386,23 @@
         "type": "Point"
       },
       "id": "209605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209753",
+        "title": "風車",
+        "address": "彰化縣鹿港鎮彰濱五路二段76號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.430229,
+          24.072068
+        ],
+        "type": "Point"
+      },
+      "id": "209753"
     },
     {
       "type": "Feature",
@@ -68760,8 +68777,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.125174,
+          25.054771
         ],
         "type": "Point"
       },
@@ -68834,6 +68851,23 @@
         "type": "Point"
       },
       "id": "215884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215910",
+        "title": "迎竹",
+        "address": "新竹市東區大學路1001-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.996446,
+          24.783824
+        ],
+        "type": "Point"
+      },
+      "id": "215910"
     },
     {
       "type": "Feature",
@@ -76852,8 +76886,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.308209,
+          22.629478
         ],
         "type": "Point"
       },
