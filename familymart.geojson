@@ -28391,25 +28391,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016781",
-        "title": "全家民雄神農店",
-        "address": "嘉義縣民雄鄉三興村公園路370號壹樓",
-        "post": "621",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.47189701,
-          23.5562142
-        ],
-        "type": "Point"
-      },
-      "id": "016781"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016782",
         "title": "全家芬園金馬店",
         "address": "彰化縣芬園鄉信義路5號",
@@ -69792,6 +69773,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019778",
+        "title": "全家民雄神農店",
+        "address": "嘉義縣民雄鄉三興村公園路370號壹樓",
+        "post": "621",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.47189701,
+          23.5562142
+        ],
+        "type": "Point"
+      },
+      "id": "019778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019779",
         "title": "全家景富店",
         "address": "台北市文山區景福街25號",
@@ -69963,6 +69963,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019794",
+        "title": "全家竹南金山店",
+        "address": "苗栗縣竹南鎮公義路436號",
+        "post": "350",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.889548,
+          24.704543
+        ],
+        "type": "Point"
+      },
+      "id": "019794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019808",
         "title": "全家台中英皇店",
         "address": "台中市北屯區軍福十六路277號",
@@ -69978,6 +69997,44 @@
         "type": "Point"
       },
       "id": "019808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019829",
+        "title": "全家新莊安華店",
+        "address": "新北市新莊區民安西路321號1樓,2樓",
+        "post": "242",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.427536,
+          25.011175
+        ],
+        "type": "Point"
+      },
+      "id": "019829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019896",
+        "title": "全家社正店",
+        "address": "台北市士林區社正路26號1樓",
+        "post": "111",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.509558,
+          25.088718
+        ],
+        "type": "Point"
+      },
+      "id": "019896"
     },
     {
       "type": "Feature",
