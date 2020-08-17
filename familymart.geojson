@@ -38518,25 +38518,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017556",
-        "title": "全家延安店",
-        "address": "台北市大安區延吉街158號",
-        "post": "106",
-        "all": "SWEETPOTATO,WiFi,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.55486,
-          25.039496
-        ],
-        "type": "Point"
-      },
-      "id": "017556"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017557",
         "title": "全家蘆洲新虹展店",
         "address": "新北市蘆洲區民義街22巷18號",
@@ -70149,6 +70130,25 @@
         "type": "Point"
       },
       "id": "019955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020005",
+        "title": "全家延安店",
+        "address": "台北市大安區延吉街158號",
+        "post": "106",
+        "all": "SWEETPOTATO,WiFi,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.55486,
+          25.039496
+        ],
+        "type": "Point"
+      },
+      "id": "020005"
     }
   ]
 }
