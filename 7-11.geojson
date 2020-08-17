@@ -66033,6 +66033,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209029",
+        "title": "東莒",
+        "address": "連江縣莒光鄉大坪村27號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.97305,
+          25.960164
+        ],
+        "type": "Point"
+      },
+      "id": "209029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209041",
         "title": "星月",
         "address": "雲林縣口湖鄉福安路26-3號",
