@@ -12488,25 +12488,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015058",
-        "title": "全家淡水義山店",
-        "address": "新北市淡水區新市一路一段103號1樓",
-        "post": "251",
-        "all": "SWEETPOTATO,WiFi,Rest,veg,COFFEEDeliver,SUNMAI,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.43116301,
-          25.18697855
-        ],
-        "type": "Point"
-      },
-      "id": "015058"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015059",
         "title": "全家大南店",
         "address": "台北市士林區大南路52號",
@@ -27517,25 +27498,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016684",
-        "title": "全家新陽明店",
-        "address": "臺北市士林區中正路329號",
-        "post": "111",
-        "all": "SWEETPOTATO,WiFi,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.523192,
-          25.09458
-        ],
-        "type": "Point"
-      },
-      "id": "016684"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016685",
         "title": "全家長春店",
         "address": "台北市中山區長春路48號",
@@ -40091,25 +40053,6 @@
         "type": "Point"
       },
       "id": "017682"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017683",
-        "title": "全家新莊維新店",
-        "address": "新北市新莊區四維路147號1樓",
-        "post": "242",
-        "all": "WiFi,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.422718,
-          25.022183
-        ],
-        "type": "Point"
-      },
-      "id": "017683"
     },
     {
       "type": "Feature",
@@ -65973,25 +65916,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019478",
-        "title": "全家新城望海店",
-        "address": "花蓮縣新城鄉七星街110號",
-        "post": "971",
-        "all": "SWEETPOTATO,WiFi,Rest,SUNMAI,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.63043464,
-          24.02666309
-        ],
-        "type": "Point"
-      },
-      "id": "019478"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019479",
         "title": "全家楊梅民族店",
         "address": "桃園市楊梅區電研路250巷1號1樓",
@@ -68652,25 +68576,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019643",
-        "title": "全家樹林仁醫店",
-        "address": "新北市樹林區文化街14號1樓",
-        "post": "238",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.419976,
-          24.987386
-        ],
-        "type": "Point"
-      },
-      "id": "019643"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019645",
         "title": "全家新莊龍鳳店",
         "address": "新北市新莊區中正路729號",
@@ -70096,6 +70001,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019917",
+        "title": "全家新城望海店",
+        "address": "花蓮縣新城鄉七星街110號",
+        "post": "971",
+        "all": "SWEETPOTATO,WiFi,Rest,SUNMAI,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.63043464,
+          24.02666309
+        ],
+        "type": "Point"
+      },
+      "id": "019917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019918",
+        "title": "全家樹林仁醫店",
+        "address": "新北市樹林區文化街14號1樓",
+        "post": "238",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.419976,
+          24.987386
+        ],
+        "type": "Point"
+      },
+      "id": "019918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019954",
         "title": "全家中壢中北店",
         "address": "桃園市中壢區中北路31號",
@@ -70134,6 +70077,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019963",
+        "title": "全家新陽明店",
+        "address": "臺北市士林區中正路329號",
+        "post": "111",
+        "all": "SWEETPOTATO,WiFi,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.523192,
+          25.09458
+        ],
+        "type": "Point"
+      },
+      "id": "019963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020005",
         "title": "全家延安店",
         "address": "台北市大安區延吉街158號",
@@ -70149,6 +70111,44 @@
         "type": "Point"
       },
       "id": "020005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020006",
+        "title": "全家淡水義山店",
+        "address": "新北市淡水區新市一路一段103號1樓",
+        "post": "251",
+        "all": "SWEETPOTATO,WiFi,Rest,veg,COFFEEDeliver,SUNMAI,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.43116301,
+          25.18697855
+        ],
+        "type": "Point"
+      },
+      "id": "020006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020024",
+        "title": "全家新莊維新店",
+        "address": "新北市新莊區四維路147號1樓",
+        "post": "242",
+        "all": "WiFi,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.422718,
+          25.022183
+        ],
+        "type": "Point"
+      },
+      "id": "020024"
     }
   ]
 }
