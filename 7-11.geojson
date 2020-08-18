@@ -65387,6 +65387,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208314",
+        "title": "恆好",
+        "address": "屏東縣恆春鎮恆南路70-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.745929,
+          21.99521
+        ],
+        "type": "Point"
+      },
+      "id": "208314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208325",
         "title": "東蘭",
         "address": "台中市東勢區東蘭路194號",
