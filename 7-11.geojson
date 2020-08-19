@@ -50835,23 +50835,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189776",
-        "title": "桂明",
-        "address": "台北市萬華區桂林路55號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.503061,
-          25.038297
-        ],
-        "type": "Point"
-      },
-      "id": "189776"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189787",
         "title": "新中",
         "address": "新北市新店區中正路160號1樓",
@@ -66050,19 +66033,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "209029",
-        "title": "東莒",
-        "address": "連江縣莒光鄉大坪村27號",
+        "id": "209018",
+        "title": "農科",
+        "address": "屏東縣長治鄉德和村農科路23號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          119.97305,
-          25.960164
+          120.537033,
+          22.712798
         ],
         "type": "Point"
       },
-      "id": "209029"
+      "id": "209018"
     },
     {
       "type": "Feature",
@@ -66420,6 +66403,23 @@
         "type": "Point"
       },
       "id": "209605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209708",
+        "title": "權強",
+        "address": "新北市新店區民權路68號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.538332,
+          24.983052
+        ],
+        "type": "Point"
+      },
+      "id": "209708"
     },
     {
       "type": "Feature",
@@ -68919,6 +68919,23 @@
         "type": "Point"
       },
       "id": "215921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215932",
+        "title": "桂明",
+        "address": "台北市萬華區桂林路55號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.503061,
+          25.038297
+        ],
+        "type": "Point"
+      },
+      "id": "215932"
     },
     {
       "type": "Feature",
