@@ -17209,23 +17209,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "138907",
-        "title": "丁台",
-        "address": "台中市霧峰區四德路392號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.678399,
-          24.064776
-        ],
-        "type": "Point"
-      },
-      "id": "138907"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138929",
         "title": "裝甲",
         "address": "新竹縣湖口鄉勝利路二段93號94號95號1樓",
@@ -66386,6 +66369,23 @@
         "type": "Point"
       },
       "id": "209502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209591",
+        "title": "藍鵲",
+        "address": "台中市大雅區永和路112-26號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.635434,
+          24.215039
+        ],
+        "type": "Point"
+      },
+      "id": "209591"
     },
     {
       "type": "Feature",
