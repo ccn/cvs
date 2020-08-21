@@ -65064,6 +65064,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207997",
+        "title": "源前",
+        "address": "新北市新莊區思源路338.390號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.460214,
+          25.052203
+        ],
+        "type": "Point"
+      },
+      "id": "207997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208004",
         "title": "聯勝",
         "address": "屏東縣南州鄉壽元村大同路6號",
@@ -67835,23 +67852,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "215219",
-        "title": "中新",
-        "address": "新竹縣竹北市中正西路389號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.994523996206,
-          24.8429872275389
-        ],
-        "type": "Point"
-      },
-      "id": "215219"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "215220",
         "title": "一揚",
         "address": "高雄市路竹區國昌路1號",
@@ -68936,6 +68936,23 @@
         "type": "Point"
       },
       "id": "215932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216588",
+        "title": "中新",
+        "address": "新竹縣竹北市中正西路389號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.994523996206,
+          24.8429872275389
+        ],
+        "type": "Point"
+      },
+      "id": "216588"
     },
     {
       "type": "Feature",
@@ -76297,23 +76314,6 @@
         "type": "Point"
       },
       "id": "902311"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "902322",
-        "title": "三井",
-        "address": "雲林縣西螺鎮振興振興里振興路118號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.470602,
-          23.789105
-        ],
-        "type": "Point"
-      },
-      "id": "902322"
     },
     {
       "type": "Feature",
@@ -98431,23 +98431,6 @@
         "type": "Point"
       },
       "id": "992277"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "992288",
-        "title": "瑞順",
-        "address": "高雄市鳳山區瑞興里瑞興路250-1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.366767,
-          22.628012
-        ],
-        "type": "Point"
-      },
-      "id": "992288"
     },
     {
       "type": "Feature",
