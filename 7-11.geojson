@@ -22819,23 +22819,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149804",
-        "title": "安村",
-        "address": "新竹縣竹北市中山路416-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.012694,
-          24.838818
-        ],
-        "type": "Point"
-      },
-      "id": "149804"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149815",
         "title": "蘆永",
         "address": "新北市蘆洲區永安南路二段18號",
@@ -63330,6 +63313,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201612",
+        "title": "新海勝",
+        "address": "高雄市左營區翠華路601巷122,126號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.289823,
+          22.673323
+        ],
+        "type": "Point"
+      },
+      "id": "201612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -64554,6 +64554,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207470",
+        "title": "微笑",
+        "address": "台中市北區育樂街66.68號一樓及夾層",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.692219,
+          24.157667
+        ],
+        "type": "Point"
+      },
+      "id": "207470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207492",
         "title": "展奇",
         "address": "高雄市鳳山區青年路2段169號1.2樓",
@@ -65540,6 +65557,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208473",
+        "title": "義強",
+        "address": "新北市三重區正義北路131.133號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.496856,
+          25.066261
+        ],
+        "type": "Point"
+      },
+      "id": "208473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208484",
         "title": "大鋒",
         "address": "台中市潭子區大富路一段48-9號",
@@ -66271,6 +66305,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209292",
+        "title": "民真",
+        "address": "嘉義縣民雄鄉民新路188號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "209292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209317",
         "title": "社苓",
         "address": "苗栗縣苑裡鎮社苓里12鄰131-4號",
@@ -66441,6 +66492,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209719",
+        "title": "京旺",
+        "address": "台北市中山區南京東路一段92號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.526007,
+          25.051872
+        ],
+        "type": "Point"
+      },
+      "id": "209719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209753",
         "title": "風車",
         "address": "彰化縣鹿港鎮彰濱五路二段76號",
@@ -66454,6 +66522,23 @@
         "type": "Point"
       },
       "id": "209753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209867",
+        "title": "和平東",
+        "address": "台北市大安區和平東路一段129之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.529414,
+          25.026717
+        ],
+        "type": "Point"
+      },
+      "id": "209867"
     },
     {
       "type": "Feature",
@@ -93624,23 +93709,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "973128",
-        "title": "新海勝",
-        "address": "高雄市左營區翠華路601巷122,126號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.289823,
-          22.673323
-        ],
-        "type": "Point"
-      },
-      "id": "973128"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "975054",
         "title": "興芳",
         "address": "台北市文山區興光里興隆路三段173-175號",
@@ -98278,23 +98346,6 @@
         "type": "Point"
       },
       "id": "992060"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "992071",
-        "title": "慶生",
-        "address": "雲林縣斗六市漢口路167號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.540273,
-          23.712842
-        ],
-        "type": "Point"
-      },
-      "id": "992071"
     },
     {
       "type": "Feature",
