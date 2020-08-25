@@ -26624,25 +26624,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016603",
-        "title": "全家基隆樂利店",
-        "address": "基隆市安樂區樂利三街32巷12號",
-        "post": "204",
-        "all": "SWEETPOTATO,WiFi,Rest,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.71245,
-          25.126775
-        ],
-        "type": "Point"
-      },
-      "id": "016603"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016604",
         "title": "全家六張黎店",
         "address": "台北市信義區和平東路三段387號",
@@ -69849,6 +69830,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019898",
+        "title": "全家民雄旺萊店",
+        "address": "嘉義縣民雄鄉大學路一段439號一樓",
+        "post": "621",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.469067,
+          23.559027
+        ],
+        "type": "Point"
+      },
+      "id": "019898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019900",
         "title": "全家新城佳山店",
         "address": "花蓮縣新城鄉佳林村佳林105號",
@@ -70035,6 +70035,44 @@
         "type": "Point"
       },
       "id": "019955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019960",
+        "title": "全家鑫林店",
+        "address": "台北市士林區文林路119號1樓,2樓",
+        "post": "111",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.526273,
+          25.088517
+        ],
+        "type": "Point"
+      },
+      "id": "019960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019962",
+        "title": "全家基隆樂利店",
+        "address": "基隆市安樂區樂利三街32巷12號",
+        "post": "204",
+        "all": "SWEETPOTATO,WiFi,Rest,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.71245,
+          25.126775
+        ],
+        "type": "Point"
+      },
+      "id": "019962"
     },
     {
       "type": "Feature",
