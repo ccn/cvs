@@ -51056,23 +51056,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190097",
-        "title": "德誠",
-        "address": "台北市士林區德行東路106號108號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52870237832201,
-          25.1078141484265
-        ],
-        "type": "Point"
-      },
-      "id": "190097"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190123",
         "title": "世新大",
         "address": "台北市文山區木柵路一段17巷1號1樓",
@@ -63925,6 +63908,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206857",
+        "title": "潭頂",
+        "address": "台南市新市區潭頂里潭頂400號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.321573,
+          23.076931
+        ],
+        "type": "Point"
+      },
+      "id": "206857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206879",
         "title": "德育",
         "address": "台北市松山區八德路三段171號173號1樓",
@@ -66067,6 +66067,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209007",
+        "title": "捷安特",
+        "address": "台中市西屯區東大路一段999號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.611389,
+          24.209444
+        ],
+        "type": "Point"
+      },
+      "id": "209007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209018",
         "title": "農科",
         "address": "屏東縣長治鄉德和村農科路23號1樓",
@@ -66556,6 +66573,23 @@
         "type": "Point"
       },
       "id": "209867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209878",
+        "title": "軍榮",
+        "address": "台中市北屯區軍榮一街90號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.720654,
+          24.179994
+        ],
+        "type": "Point"
+      },
+      "id": "209878"
     },
     {
       "type": "Feature",
@@ -68987,6 +69021,23 @@
         "type": "Point"
       },
       "id": "215884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215909",
+        "title": "德誠",
+        "address": "台北市士林區德行東路106號108號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52870237832201,
+          25.1078141484265
+        ],
+        "type": "Point"
+      },
+      "id": "215909"
     },
     {
       "type": "Feature",
