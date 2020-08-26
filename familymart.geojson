@@ -6902,25 +6902,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014135",
-        "title": "全家岡山岡燕店",
-        "address": "高雄市岡山區岡燕路289號一至二樓",
-        "post": "820",
-        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.303437,
-          22.791968
-        ],
-        "type": "Point"
-      },
-      "id": "014135"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014142",
         "title": "全家水源店",
         "address": "台北市中正區汀州路三段261號",
@@ -10508,25 +10489,6 @@
         "type": "Point"
       },
       "id": "014791"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014792",
-        "title": "全家虎尾新興店",
-        "address": "雲林縣虎尾鎮民權路13號",
-        "post": "632",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder,FishPatty",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.436988,
-          23.708234
-        ],
-        "type": "Point"
-      },
-      "id": "014792"
     },
     {
       "type": "Feature",
@@ -32269,15 +32231,15 @@
       "properties": {
         "id": "017107",
         "title": "全家宜蘭東港店",
-        "address": "宜蘭縣宜蘭市東港路84號,86號一樓",
+        "address": "宜蘭縣宜蘭市東港路二段552號,556號1樓",
         "post": "260",
         "all": "SWEETPOTATO,Photo,WiFi,Rest,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.760736,
-          24.757254
+          121.760742,
+          24.757326
         ],
         "type": "Point"
       },
@@ -69222,6 +69184,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019693",
+        "title": "全家岡山岡燕店",
+        "address": "高雄市岡山區岡燕路289號一至二樓",
+        "post": "820",
+        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.303437,
+          22.791968
+        ],
+        "type": "Point"
+      },
+      "id": "019693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019694",
         "title": "全家二崙永定店",
         "address": "雲林縣二崙鄉永定村永定路407號",
@@ -70092,6 +70073,25 @@
         "type": "Point"
       },
       "id": "019963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019972",
+        "title": "全家虎尾新興店",
+        "address": "雲林縣虎尾鎮民權路13號",
+        "post": "632",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder,FishPatty",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.436988,
+          23.708234
+        ],
+        "type": "Point"
+      },
+      "id": "019972"
     },
     {
       "type": "Feature",
