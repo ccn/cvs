@@ -59607,23 +59607,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "198622",
-        "title": "銘豐",
-        "address": "新竹縣竹北市嘉豐五路一段1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.031313,
-          24.815608
-        ],
-        "type": "Point"
-      },
-      "id": "198622"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "198633",
         "title": "新清水",
         "address": "台中市清水區五權路16號1樓、民有路1號1樓",
@@ -63466,6 +63449,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "202501",
+        "title": "佳樂",
+        "address": "台北市南港區南港路一段303號305號307號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.60765,
+          25.054399
+        ],
+        "type": "Point"
+      },
+      "id": "202501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202512",
         "title": "英雄館",
         "address": "台北市中正區長沙街一段20號1樓",
@@ -66407,6 +66407,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209410",
+        "title": "名采",
+        "address": "雲林縣斗南鎮中山路30.30-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.480184,
+          23.674055
+        ],
+        "type": "Point"
+      },
+      "id": "209410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209421",
         "title": "朱崙",
         "address": "台北市中山區復興北路56號58號1樓",
@@ -67746,6 +67763,23 @@
         "type": "Point"
       },
       "id": "214261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214308",
+        "title": "銘豐",
+        "address": "新竹縣竹北市嘉豐五路一段1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.031313,
+          24.815608
+        ],
+        "type": "Point"
+      },
+      "id": "214308"
     },
     {
       "type": "Feature",
