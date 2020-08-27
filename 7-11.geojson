@@ -66067,6 +66067,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208978",
+        "title": "星辰",
+        "address": "台南市新化區全興里竹子腳178號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.293423,
+          23.027985
+        ],
+        "type": "Point"
+      },
+      "id": "208978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209007",
         "title": "捷安特",
         "address": "台中市西屯區東大路一段999號",
@@ -66522,6 +66539,40 @@
         "type": "Point"
       },
       "id": "209605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209616",
+        "title": "利吉",
+        "address": "新北市土城區延吉街261號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.467206,
+          24.984674
+        ],
+        "type": "Point"
+      },
+      "id": "209616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209694",
+        "title": "吉祥",
+        "address": "台北市松山區八德路四段245巷52弄31號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.562671,
+          25.050398
+        ],
+        "type": "Point"
+      },
+      "id": "209694"
     },
     {
       "type": "Feature",
