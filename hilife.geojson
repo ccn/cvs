@@ -20490,6 +20490,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4694",
+        "title": "中壢慈惠店",
+        "address": "桃園市中壢區恩德街４０號及慈惠二街４１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.224016032073,
+          24.9606098451808
+        ],
+        "type": "Point"
+      },
+      "id": "4694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4696",
         "title": "永和開運店",
         "address": "新北市永和區永利路２５０號",
