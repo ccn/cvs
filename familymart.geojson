@@ -537,25 +537,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011846",
-        "title": "全家林園文林店",
-        "address": "高雄市林園區東林西路137號",
-        "post": "832",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.392377,
-          22.503366
-        ],
-        "type": "Point"
-      },
-      "id": "011846"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011881",
         "title": "全家松指部店",
         "address": "臺北市松山區民權東路四段121號(松指部)",
@@ -34585,25 +34566,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017271",
-        "title": "全家中和德穗店",
-        "address": "新北市中和區德光路24,26號1樓",
-        "post": "235",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.470753,
-          25.004453
-        ],
-        "type": "Point"
-      },
-      "id": "017271"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017273",
         "title": "全家德惠店",
         "address": "台北市中山區吉林路448號",
@@ -66201,25 +66163,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019504",
-        "title": "全家龜山新明德店",
-        "address": "桃園市龜山區中興路一段6號1樓和2樓",
-        "post": "333",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.337654,
-          24.993721
-        ],
-        "type": "Point"
-      },
-      "id": "019504"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019505",
         "title": "全家永吉二店",
         "address": "台北市信義區永吉路223號",
@@ -68462,25 +68405,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019646",
-        "title": "全家林口新僑大店",
-        "address": "新北市林口區中正路55號1樓",
-        "post": "244",
-        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.395385,
-          25.077403
-        ],
-        "type": "Point"
-      },
-      "id": "019646"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019647",
         "title": "全家斗六新莊店",
         "address": "雲林縣斗六市成功路276號1樓",
@@ -69028,25 +68952,6 @@
         "type": "Point"
       },
       "id": "019683"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "019684",
-        "title": "全家冬山永興店",
-        "address": "宜蘭縣冬山鄉永興路一段1號1樓",
-        "post": "269",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.780719,
-          24.653826
-        ],
-        "type": "Point"
-      },
-      "id": "019684"
     },
     {
       "type": "Feature",
@@ -69792,6 +69697,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019854",
+        "title": "全家馬祖福運店",
+        "address": "連江縣南竿鄉福沃村69號1樓",
+        "post": "209",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.949623,
+          26.158376
+        ],
+        "type": "Point"
+      },
+      "id": "019854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019896",
         "title": "全家社正店",
         "address": "台北市士林區社正路26號1樓",
@@ -69826,6 +69750,25 @@
         "type": "Point"
       },
       "id": "019898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019899",
+        "title": "全家林園文林店",
+        "address": "高雄市林園區東林西路137號",
+        "post": "832",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.392377,
+          22.503366
+        ],
+        "type": "Point"
+      },
+      "id": "019899"
     },
     {
       "type": "Feature",
@@ -70096,6 +70039,63 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019976",
+        "title": "全家冬山永興店",
+        "address": "宜蘭縣冬山鄉永興路一段1號1樓",
+        "post": "269",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.780719,
+          24.653826
+        ],
+        "type": "Point"
+      },
+      "id": "019976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019977",
+        "title": "全家林口新僑大店",
+        "address": "新北市林口區中正路55號1樓",
+        "post": "244",
+        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.395385,
+          25.077403
+        ],
+        "type": "Point"
+      },
+      "id": "019977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019979",
+        "title": "全家龜山新明德店",
+        "address": "桃園市龜山區中興路一段6號1樓和2樓",
+        "post": "333",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.337654,
+          24.993721
+        ],
+        "type": "Point"
+      },
+      "id": "019979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020005",
         "title": "全家延安店",
         "address": "台北市大安區延吉街158號",
@@ -70168,6 +70168,25 @@
         "type": "Point"
       },
       "id": "020024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020025",
+        "title": "全家中和德穗店",
+        "address": "新北市中和區德光路24,26號1樓",
+        "post": "235",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.470753,
+          25.004453
+        ],
+        "type": "Point"
+      },
+      "id": "020025"
     }
   ]
 }
