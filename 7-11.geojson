@@ -16393,23 +16393,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "137926",
-        "title": "金廣福",
-        "address": "新竹縣北埔鄉南興街135號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.057439,
-          24.701224
-        ],
-        "type": "Point"
-      },
-      "id": "137926"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "137948",
         "title": "美壢",
         "address": "桃園市中壢區中美路二段72號",
@@ -17239,23 +17222,6 @@
         "type": "Point"
       },
       "id": "138941"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "138952",
-        "title": "京埔",
-        "address": "南投縣草屯鎮南埔里中正路254-10號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.722403,
-          23.979712
-        ],
-        "type": "Point"
-      },
-      "id": "138952"
     },
     {
       "type": "Feature",
@@ -65285,6 +65251,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208174",
+        "title": "芹壁",
+        "address": "連江縣北竿鄉芹壁村48號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.982384,
+          26.224281
+        ],
+        "type": "Point"
+      },
+      "id": "208174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208185",
         "title": "寶軒",
         "address": "高雄市岡山區仁壽南路100號1樓",
@@ -65757,6 +65740,23 @@
         "type": "Point"
       },
       "id": "208635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208646",
+        "title": "夏興",
+        "address": "台南市南區夏林路258號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208646"
     },
     {
       "type": "Feature",
@@ -68583,6 +68583,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215529",
+        "title": "京埔",
+        "address": "南投縣草屯鎮南埔里中正路254-10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.722403,
+          23.979712
+        ],
+        "type": "Point"
+      },
+      "id": "215529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215530",
         "title": "敦禾",
         "address": "台北市大安區敦化南路二段265巷6號1樓",
@@ -69004,6 +69021,23 @@
         "type": "Point"
       },
       "id": "215792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215828",
+        "title": "金廣福",
+        "address": "新竹縣北埔鄉南興街135號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.057439,
+          24.701224
+        ],
+        "type": "Point"
+      },
+      "id": "215828"
     },
     {
       "type": "Feature",
@@ -81618,23 +81652,6 @@
         "type": "Point"
       },
       "id": "931489"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "931537",
-        "title": "星辰",
-        "address": "台南市新化區全興里竹子腳177-2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.293141,
-          23.028
-        ],
-        "type": "Point"
-      },
-      "id": "931537"
     },
     {
       "type": "Feature",
