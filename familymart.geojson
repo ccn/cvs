@@ -64738,25 +64738,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019431",
-        "title": "全家金通店",
-        "address": "台北市中山區伊通街58號",
-        "post": "104",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,Preorder,SCoffee",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.53462,
-          25.051541
-        ],
-        "type": "Point"
-      },
-      "id": "019431"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019433",
         "title": "全家新市陽光店",
         "address": "台南市新市區陽光大道26號",
@@ -70225,6 +70206,25 @@
         "type": "Point"
       },
       "id": "020007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020017",
+        "title": "全家金通店",
+        "address": "台北市中山區伊通街58號",
+        "post": "104",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,Preorder,SCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.53462,
+          25.051541
+        ],
+        "type": "Point"
+      },
+      "id": "020017"
     },
     {
       "type": "Feature",
