@@ -20796,6 +20796,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4727",
+        "title": "三星聖嘉民店",
+        "address": "宜蘭縣三星鄉三星路二段２６５巷１００號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.702899316832,
+          24.6652361223683
+        ],
+        "type": "Point"
+      },
+      "id": "4727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4728",
         "title": "中山國賓店",
         "address": "台北市中山區中山北路二段６５巷６號１、２樓",
@@ -21119,6 +21136,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4764",
+        "title": "八里大船店",
+        "address": "新北市八里區商港路６、８、１０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3972196009367,
+          25.1445971343302
+        ],
+        "type": "Point"
+      },
+      "id": "4764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4768",
         "title": "石岡萬仙店",
         "address": "台中市石岡區萬仙街４５號",
@@ -21149,6 +21183,40 @@
         "type": "Point"
       },
       "id": "4771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4780",
+        "title": "竹山南雲店",
+        "address": "南投縣竹山鎮中和路１２之１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6641076101255,
+          23.757954990001
+        ],
+        "type": "Point"
+      },
+      "id": "4780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4783",
+        "title": "台中嶺東店",
+        "address": "台中市南屯區嶺東路２號(幹偉樓B１)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6105862529705,
+          24.1375823135314
+        ],
+        "type": "Point"
+      },
+      "id": "4783"
     },
     {
       "type": "Feature",

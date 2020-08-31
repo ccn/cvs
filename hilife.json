@@ -1221,6 +1221,7 @@
 {"id":"4723","name":"台中夜市店","phone":"(04)22850579","latitude":24.1305804446907,"longitude":120.68411305765,"address":"台中市南區忠孝路１９３號地下一樓至二樓","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","recreation","restroom"],"City":"台中市","Town":"南區"}
 {"id":"4724","name":"台南長中店","phone":"(06)2340277","latitude":22.9890151497615,"longitude":120.2223398660933,"address":"台南市東區林森路二段７９號","depository":"","equipment":["atm","coffee"],"City":"台南市","Town":"東區"}
 {"id":"4726","name":"大安新台大店","phone":"(02)23620819","latitude":25.0179392473224,"longitude":121.5402110020272,"address":"台北市大安區羅斯福路四段１號","depository":"冷凍,冷藏,空調,常溫","equipment":[],"City":"台北市","Town":"大安區"}
+{"id":"4727","name":"三星聖嘉民店","phone":"(03)9890053","latitude":24.6652361223683,"longitude":121.702899316832,"address":"宜蘭縣三星鄉三星路二段２６５巷１００號","depository":"","equipment":[],"City":"宜蘭縣","Town":"三星鄉"}
 {"id":"4728","name":"中山國賓店","phone":"(02)25620236","latitude":25.0570208842299,"longitude":121.523822065558,"address":"台北市中山區中山北路二段６５巷６號１、２樓","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"台北市","Town":"中山區"}
 {"id":"4730","name":"竹山集山店","phone":"(049)2659746","latitude":23.7581674402253,"longitude":120.6847645326627,"address":"南投縣竹山鎮祖師街１５號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"南投縣","Town":"竹山鎮"}
 {"id":"4731","name":"萬巒教堂店","phone":"(08)7830013","latitude":22.595126533279,"longitude":120.6104846997971,"address":"屏東縣萬巒鄉萬金村萬德路２號及萬興路１５號及１７號全","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"屏東縣","Town":"萬巒鄉"}
@@ -1240,8 +1241,11 @@
 {"id":"4757","name":"新竹水仙店","phone":"(03)6662170","latitude":24.757069684984,"longitude":121.0199684471131,"address":"新竹市東區園區二路３２５號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"新竹市","Town":"東區"}
 {"id":"4758","name":"桃園興業店","phone":"(03)3250262","latitude":25.0158487843931,"longitude":121.311334635582,"address":"桃園市桃園區大興路１７２號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"桃園市","Town":"桃園區"}
 {"id":"4760","name":"新竹廣場店","phone":"(03)5210063","latitude":24.8019267336532,"longitude":120.9708434949191,"address":"新竹市東區林森路２號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"新竹市","Town":"東區"}
+{"id":"4764","name":"八里大船店","phone":"()","latitude":25.1445971343302,"longitude":121.3972196009367,"address":"新北市八里區商港路６、８、１０號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"新北市","Town":"八里區"}
 {"id":"4768","name":"石岡萬仙店","phone":"()","latitude":24.2717453674107,"longitude":120.7909683195154,"address":"台中市石岡區萬仙街４５號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"台中市","Town":"石岡區"}
 {"id":"4771","name":"左營正心店","phone":"(07)5506563","latitude":22.6650000519969,"longitude":120.3042151602361,"address":"高雄市左營區正心街１０２號１+２樓","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"高雄市","Town":"左營區"}
+{"id":"4780","name":"竹山南雲店","phone":"()","latitude":23.757954990001,"longitude":120.6641076101255,"address":"南投縣竹山鎮中和路１２之１號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":[],"City":"南投縣","Town":"竹山鎮"}
+{"id":"4783","name":"台中嶺東店","phone":"()","latitude":24.1375823135314,"longitude":120.6105862529705,"address":"台中市南屯區嶺東路２號(幹偉樓B１)","depository":"","equipment":[],"City":"台中市","Town":"南屯區"}
 {"id":"A067","name":"北市社正店","phone":"(02)28163841","latitude":25.0886242510478,"longitude":121.509178076057,"address":"台北市士林區社正路２７號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","recreation","wifi"],"City":"台北市","Town":"士林區"}
 {"id":"A163","name":"北市社子店","phone":"(02)28161783","latitude":25.087535,"longitude":121.507013,"address":"台北市士林區社子街６３巷２號","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","recreation","wifi"],"City":"台北市","Town":"士林區"}
 {"id":"A171","name":"北縣金龍店","phone":"(02)26293141","latitude":25.1758931243822,"longitude":121.457151810702,"address":"新北市淡水區水源街２段１９４號一樓及地下","depository":"冷凍,冷藏,空調,常溫,酒類","equipment":["atm","coffee","photo","recreation","restroom","wifi"],"City":"新北市","Town":"淡水區"}
