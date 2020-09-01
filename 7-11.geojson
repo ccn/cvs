@@ -19283,23 +19283,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "142858",
-        "title": "風獅爺",
-        "address": "金門縣金湖鎮瓊林里中山路8之6號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          118.362466,
-          24.441735
-        ],
-        "type": "Point"
-      },
-      "id": "142858"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "142869",
         "title": "澎衛",
         "address": "澎湖縣馬公市西衛里光復路408號",
@@ -44938,13 +44921,13 @@
       "properties": {
         "id": "184863",
         "title": "四湖",
-        "address": "雲林縣四湖鄉村中山東路113號",
+        "address": "雲林縣四湖鄉四湖村中山東路113號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.225899,
-          23.637429
+          0,
+          0
         ],
         "type": "Point"
       },
