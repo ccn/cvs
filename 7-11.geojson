@@ -64265,6 +64265,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207207",
+        "title": "捷心",
+        "address": "高雄市前鎮區中山二路268-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.30527,
+          22.613871
+        ],
+        "type": "Point"
+      },
+      "id": "207207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207218",
         "title": "頂安",
         "address": "台北市大安區大安路一段67號1樓",
@@ -65230,6 +65247,23 @@
         "type": "Point"
       },
       "id": "208130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208174",
+        "title": "芹壁",
+        "address": "連江縣北竿鄉芹壁村48號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.982384,
+          26.224281
+        ],
+        "type": "Point"
+      },
+      "id": "208174"
     },
     {
       "type": "Feature",
@@ -66475,6 +66509,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209454",
+        "title": "溫莎",
+        "address": "嘉義縣民雄鄉神農路129之10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.471434,
+          23.5563
+        ],
+        "type": "Point"
+      },
+      "id": "209454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209498",
         "title": "民悅",
         "address": "新北市蘆洲區民族路316.318號",
@@ -66709,6 +66760,23 @@
         "type": "Point"
       },
       "id": "209904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210351",
+        "title": "金門醫院",
+        "address": "金門縣金湖鎮復興路2-1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210351"
     },
     {
       "type": "Feature",
