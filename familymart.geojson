@@ -689,25 +689,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012168",
-        "title": "全家埔里埔榮店",
-        "address": "南投縣埔里鎮中山路一段237之7號1樓",
-        "post": "545",
-        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Parking,Rest,oneice,twoice,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.99308,
-          23.978547
-        ],
-        "type": "Point"
-      },
-      "id": "012168"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012220",
         "title": "全家豐禾店",
         "address": "台北市松山區民生東路三段130巷5弄2號",
@@ -6043,25 +6024,6 @@
         "type": "Point"
       },
       "id": "013965"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "013969",
-        "title": "全家大園航園店",
-        "address": "桃園市大園區中正東路338號",
-        "post": "337",
-        "all": "SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.207514,
-          25.060048
-        ],
-        "type": "Point"
-      },
-      "id": "013969"
     },
     {
       "type": "Feature",
@@ -23428,25 +23390,6 @@
         "type": "Point"
       },
       "id": "016361"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016362",
-        "title": "全家新莊公所店",
-        "address": "新北市新莊區中正路255號1樓,2樓",
-        "post": "242",
-        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.449935,
-          25.035499
-        ],
-        "type": "Point"
-      },
-      "id": "016362"
     },
     {
       "type": "Feature",
@@ -48645,25 +48588,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018335",
-        "title": "全家汐止遠雄二店",
-        "address": "新北市汐止區新台五路一段99號B1樓",
-        "post": "221",
-        "all": "SWEETPOTATO,Rpotato",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.64824782,
-          25.06161993
-        ],
-        "type": "Point"
-      },
-      "id": "018335"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018336",
         "title": "全家新店復興店",
         "address": "新北市新店區民權路132號1樓",
@@ -66011,25 +65935,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019528",
-        "title": "全家汐止遠雄店",
-        "address": "新北市汐止區新台五路一段93號B1樓B11300號",
-        "post": "221",
-        "all": "SWEETPOTATO,WiFi,icecream,oneice,Kantoni",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.64778112,
-          25.06159322
-        ],
-        "type": "Point"
-      },
-      "id": "019528"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019529",
         "title": "全家立賢店",
         "address": "台北市北投區承德路七段290號",
@@ -66140,6 +66045,25 @@
         "type": "Point"
       },
       "id": "019536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019537",
+        "title": "全家埔里埔榮店",
+        "address": "南投縣埔里鎮中山路一段237之7號1樓",
+        "post": "545",
+        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Parking,Rest,oneice,twoice,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.99308,
+          23.978547
+        ],
+        "type": "Point"
+      },
+      "id": "019537"
     },
     {
       "type": "Feature",
@@ -68329,6 +68253,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019674",
+        "title": "全家新北科店",
+        "address": "台北市大安區新生南路一段1號光華樓1樓部分空間",
+        "post": "106",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.533139,
+          25.04423
+        ],
+        "type": "Point"
+      },
+      "id": "019674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019677",
         "title": "全家桃園建國店",
         "address": "桃園市桃園區延平路135之1號1樓",
@@ -70001,6 +69944,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019993",
+        "title": "全家大園航園店",
+        "address": "桃園市大園區中正東路338號",
+        "post": "337",
+        "all": "SWEETPOTATO,WiFi,Parking,Toilet,Rest,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.207514,
+          25.060048
+        ],
+        "type": "Point"
+      },
+      "id": "019993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019997",
         "title": "全家鹿草福祿店",
         "address": "嘉義縣鹿草鄉西井村鹿草路290號,290號附1",
@@ -70035,6 +69997,25 @@
         "type": "Point"
       },
       "id": "019998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020000",
+        "title": "全家新莊公所店",
+        "address": "新北市新莊區中正路255號1樓,2樓",
+        "post": "242",
+        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.449935,
+          25.035499
+        ],
+        "type": "Point"
+      },
+      "id": "020000"
     },
     {
       "type": "Feature",
@@ -70168,6 +70149,44 @@
         "type": "Point"
       },
       "id": "020009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020010",
+        "title": "全家汐止新遠雄店",
+        "address": "新北市汐止區新台五路一段93號地下一層之2",
+        "post": "221",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.64778112,
+          25.06159322
+        ],
+        "type": "Point"
+      },
+      "id": "020010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020011",
+        "title": "全家新遠雄二店",
+        "address": "新北市汐止區新台五路一段97號地下一層之6",
+        "post": "221",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.64809225,
+          25.06162115
+        ],
+        "type": "Point"
+      },
+      "id": "020011"
     },
     {
       "type": "Feature",
