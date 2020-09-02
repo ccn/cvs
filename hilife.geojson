@@ -7708,7 +7708,7 @@
       "properties": {
         "id": "3396",
         "title": "中縣中冠店",
-        "address": "台中市后里區甲后路８９７號",
+        "address": "台中市后里區甲后路二段４２９號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -19419,6 +19419,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4598",
+        "title": "佳里進學店",
+        "address": "台南市佳里區進學路２５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.1830981809358,
+          23.1638239993745
+        ],
+        "type": "Point"
+      },
+      "id": "4598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4599",
         "title": "土城城生店",
         "address": "新北市土城區裕生路８６巷２號及８６巷４號",
@@ -20435,6 +20452,23 @@
         "type": "Point"
       },
       "id": "4688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4689",
+        "title": "台南圓滿店",
+        "address": "台南市南區國民路２６８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2110757772563,
+          22.9703357624199
+        ],
+        "type": "Point"
+      },
+      "id": "4689"
     },
     {
       "type": "Feature",
