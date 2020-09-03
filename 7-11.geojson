@@ -41298,23 +41298,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181635",
-        "title": "何藥局",
-        "address": "台中市北屯區東山路一段306-1號1.2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.720498,
-          24.175732
-        ],
-        "type": "Point"
-      },
-      "id": "181635"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181657",
         "title": "合興",
         "address": "彰化縣埤頭鄉斗苑西路406號",
@@ -69344,6 +69327,23 @@
         "type": "Point"
       },
       "id": "215932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215987",
+        "title": "環東",
+        "address": "台中市北屯區東山路一段306-1號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.720498,
+          24.175732
+        ],
+        "type": "Point"
+      },
+      "id": "215987"
     },
     {
       "type": "Feature",
