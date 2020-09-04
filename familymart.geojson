@@ -66904,25 +66904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019590",
-        "title": "全家蘆竹奉化店",
-        "address": "桃園市蘆竹區奉化路36號,38號,南順一街63號",
-        "post": "338",
-        "all": "WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.28561,
-          25.041041
-        ],
-        "type": "Point"
-      },
-      "id": "019590"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019591",
         "title": "全家龜山大傳店",
         "address": "桃園市龜山區大同路232號1樓,2樓",
@@ -70244,6 +70225,25 @@
         "type": "Point"
       },
       "id": "020017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020020",
+        "title": "全家蘆竹奉化店",
+        "address": "桃園市蘆竹區奉化路36號,38號,南順一街63號",
+        "post": "338",
+        "all": "WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.28561,
+          25.041041
+        ],
+        "type": "Point"
+      },
+      "id": "020020"
     },
     {
       "type": "Feature",
