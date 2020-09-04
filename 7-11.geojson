@@ -52790,23 +52790,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "193362",
-        "title": "東尚",
-        "address": "苗栗縣頭份市東民路163號及和平路251號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.902667,
-          24.686928
-        ],
-        "type": "Point"
-      },
-      "id": "193362"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "193384",
         "title": "建綸",
         "address": "台北市大安區仁愛路四段151巷33號忠孝東路四段216巷32弄19號21號",
@@ -65234,6 +65217,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208152",
+        "title": "基山",
+        "address": "新北市瑞芳區汽車路22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208174",
         "title": "芹壁",
         "address": "連江縣北竿鄉芹壁村48號",
@@ -69327,6 +69327,23 @@
         "type": "Point"
       },
       "id": "215932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215965",
+        "title": "東尚",
+        "address": "苗栗縣頭份市東民路163號及和平路251號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.902667,
+          24.686928
+        ],
+        "type": "Point"
+      },
+      "id": "215965"
     },
     {
       "type": "Feature",
