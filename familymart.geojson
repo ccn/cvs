@@ -54953,25 +54953,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018767",
-        "title": "全家大林內林店",
-        "address": "嘉義縣大林鎮內林里229-1號",
-        "post": "622",
-        "all": "SWEETPOTATO,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.488147,
-          23.612766999
-        ],
-        "type": "Point"
-      },
-      "id": "018767"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018768",
         "title": "全家金安店",
         "address": "台北市中正區羅斯福路三段8號1,2樓",
@@ -70244,6 +70225,25 @@
         "type": "Point"
       },
       "id": "020020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020023",
+        "title": "全家大林內林店",
+        "address": "嘉義縣大林鎮內林里229-1號",
+        "post": "622",
+        "all": "SWEETPOTATO,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.488147,
+          23.612766999
+        ],
+        "type": "Point"
+      },
+      "id": "020023"
     },
     {
       "type": "Feature",
