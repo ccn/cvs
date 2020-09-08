@@ -66679,6 +66679,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209786",
+        "title": "興中街",
+        "address": "台中市新社區興中街90-11號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "209786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209823",
         "title": "東睿",
         "address": "新竹縣竹東鎮北興路三段446號1樓",
@@ -66760,6 +66777,23 @@
         "type": "Point"
       },
       "id": "210351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210432",
+        "title": "新北科",
+        "address": "台北市大安區新生南路一段3號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210432"
     },
     {
       "type": "Feature",
