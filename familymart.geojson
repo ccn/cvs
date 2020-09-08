@@ -70320,6 +70320,25 @@
         "type": "Point"
       },
       "id": "020037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020038",
+        "title": "全家台一宿舍店",
+        "address": "台北市大安區羅斯福路四段1號台大大一女北側餐廳",
+        "post": "106",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.533648,
+          25.017049
+        ],
+        "type": "Point"
+      },
+      "id": "020038"
     }
   ]
 }
