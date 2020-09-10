@@ -141,6 +141,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "110208",
+        "title": "集寶",
+        "address": "南投縣集集鎮八張街75號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.792493,
+          23.828049
+        ],
+        "type": "Point"
+      },
+      "id": "110208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "110219",
         "title": "國寶",
         "address": "南投縣草屯鎮中正路557之26號",
@@ -2857,6 +2874,23 @@
         "type": "Point"
       },
       "id": "113665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "113687",
+        "title": "六合",
+        "address": "南投縣水里鄉民生路175號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.855597,
+          23.810789
+        ],
+        "type": "Point"
+      },
+      "id": "113687"
     },
     {
       "type": "Feature",
@@ -7532,6 +7566,23 @@
         "type": "Point"
       },
       "id": "122430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "122441",
+        "title": "水社",
+        "address": "南投縣魚池鄉中興路32之3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.911629,
+          23.865664
+        ],
+        "type": "Point"
+      },
+      "id": "122441"
     },
     {
       "type": "Feature",
@@ -13078,6 +13129,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "131825",
+        "title": "日月潭",
+        "address": "南投縣魚池鄉水社村中山路118號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.91173694385401,
+          23.8665818191683
+        ],
+        "type": "Point"
+      },
+      "id": "131825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "131836",
         "title": "蓮圓",
         "address": "花蓮縣花蓮市中山路891號893號",
@@ -17239,6 +17307,23 @@
         "type": "Point"
       },
       "id": "139069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "139070",
+        "title": "水里",
+        "address": "南投縣水里鄉中山路一段63號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.857239,
+          23.807297
+        ],
+        "type": "Point"
+      },
+      "id": "139070"
     },
     {
       "type": "Feature",
@@ -24859,6 +24944,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "153951",
+        "title": "大埤",
+        "address": "雲林縣大埤鄉南和村6鄰民生路32號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.42814,
+          23.644563
+        ],
+        "type": "Point"
+      },
+      "id": "153951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "153973",
         "title": "修齊",
         "address": "台南市北區成功路54號",
@@ -26385,6 +26487,23 @@
         "type": "Point"
       },
       "id": "155577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "155588",
+        "title": "新車埕",
+        "address": "南投縣水里鄉車埕村民權巷110之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.866146,
+          23.833307
+        ],
+        "type": "Point"
+      },
+      "id": "155588"
     },
     {
       "type": "Feature",
@@ -28153,6 +28272,23 @@
         "type": "Point"
       },
       "id": "160122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "160144",
+        "title": "集利",
+        "address": "南投縣集集鎮吳厝里民生路65-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.784798,
+          23.828104
+        ],
+        "type": "Point"
+      },
+      "id": "160144"
     },
     {
       "type": "Feature",
@@ -39207,6 +39343,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "180159",
+        "title": "明城",
+        "address": "彰化縣大城鄉東城村北平路76號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.322429565769,
+          23.855797775584197
+        ],
+        "type": "Point"
+      },
+      "id": "180159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "180171",
         "title": "欣二林",
         "address": "彰化縣二林鎮大成路一段236號",
@@ -49101,6 +49254,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "188348",
+        "title": "鑫魚池",
+        "address": "南投縣魚池鄉魚池街799號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.929851,
+          23.901178
+        ],
+        "type": "Point"
+      },
+      "id": "188348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "188360",
         "title": "新東勢",
         "address": "屏東縣內埔鄉東勢村大同路三段2號6號1樓",
@@ -56700,6 +56870,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196578",
+        "title": "水社棧",
+        "address": "南投縣魚池鄉中山路163號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.911139,
+          23.866462
+        ],
+        "type": "Point"
+      },
+      "id": "196578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196590",
         "title": "一品苑",
         "address": "桃園市桃園區同德六街103號",
@@ -61460,6 +61647,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200295",
+        "title": "鑫中潭",
+        "address": "南投縣魚池鄉新城村通文巷6之28號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.927409,
+          23.905373
+        ],
+        "type": "Point"
+      },
+      "id": "200295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200309",
         "title": "羅盛",
         "address": "台北市文山區羅斯福路六段235號237號1樓2樓",
@@ -61575,6 +61779,23 @@
         "type": "Point"
       },
       "id": "200387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200398",
+        "title": "大琬",
+        "address": "雲林縣大埤鄉中正路19號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.432548,
+          23.645154
+        ],
+        "type": "Point"
+      },
+      "id": "200398"
     },
     {
       "type": "Feature",
@@ -64346,6 +64567,23 @@
         "type": "Point"
       },
       "id": "207540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207562",
+        "title": "麥中",
+        "address": "雲林縣麥寮鄉麥豐村中山路437巷1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.246194,
+          23.750419
+        ],
+        "type": "Point"
+      },
+      "id": "207562"
     },
     {
       "type": "Feature",
@@ -69892,6 +70130,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "840101",
+        "title": "土庫",
+        "address": "雲林縣土庫鎮建國路164號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.393262,
+          23.679009
+        ],
+        "type": "Point"
+      },
+      "id": "840101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "840488",
         "title": "第一",
         "address": "台中市太平區中山路四段112-2號",
@@ -71129,6 +71384,23 @@
         "type": "Point"
       },
       "id": "863458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "863551",
+        "title": "麥寮",
+        "address": "雲林縣麥寮鄉麥津村中山路196號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.256322,
+          23.748619
+        ],
+        "type": "Point"
+      },
+      "id": "863551"
     },
     {
       "type": "Feature",
@@ -73190,6 +73462,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "881386",
+        "title": "快來",
+        "address": "雲林縣麥寮鄉橋頭村橋頭路234號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.273958,
+          23.796933
+        ],
+        "type": "Point"
+      },
+      "id": "881386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "881641",
         "title": "彰基",
         "address": "彰化縣二林鎮大成路一段571號",
@@ -73288,6 +73577,23 @@
         "type": "Point"
       },
       "id": "881951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "882079",
+        "title": "龍寶",
+        "address": "南投縣水里鄉民權路170號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.853713,
+          23.818132
+        ],
+        "type": "Point"
+      },
+      "id": "882079"
     },
     {
       "type": "Feature",
@@ -74478,6 +74784,23 @@
         "type": "Point"
       },
       "id": "890704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "890793",
+        "title": "六輕",
+        "address": "雲林縣麥寮鄉中興村仁德西路二段567號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.225517,
+          23.797516
+        ],
+        "type": "Point"
+      },
+      "id": "890793"
     },
     {
       "type": "Feature",
@@ -76352,6 +76675,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "901684",
+        "title": "馬光",
+        "address": "雲林縣土庫鎮南平里馬光路67號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.356635590822,
+          23.7056142519423
+        ],
+        "type": "Point"
+      },
+      "id": "901684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "901710",
         "title": "偉嘉",
         "address": "新北市板橋區文化路一段270巷3弄2號",
@@ -76654,6 +76994,23 @@
         "type": "Point"
       },
       "id": "902540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "902562",
+        "title": "佳軒",
+        "address": "南投縣魚池鄉魚池街350號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.937513,
+          23.896873
+        ],
+        "type": "Point"
+      },
+      "id": "902562"
     },
     {
       "type": "Feature",
@@ -83254,6 +83611,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "941741",
+        "title": "瑞峰",
+        "address": "南投縣水里鄉北埔村中山路一段540號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.850727,
+          23.811614
+        ],
+        "type": "Point"
+      },
+      "id": "941741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "941752",
         "title": "仁冠",
         "address": "桃園市大溪區仁和路二段319號321號",
@@ -86076,6 +86450,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "951922",
+        "title": "麥鄉",
+        "address": "雲林縣麥寮鄉中興路78-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.252146,
+          23.752986
+        ],
+        "type": "Point"
+      },
+      "id": "951922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "951966",
         "title": "仁伯",
         "address": "台南市仁德區後壁里德安路188號",
@@ -86327,6 +86718,23 @@
         "type": "Point"
       },
       "id": "952338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "952349",
+        "title": "永茂",
+        "address": "雲林縣麥寮鄉中興村豐安路951號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.246331,
+          23.797162
+        ],
+        "type": "Point"
+      },
+      "id": "952349"
     },
     {
       "type": "Feature",
@@ -88163,6 +88571,23 @@
         "type": "Point"
       },
       "id": "958602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "958635",
+        "title": "富登",
+        "address": "雲林縣麥寮鄉施厝村239號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.280015,
+          23.795475
+        ],
+        "type": "Point"
+      },
+      "id": "958635"
     },
     {
       "type": "Feature",
@@ -91788,6 +92213,57 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "969037",
+        "title": "伊達邵",
+        "address": "南投縣魚池鄉日月村義勇街89號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.930615,
+          23.84843
+        ],
+        "type": "Point"
+      },
+      "id": "969037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "969060",
+        "title": "麥豐",
+        "address": "雲林縣麥寮鄉新興路27之5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.251367,
+          23.746105
+        ],
+        "type": "Point"
+      },
+      "id": "969060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "969071",
+        "title": "三勝",
+        "address": "雲林縣麥寮鄉三盛村仁德西路一段21號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.265406,
+          23.796986
+        ],
+        "type": "Point"
+      },
+      "id": "969071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "970026",
         "title": "加吉利",
         "address": "彰化縣田中鎮中正路276號",
@@ -92923,6 +93399,23 @@
         "type": "Point"
       },
       "id": "971557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "971568",
+        "title": "後安",
+        "address": "雲林縣麥寮鄉後安村後安路201之13號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.235679,
+          23.787788
+        ],
+        "type": "Point"
+      },
+      "id": "971568"
     },
     {
       "type": "Feature",
