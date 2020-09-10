@@ -14326,8 +14326,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.207994,
-          24.900312
+          121.207950575029,
+          24.9002841922479
         ],
         "type": "Point"
       },
@@ -19317,6 +19317,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4589",
+        "title": "員林大道店",
+        "address": "彰化縣員林市南平里復興二街１２０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5656844236838,
+          23.9715774068357
+        ],
+        "type": "Point"
+      },
+      "id": "4589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4590",
         "title": "神岡大三元店",
         "address": "台中市神岡區大豐路四段２２５號",
@@ -21149,6 +21166,23 @@
         "type": "Point"
       },
       "id": "4764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4765",
+        "title": "大園中正東店",
+        "address": "桃園市大園區中正東路三段２３３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2278399138222,
+          25.0144440610621
+        ],
+        "type": "Point"
+      },
+      "id": "4765"
     },
     {
       "type": "Feature",
