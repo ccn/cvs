@@ -27574,25 +27574,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016755",
-        "title": "全家土城美仁店",
-        "address": "新北市土城區學府路二段21號1樓",
-        "post": "236",
-        "all": "SWEETPOTATO,WiFi,Rest,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.449213,
-          24.981776
-        ],
-        "type": "Point"
-      },
-      "id": "016755"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016756",
         "title": "全家新竹頎邦二店",
         "address": "新竹市東區力行五路3號2樓(新竹科學園區)",
@@ -58487,25 +58468,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019023",
-        "title": "全家高雄森永店",
-        "address": "高雄市苓雅區林森二路22號",
-        "post": "802",
-        "all": "SWEETPOTATO,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.308368,
-          22.616368
-        ],
-        "type": "Point"
-      },
-      "id": "019023"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019025",
         "title": "全家高雄林心店",
         "address": "高雄市前鎮區一心二路157號1樓",
@@ -67740,6 +67702,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019640",
+        "title": "全家大肚龍德店",
+        "address": "台中市大肚區太平路43巷70號1樓",
+        "post": "432",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.574743,
+          24.172083
+        ],
+        "type": "Point"
+      },
+      "id": "019640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019641",
         "title": "全家樹林新育店",
         "address": "新北市樹林區育英街53號1樓",
@@ -68046,15 +68027,15 @@
       "properties": {
         "id": "019663",
         "title": "全家三重大仁店",
-        "address": "新北市三重區大同北路132巷8號1樓",
+        "address": "新北市三重區國隆路31號1樓",
         "post": "241",
         "all": null,
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.492326,
-          25.064721
+          121.49233,
+          25.064606
         ],
         "type": "Point"
       },
@@ -68572,6 +68553,25 @@
         "type": "Point"
       },
       "id": "019696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019697",
+        "title": "全家高雄新美店",
+        "address": "高雄市鼓山區美術南三路203號1樓",
+        "post": "804",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.287619,
+          22.652924
+        ],
+        "type": "Point"
+      },
+      "id": "019697"
     },
     {
       "type": "Feature",
@@ -70210,6 +70210,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020018",
+        "title": "全家土城美仁店",
+        "address": "新北市土城區學府路二段21號1樓",
+        "post": "236",
+        "all": "SWEETPOTATO,WiFi,Rest,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.449213,
+          24.981776
+        ],
+        "type": "Point"
+      },
+      "id": "020018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020020",
         "title": "全家蘆竹奉化店",
         "address": "桃園市蘆竹區奉化路36號,38號,南順一街63號",
@@ -70301,6 +70320,25 @@
         "type": "Point"
       },
       "id": "020026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020032",
+        "title": "全家高雄森永店",
+        "address": "高雄市苓雅區林森二路22號",
+        "post": "802",
+        "all": "SWEETPOTATO,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308368,
+          22.616368
+        ],
+        "type": "Point"
+      },
+      "id": "020032"
     },
     {
       "type": "Feature",
