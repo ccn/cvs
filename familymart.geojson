@@ -1909,7 +1909,7 @@
         "title": "全家龍潭中興店",
         "address": "桃園市龍潭區中興村中興路65號1樓",
         "post": "325",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,Preorder",
+        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -5728,7 +5728,7 @@
         "title": "全家霧峰吉峰店",
         "address": "台中市霧峰區民生路353號",
         "post": "413",
-        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Kantoni,Preorder,FishPatty",
+        "all": "SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder,FishPatty",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -8654,7 +8654,7 @@
         "title": "全家天成店",
         "address": "台北市士林區天母東路36號之5,之6",
         "post": "111",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder",
+        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -14031,7 +14031,7 @@
         "title": "全家烏日成嶺店",
         "address": "台中市烏日區學田路719號",
         "post": "414",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,Kantoni,Preorder",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -38712,7 +38712,7 @@
         "title": "全家羅東北城店",
         "address": "宜蘭縣羅東鎮四育路71號",
         "post": "265",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -40023,7 +40023,7 @@
         "title": "全家三重興南店",
         "address": "新北市三重區中央南路8號1樓",
         "post": "241",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,COFFEEDeliver,Preorder",
+        "all": "SWEETPOTATO,Photo,WiFi,Rest,COFFEEDeliver,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -42322,7 +42322,7 @@
         "title": "全家台中白金店",
         "address": "台中市西屯區工業區一路70號",
         "post": "407",
-        "all": "SWEETPOTATO,Toilet,Kantoni,Preorder,SCoffee",
+        "all": "SWEETPOTATO,icecream,Toilet,oneice,Kantoni,Preorder,SCoffee",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -68029,7 +68029,7 @@
         "title": "全家三重大仁店",
         "address": "新北市三重區國隆路31號1樓",
         "post": "241",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -68086,7 +68086,7 @@
         "title": "全家台灣大道店",
         "address": "台中市中區台灣大道一段531號",
         "post": "400",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -68561,7 +68561,7 @@
         "title": "全家高雄新美店",
         "address": "高雄市鼓山區美術南三路203號1樓",
         "post": "804",
-        "all": null,
+        "all": "LCoffee",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -68618,7 +68618,7 @@
         "title": "全家龍潭魯冰花店",
         "address": "桃園市龍潭區中正路三林段500號",
         "post": "325",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -69036,7 +69036,7 @@
         "title": "全家汐止大同店",
         "address": "新北市汐止區大同路三段269,271號",
         "post": "221",
-        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -69207,7 +69207,7 @@
         "title": "全家龜山文德店",
         "address": "桃園市龜山區文德路76號1樓",
         "post": "333",
-        "all": "LCoffee",
+        "all": "icecream,oneice,twoice,LCoffee",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -69226,7 +69226,7 @@
         "title": "全家馬祖福運店",
         "address": "連江縣南竿鄉福沃村69號1樓",
         "post": "209",
-        "all": null,
+        "all": "icecream,oneice,twoice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -69625,7 +69625,7 @@
         "title": "全家大東店",
         "address": "台北市士林區大東路63號1樓",
         "post": "111",
-        "all": null,
+        "all": "icecream,oneice,twoice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -70043,7 +70043,7 @@
         "title": "全家淡水義山店",
         "address": "新北市淡水區新市一路一段103號1樓",
         "post": "251",
-        "all": "SWEETPOTATO,WiFi,Rest,veg,COFFEEDeliver,SUNMAI,Kantoni,Preorder",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,veg,oneice,COFFEEDeliver,SUNMAI,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -70119,7 +70119,7 @@
         "title": "全家汐止新遠雄店",
         "address": "新北市汐止區新台五路一段93號地下一層之2",
         "post": "221",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
