@@ -39741,8 +39741,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.239998,
+          23.040069
         ],
         "type": "Point"
       },
@@ -40603,13 +40603,13 @@
       "properties": {
         "id": "181118",
         "title": "德寶",
-        "address": "台北市士林區德行東路109巷102弄15號1樓",
+        "address": "台北市士林區忠誠路二段50巷12號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.529527,
-          25.110892
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -43606,23 +43606,6 @@
         "type": "Point"
       },
       "id": "183790"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "183804",
-        "title": "吉濱",
-        "address": "花蓮縣吉安鄉南濱路一段651號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.59206,
-          23.927347
-        ],
-        "type": "Point"
-      },
-      "id": "183804"
     },
     {
       "type": "Feature",
@@ -56401,8 +56384,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.448291,
+          23.480679
         ],
         "type": "Point"
       },
@@ -65795,6 +65778,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208657",
+        "title": "埔暉",
+        "address": "嘉義縣中埔鄉和美村中山路五段450號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.47012,
+          23.451552
+        ],
+        "type": "Point"
+      },
+      "id": "208657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208679",
         "title": "勁賀",
         "address": "桃園市蘆竹區光明路二段139號",
@@ -66737,8 +66737,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.803285,
+          24.226672
         ],
         "type": "Point"
       },
@@ -66862,6 +66862,23 @@
         "type": "Point"
       },
       "id": "210144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210203",
+        "title": "故宮",
+        "address": "嘉義縣太保市東勢里故宮大道779號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.293731,
+          23.468824
+        ],
+        "type": "Point"
+      },
+      "id": "210203"
     },
     {
       "type": "Feature",
@@ -69548,6 +69565,23 @@
         "type": "Point"
       },
       "id": "216049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216083",
+        "title": "吉濱",
+        "address": "花蓮縣吉安鄉南濱路一段651號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.59206,
+          23.927347
+        ],
+        "type": "Point"
+      },
+      "id": "216083"
     },
     {
       "type": "Feature",
@@ -97422,8 +97456,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.559929,
+          24.988586
         ],
         "type": "Point"
       },
@@ -100839,8 +100873,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.45914,
+          23.798382
         ],
         "type": "Point"
       },
