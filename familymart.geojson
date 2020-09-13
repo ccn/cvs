@@ -67721,25 +67721,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019641",
-        "title": "全家樹林新育店",
-        "address": "新北市樹林區育英街53號1樓",
-        "post": "238",
-        "all": "SWEETPOTATO,WiFi,Rest,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.420819,
-          24.989219
-        ],
-        "type": "Point"
-      },
-      "id": "019641"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019642",
         "title": "全家樹林東興店",
         "address": "新北市樹林區東興街22號1樓",
@@ -69754,25 +69735,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019970",
-        "title": "全家台中金可店",
-        "address": "台中市西區五權路205號",
-        "post": "403",
-        "all": "SWEETPOTATO,WiFi,Rest,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.674985,
-          24.149319
-        ],
-        "type": "Point"
-      },
-      "id": "019970"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019971",
         "title": "全家三芝吉祥店",
         "address": "新北市三芝區淡金路一段73,75,77號",
@@ -69921,6 +69883,25 @@
         "type": "Point"
       },
       "id": "019993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "019995",
+        "title": "全家台中金可店",
+        "address": "台中市西區五權路205號",
+        "post": "403",
+        "all": "SWEETPOTATO,WiFi,Rest,SUNMAI,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.674985,
+          24.149319
+        ],
+        "type": "Point"
+      },
+      "id": "019995"
     },
     {
       "type": "Feature",
@@ -70225,6 +70206,25 @@
         "type": "Point"
       },
       "id": "020018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020019",
+        "title": "全家樹林新育店",
+        "address": "新北市樹林區育英街53號1樓",
+        "post": "238",
+        "all": "SWEETPOTATO,WiFi,Rest,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.420819,
+          24.989219
+        ],
+        "type": "Point"
+      },
+      "id": "020019"
     },
     {
       "type": "Feature",
