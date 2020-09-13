@@ -6132,8 +6132,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.01174817353,
-          24.8319703947001
+          121.011927881534,
+          24.8318900653881
         ],
         "type": "Point"
       },
@@ -14496,8 +14496,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.260608,
-          24.93791
+          121.2599749986725,
+          24.9390822829581
         ],
         "type": "Point"
       },
@@ -20915,6 +20915,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4737",
+        "title": "竹山前山店",
+        "address": "南投縣竹山鎮前山路一段２０５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6772846625859,
+          23.758249578471
+        ],
+        "type": "Point"
+      },
+      "id": "4737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4738",
         "title": "大寮工業店",
         "address": "高雄市大寮區華中路１號",
@@ -21183,6 +21200,23 @@
         "type": "Point"
       },
       "id": "4765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4766",
+        "title": "新竹玄奘店",
+        "address": "新竹市香山區玄奘路４８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.9418485461981,
+          24.7749670234659
+        ],
+        "type": "Point"
+      },
+      "id": "4766"
     },
     {
       "type": "Feature",
@@ -23014,7 +23048,7 @@
       "geometry": {
         "coordinates": [
           121.276021578601,
-          24.978706107195
+          24.9786842252408
         ],
         "type": "Point"
       },
