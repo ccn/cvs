@@ -62565,23 +62565,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201184",
-        "title": "祥泰",
-        "address": "新北市土城區中山路38號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.425618,
-          24.964254
-        ],
-        "type": "Point"
-      },
-      "id": "201184"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201195",
         "title": "京東",
         "address": "台北市松山區南京東路五段16號1樓",
@@ -66747,6 +66730,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209797",
+        "title": "新安村",
+        "address": "新竹縣竹北市博愛街515號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.010804,
+          24.839604
+        ],
+        "type": "Point"
+      },
+      "id": "209797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209823",
         "title": "東睿",
         "address": "新竹縣竹東鎮北興路三段446號1樓",
@@ -66883,6 +66883,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210258",
+        "title": "員基",
+        "address": "彰化縣員林市莒光路456號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.566988,
+          23.962936
+        ],
+        "type": "Point"
+      },
+      "id": "210258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210351",
         "title": "金門醫院",
         "address": "金門縣金湖鎮復興路2-1號1樓",
@@ -66896,6 +66913,40 @@
         "type": "Point"
       },
       "id": "210351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210432",
+        "title": "新北科",
+        "address": "台北市大安區新生南路一段3號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.535602,
+          25.043441
+        ],
+        "type": "Point"
+      },
+      "id": "210432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211170",
+        "title": "北醫大",
+        "address": "台北市信義區吳興街250號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.562224400032,
+          25.0269868656184
+        ],
+        "type": "Point"
+      },
+      "id": "211170"
     },
     {
       "type": "Feature",
@@ -69412,6 +69463,23 @@
         "type": "Point"
       },
       "id": "215884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215895",
+        "title": "祥泰",
+        "address": "新北市土城區中山路38號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.425618,
+          24.964254
+        ],
+        "type": "Point"
+      },
+      "id": "215895"
     },
     {
       "type": "Feature",
