@@ -13408,8 +13408,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.200718,
-          24.946247
+          121.2004202747994,
+          24.9460427144089
         ],
         "type": "Point"
       },
@@ -21081,6 +21081,23 @@
         "type": "Point"
       },
       "id": "4751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4753",
+        "title": "新園鹽港店",
+        "address": "屏東縣新園鄉光復路１２６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4409890730283,
+          22.4758041838079
+        ],
+        "type": "Point"
+      },
+      "id": "4753"
     },
     {
       "type": "Feature",
