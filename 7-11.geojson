@@ -2113,23 +2113,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112798",
-        "title": "同慶",
-        "address": "宜蘭縣宜蘭市中山路三段203號205號207號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.753257,
-          24.760726
-        ],
-        "type": "Point"
-      },
-      "id": "112798"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112802",
         "title": "六家",
         "address": "新竹縣竹北市福興東路二段105號1樓",
@@ -36283,23 +36266,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171649",
-        "title": "坤耀",
-        "address": "新北市板橋區南門街39號1F",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.457411,
-          25.008582
-        ],
-        "type": "Point"
-      },
-      "id": "171649"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171683",
         "title": "永明",
         "address": "台北市中山區明水路397巷7弄25號1樓",
@@ -63177,6 +63143,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201667",
+        "title": "坤耀",
+        "address": "新北市板橋區南門街39號1F",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.457411,
+          25.008582
+        ],
+        "type": "Point"
+      },
+      "id": "201667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -66118,6 +66101,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208990",
+        "title": "龍平",
+        "address": "高雄市鳳山區文平街210號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.351039,
+          22.643083
+        ],
+        "type": "Point"
+      },
+      "id": "208990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209007",
         "title": "捷安特",
         "address": "台中市西屯區東大路一段999號",
@@ -66458,6 +66458,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209384",
+        "title": "御新",
+        "address": "南投縣草屯鎮中正路1397-6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.689553,
+          23.996892
+        ],
+        "type": "Point"
+      },
+      "id": "209384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209409",
         "title": "德金",
         "address": "台北市中正區八德路一段29號",
@@ -66573,6 +66590,23 @@
         "type": "Point"
       },
       "id": "209502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209546",
+        "title": "鹿成",
+        "address": "台中市沙鹿區光華路394.396號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.566509,
+          24.243415
+        ],
+        "type": "Point"
+      },
+      "id": "209546"
     },
     {
       "type": "Feature",
@@ -66879,6 +66913,23 @@
         "type": "Point"
       },
       "id": "210203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210236",
+        "title": "觀芳",
+        "address": "桃園市觀音區成功路二段903號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.116755,
+          25.050592
+        ],
+        "type": "Point"
+      },
+      "id": "210236"
     },
     {
       "type": "Feature",
@@ -69616,6 +69667,23 @@
         "type": "Point"
       },
       "id": "216016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216038",
+        "title": "同慶",
+        "address": "宜蘭縣宜蘭市中山路三段203號205號207號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.753257,
+          24.760726
+        ],
+        "type": "Point"
+      },
+      "id": "216038"
     },
     {
       "type": "Feature",
@@ -100290,13 +100358,13 @@
       "properties": {
         "id": "996202",
         "title": "聖運",
-        "address": "新北市土城區柑林里明德路二段159號",
+        "address": "新北市土城區明德路二段157.159號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.448094,
-          24.982977
+          0,
+          0
         ],
         "type": "Point"
       },
