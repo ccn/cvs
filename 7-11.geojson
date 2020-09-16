@@ -66883,6 +66883,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210063",
+        "title": "銓國",
+        "address": "新竹縣竹北市中正西路244.246號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.99832,
+          24.842139
+        ],
+        "type": "Point"
+      },
+      "id": "210063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210144",
         "title": "長源",
         "address": "台南市北區長榮路四段181號",
