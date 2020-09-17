@@ -63381,6 +63381,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "206558",
+        "title": "庚院",
+        "address": "桃園市龜山區文化二路11之5號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.365001,
+          25.060463
+        ],
+        "type": "Point"
+      },
+      "id": "206558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "206569",
         "title": "信義路",
         "address": "新北市蘆洲區信義路341號341之1號341之2號341之3號1樓",
