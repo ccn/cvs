@@ -15832,25 +15832,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015535",
-        "title": "全家竹南龍好店",
-        "address": "苗栗縣竹南鎮龍山路二段2號一樓",
-        "post": "350",
-        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.868677,
-          24.695857
-        ],
-        "type": "Point"
-      },
-      "id": "015535"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015542",
         "title": "全家木新店",
         "address": "台北市文山區木新路三段333,335號",
@@ -28870,7 +28851,7 @@
         "title": "全家員林新員山店",
         "address": "彰化縣員林市山腳路三段臨269號",
         "post": "510",
-        "all": "SWEETPOTATO,Photo,WiFi,Parking,Toilet,Rest,Kantoni,Preorder",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,Kantoni,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -44294,25 +44275,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018069",
-        "title": "全家中埔興化店",
-        "address": "嘉義縣中埔鄉富裕路413號",
-        "post": "606",
-        "all": "SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.470349,
-          23.444474
-        ],
-        "type": "Point"
-      },
-      "id": "018069"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018070",
         "title": "全家麥寮德順店",
         "address": "雲林縣麥寮鄉施厝村施厝230號1樓",
@@ -57503,7 +57465,7 @@
         "title": "全家大村茄苳店",
         "address": "彰化縣大村鄉茄苳路二段2號",
         "post": "515",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Preorder",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -66281,7 +66243,7 @@
         "title": "全家台南榮玉店",
         "address": "台南市東區榮譽街61號",
         "post": "701",
-        "all": "LCoffee",
+        "all": "icecream,oneice,LCoffee",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -69279,6 +69241,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019907",
+        "title": "全家三義金美店",
+        "address": "苗栗縣三義鄉廣盛村八股路22-3號",
+        "post": "367",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.766643,
+          24.40639
+        ],
+        "type": "Point"
+      },
+      "id": "019907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019908",
         "title": "全家台中皇居店",
         "address": "台中市西屯區台灣大道三段592號1樓及夾層",
@@ -69735,6 +69716,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019974",
+        "title": "全家湖口力成店",
+        "address": "新竹縣湖口鄉三民南路142號1樓",
+        "post": "303",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.996052,
+          24.865169
+        ],
+        "type": "Point"
+      },
+      "id": "019974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019975",
         "title": "全家宜蘭福泰店",
         "address": "宜蘭縣宜蘭市泰山路83號",
@@ -70153,6 +70153,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020015",
+        "title": "全家朴子樸仔腳店",
+        "address": "嘉義縣朴子市11鄰大同路166號",
+        "post": "613",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.24234,
+          23.461357
+        ],
+        "type": "Point"
+      },
+      "id": "020015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020016",
         "title": "全家成功店",
         "address": "台北市大安區和平東路二段311巷32號",
@@ -70324,6 +70343,63 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020027",
+        "title": "全家潮州樂活店",
+        "address": "屏東縣潮州鎮潮義路598號",
+        "post": "920",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.571376,
+          22.548619
+        ],
+        "type": "Point"
+      },
+      "id": "020027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020028",
+        "title": "全家泰山銘志店",
+        "address": "新北市泰山區明志路二段236號一樓",
+        "post": "243",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.42703663,
+          25.04810542
+        ],
+        "type": "Point"
+      },
+      "id": "020028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020029",
+        "title": "全家中埔興化店",
+        "address": "嘉義縣中埔鄉富裕路413號",
+        "post": "606",
+        "all": "SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.470349,
+          23.444474
+        ],
+        "type": "Point"
+      },
+      "id": "020029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020032",
         "title": "全家高雄森永店",
         "address": "高雄市苓雅區林森二路22號",
@@ -70339,6 +70415,25 @@
         "type": "Point"
       },
       "id": "020032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020034",
+        "title": "全家竹南龍好店",
+        "address": "苗栗縣竹南鎮龍山路二段2號一樓",
+        "post": "350",
+        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.868677,
+          24.695857
+        ],
+        "type": "Point"
+      },
+      "id": "020034"
     },
     {
       "type": "Feature",
