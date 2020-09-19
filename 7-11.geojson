@@ -66883,6 +66883,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209915",
+        "title": "嘉愛",
+        "address": "嘉義市西區仁愛路212號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.443041,
+          23.469264
+        ],
+        "type": "Point"
+      },
+      "id": "209915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209993",
+        "title": "懷治",
+        "address": "新北市板橋區民治街52巷1號.3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.479437,
+          25.033194
+        ],
+        "type": "Point"
+      },
+      "id": "209993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210007",
         "title": "金學",
         "address": "桃園市桃園區國際一路121號",
