@@ -65795,6 +65795,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208680",
+        "title": "有成",
+        "address": "桃園市桃園區大有路6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.32398,
+          25.003783
+        ],
+        "type": "Point"
+      },
+      "id": "208680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208691",
         "title": "欣來義",
         "address": "屏東縣新埤鄉萬安路4-2號",
