@@ -2120,8 +2120,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.538938407213,
-          24.9937351711157
+          121.5390215556924,
+          24.9937132918361
         ],
         "type": "Point"
       },
@@ -5180,8 +5180,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.018001647043,
-          24.8314862175769
+          121.018012375879,
+          24.8313742429322
         ],
         "type": "Point"
       },
@@ -21272,6 +21272,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4788",
+        "title": "淡水國家店",
+        "address": "新北市淡水區新市五路二段５１、５３、５５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.430416144592,
+          25.1998539713872
+        ],
+        "type": "Point"
+      },
+      "id": "4788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
@@ -22985,23 +23002,6 @@
         "type": "Point"
       },
       "id": "F750"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "F751",
-        "title": "八德高城店",
-        "address": "桃園市八德區高城路６８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.276021578601,
-          24.9786842252408
-        ],
-        "type": "Point"
-      },
-      "id": "F751"
     },
     {
       "type": "Feature",
