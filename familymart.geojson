@@ -23489,25 +23489,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016371",
-        "title": "全家里港永樂店",
-        "address": "屏東縣里港鄉永樂路4＆6號",
-        "post": "905",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.493157623302,
-          22.7772944761956
-        ],
-        "type": "Point"
-      },
-      "id": "016371"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016372",
         "title": "全家斗六環中店",
         "address": "雲林縣斗六市中華路275號",
@@ -42751,25 +42732,6 @@
         "type": "Point"
       },
       "id": "017953"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017955",
-        "title": "全家里港豪吉店",
-        "address": "屏東縣里港鄉三和路121之5號",
-        "post": "905",
-        "all": "SWEETPOTATO,icecream,Toilet,oneice,twoice,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.50224,
-          22.809064
-        ],
-        "type": "Point"
-      },
-      "id": "017955"
     },
     {
       "type": "Feature",
@@ -69963,6 +69925,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020002",
+        "title": "全家山上明和店",
+        "address": "台南市山上區明和里明和196-1號",
+        "post": "743",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.350507,
+          23.105068
+        ],
+        "type": "Point"
+      },
+      "id": "020002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020003",
         "title": "全家伸港新全興店",
         "address": "彰化縣伸港鄉興工路736號",
@@ -70529,6 +70510,25 @@
         "type": "Point"
       },
       "id": "020049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020054",
+        "title": "全家台六宿舍店",
+        "address": "台北市中正區徐州路2之2號1F",
+        "post": "100",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.521497,
+          25.041041
+        ],
+        "type": "Point"
+      },
+      "id": "020054"
     }
   ]
 }
