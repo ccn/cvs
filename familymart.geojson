@@ -23489,6 +23489,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "016371",
+        "title": "全家里港永樂店",
+        "address": "屏東縣里港鄉永樂路4＆6號",
+        "post": "905",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.493157623302,
+          22.7772944761956
+        ],
+        "type": "Point"
+      },
+      "id": "016371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "016372",
         "title": "全家斗六環中店",
         "address": "雲林縣斗六市中華路275號",
@@ -42732,6 +42751,25 @@
         "type": "Point"
       },
       "id": "017953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "017955",
+        "title": "全家里港豪吉店",
+        "address": "屏東縣里港鄉三和路121之5號",
+        "post": "905",
+        "all": "SWEETPOTATO,icecream,Toilet,oneice,twoice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.50224,
+          22.809064
+        ],
+        "type": "Point"
+      },
+      "id": "017955"
     },
     {
       "type": "Feature",
