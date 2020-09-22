@@ -50818,23 +50818,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189983",
-        "title": "樂利",
-        "address": "台北市大安區樂利路76號78號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.55183439244699,
-          25.025776861565003
-        ],
-        "type": "Point"
-      },
-      "id": "189983"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189994",
         "title": "新創",
         "address": "高雄市楠梓區創新路1號",
@@ -57210,6 +57193,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196981",
+        "title": "ES2",
+        "address": "新北市樹林區佳園路二段70號-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "196981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197032",
         "title": "明水",
         "address": "台北市中山區明水路636號樂群三路1號",
@@ -62514,23 +62514,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201173",
-        "title": "中義",
-        "address": "高雄市新興區六合一路27號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.312092,
-          22.632201
-        ],
-        "type": "Point"
-      },
-      "id": "201173"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201195",
         "title": "京東",
         "address": "台北市松山區南京東路五段16號1樓",
@@ -66101,6 +66084,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208956",
+        "title": "竹杉",
+        "address": "新竹縣竹北市中山路303號(臨)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208967",
         "title": "新景美",
         "address": "台北市文山區木新路三段147號149號",
@@ -66131,6 +66131,23 @@
         "type": "Point"
       },
       "id": "208978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208989",
+        "title": "四季春",
+        "address": "高雄市楠梓區鳳楠路82號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.331529,
+          22.72268
+        ],
+        "type": "Point"
+      },
+      "id": "208989"
     },
     {
       "type": "Feature",
@@ -66424,6 +66441,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209269",
+        "title": "重陽",
+        "address": "台北市南港區重陽路179號181號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.598628,
+          25.056649
+        ],
+        "type": "Point"
+      },
+      "id": "209269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209270",
         "title": "長洲",
         "address": "新北市蘆洲區長安街25.27號1樓",
@@ -66624,6 +66658,23 @@
         "type": "Point"
       },
       "id": "209502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209535",
+        "title": "高吉",
+        "address": "台南市新市區新和里中正路193號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.291549,
+          23.076506
+        ],
+        "type": "Point"
+      },
+      "id": "209535"
     },
     {
       "type": "Feature",
@@ -66883,6 +66934,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209889",
+        "title": "銘仁堂",
+        "address": "桃園市龍潭區民生路139號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.227267,
+          24.847358
+        ],
+        "type": "Point"
+      },
+      "id": "209889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209904",
         "title": "森泰",
         "address": "台北市中山區林森北路358號360號",
@@ -66964,6 +67032,23 @@
         "type": "Point"
       },
       "id": "210063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210074",
+        "title": "光賢",
+        "address": "台南市中西區中華西路二段600號600-1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.186965,
+          23.004344
+        ],
+        "type": "Point"
+      },
+      "id": "210074"
     },
     {
       "type": "Feature",
@@ -68277,6 +68362,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214319",
+        "title": "樂利",
+        "address": "台北市大安區樂利路76號78號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.55183439244699,
+          25.025776861565003
+        ],
+        "type": "Point"
+      },
+      "id": "214319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214342",
+        "title": "中義",
+        "address": "高雄市新興區六合一路27號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.312092,
+          22.632201
+        ],
+        "type": "Point"
+      },
+      "id": "214342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215057",
         "title": "昶林",
         "address": "高雄市岡山區仁壽里公園西路三段131號133號",
@@ -69497,23 +69616,6 @@
         "type": "Point"
       },
       "id": "215828"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "215839",
-        "title": "莊福",
-        "address": "台北市中山區長春路168號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.533233,
-          25.054356
-        ],
-        "type": "Point"
-      },
-      "id": "215839"
     },
     {
       "type": "Feature",
