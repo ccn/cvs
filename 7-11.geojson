@@ -24111,23 +24111,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "153238",
-        "title": "芝山",
-        "address": "台北市士林區福華路126號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52286337390899,
-          25.1028711312543
-        ],
-        "type": "Point"
-      },
-      "id": "153238"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "153250",
         "title": "鑫寶",
         "address": "台北市萬華區寶興街 43號45號1樓",
@@ -66526,6 +66509,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209373",
+        "title": "大唐",
+        "address": "台中市北屯區大連北街98號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.672496,
+          24.178189
+        ],
+        "type": "Point"
+      },
+      "id": "209373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209384",
         "title": "御新",
         "address": "南投縣草屯鎮中正路1397-6號",
@@ -66832,6 +66832,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209775",
+        "title": "花都",
+        "address": "彰化縣田尾鄉民生路一段586號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.524841,
+          23.907943
+        ],
+        "type": "Point"
+      },
+      "id": "209775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209786",
         "title": "興中街",
         "address": "台中市新社區興中街90-11號",
@@ -67066,6 +67083,23 @@
         "type": "Point"
       },
       "id": "210144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210188",
+        "title": "陽州",
+        "address": "新北市蘆洲區重陽街92.96號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.482141,
+          25.084642
+        ],
+        "type": "Point"
+      },
+      "id": "210188"
     },
     {
       "type": "Feature",
@@ -69905,6 +69939,23 @@
         "type": "Point"
       },
       "id": "216083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216119",
+        "title": "芝山",
+        "address": "台北市士林區福華路126號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52286337390899,
+          25.1028711312543
+        ],
+        "type": "Point"
+      },
+      "id": "216119"
     },
     {
       "type": "Feature",
