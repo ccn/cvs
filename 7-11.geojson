@@ -3337,23 +3337,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "114303",
-        "title": "生活",
-        "address": "台中市南區復興路二段71巷70號1樓及忠明南路730巷17號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.658755,
-          24.123619
-        ],
-        "type": "Point"
-      },
-      "id": "114303"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "114369",
         "title": "天佑",
         "address": "台中市西屯區中工二路196號198號1樓",
@@ -15862,23 +15845,6 @@
         "type": "Point"
       },
       "id": "137063"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "137100",
-        "title": "瑞江",
-        "address": "台北市內湖區瑞陽里江南街71巷16弄76號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.579009,
-          25.076249
-        ],
-        "type": "Point"
-      },
-      "id": "137100"
     },
     {
       "type": "Feature",
@@ -64248,6 +64214,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207333",
+        "title": "鑫站一",
+        "address": "台中市中區台灣大道一段1號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.686798,
+          24.137119
+        ],
+        "type": "Point"
+      },
+      "id": "207333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207366",
         "title": "鑫科",
         "address": "台中市北區三民路3段133號135之1號1樓B1樓",
@@ -65128,6 +65111,23 @@
         "type": "Point"
       },
       "id": "208130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208141",
+        "title": "彰南",
+        "address": "彰化縣彰化市竹巷里彰南路四段臨421號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208141"
     },
     {
       "type": "Feature",
@@ -66441,6 +66441,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209281",
+        "title": "果毅",
+        "address": "台南市柳營區果毅里果毅後14-1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.371316,
+          23.258102
+        ],
+        "type": "Point"
+      },
+      "id": "209281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209292",
         "title": "民真",
         "address": "嘉義縣民雄鄉民新路188號",
@@ -66730,23 +66747,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "209605",
-        "title": "八景島",
-        "address": "桃園市中壢區春德路107號2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.213542,
-          25.016691
-        ],
-        "type": "Point"
-      },
-      "id": "209605"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "209616",
         "title": "利吉",
         "address": "新北市土城區延吉街261號",
@@ -66760,6 +66760,23 @@
         "type": "Point"
       },
       "id": "209616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209650",
+        "title": "寬士村",
+        "address": "嘉義縣水上鄉寬士村崎子頭29-35號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.42842,
+          23.445933
+        ],
+        "type": "Point"
+      },
+      "id": "209650"
     },
     {
       "type": "Feature",
@@ -67172,6 +67189,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210225",
+        "title": "鼎盛",
+        "address": "台北市文山區景文街79號1樓全部二樓部份",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.541405,
+          24.991236
+        ],
+        "type": "Point"
+      },
+      "id": "210225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210236",
         "title": "觀芳",
         "address": "桃園市觀音區成功路二段903號1樓2樓",
@@ -67202,6 +67236,23 @@
         "type": "Point"
       },
       "id": "210258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210270",
+        "title": "知卡宣",
+        "address": "花蓮縣吉安鄉海岸路469號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.589759,
+          23.948365
+        ],
+        "type": "Point"
+      },
+      "id": "210270"
     },
     {
       "type": "Feature",
@@ -67253,6 +67304,23 @@
         "type": "Point"
       },
       "id": "210432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210720",
+        "title": "七堵站",
+        "address": "基隆市七堵區東新街2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.714537,
+          25.093334
+        ],
+        "type": "Point"
+      },
+      "id": "210720"
     },
     {
       "type": "Feature",
@@ -68277,6 +68345,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214179",
+        "title": "瑞江",
+        "address": "台北市內湖區瑞陽里江南街71巷16弄76號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.579009,
+          25.076249
+        ],
+        "type": "Point"
+      },
+      "id": "214179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214180",
         "title": "承天",
         "address": "新北市土城區承天路1號",
@@ -68498,6 +68583,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214331",
+        "title": "昌吉",
+        "address": "台北市大同區承德路三段60號60-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.51810336926,
+          25.0653870004226
+        ],
+        "type": "Point"
+      },
+      "id": "214331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "214342",
         "title": "中義",
         "address": "高雄市新興區六合一路27號",
@@ -68511,6 +68613,23 @@
         "type": "Point"
       },
       "id": "214342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214353",
+        "title": "八景島",
+        "address": "桃園市中壢區春德路107號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.213542,
+          25.016691
+        ],
+        "type": "Point"
+      },
+      "id": "214353"
     },
     {
       "type": "Feature",
@@ -69956,6 +70075,23 @@
         "type": "Point"
       },
       "id": "215998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216005",
+        "title": "生活",
+        "address": "台中市南區復興路二段71巷70號1樓及忠明南路730巷17號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.658755,
+          24.123619
+        ],
+        "type": "Point"
+      },
+      "id": "216005"
     },
     {
       "type": "Feature",
@@ -100420,23 +100556,6 @@
         "type": "Point"
       },
       "id": "993720"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "993742",
-        "title": "昌吉",
-        "address": "台北市大同區承德路三段60號60-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.51810336926,
-          25.0653870004226
-        ],
-        "type": "Point"
-      },
-      "id": "993742"
     },
     {
       "type": "Feature",
