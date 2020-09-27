@@ -42590,23 +42590,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183125",
-        "title": "明美",
-        "address": "台北市中山區敬業一路130號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.552562,
-          25.083555
-        ],
-        "type": "Point"
-      },
-      "id": "183125"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183136",
         "title": "芬農",
         "address": "彰化縣芬園鄉彰南路四段337號1樓",
@@ -53113,6 +53096,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "193845",
+        "title": "鑫隆",
+        "address": "桃園市楊梅區金龍三路1號3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "193845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "193856",
         "title": "莊壢",
         "address": "桃園市中壢區莊敬路199號",
@@ -63007,23 +63007,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201634",
-        "title": "文一",
-        "address": "台北市文山區木新路三段351號353號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.55576,
-          24.980245
-        ],
-        "type": "Point"
-      },
-      "id": "201634"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201656",
         "title": "新峨嵋",
         "address": "台北市萬華區峨嵋街111之2號之3號",
@@ -67223,6 +67206,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210247",
+        "title": "員宿",
+        "address": "彰化縣員林市中山路一段756號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210258",
         "title": "員基",
         "address": "彰化縣員林市莒光路456號",
@@ -67308,6 +67308,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210557",
+        "title": "俊林",
+        "address": "新北市樹林區三俊街216號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.420428,
+          25.015292
+        ],
+        "type": "Point"
+      },
+      "id": "210557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210720",
         "title": "七堵站",
         "address": "基隆市七堵區東新街2號1樓",
@@ -67321,6 +67338,23 @@
         "type": "Point"
       },
       "id": "210720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210812",
+        "title": "環和",
+        "address": "新北市中和區中山路二段269號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.496925,
+          25.002101
+        ],
+        "type": "Point"
+      },
+      "id": "210812"
     },
     {
       "type": "Feature",
@@ -68630,6 +68664,23 @@
         "type": "Point"
       },
       "id": "214353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214386",
+        "title": "文一",
+        "address": "台北市文山區木新路三段351號353號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.55576,
+          24.980245
+        ],
+        "type": "Point"
+      },
+      "id": "214386"
     },
     {
       "type": "Feature",
@@ -70024,6 +70075,23 @@
         "type": "Point"
       },
       "id": "215932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215943",
+        "title": "明美",
+        "address": "台北市中山區敬業一路130號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.552562,
+          25.083555
+        ],
+        "type": "Point"
+      },
+      "id": "215943"
     },
     {
       "type": "Feature",
