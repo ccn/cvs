@@ -21272,6 +21272,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4784",
+        "title": "三重五順店",
+        "address": "新北市三重區仁義街１９２號及１９６號壹樓部份+１９４",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4966401598987,
+          25.0818120588582
+        ],
+        "type": "Point"
+      },
+      "id": "4784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4785",
         "title": "台中交轉店",
         "address": "台中市中區雙十路一段２９號１樓、２９號２樓之１",
