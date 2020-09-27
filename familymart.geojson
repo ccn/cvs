@@ -7092,25 +7092,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014261",
-        "title": "全家慶城店",
-        "address": "台北市松山區慶城街8號",
-        "post": "105",
-        "all": "SWEETPOTATO,WiFi,icecream,oneice,SUNMAI,Kantoni,Preorder,SCoffee",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.544776,
-          25.052639
-        ],
-        "type": "Point"
-      },
-      "id": "014261"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014267",
         "title": "全家台中四維店",
         "address": "台中市西區三民路一段172—5,172—6號",
@@ -25237,25 +25218,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016527",
-        "title": "全家新店陽光店",
-        "address": "新北市新店區安忠路57巷10號1樓",
-        "post": "231",
-        "all": "SWEETPOTATO,WiFi,Rest,veg,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.513308,
-          24.959181
-        ],
-        "type": "Point"
-      },
-      "id": "016527"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016528",
         "title": "全家汐止伯爵店",
         "address": "新北市汐止區伯爵街52巷1號壹樓部份",
@@ -27133,25 +27095,6 @@
         "type": "Point"
       },
       "id": "016715"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016716",
-        "title": "全家潭子金潭店",
-        "address": "台中市潭子區興華一路261號",
-        "post": "427",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.703267,
-          24.209795
-        ],
-        "type": "Point"
-      },
-      "id": "016716"
     },
     {
       "type": "Feature",
@@ -70362,6 +70305,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020033",
+        "title": "全家新店陽光店",
+        "address": "新北市新店區安忠路57巷10號1樓",
+        "post": "231",
+        "all": "SWEETPOTATO,WiFi,Rest,veg,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.513308,
+          24.959181
+        ],
+        "type": "Point"
+      },
+      "id": "020033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020034",
         "title": "全家竹南龍好店",
         "address": "苗栗縣竹南鎮龍山路二段2號一樓",
@@ -70552,6 +70514,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020051",
+        "title": "全家潭子金潭店",
+        "address": "台中市潭子區興華一路261號",
+        "post": "427",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.703267,
+          24.209795
+        ],
+        "type": "Point"
+      },
+      "id": "020051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020054",
         "title": "全家台六宿舍店",
         "address": "台北市中正區徐州路2之2號1F",
@@ -70586,6 +70567,25 @@
         "type": "Point"
       },
       "id": "020057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020097",
+        "title": "全家慶城店",
+        "address": "台北市松山區慶城街8號",
+        "post": "105",
+        "all": "SWEETPOTATO,WiFi,icecream,oneice,SUNMAI,Kantoni,Preorder,SCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.544776,
+          25.052639
+        ],
+        "type": "Point"
+      },
+      "id": "020097"
     },
     {
       "type": "Feature",
