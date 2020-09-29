@@ -15509,23 +15509,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "136705",
-        "title": "復維",
-        "address": "台北市大安區復興南路二段17號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.543897,
-          25.032399
-        ],
-        "type": "Point"
-      },
-      "id": "136705"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136716",
         "title": "光復",
         "address": "台北市信義區光復南路471號",
@@ -25478,8 +25461,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.321992606704,
-          22.6788646703003
+          120.322767,
+          22.678231
         ],
         "type": "Point"
       },
@@ -27603,8 +27586,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.323023,
-          22.678546
+          120.322398,
+          22.679736
         ],
         "type": "Point"
       },
@@ -28510,23 +28493,6 @@
         "type": "Point"
       },
       "id": "161402"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "161413",
-        "title": "新元",
-        "address": "桃園市中壢區新生路232號234號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.223168,
-          24.962869
-        ],
-        "type": "Point"
-      },
-      "id": "161413"
     },
     {
       "type": "Feature",
@@ -51243,23 +51209,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190695",
-        "title": "宏禧",
-        "address": "新北市中和區景平路429號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.501381,
-          24.995427
-        ],
-        "type": "Point"
-      },
-      "id": "190695"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190709",
         "title": "利陶",
         "address": "宜蘭縣羅東鎮興東南路188號",
@@ -57108,6 +57057,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197010",
+        "title": "鐵站三",
+        "address": "新竹縣竹北市高鐵七路6號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.040257,
+          24.808452
+        ],
+        "type": "Point"
+      },
+      "id": "197010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197032",
         "title": "明水",
         "address": "台北市中山區明水路636號樂群三路1號",
@@ -59858,23 +59824,6 @@
         "type": "Point"
       },
       "id": "198965"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "198976",
-        "title": "華耀",
-        "address": "新竹市香山區明德路1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.952193,
-          24.756626
-        ],
-        "type": "Point"
-      },
-      "id": "198976"
     },
     {
       "type": "Feature",
@@ -63037,6 +62986,23 @@
         "type": "Point"
       },
       "id": "201667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201726",
+        "title": "宏禧",
+        "address": "新北市中和區景平路429號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.501381,
+          24.995427
+        ],
+        "type": "Point"
+      },
+      "id": "201726"
     },
     {
       "type": "Feature",
@@ -70232,6 +70198,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "215954",
+        "title": "新元",
+        "address": "桃園市中壢區新生路232號234號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.223168,
+          24.962869
+        ],
+        "type": "Point"
+      },
+      "id": "215954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215965",
         "title": "東尚",
         "address": "苗栗縣頭份市東民路163號及和平路251號1樓",
@@ -70368,6 +70351,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216108",
+        "title": "復維",
+        "address": "台北市大安區復興南路二段17號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.543897,
+          25.032399
+        ],
+        "type": "Point"
+      },
+      "id": "216108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216119",
         "title": "芝山",
         "address": "台北市士林區福華路126號1樓",
@@ -70398,6 +70398,40 @@
         "type": "Point"
       },
       "id": "216153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216175",
+        "title": "華耀",
+        "address": "新竹市香山區明德路1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.952193,
+          24.756626
+        ],
+        "type": "Point"
+      },
+      "id": "216175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216223",
+        "title": "康湖",
+        "address": "新北市汐止區康寧街490號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.632887,
+          25.068468
+        ],
+        "type": "Point"
+      },
+      "id": "216223"
     },
     {
       "type": "Feature",
@@ -71169,13 +71203,13 @@
       "properties": {
         "id": "844893",
         "title": "民強",
-        "address": "高雄市鼓山區九如四路706號708號710號",
+        "address": "高雄市鼓山區九如四路706號708號710號712號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.2792,
-          22.650266
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -101746,23 +101780,6 @@
         "type": "Point"
       },
       "id": "999854"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "999898",
-        "title": "康湖",
-        "address": "新北市汐止區康寧街490號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.632887,
-          25.068468
-        ],
-        "type": "Point"
-      },
-      "id": "999898"
     },
     {
       "type": "Feature",
