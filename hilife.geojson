@@ -19521,6 +19521,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4610",
+        "title": "虎尾若瑟店",
+        "address": "雲林縣虎尾鎮光復路３５３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4389957766049,
+          23.709831127132
+        ],
+        "type": "Point"
+      },
+      "id": "4610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4611",
         "title": "中寮香蕉店",
         "address": "南投縣中寮鄉永平路４４５-４８號",
@@ -21221,6 +21238,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4770",
+        "title": "中和嘉德店",
+        "address": "新北市中和區安平路８９-２、８９-３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5108884303509,
+          24.9966406969535
+        ],
+        "type": "Point"
+      },
+      "id": "4770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4771",
         "title": "左營正心店",
         "address": "高雄市左營區正心街１０２號１+２樓",
@@ -21319,6 +21353,23 @@
         "type": "Point"
       },
       "id": "4788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4789",
+        "title": "八德陂塘店",
+        "address": "桃園市八德區高城路６６號、高城六街２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2760260711171,
+          24.9788506849574
+        ],
+        "type": "Point"
+      },
+      "id": "4789"
     },
     {
       "type": "Feature",
