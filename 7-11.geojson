@@ -11089,23 +11089,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "130040",
-        "title": "國城",
-        "address": "高雄市三民區自立一路68號70號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.29720259343199,
-          22.6364675219845
-        ],
-        "type": "Point"
-      },
-      "id": "130040"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "130084",
         "title": "鎮興",
         "address": "高雄市前鎮區鎮興路170號",
@@ -15080,23 +15063,6 @@
         "type": "Point"
       },
       "id": "136082"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "136118",
-        "title": "翔運",
-        "address": "台北市中山區中山北路二段44巷2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.522428372069,
-          25.0550079641108
-        ],
-        "type": "Point"
-      },
-      "id": "136118"
     },
     {
       "type": "Feature",
@@ -19568,23 +19534,6 @@
         "type": "Point"
       },
       "id": "143275"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "143286",
-        "title": "龍政",
-        "address": "桃園市龍潭區中正路162號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.216776,
-          24.8659
-        ],
-        "type": "Point"
-      },
-      "id": "143286"
     },
     {
       "type": "Feature",
@@ -28646,23 +28595,6 @@
         "type": "Point"
       },
       "id": "161789"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "161907",
-        "title": "員成",
-        "address": "彰化縣員林市中山路二段214.216號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.571371,
-          23.965656
-        ],
-        "type": "Point"
-      },
-      "id": "161907"
     },
     {
       "type": "Feature",
@@ -44273,23 +44205,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184461",
-        "title": "瑞德",
-        "address": "台北市中正區新生南路一段170巷14之3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531253,
-          25.034191
-        ],
-        "type": "Point"
-      },
-      "id": "184461"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184472",
         "title": "墘運",
         "address": "台北市內湖區洲子街12號1樓",
@@ -53018,8 +52933,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.186537,
+          24.91174
         ],
         "type": "Point"
       },
@@ -60442,13 +60357,13 @@
       "properties": {
         "id": "199441",
         "title": "汀州",
-        "address": "台北市中正區汀州路一段129號",
+        "address": "台北市中正區汀州路一段127號129號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.5095,
-          25.02805
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -62446,23 +62361,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201313",
-        "title": "憲金",
-        "address": "新北市蘆洲區光華路22巷1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.469433,
-          25.08344
-        ],
-        "type": "Point"
-      },
-      "id": "201313"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201324",
         "title": "興陽",
         "address": "高雄市苓雅區復興二路22號",
@@ -62922,6 +62820,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201645",
+        "title": "國城",
+        "address": "高雄市三民區自立一路68號70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.29720259343199,
+          22.6364675219845
+        ],
+        "type": "Point"
+      },
+      "id": "201645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201667",
         "title": "坤耀",
         "address": "新北市板橋區南門街39號1F",
@@ -62935,6 +62850,57 @@
         "type": "Point"
       },
       "id": "201667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201689",
+        "title": "國勝",
+        "address": "高雄市左營區富國路112號116號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.306743,
+          22.659341
+        ],
+        "type": "Point"
+      },
+      "id": "201689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201690",
+        "title": "龍政",
+        "address": "桃園市龍潭區中正路162號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.216776,
+          24.8659
+        ],
+        "type": "Point"
+      },
+      "id": "201690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201715",
+        "title": "翔運",
+        "address": "台北市中山區中山北路二段44巷2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.522428372069,
+          25.0550079641108
+        ],
+        "type": "Point"
+      },
+      "id": "201715"
     },
     {
       "type": "Feature",
@@ -65037,8 +65003,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.611869,
+          24.071316
         ],
         "type": "Point"
       },
@@ -66703,8 +66669,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.449605,
+          24.986378
         ],
         "type": "Point"
       },
@@ -67230,8 +67196,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.57094,
+          23.957165
         ],
         "type": "Point"
       },
@@ -67332,8 +67298,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.389311,
+          25.040422
         ],
         "type": "Point"
       },
@@ -67814,23 +67780,6 @@
         "type": "Point"
       },
       "id": "213774"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "213785",
-        "title": "國勝",
-        "address": "高雄市左營區富國路112號116號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.306743,
-          22.659341
-        ],
-        "type": "Point"
-      },
-      "id": "213785"
     },
     {
       "type": "Feature",
@@ -70283,6 +70232,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216027",
+        "title": "瑞德",
+        "address": "台北市中正區新生南路一段170巷14之3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531253,
+          25.034191
+        ],
+        "type": "Point"
+      },
+      "id": "216027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216038",
         "title": "同慶",
         "address": "宜蘭縣宜蘭市中山路三段203號205號207號1樓",
@@ -70313,6 +70279,40 @@
         "type": "Point"
       },
       "id": "216049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216050",
+        "title": "佑安",
+        "address": "台北市大安區忠孝東路三段217巷1弄2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.539647,
+          25.042414
+        ],
+        "type": "Point"
+      },
+      "id": "216050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216061",
+        "title": "憲金",
+        "address": "新北市蘆洲區光華路22巷1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.469433,
+          25.08344
+        ],
+        "type": "Point"
+      },
+      "id": "216061"
     },
     {
       "type": "Feature",
@@ -70398,6 +70398,23 @@
         "type": "Point"
       },
       "id": "216153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216164",
+        "title": "員成",
+        "address": "彰化縣員林市中山路二段214.216號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.571371,
+          23.965656
+        ],
+        "type": "Point"
+      },
+      "id": "216164"
     },
     {
       "type": "Feature",
@@ -71208,8 +71225,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.279234,
+          22.650363
         ],
         "type": "Point"
       },
@@ -93382,23 +93399,6 @@
         "type": "Point"
       },
       "id": "970369"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "970428",
-        "title": "佑安",
-        "address": "台北市大安區忠孝東路三段217巷1弄2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.539647,
-          25.042414
-        ],
-        "type": "Point"
-      },
-      "id": "970428"
     },
     {
       "type": "Feature",
