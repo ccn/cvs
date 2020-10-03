@@ -66509,6 +66509,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209476",
+        "title": "海藍",
+        "address": "澎湖縣馬公市西文澳118-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.583261,
+          23.568519
+        ],
+        "type": "Point"
+      },
+      "id": "209476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209498",
         "title": "民悅",
         "address": "新北市蘆洲區民族路316.318號",
