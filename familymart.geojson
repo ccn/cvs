@@ -5705,25 +5705,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013955",
-        "title": "全家苗栗嘉新店",
-        "address": "苗栗縣苗栗市國華路126號",
-        "post": "360",
-        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.830357,
-          24.574064
-        ],
-        "type": "Point"
-      },
-      "id": "013955"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013963",
         "title": "全家新竹轉運店",
         "address": "新竹市東區東南街1巷6號1樓",
@@ -70510,6 +70491,44 @@
         "type": "Point"
       },
       "id": "020066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020067",
+        "title": "全家高雄港福店",
+        "address": "高雄市小港區港平路18號",
+        "post": "812",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.334363,
+          22.563995
+        ],
+        "type": "Point"
+      },
+      "id": "020067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020074",
+        "title": "全家苗栗嘉新店",
+        "address": "苗栗縣苗栗市國華路126號",
+        "post": "360",
+        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.830357,
+          24.574064
+        ],
+        "type": "Point"
+      },
+      "id": "020074"
     },
     {
       "type": "Feature",
