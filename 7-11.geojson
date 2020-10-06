@@ -62599,23 +62599,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201508",
-        "title": "鑫程",
-        "address": "高雄市岡山區大德二路61號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.306389,
-          22.791295
-        ],
-        "type": "Point"
-      },
-      "id": "201508"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201519",
         "title": "群弘益",
         "address": "高雄市岡山區碧紅里中山北路2號",
@@ -62884,6 +62867,23 @@
         "type": "Point"
       },
       "id": "201690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201704",
+        "title": "龍普",
+        "address": "台北市大安區敦化南路一段233巷25號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.55074,
+          25.04043
+        ],
+        "type": "Point"
+      },
+      "id": "201704"
     },
     {
       "type": "Feature",
@@ -66560,6 +66560,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209513",
+        "title": "五峰鄉",
+        "address": "新竹縣五峰鄉大隘村12鄰五峰246之3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "209513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209524",
         "title": "華欣",
         "address": "新北市中和區華新街109巷1之2號1樓",
@@ -68562,6 +68579,23 @@
         "type": "Point"
       },
       "id": "214261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214272",
+        "title": "鑫程",
+        "address": "高雄市岡山區大德二路61號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.306389,
+          22.791295
+        ],
+        "type": "Point"
+      },
+      "id": "214272"
     },
     {
       "type": "Feature",
@@ -71084,13 +71118,13 @@
       "properties": {
         "id": "841001",
         "title": "中埔",
-        "address": "嘉義縣中埔鄉和美村中山路856號",
+        "address": "嘉義縣中埔鄉和美村中山路5段856號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.460662,
-          23.452076
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -89217,23 +89251,6 @@
         "type": "Point"
       },
       "id": "957229"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "957241",
-        "title": "龍普",
-        "address": "台北市大安區敦化南路一段233巷25號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.55074,
-          25.04043
-        ],
-        "type": "Point"
-      },
-      "id": "957241"
     },
     {
       "type": "Feature",
