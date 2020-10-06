@@ -5173,23 +5173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2921",
-        "title": "竹北竹發店",
-        "address": "新竹縣竹北市縣政二路１７５、１７７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.018012375879,
-          24.8313742429322
-        ],
-        "type": "Point"
-      },
-      "id": "2921"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2922",
         "title": "苗縣苗旺店",
         "address": "苗栗縣竹南鎮中美里５鄰西門１０號",
@@ -20979,6 +20962,23 @@
         "type": "Point"
       },
       "id": "4742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4743",
+        "title": "民雄三興店",
+        "address": "嘉義縣民雄鄉三興村神農路４２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4718967632378,
+          23.5544393762866
+        ],
+        "type": "Point"
+      },
+      "id": "4743"
     },
     {
       "type": "Feature",
