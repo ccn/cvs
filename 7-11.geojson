@@ -56921,23 +56921,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "196981",
-        "title": "ES2",
-        "address": "新北市樹林區佳園路二段70號-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.3906,
-          24.959979
-        ],
-        "type": "Point"
-      },
-      "id": "196981"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197010",
         "title": "鐵站三",
         "address": "新竹縣竹北市高鐵七路6號2樓",
@@ -66424,6 +66407,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209395",
+        "title": "大嘉瑩",
+        "address": "台南市仁德區二仁路一段124.126號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.224297,
+          22.922681
+        ],
+        "type": "Point"
+      },
+      "id": "209395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209409",
         "title": "德金",
         "address": "台北市中正區八德路一段29號",
@@ -67338,6 +67338,23 @@
         "type": "Point"
       },
       "id": "210373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210409",
+        "title": "平等",
+        "address": "高雄市三民區九如一路805號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.320648,
+          22.639686
+        ],
+        "type": "Point"
+      },
+      "id": "210409"
     },
     {
       "type": "Feature",
