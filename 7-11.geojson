@@ -41621,23 +41621,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182340",
-        "title": "王爺",
-        "address": "新竹縣湖口鄉中山路一段790號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.042774,
-          24.898835
-        ],
-        "type": "Point"
-      },
-      "id": "182340"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182351",
         "title": "光南",
         "address": "苗栗縣竹南鎮照南里光復路342號",
@@ -60345,8 +60328,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.509553,
+          25.028017
         ],
         "type": "Point"
       },
@@ -66567,8 +66550,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.118017,
+          24.628519
         ],
         "type": "Point"
       },
@@ -67106,13 +67089,13 @@
       "properties": {
         "id": "210074",
         "title": "光賢",
-        "address": "台南市中西區中華西路二段600號600-1號1樓",
+        "address": "台南市中西區中華西路二段600號600-1號1.2樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.186965,
-          23.004344
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -70234,13 +70217,13 @@
       "properties": {
         "id": "215987",
         "title": "環東",
-        "address": "台中市北屯區東山路一段306-1號1.2樓",
+        "address": "台中市北屯區東山路一段306-1號1.2樓及環中東路二段268號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.720498,
-          24.175732
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -70517,6 +70500,23 @@
         "type": "Point"
       },
       "id": "216223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216234",
+        "title": "王爺",
+        "address": "新竹縣湖口鄉中山路一段790號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.042774,
+          24.898835
+        ],
+        "type": "Point"
+      },
+      "id": "216234"
     },
     {
       "type": "Feature",
@@ -71140,8 +71140,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.46073,
+          23.451948
         ],
         "type": "Point"
       },
