@@ -5751,6 +5751,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3036",
+        "title": "屏縣屏欣店",
+        "address": "屏東縣鹽埔鄉新圍村維新路１１２之１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.557432733004,
+          22.7414265889231
+        ],
+        "type": "Point"
+      },
+      "id": "3036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "3042",
         "title": "中壢桃通店",
         "address": "桃園市中壢區中正路１０９６號",
