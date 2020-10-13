@@ -63330,23 +63330,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "206721",
-        "title": "禾雅",
-        "address": "新竹市東區鐵道路一段66號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.983689,
-          24.812489
-        ],
-        "type": "Point"
-      },
-      "id": "206721"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "206732",
         "title": "新嘉友",
         "address": "嘉義市西區福全里友愛路222.222-1號",
@@ -64516,6 +64499,23 @@
         "type": "Point"
       },
       "id": "207768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207779",
+        "title": "晶材",
+        "address": "台中市后里區后科路二段335號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.729127,
+          24.320217
+        ],
+        "type": "Point"
+      },
+      "id": "207779"
     },
     {
       "type": "Feature",
@@ -66545,13 +66545,13 @@
       "properties": {
         "id": "209513",
         "title": "五峰鄉",
-        "address": "新竹縣五峰鄉大隘村12鄰五峰246之3號",
+        "address": "新竹縣五峰鄉大隘村12鄰五峰246之3號(臨)",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.118017,
-          24.628519
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -66998,6 +66998,23 @@
         "type": "Point"
       },
       "id": "209926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209960",
+        "title": "上義",
+        "address": "宜蘭縣三星鄉上將路三段559號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.701379,
+          24.684851
+        ],
+        "type": "Point"
+      },
+      "id": "209960"
     },
     {
       "type": "Feature",
@@ -70483,6 +70500,23 @@
         "type": "Point"
       },
       "id": "216175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216197",
+        "title": "禾雅",
+        "address": "新竹市東區鐵道路一段66號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.983689,
+          24.812489
+        ],
+        "type": "Point"
+      },
+      "id": "216197"
     },
     {
       "type": "Feature",
@@ -82423,13 +82457,13 @@
       "properties": {
         "id": "929006",
         "title": "欣旺",
-        "address": "台北市中山區北安路604號606號",
+        "address": "台北市中山區北安路606號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.548997,
-          25.081951
+          0,
+          0
         ],
         "type": "Point"
       },
