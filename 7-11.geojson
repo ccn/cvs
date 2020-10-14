@@ -65251,6 +65251,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208381",
+        "title": "高蓉",
+        "address": "桃園市大園區高鐵北路三段96號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.225511,
+          25.023237
+        ],
+        "type": "Point"
+      },
+      "id": "208381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208428",
         "title": "勝堉",
         "address": "台南市東區育樂街1號",
@@ -66951,6 +66968,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209890",
+        "title": "尚讚",
+        "address": "高雄市仁武區仁雄路97-3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.34404,
+          22.676714
+        ],
+        "type": "Point"
+      },
+      "id": "209890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209904",
         "title": "森泰",
         "address": "台北市中山區林森北路358號360號",
@@ -66998,6 +67032,23 @@
         "type": "Point"
       },
       "id": "209926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209959",
+        "title": "達武",
+        "address": "台東縣達仁鄉安朔村復興路21號及21-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.886652,
+          22.29482
+        ],
+        "type": "Point"
+      },
+      "id": "209959"
     },
     {
       "type": "Feature",
