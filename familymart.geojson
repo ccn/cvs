@@ -17219,25 +17219,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015811",
-        "title": "全家龜山金石店",
-        "address": "桃園市龜山區復興一路144號1樓",
-        "post": "333",
-        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.36685,
-          25.058494
-        ],
-        "type": "Point"
-      },
-      "id": "015811"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015813",
         "title": "全家觀音新坡店",
         "address": "桃園市觀音區中山路二段673號1＆2樓",
@@ -47205,7 +47186,7 @@
         "title": "全家高雄鼎中店",
         "address": "高雄市三民區金鼎路358號",
         "post": "807",
-        "all": "Smoothie,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Preorder",
+        "all": "Smoothie,WiFi,Rest,COFFEEDeliver,Preorder",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -70301,6 +70282,25 @@
         "type": "Point"
       },
       "id": "020060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020061",
+        "title": "全家龜山金石店",
+        "address": "桃園市龜山區復興一路144號1樓",
+        "post": "333",
+        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.36685,
+          25.058494
+        ],
+        "type": "Point"
+      },
+      "id": "020061"
     },
     {
       "type": "Feature",
