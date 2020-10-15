@@ -62106,23 +62106,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201070",
-        "title": "好事達",
-        "address": "高雄市大社區保社里旗楠路71號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.345535,
-          22.747193
-        ],
-        "type": "Point"
-      },
-      "id": "201070"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201092",
         "title": "臨海",
         "address": "高雄市鼓山區臨海二路8號",
@@ -66713,6 +66696,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209638",
+        "title": "光漢",
+        "address": "高雄市小港區漢民路755.757號一樓.二樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.363629,
+          22.568468
+        ],
+        "type": "Point"
+      },
+      "id": "209638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209650",
         "title": "寬士村",
         "address": "嘉義縣水上鄉寬士村崎子頭29-35號",
@@ -70602,6 +70602,40 @@
         "type": "Point"
       },
       "id": "216234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216267",
+        "title": "鄉長",
+        "address": "新北市汐止區鄉長路二段16號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.668716,
+          25.081251
+        ],
+        "type": "Point"
+      },
+      "id": "216267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216278",
+        "title": "好事達",
+        "address": "高雄市大社區保社里旗楠路71號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.345535,
+          22.747193
+        ],
+        "type": "Point"
+      },
+      "id": "216278"
     },
     {
       "type": "Feature",
@@ -77731,13 +77765,13 @@
       "properties": {
         "id": "901684",
         "title": "馬光",
-        "address": "雲林縣土庫鎮南平里馬光路67號",
+        "address": "雲林縣土庫鎮南平里馬光路69號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.356635590822,
-          23.7056142519423
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -89812,23 +89846,6 @@
         "type": "Point"
       },
       "id": "959292"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "959306",
-        "title": "鄉長",
-        "address": "新北市汐止區鄉長路二段16號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.668716,
-          25.081251
-        ],
-        "type": "Point"
-      },
-      "id": "959306"
     },
     {
       "type": "Feature",
