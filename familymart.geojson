@@ -56796,25 +56796,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018972",
-        "title": "全家永康正南一店",
-        "address": "台南市永康區正南一街103號",
-        "post": "710",
-        "all": "SWEETPOTATO,icecream,oneice,twoice,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.228845,
-          23.02476
-        ],
-        "type": "Point"
-      },
-      "id": "018972"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018973",
         "title": "全家台南中平店",
         "address": "台南市東區中華東路一段88號",
@@ -68348,6 +68329,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019897",
+        "title": "全家竹北環北店",
+        "address": "新竹縣竹北市環北路三段396號",
+        "post": "302",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.997983,
+          24.849245
+        ],
+        "type": "Point"
+      },
+      "id": "019897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019898",
         "title": "全家民雄旺萊店",
         "address": "嘉義縣民雄鄉大學路一段439號一樓",
@@ -70548,6 +70548,25 @@
         "type": "Point"
       },
       "id": "020092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020094",
+        "title": "全家永康正南一店",
+        "address": "台南市永康區正南一街103號",
+        "post": "710",
+        "all": "SWEETPOTATO,icecream,oneice,twoice,Kantoni,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.228845,
+          23.02476
+        ],
+        "type": "Point"
+      },
+      "id": "020094"
     },
     {
       "type": "Feature",
