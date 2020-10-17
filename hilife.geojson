@@ -21340,6 +21340,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4792",
+        "title": "前金新田店",
+        "address": "高雄市前金區新田路３２３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2968012879974,
+          22.619846127321
+        ],
+        "type": "Point"
+      },
+      "id": "4792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "A067",
         "title": "北市社正店",
         "address": "台北市士林區社正路２７號",
