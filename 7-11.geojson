@@ -17651,23 +17651,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141006",
-        "title": "明貴",
-        "address": "新北市泰山區明志路三段44號46號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.424698,
-          25.04243
-        ],
-        "type": "Point"
-      },
-      "id": "141006"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141051",
         "title": "佳佳",
         "address": "台北市中山區民生東路二段157號",
@@ -35854,23 +35837,6 @@
         "type": "Point"
       },
       "id": "171351"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "171373",
-        "title": "市民",
-        "address": "台中市西區公益路157號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.662807,
-          24.150724
-        ],
-        "type": "Point"
-      },
-      "id": "171373"
     },
     {
       "type": "Feature",
@@ -62871,6 +62837,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201737",
+        "title": "市民",
+        "address": "台中市西區公益路157號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.662807,
+          24.150724
+        ],
+        "type": "Point"
+      },
+      "id": "201737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -67478,6 +67461,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211066",
+        "title": "市運",
+        "address": "台北市信義區忠孝東路五段2號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211170",
         "title": "北醫大",
         "address": "台北市信義區吳興街250號1樓",
@@ -70279,6 +70279,23 @@
         "type": "Point"
       },
       "id": "215965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215976",
+        "title": "明貴",
+        "address": "新北市泰山區明志路三段44號46號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.424698,
+          25.04243
+        ],
+        "type": "Point"
+      },
+      "id": "215976"
     },
     {
       "type": "Feature",
