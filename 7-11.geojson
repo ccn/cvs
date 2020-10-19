@@ -67393,6 +67393,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210410",
+        "title": "光化",
+        "address": "高雄市鼓山區鼓山二路33號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.281046,
+          22.630685
+        ],
+        "type": "Point"
+      },
+      "id": "210410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210432",
         "title": "新北科",
         "address": "台北市大安區新生南路一段3號B1樓",
