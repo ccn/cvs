@@ -69925,25 +69925,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020043",
-        "title": "全家三峽同發店",
-        "address": "新北市三峽區大同路3-1號1樓及地下層全部",
-        "post": "237",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.37774,
-          24.929081
-        ],
-        "type": "Point"
-      },
-      "id": "020043"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020045",
         "title": "全家頭份立華店",
         "address": "苗栗縣頭份市中華路600之8號1樓",
@@ -70362,6 +70343,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020071",
+        "title": "全家台中五權西店",
+        "address": "台中市南屯區五權西路二段680號",
+        "post": "408",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.638926,
+          24.142234
+        ],
+        "type": "Point"
+      },
+      "id": "020071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020073",
         "title": "全家霧峰金丁台店",
         "address": "台中市霧峰區四德路392號",
@@ -70552,6 +70552,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020093",
+        "title": "全家龜山庚行店",
+        "address": "桃園市龜山區文化一路259號1樓(管理大樓)",
+        "post": "333",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.391703,
+          25.034424
+        ],
+        "type": "Point"
+      },
+      "id": "020093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020094",
         "title": "全家永康正南一店",
         "address": "台南市永康區正南一街103號",
@@ -70662,6 +70681,25 @@
         "type": "Point"
       },
       "id": "020099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020100",
+        "title": "全家三峽同發店",
+        "address": "新北市三峽區大同路3-1號1樓及地下層全部",
+        "post": "237",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.37774,
+          24.929081
+        ],
+        "type": "Point"
+      },
+      "id": "020100"
     },
     {
       "type": "Feature",
