@@ -22326,23 +22326,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149413",
-        "title": "鑫華福",
-        "address": "台北市中正區懷寧街30號32號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.514099,
-          25.045409
-        ],
-        "type": "Point"
-      },
-      "id": "149413"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149446",
         "title": "中寧",
         "address": "台北市萬華區中華路二段602-1-2號一樓",
@@ -56462,6 +56445,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "196512",
+        "title": "路飛",
+        "address": "高雄市路竹區竹東里中山路465號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.256013,
+          22.869122
+        ],
+        "type": "Point"
+      },
+      "id": "196512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "196556",
         "title": "星海灣",
         "address": "高雄市前鎮區中山二路180號及林森三路1號",
@@ -66135,6 +66135,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209166",
+        "title": "竹探",
+        "address": "台中市北屯區松竹路三段676-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.673617,
+          24.190316
+        ],
+        "type": "Point"
+      },
+      "id": "209166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209188",
         "title": "瑞隆",
         "address": "高雄市前鎮區瑞隆路382.384號1.2樓",
@@ -67049,6 +67066,23 @@
         "type": "Point"
       },
       "id": "209960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209971",
+        "title": "靜月",
+        "address": "高雄市內門區大學路200號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.467937,
+          22.904415
+        ],
+        "type": "Point"
+      },
+      "id": "209971"
     },
     {
       "type": "Feature",
