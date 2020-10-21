@@ -67478,6 +67478,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210649",
+        "title": "捷南",
+        "address": "新北市中和區捷運路69號71號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210720",
         "title": "七堵站",
         "address": "基隆市七堵區東新街2號1樓",
@@ -67491,6 +67508,23 @@
         "type": "Point"
       },
       "id": "210720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210764",
+        "title": "鑫華福",
+        "address": "台北市中正區漢口街1段36號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.513843,
+          25.045078
+        ],
+        "type": "Point"
+      },
+      "id": "210764"
     },
     {
       "type": "Feature",
