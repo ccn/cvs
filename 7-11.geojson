@@ -29637,7 +29637,7 @@
       "type": "Feature",
       "properties": {
         "id": "164146",
-        "title": "綠都",
+        "title": "富由",
         "address": "台中市東區自由路三段169-1號",
         "marker-color": "#01ac50"
       },
@@ -66866,6 +66866,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209801",
+        "title": "元盛",
+        "address": "屏東縣屏東市瑞光路二段456號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.505295,
+          22.68291
+        ],
+        "type": "Point"
+      },
+      "id": "209801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209823",
         "title": "東睿",
         "address": "新竹縣竹東鎮北興路三段446號1樓",
@@ -67151,6 +67168,23 @@
         "type": "Point"
       },
       "id": "210029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210030",
+        "title": "哈魚",
+        "address": "台中市南區環中路四段6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210030"
     },
     {
       "type": "Feature",
@@ -67478,23 +67512,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "210649",
-        "title": "捷南",
-        "address": "新北市中和區捷運路69號71號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "id": "210649"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "210720",
         "title": "七堵站",
         "address": "基隆市七堵區東新街2號1樓",
@@ -67508,6 +67525,23 @@
         "type": "Point"
       },
       "id": "210720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210731",
+        "title": "金橋",
+        "address": "新竹市東區光復路一段89巷115.117.119號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.025078,
+          24.77885
+        ],
+        "type": "Point"
+      },
+      "id": "210731"
     },
     {
       "type": "Feature",
