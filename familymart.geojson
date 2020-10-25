@@ -23850,25 +23850,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016455",
-        "title": "全家台東達人店",
-        "address": "台東縣達仁鄉復興路154-2號",
-        "post": "966",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,Kantoni,Preorder,FishPatty",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.8830889,
-          22.2939999
-        ],
-        "type": "Point"
-      },
-      "id": "016455"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016458",
         "title": "全家中和圓峰店",
         "address": "新北市中和區圓通路226號1樓",
@@ -50716,25 +50697,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018510",
-        "title": "全家平鎮新義店",
-        "address": "桃園市平鎮區延平路二段400巷8號",
-        "post": "324",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.206141,
-          24.943195
-        ],
-        "type": "Point"
-      },
-      "id": "018510"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018511",
         "title": "全家大溪仁和店",
         "address": "桃園市大溪區仁和路二段219號",
@@ -70362,6 +70324,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020072",
+        "title": "全家太平產業園店",
+        "address": "台中市太平區光興路313號",
+        "post": "411",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.728762,
+          24.10055
+        ],
+        "type": "Point"
+      },
+      "id": "020072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020073",
         "title": "全家霧峰金丁台店",
         "address": "台中市霧峰區四德路392號",
@@ -70757,6 +70738,25 @@
         "type": "Point"
       },
       "id": "020120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020145",
+        "title": "全家平鎮新義店",
+        "address": "桃園市平鎮區延平路二段400巷8號",
+        "post": "324",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.206141,
+          24.943195
+        ],
+        "type": "Point"
+      },
+      "id": "020145"
     }
   ]
 }
