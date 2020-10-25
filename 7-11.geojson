@@ -61341,6 +61341,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200343",
+        "title": "興工",
+        "address": "彰化縣埤頭鄉崙腳村4鄰彰水路二段946號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.459139,
+          23.879248
+        ],
+        "type": "Point"
+      },
+      "id": "200343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200365",
         "title": "埔溪",
         "address": "桃園市大溪區埔頂路二段310號312號1樓",
@@ -67587,8 +67604,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.567124,
+          25.041249
         ],
         "type": "Point"
       },
@@ -67610,6 +67627,23 @@
         "type": "Point"
       },
       "id": "211170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211826",
+        "title": "中醫大",
+        "address": "台中市北屯區經貿路一段110號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.661514,
+          24.178923
+        ],
+        "type": "Point"
+      },
+      "id": "211826"
     },
     {
       "type": "Feature",
@@ -77906,8 +77940,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.356684,
+          23.705497
         ],
         "type": "Point"
       },
