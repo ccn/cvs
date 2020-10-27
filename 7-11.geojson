@@ -44409,23 +44409,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184760",
-        "title": "冠冠",
-        "address": "新北市新店區北新路一段231號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.540552,
-          24.965763
-        ],
-        "type": "Point"
-      },
-      "id": "184760"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184782",
         "title": "復春",
         "address": "台北市松山區復興北路179號",
@@ -52667,23 +52650,6 @@
         "type": "Point"
       },
       "id": "193661"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "193672",
-        "title": "陽翟",
-        "address": "金門縣金沙鎮光前里陽翟新興街23.23-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          118.428755,
-          24.477573
-        ],
-        "type": "Point"
-      },
-      "id": "193672"
     },
     {
       "type": "Feature",
@@ -62871,6 +62837,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201748",
+        "title": "冠冠",
+        "address": "新北市新店區北新路一段231號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.540552,
+          24.965763
+        ],
+        "type": "Point"
+      },
+      "id": "201748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -67191,7 +67174,7 @@
       "properties": {
         "id": "210030",
         "title": "哈魚",
-        "address": "台中市南區環中路四段6號",
+        "address": "台中市南屯區環中路四段6號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -67597,6 +67580,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210890",
+        "title": "鎮瀾",
+        "address": "台中市大甲區鎮瀾街102號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.623643,
+          24.344374
+        ],
+        "type": "Point"
+      },
+      "id": "210890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211066",
         "title": "市運",
         "address": "台北市信義區忠孝東路五段2號B1樓",
@@ -67610,6 +67610,23 @@
         "type": "Point"
       },
       "id": "211066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211114",
+        "title": "觀月",
+        "address": "高雄市田寮區月球路34-6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211114"
     },
     {
       "type": "Feature",
@@ -70806,6 +70823,23 @@
         "type": "Point"
       },
       "id": "216278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216326",
+        "title": "陽翟",
+        "address": "金門縣金沙鎮光前里陽翟新興街23.23-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.428755,
+          24.477573
+        ],
+        "type": "Point"
+      },
+      "id": "216326"
     },
     {
       "type": "Feature",
