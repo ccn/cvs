@@ -10698,23 +10698,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "128911",
-        "title": "統和",
-        "address": "新北市新店區安和里安民街335號337號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.517149,
-          24.974797
-        ],
-        "type": "Point"
-      },
-      "id": "128911"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "128955",
         "title": "萬鄰",
         "address": "新北市板橋區華江里民生路二段226巷46號1樓",
@@ -43967,6 +43950,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184346",
+        "title": "和武",
+        "address": "屏東縣屏東市和生路二段342號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.475612,
+          22.653831
+        ],
+        "type": "Point"
+      },
+      "id": "184346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184357",
         "title": "后里棧",
         "address": "台中市后里區馬場路300號B1樓",
@@ -55034,6 +55034,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "195508",
+        "title": "金門大",
+        "address": "金門縣金寧鄉環島北路一段162號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.326939,
+          24.445406
+        ],
+        "type": "Point"
+      },
+      "id": "195508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "195519",
         "title": "東湖",
         "address": "台北市內湖區五分街62號",
@@ -64520,6 +64537,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207838",
+        "title": "瑞中",
+        "address": "高雄市前鎮區崗山中街99之5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.329712,
+          22.604046
+        ],
+        "type": "Point"
+      },
+      "id": "207838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207850",
         "title": "松機",
         "address": "台北市松山區敦化北路340之10號1樓",
@@ -67495,6 +67529,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210535",
+        "title": "福二",
+        "address": "基隆市七堵區福二街157號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.695861,
+          25.084365
+        ],
+        "type": "Point"
+      },
+      "id": "210535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210557",
         "title": "俊林",
         "address": "新北市樹林區三俊街216號",
@@ -67644,6 +67695,23 @@
         "type": "Point"
       },
       "id": "211170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211332",
+        "title": "松茂",
+        "address": "台北市信義區松山路11號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.577914,
+          25.049192
+        ],
+        "type": "Point"
+      },
+      "id": "211332"
     },
     {
       "type": "Feature",
@@ -70840,6 +70908,23 @@
         "type": "Point"
       },
       "id": "216326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216371",
+        "title": "統和",
+        "address": "新北市新店區安和里安民街335號337號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517149,
+          24.974797
+        ],
+        "type": "Point"
+      },
+      "id": "216371"
     },
     {
       "type": "Feature",
