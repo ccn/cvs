@@ -594,25 +594,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012120",
-        "title": "全家麻豆黎明店",
-        "address": "台南市麻豆區興國路46號1樓",
-        "post": "721",
-        "all": "SWEETPOTATO,WiFi,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.247791,
-          23.179542
-        ],
-        "type": "Point"
-      },
-      "id": "012120"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012127",
         "title": "全家宏大店",
         "address": "台北市松山區敦化北路155巷3號1樓",
@@ -68424,6 +68405,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019905",
+        "title": "全家麻豆黎明店",
+        "address": "台南市麻豆區興國路46號1樓",
+        "post": "721",
+        "all": "SWEETPOTATO,WiFi,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.247791,
+          23.179542
+        ],
+        "type": "Point"
+      },
+      "id": "019905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019906",
         "title": "全家鹿港向卿店",
         "address": "彰化縣鹿港鎮鹿東路96號",
@@ -69621,25 +69621,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020029",
-        "title": "全家中埔興化店",
-        "address": "嘉義縣中埔鄉富裕路413號",
-        "post": "606",
-        "all": "SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.470349,
-          23.444474
-        ],
-        "type": "Point"
-      },
-      "id": "020029"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020030",
         "title": "全家永康大橋店",
         "address": "台南市永康區大橋二街68號1樓",
@@ -70510,6 +70491,25 @@
         "type": "Point"
       },
       "id": "020085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020086",
+        "title": "全家中埔興化店",
+        "address": "嘉義縣中埔鄉富裕路413號",
+        "post": "606",
+        "all": "SWEETPOTATO,WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.470349,
+          23.444474
+        ],
+        "type": "Point"
+      },
+      "id": "020086"
     },
     {
       "type": "Feature",
