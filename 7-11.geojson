@@ -36232,23 +36232,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "173601",
-        "title": "北淡",
-        "address": "新北市淡水區北新路182巷34號36號38號40號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.448696,
-          25.177578
-        ],
-        "type": "Point"
-      },
-      "id": "173601"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "173612",
         "title": "金沙",
         "address": "新北市淡水區沙崙路133號",
@@ -66815,6 +66798,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209720",
+        "title": "朝富",
+        "address": "台中市西屯區朝富路2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "209720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209753",
         "title": "風車",
         "address": "彰化縣鹿港鎮彰濱五路二段76號",
@@ -67257,6 +67257,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210085",
+        "title": "芸珈",
+        "address": "桃園市龜山區民生北路一段203號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.301689,
+          25.036124
+        ],
+        "type": "Point"
+      },
+      "id": "210085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210144",
         "title": "長源",
         "address": "台南市北區長榮路四段181號",
@@ -67427,6 +67444,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210340",
+        "title": "明安",
+        "address": "台南市安南區工業二路166號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210351",
         "title": "金門醫院",
         "address": "金門縣金湖鎮復興路2-1號1樓",
@@ -67563,6 +67597,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210616",
+        "title": "宜家",
+        "address": "新北市新莊區化成路9-2.9-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.464842,
+          25.043214
+        ],
+        "type": "Point"
+      },
+      "id": "210616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210720",
         "title": "七堵站",
         "address": "基隆市七堵區東新街2號1樓",
@@ -67631,6 +67682,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210889",
+        "title": "正勤",
+        "address": "台中市西屯區黎明三段539-3號.539-5號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210890",
         "title": "鎮瀾",
         "address": "台中市大甲區鎮瀾街102號1.2樓",
@@ -67644,6 +67712,57 @@
         "type": "Point"
       },
       "id": "210890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210904",
+        "title": "嘉營",
+        "address": "台南市仁德區中正路一段73號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.229408,
+          22.919318
+        ],
+        "type": "Point"
+      },
+      "id": "210904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210937",
+        "title": "富亦",
+        "address": "台中市南屯區公益路二段939號1樓和龍富路四段552號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.626742,
+          24.151509
+        ],
+        "type": "Point"
+      },
+      "id": "210937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211044",
+        "title": "保元",
+        "address": "新北市新莊區中正路72號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211044"
     },
     {
       "type": "Feature",
