@@ -19708,6 +19708,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4631",
+        "title": "溪湖甜心店",
+        "address": "彰化縣溪湖鎮彰水路二段８２３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4803412665003,
+          23.9525826575071
+        ],
+        "type": "Point"
+      },
+      "id": "4631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4632",
         "title": "南投八卦店",
         "address": "南投縣南投市八卦路１２５８號",
