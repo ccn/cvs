@@ -56473,25 +56473,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018951",
-        "title": "全家中和新漳和店",
-        "address": "新北市中和區中和路24號1樓",
-        "post": "235",
-        "all": "SWEETPOTATO,WiFi,COFFEEDeliver,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.499715,
-          25.001841
-        ],
-        "type": "Point"
-      },
-      "id": "018951"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018953",
         "title": "全家鑫泰店",
         "address": "台北市中山區民生東路一段39號",
@@ -70732,8 +70713,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.695059,
-          24.134874
+          120.694841,
+          24.13501999999
         ],
         "type": "Point"
       },
@@ -70833,6 +70814,25 @@
         "type": "Point"
       },
       "id": "020145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020153",
+        "title": "全家中和新漳和店",
+        "address": "新北市中和區中和路24號1樓",
+        "post": "235",
+        "all": "SWEETPOTATO,WiFi,COFFEEDeliver,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.499715,
+          25.001841
+        ],
+        "type": "Point"
+      },
+      "id": "020153"
     },
     {
       "type": "Feature",
