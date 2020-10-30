@@ -2691,23 +2691,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "113469",
-        "title": "汶莊",
-        "address": "台中市北區中清路一段102號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.677505,
-          24.153745
-        ],
-        "type": "Point"
-      },
-      "id": "113469"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "113481",
         "title": "復中",
         "address": "高雄市苓雅區興中一路138號",
@@ -19755,23 +19738,6 @@
         "type": "Point"
       },
       "id": "143699"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "143758",
-        "title": "埔民",
-        "address": "桃園市桃園區民生路535號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.309059,
-          25.004079
-        ],
-        "type": "Point"
-      },
-      "id": "143758"
     },
     {
       "type": "Feature",
@@ -62854,6 +62820,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201771",
+        "title": "汶莊",
+        "address": "台中市北區中清路一段102號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.677505,
+          24.153745
+        ],
+        "type": "Point"
+      },
+      "id": "201771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -71044,6 +71027,23 @@
         "type": "Point"
       },
       "id": "216371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216407",
+        "title": "埔民",
+        "address": "桃園市桃園區民生路535號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.309059,
+          25.004079
+        ],
+        "type": "Point"
+      },
+      "id": "216407"
     },
     {
       "type": "Feature",
