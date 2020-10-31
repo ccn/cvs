@@ -4641,25 +4641,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013730",
-        "title": "全家瑞湖店",
-        "address": "台北市內湖區瑞光路513巷39號1樓",
-        "post": "114",
-        "all": "SWEETPOTATO,WiFi,Rest,Preorder,SCoffee,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.570252,
-          25.080095
-        ],
-        "type": "Point"
-      },
-      "id": "013730"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013731",
         "title": "全家金磚店",
         "address": "台北市中山區雙城街19巷2號",
@@ -46745,25 +46726,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018291",
-        "title": "全家永康復華店",
-        "address": "台南市永康區復國一路477號1樓",
-        "post": "710",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.244789,
-          23.015095
-        ],
-        "type": "Point"
-      },
-      "id": "018291"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018292",
         "title": "全家仁武仁德店",
         "address": "高雄市仁武區仁德巷68號",
@@ -70134,6 +70096,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020075",
+        "title": "全家永康復華店",
+        "address": "台南市永康區復國一路477號1樓",
+        "post": "710",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.244789,
+          23.015095
+        ],
+        "type": "Point"
+      },
+      "id": "020075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020076",
         "title": "全家板橋川府店",
         "address": "新北市板橋區四川路一段65號1樓",
@@ -70609,25 +70590,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020115",
-        "title": "全家興亞店",
-        "address": "臺北市中山區南京東路二段26號",
-        "post": "104",
-        "all": "SWEETPOTATO,WiFi,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.528996,
-          25.051916
-        ],
-        "type": "Point"
-      },
-      "id": "020115"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020116",
         "title": "全家慶陽店",
         "address": "台北市中正區重慶南路一段89號1樓",
@@ -70799,6 +70761,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020126",
+        "title": "全家瑞湖店",
+        "address": "台北市內湖區瑞光路513巷39號1樓",
+        "post": "114",
+        "all": "SWEETPOTATO,WiFi,Rest,Preorder,SCoffee,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.570252,
+          25.080095
+        ],
+        "type": "Point"
+      },
+      "id": "020126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020128",
         "title": "全家時代廣場店",
         "address": "台北市中山區樂群二路265巷20號",
@@ -70814,6 +70795,25 @@
         "type": "Point"
       },
       "id": "020128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020131",
+        "title": "全家興亞店",
+        "address": "臺北市中山區南京東路二段26號",
+        "post": "104",
+        "all": "SWEETPOTATO,WiFi,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.528996,
+          25.051916
+        ],
+        "type": "Point"
+      },
+      "id": "020131"
     },
     {
       "type": "Feature",
