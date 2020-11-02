@@ -67631,6 +67631,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211077",
+        "title": "巨新",
+        "address": "台北市文山區木新路二段212號及木新路二段218巷2號4號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567478,
+          24.983682
+        ],
+        "type": "Point"
+      },
+      "id": "211077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211114",
         "title": "觀月",
         "address": "高雄市田寮區月球路34-6號",
