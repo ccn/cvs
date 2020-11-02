@@ -19776,6 +19776,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4635",
+        "title": "林園五塊厝店",
+        "address": "高雄市林園區五福路２５０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4003714323426,
+          22.5041475768525
+        ],
+        "type": "Point"
+      },
+      "id": "4635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4638",
         "title": "新營交流道店",
         "address": "台南市新營區復興路６２２號",
@@ -21353,6 +21370,23 @@
         "type": "Point"
       },
       "id": "4792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4793",
+        "title": "桃園至善店",
+        "address": "桃園市桃園區自強路８５號及中山東路１５１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3182722711639,
+          24.9971804368185
+        ],
+        "type": "Point"
+      },
+      "id": "4793"
     },
     {
       "type": "Feature",
