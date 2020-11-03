@@ -67597,6 +67597,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210993",
+        "title": "福原",
+        "address": "花蓮縣花蓮市中原路328號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211044",
         "title": "保元",
         "address": "新北市新莊區中正路72號",
