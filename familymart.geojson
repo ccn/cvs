@@ -41748,25 +41748,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017958",
-        "title": "全家高雄南衙店",
-        "address": "高雄市前鎮區草衙二路337號",
-        "post": "806",
-        "all": "SWEETPOTATO,icecream,Toilet,oneice,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.323245,
-          22.57744
-        ],
-        "type": "Point"
-      },
-      "id": "017958"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017959",
         "title": "全家竹北勝利店",
         "address": "新竹縣竹北市莊敬七街122號",
@@ -70757,6 +70738,25 @@
         "type": "Point"
       },
       "id": "020124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020125",
+        "title": "全家高雄南衙店",
+        "address": "高雄市前鎮區草衙二路337號",
+        "post": "806",
+        "all": "SWEETPOTATO,icecream,Toilet,oneice,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.323245,
+          22.57744
+        ],
+        "type": "Point"
+      },
+      "id": "020125"
     },
     {
       "type": "Feature",
