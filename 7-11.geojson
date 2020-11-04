@@ -67461,6 +67461,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210694",
+        "title": "松祐",
+        "address": "台北市松山區饒河街90號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.574057,
+          25.050325
+        ],
+        "type": "Point"
+      },
+      "id": "210694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210720",
         "title": "七堵站",
         "address": "基隆市七堵區東新街2號1樓",
@@ -67665,6 +67682,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211099",
+        "title": "環鑫",
+        "address": "新竹縣竹北市環北路五段61號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.994284,
+          24.841122
+        ],
+        "type": "Point"
+      },
+      "id": "211099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211114",
         "title": "觀月",
         "address": "高雄市田寮區月球路34-6號",
@@ -67712,6 +67746,23 @@
         "type": "Point"
       },
       "id": "211332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211491",
+        "title": "F18P",
+        "address": "台南市安定區蘇林里北園二路8號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211491"
     },
     {
       "type": "Feature",
