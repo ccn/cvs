@@ -917,25 +917,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012475",
-        "title": "全家永和秀成店",
-        "address": "新北市永和區成功路一段137,139號",
-        "post": "234",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.526913,
-          25.001566
-        ],
-        "type": "Point"
-      },
-      "id": "012475"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012478",
         "title": "全家大湖新南昌店",
         "address": "苗栗縣大湖鄉南昌路20號",
@@ -68158,6 +68139,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019916",
+        "title": "全家永和秀成店",
+        "address": "新北市永和區成功路一段137,139號",
+        "post": "234",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.526913,
+          25.001566
+        ],
+        "type": "Point"
+      },
+      "id": "019916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019917",
         "title": "全家新城望海店",
         "address": "花蓮縣新城鄉七星街110號",
@@ -70548,6 +70548,25 @@
         "type": "Point"
       },
       "id": "020112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020113",
+        "title": "全家南投成功店",
+        "address": "南投縣南投市自強一路115號",
+        "post": "540",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.67046,
+          23.92931
+        ],
+        "type": "Point"
+      },
+      "id": "020113"
     },
     {
       "type": "Feature",
