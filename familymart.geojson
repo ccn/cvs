@@ -62610,25 +62610,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019400",
-        "title": "全家重陽店",
-        "address": "台北市南港區重陽路183,185號1樓",
-        "post": "115",
-        "all": "SWEETPOTATO,Photo,WiFi,Rest,veg,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.598862,
-          25.056714
-        ],
-        "type": "Point"
-      },
-      "id": "019400"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019401",
         "title": "全家松盛店",
         "address": "台北市信義區松山路153號",
@@ -64875,7 +64856,7 @@
         "title": "全家鶯歌站前店",
         "address": "新北市鶯歌區建國路53之5號,,53之6號1樓",
         "post": "239",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,Kantoni,Preorder,Meatballs",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,Kantoni,Preorder,LCoffee,Meatballs",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -70985,6 +70966,25 @@
         "type": "Point"
       },
       "id": "020166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020167",
+        "title": "全家重陽店",
+        "address": "台北市南港區重陽路183,185號1樓",
+        "post": "115",
+        "all": "SWEETPOTATO,Photo,WiFi,Rest,veg,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.598862,
+          25.056714
+        ],
+        "type": "Point"
+      },
+      "id": "020167"
     }
   ]
 }
