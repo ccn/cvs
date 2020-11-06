@@ -36708,23 +36708,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "174073",
-        "title": "東仁",
-        "address": "雲林縣虎尾鎮光復路391號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.43780064352299,
-          23.7098902682825
-        ],
-        "type": "Point"
-      },
-      "id": "174073"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "174109",
         "title": "堡勤",
         "address": "屏東縣屏東市新生里復興南路一段370號1樓",
@@ -49970,13 +49953,13 @@
       "properties": {
         "id": "189514",
         "title": "鑫寶華",
-        "address": "高雄市三民區九如一路126號",
+        "address": "高雄市三民區九如一路126號128號130號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.340827,
-          22.637058
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -61834,23 +61817,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201117",
-        "title": "信福",
-        "address": "台北市信義區福德街308號310巷1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.587454,
-          25.039333
-        ],
-        "type": "Point"
-      },
-      "id": "201117"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201128",
         "title": "茄苳",
         "address": "新北市汐止區忠孝東路357號359號1樓",
@@ -66985,6 +66951,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209982",
+        "title": "湖貫",
+        "address": "新竹縣湖口鄉新興路486號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.004762,
+          24.876564
+        ],
+        "type": "Point"
+      },
+      "id": "209982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209993",
         "title": "懷治",
         "address": "新北市板橋區民治街52巷1號.3號",
@@ -67621,8 +67604,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.600028,
+          23.968635
         ],
         "type": "Point"
       },
@@ -67757,8 +67740,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.263396,
+          23.116113
         ],
         "type": "Point"
       },
@@ -70925,6 +70908,23 @@
         "type": "Point"
       },
       "id": "216197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216201",
+        "title": "信福",
+        "address": "台北市信義區福德街308號310巷1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.587454,
+          25.039333
+        ],
+        "type": "Point"
+      },
+      "id": "216201"
     },
     {
       "type": "Feature",
@@ -76881,13 +76881,13 @@
       "properties": {
         "id": "892984",
         "title": "觀昌",
-        "address": "桃園市觀音區中山路21號",
+        "address": "桃園市觀音區中山路9巷19號1樓中山路21號23號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.08217,
-          25.036878
+          0,
+          0
         ],
         "type": "Point"
       },
