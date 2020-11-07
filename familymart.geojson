@@ -57974,25 +57974,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019084",
-        "title": "全家板橋天和店",
-        "address": "新北市板橋區三民路二段140號1樓",
-        "post": "220",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,veg,TANHOU,FreshFruit,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.479008,
-          25.015983
-        ],
-        "type": "Point"
-      },
-      "id": "019084"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019085",
         "title": "全家屏東大埔店",
         "address": "屏東縣屏東市民族路303號一樓",
@@ -70476,6 +70457,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020101",
+        "title": "全家板橋天和店",
+        "address": "新北市板橋區三民路二段140號1樓",
+        "post": "220",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,veg,TANHOU,FreshFruit,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.479008,
+          25.015983
+        ],
+        "type": "Point"
+      },
+      "id": "020101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020104",
         "title": "全家新蘭雅店",
         "address": "台北市士林區忠誠路二段52號壹樓及地下室部份",
@@ -70776,6 +70776,25 @@
         "type": "Point"
       },
       "id": "020126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020127",
+        "title": "全家富泰店",
+        "address": "台北市松山區民生東路五段204-3號一樓",
+        "post": "105",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.564708,
+          25.058297
+        ],
+        "type": "Point"
+      },
+      "id": "020127"
     },
     {
       "type": "Feature",
