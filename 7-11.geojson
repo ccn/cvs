@@ -67512,6 +67512,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210845",
+        "title": "大權",
+        "address": "桃園市桃園區大同路43號1樓B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.312407,
+          24.98945
+        ],
+        "type": "Point"
+      },
+      "id": "210845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210889",
         "title": "正勤",
         "address": "台中市西屯區黎明三段539-3號.539-5號",
@@ -67559,6 +67576,23 @@
         "type": "Point"
       },
       "id": "210904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210915",
+        "title": "仁盛",
+        "address": "新北市三重區仁興街39巷14之6.14之7.14之8號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.499914,
+          25.076165
+        ],
+        "type": "Point"
+      },
+      "id": "210915"
     },
     {
       "type": "Feature",
