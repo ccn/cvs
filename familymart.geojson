@@ -42339,15 +42339,15 @@
       "properties": {
         "id": "018010",
         "title": "全家善化住華店",
-        "address": "台南市善化區環東路二段32號1樓",
+        "address": "台南市善化區環東路二段32號2樓",
         "post": "741",
         "all": "SWEETPOTATO,Kantoni,Preorder,SCoffee",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.274291,
-          23.122026
+          120.27405,
+          23.122266
         ],
         "type": "Point"
       },
@@ -70343,25 +70343,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020095",
-        "title": "全家新店忠誠店",
-        "address": "新北市新店區北新路二段119號1樓",
-        "post": "231",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.542742,
-          24.97497
-        ],
-        "type": "Point"
-      },
-      "id": "020095"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020096",
         "title": "全家板橋新遠店",
         "address": "新北市板橋區四川路一段371號1樓",
@@ -70890,6 +70871,25 @@
         "type": "Point"
       },
       "id": "020145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020149",
+        "title": "全家新店忠誠店",
+        "address": "新北市新店區北新路二段119號1樓",
+        "post": "231",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,twoice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.542742,
+          24.97497
+        ],
+        "type": "Point"
+      },
+      "id": "020149"
     },
     {
       "type": "Feature",
