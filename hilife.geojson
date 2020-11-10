@@ -4595,23 +4595,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2830",
-        "title": "平鎮桃泉店",
-        "address": "桃園市平鎮區南豐路２５９號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.2049296387275,
-          24.899482512085
-        ],
-        "type": "Point"
-      },
-      "id": "2830"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2831",
         "title": "平鎮桃豐店",
         "address": "桃園市平鎮區東豐路１２７、１２９、１３１號",
@@ -8835,8 +8818,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.248856217761,
-          24.9043591961595
+          121.2489152263593,
+          24.9043754218878
         ],
         "type": "Point"
       },
@@ -18667,23 +18650,6 @@
         "type": "Point"
       },
       "id": "4546"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4549",
-        "title": "金門伯玉店",
-        "address": "金門縣金湖鎮伯玉路三段３７９號一樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          118.3761203422753,
-          24.446215844591
-        ],
-        "type": "Point"
-      },
-      "id": "4549"
     },
     {
       "type": "Feature",
