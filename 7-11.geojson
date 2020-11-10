@@ -40144,13 +40144,13 @@
       "properties": {
         "id": "181118",
         "title": "德寶",
-        "address": "台北市士林區忠誠路二段50巷12號",
+        "address": "台北市士林區忠誠路2段50巷12號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.529527,
-          25.110892
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -43544,13 +43544,13 @@
       "properties": {
         "id": "184209",
         "title": "正仁",
-        "address": "高雄市新興區中正三路84號1.B1樓",
+        "address": "高雄市新興區中正三路84號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.307475,
-          22.631211
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -67410,6 +67410,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210579",
+        "title": "升榮",
+        "address": "桃園市龜山區文化三路81巷1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.363464,
+          25.058605
+        ],
+        "type": "Point"
+      },
+      "id": "210579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210616",
         "title": "宜家",
         "address": "新北市新莊區化成路9-2.9-3號",
@@ -67678,6 +67695,23 @@
         "type": "Point"
       },
       "id": "211077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211088",
+        "title": "縣府",
+        "address": "宜蘭縣宜蘭市中山路一段366號368號370號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.765026,
+          24.731072
+        ],
+        "type": "Point"
+      },
+      "id": "211088"
     },
     {
       "type": "Feature",
@@ -100970,13 +101004,13 @@
       "properties": {
         "id": "992967",
         "title": "酒泉",
-        "address": "台北市大同區重慶北路三段260號1-2樓",
+        "address": "台北市大同區重慶北路3段258、260、262號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.513568366163,
-          25.071528021937002
+          0,
+          0
         ],
         "type": "Point"
       },
