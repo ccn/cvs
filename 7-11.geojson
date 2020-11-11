@@ -46672,13 +46672,13 @@
       "properties": {
         "id": "186652",
         "title": "新艋舺",
-        "address": "台北市萬華區萬大路292號",
+        "address": "台北市萬華區萬大路292號294號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.500285,
-          25.025252
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -62514,23 +62514,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201737",
-        "title": "市民",
-        "address": "台中市西區公益路157號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.662807,
-          24.150724
-        ],
-        "type": "Point"
-      },
-      "id": "201737"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201748",
         "title": "冠冠",
         "address": "新北市新店區北新路一段231號",
@@ -67138,6 +67121,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210214",
+        "title": "治平",
+        "address": "澎湖縣馬公市治平路26-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.567973,
+          23.569636
+        ],
+        "type": "Point"
+      },
+      "id": "210214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210225",
         "title": "鼎盛",
         "address": "台北市文山區景文街79號1樓全部二樓部份",
@@ -67444,6 +67444,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210638",
+        "title": "寶順",
+        "address": "南投縣竹山鎮鎮江西路一段1-37號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210672",
+        "title": "龍汶",
+        "address": "桃園市中壢區龍文街33巷2號6號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.255481,
+          24.935191
+        ],
+        "type": "Point"
+      },
+      "id": "210672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210694",
         "title": "松祐",
         "address": "台北市松山區饒河街90號1樓",
@@ -67746,6 +67780,23 @@
         "type": "Point"
       },
       "id": "211114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211169",
+        "title": "園和",
+        "address": "新北市永和區仁愛路267號269號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.506313,
+          25.009877
+        ],
+        "type": "Point"
+      },
+      "id": "211169"
     },
     {
       "type": "Feature",
@@ -69191,6 +69242,23 @@
         "type": "Point"
       },
       "id": "214456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214467",
+        "title": "市民",
+        "address": "台中市西區公益路157號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.662807,
+          24.150724
+        ],
+        "type": "Point"
+      },
+      "id": "214467"
     },
     {
       "type": "Feature",
