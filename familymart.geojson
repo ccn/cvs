@@ -39905,25 +39905,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017811",
-        "title": "全家新晴店",
-        "address": "台北市中山區農安街4-1號",
-        "post": "104",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52306,
-          25.064891
-        ],
-        "type": "Point"
-      },
-      "id": "017811"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017812",
         "title": "全家花蓮新美店",
         "address": "花蓮縣花蓮市中興路182號1樓",
@@ -71023,6 +71004,25 @@
         "type": "Point"
       },
       "id": "020167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020178",
+        "title": "全家新晴店",
+        "address": "台北市中山區農安街4-1號",
+        "post": "104",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52306,
+          25.064891
+        ],
+        "type": "Point"
+      },
+      "id": "020178"
     }
   ]
 }
