@@ -15566,25 +15566,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "015620",
-        "title": "全家高雄星光店",
-        "address": "高雄市苓雅區新光路26號1樓",
-        "post": "802",
-        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.303572,
-          22.612186
-        ],
-        "type": "Point"
-      },
-      "id": "015620"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "015621",
         "title": "全家台東寶桑店",
         "address": "台東縣台東市中興路一段211號",
@@ -70928,6 +70909,25 @@
         "type": "Point"
       },
       "id": "020153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020158",
+        "title": "全家高雄星光店",
+        "address": "高雄市苓雅區新光路26號1樓",
+        "post": "802",
+        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.303572,
+          22.612186
+        ],
+        "type": "Point"
+      },
+      "id": "020158"
     },
     {
       "type": "Feature",
