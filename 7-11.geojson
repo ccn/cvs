@@ -27001,23 +27001,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "158923",
-        "title": "北體",
-        "address": "台北市松山區北寧路66號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.55285,
-          25.050888
-        ],
-        "type": "Point"
-      },
-      "id": "158923"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "158945",
         "title": "美慈",
         "address": "新北市三重區慈愛街52號",
@@ -33746,23 +33729,6 @@
         "type": "Point"
       },
       "id": "167776"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "167787",
-        "title": "橋和",
-        "address": "新北市中和區橋和路99號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.490672,
-          25.005638
-        ],
-        "type": "Point"
-      },
-      "id": "167787"
     },
     {
       "type": "Feature",
@@ -67665,6 +67631,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210982",
+        "title": "竹邑",
+        "address": "桃園市蘆竹區大新路197號199號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.252676,
+          25.024767
+        ],
+        "type": "Point"
+      },
+      "id": "210982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210993",
         "title": "福原",
         "address": "花蓮縣花蓮市中原路328號1樓",
@@ -71201,6 +71184,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216337",
+        "title": "北體",
+        "address": "台北市松山區北寧路66號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.55285,
+          25.050888
+        ],
+        "type": "Point"
+      },
+      "id": "216337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216348",
         "title": "龍盛",
         "address": "新北市新莊區西盛街204巷1號1樓206號1樓",
@@ -71265,6 +71265,23 @@
         "type": "Point"
       },
       "id": "216382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216393",
+        "title": "橋和",
+        "address": "新北市中和區橋和路99號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.490672,
+          25.005638
+        ],
+        "type": "Point"
+      },
+      "id": "216393"
     },
     {
       "type": "Feature",
