@@ -12704,23 +12704,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "131593",
-        "title": "錢京",
-        "address": "台北市松山區敦化北路100號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.548322390798,
-          25.0527389557778
-        ],
-        "type": "Point"
-      },
-      "id": "131593"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "131607",
         "title": "體育大",
         "address": "桃園市龜山區文化一路250號",
@@ -69293,6 +69276,23 @@
         "type": "Point"
       },
       "id": "214478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214515",
+        "title": "錢京",
+        "address": "台北市松山區敦化北路100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.548322390798,
+          25.0527389557778
+        ],
+        "type": "Point"
+      },
+      "id": "214515"
     },
     {
       "type": "Feature",
