@@ -67835,6 +67835,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211413",
+        "title": "丁煌",
+        "address": "新北市板橋區文化路二段227號.229號1樓.B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.470813,
+          25.028461
+        ],
+        "type": "Point"
+      },
+      "id": "211413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211491",
         "title": "F18P",
         "address": "台南市安定區蘇林里北園二路8號",
@@ -69191,6 +69208,23 @@
         "type": "Point"
       },
       "id": "214397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214412",
+        "title": "友達光電",
+        "address": "台中市西屯區中科路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.615503,
+          24.208063
+        ],
+        "type": "Point"
+      },
+      "id": "214412"
     },
     {
       "type": "Feature",
@@ -85783,23 +85817,6 @@
         "type": "Point"
       },
       "id": "942478"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "942490",
-        "title": "友達光電",
-        "address": "台中市西屯區中科路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.615503,
-          24.208063
-        ],
-        "type": "Point"
-      },
-      "id": "942490"
     },
     {
       "type": "Feature",
