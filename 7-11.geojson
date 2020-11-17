@@ -13282,23 +13282,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "132149",
-        "title": "新興",
-        "address": "台南市南區光明里新興路6鄰529號531號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.187124511942,
-          22.9746046984285
-        ],
-        "type": "Point"
-      },
-      "id": "132149"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "132150",
         "title": "太華",
         "address": "高雄市前金區成功一路455之1號",
@@ -17494,23 +17477,6 @@
         "type": "Point"
       },
       "id": "140689"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "140852",
-        "title": "南投",
-        "address": "南投縣南投市民族路289號291號293號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.685881,
-          23.908288
-        ],
-        "type": "Point"
-      },
-      "id": "140852"
     },
     {
       "type": "Feature",
@@ -33236,23 +33202,6 @@
         "type": "Point"
       },
       "id": "167396"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "167422",
-        "title": "屏基",
-        "address": "屏東縣屏東市大連路60號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.502585,
-          22.681988
-        ],
-        "type": "Point"
-      },
-      "id": "167422"
     },
     {
       "type": "Feature",
@@ -67325,6 +67274,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210443",
+        "title": "鋒彩",
+        "address": "桃園市中壢區中正路1439之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.199187,
+          24.972648
+        ],
+        "type": "Point"
+      },
+      "id": "210443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210535",
         "title": "福二",
         "address": "基隆市七堵區福二街157號1樓",
@@ -67525,6 +67491,23 @@
         "type": "Point"
       },
       "id": "210812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210823",
+        "title": "齊德",
+        "address": "台北市士林區天母西路85號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.524902,
+          25.118573
+        ],
+        "type": "Point"
+      },
+      "id": "210823"
     },
     {
       "type": "Feature",
@@ -68532,6 +68515,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "213947",
+        "title": "南投",
+        "address": "南投縣南投市民族路289號291號293號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.685881,
+          23.908288
+        ],
+        "type": "Point"
+      },
+      "id": "213947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213958",
         "title": "鐵興",
         "address": "新竹縣竹北市嘉豐六路二段16號.18號.12號部分",
@@ -69208,6 +69208,23 @@
         "type": "Point"
       },
       "id": "214397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214401",
+        "title": "新興",
+        "address": "台南市南區光明里新興路6鄰529號531號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.187124511942,
+          22.9746046984285
+        ],
+        "type": "Point"
+      },
+      "id": "214401"
     },
     {
       "type": "Feature",
@@ -71044,6 +71061,23 @@
         "type": "Point"
       },
       "id": "216120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216131",
+        "title": "屏基",
+        "address": "屏東縣屏東市大連路60號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.502585,
+          22.681988
+        ],
+        "type": "Point"
+      },
+      "id": "216131"
     },
     {
       "type": "Feature",
