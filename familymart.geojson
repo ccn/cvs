@@ -7548,25 +7548,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014482",
-        "title": "全家通昌店",
-        "address": "台北市大安區文昌街142號壹樓全部",
-        "post": "106",
-        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.553157,
-          25.032471
-        ],
-        "type": "Point"
-      },
-      "id": "014482"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014487",
         "title": "全家萬丹萬鑫店",
         "address": "屏東縣萬丹鄉萬丹路一段367號",
@@ -67075,25 +67056,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019758",
-        "title": "全家大村寶山店",
-        "address": "彰化縣大村鄉山腳路98-20號",
-        "post": "515",
-        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.583028,
-          23.992752
-        ],
-        "type": "Point"
-      },
-      "id": "019758"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019759",
         "title": "全家中壢忠孝店",
         "address": "桃園市中壢區信義路76號",
@@ -70476,6 +70438,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020111",
+        "title": "全家大聯大店",
+        "address": "台北市南港區經貿二路191號一樓",
+        "post": "115",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.616129,
+          25.060685
+        ],
+        "type": "Point"
+      },
+      "id": "020111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020112",
         "title": "全家台中建國市店",
         "address": "台中市東區樂業二路60號1樓",
@@ -70875,6 +70856,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020140",
+        "title": "全家大村寶山店",
+        "address": "彰化縣大村鄉山腳路98-20號",
+        "post": "515",
+        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,Kantoni,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.583028,
+          23.992752
+        ],
+        "type": "Point"
+      },
+      "id": "020140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020142",
         "title": "全家中央公園店",
         "address": "台中市西屯區中科路2966號1樓",
@@ -71118,6 +71118,44 @@
         "type": "Point"
       },
       "id": "020167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020169",
+        "title": "全家通昌店",
+        "address": "台北市大安區文昌街142號壹樓全部",
+        "post": "106",
+        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.553157,
+          25.032471
+        ],
+        "type": "Point"
+      },
+      "id": "020169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020174",
+        "title": "全家建國北路店",
+        "address": "台北市中山區建國北路一段146號1樓",
+        "post": "104",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.536356,
+          25.051262
+        ],
+        "type": "Point"
+      },
+      "id": "020174"
     },
     {
       "type": "Feature",
