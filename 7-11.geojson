@@ -15390,23 +15390,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "136783",
-        "title": "松泰",
-        "address": "台北市信義區松山路11號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.578121,
-          25.04841
-        ],
-        "type": "Point"
-      },
-      "id": "136783"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "136819",
         "title": "梅竹",
         "address": "新竹市東區光明里14鄰大學路56號58號60號",
@@ -66590,6 +66573,23 @@
         "type": "Point"
       },
       "id": "209801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209812",
+        "title": "富信",
+        "address": "新北市新莊區自信街46.48號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.454866,
+          25.04818
+        ],
+        "type": "Point"
+      },
+      "id": "209812"
     },
     {
       "type": "Feature",
