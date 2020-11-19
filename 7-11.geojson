@@ -12043,13 +12043,13 @@
       "properties": {
         "id": "131021",
         "title": "潭北",
-        "address": "台中市潭子區仁愛路三段11號13號15號",
+        "address": "台中市潭子區福潭路645.647.649號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.707893,
-          24.215538
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -61987,23 +61987,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201438",
-        "title": "博林",
-        "address": "新北市樹林區博愛街123號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.426088,
-          24.990755
-        ],
-        "type": "Point"
-      },
-      "id": "201438"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201449",
         "title": "維陽",
         "address": "新北市板橋區陽明街158號160號1樓",
@@ -67529,6 +67512,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210856",
+        "title": "新昇",
+        "address": "桃園市中壢區新生路四段28.30號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.213651,
+          25.004902
+        ],
+        "type": "Point"
+      },
+      "id": "210856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210889",
         "title": "正勤",
         "address": "台中市西屯區黎明三段539-3號.539-5號",
@@ -71456,6 +71456,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216496",
+        "title": "博林",
+        "address": "新北市樹林區博愛街123號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.426088,
+          24.990755
+        ],
+        "type": "Point"
+      },
+      "id": "216496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216588",
         "title": "中新",
         "address": "新竹縣竹北市中正西路389號1樓",
@@ -71537,6 +71554,23 @@
         "type": "Point"
       },
       "id": "216647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216669",
+        "title": "新安慶",
+        "address": "雲林縣虎尾鎮民主路52-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.432244640158,
+          23.7025492425805
+        ],
+        "type": "Point"
+      },
+      "id": "216669"
     },
     {
       "type": "Feature",
@@ -78088,13 +78122,13 @@
       "properties": {
         "id": "898351",
         "title": "南崗",
-        "address": "南投縣南投市民族路515號",
+        "address": "南投縣南投市民族路515號及南崗一路387號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.679741,
-          23.906455
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -95864,23 +95898,6 @@
         "type": "Point"
       },
       "id": "973014"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "973025",
-        "title": "新安慶",
-        "address": "雲林縣虎尾鎮民主路52-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.432244640158,
-          23.7025492425805
-        ],
-        "type": "Point"
-      },
-      "id": "973025"
     },
     {
       "type": "Feature",
