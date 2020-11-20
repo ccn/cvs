@@ -40550,23 +40550,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181510",
-        "title": "仕豐",
-        "address": "高雄市橋頭區仕豐路61號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.307422,
-          22.750638
-        ],
-        "type": "Point"
-      },
-      "id": "181510"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181521",
         "title": "展穫",
         "address": "高雄市阿蓮區中正路897號",
@@ -56758,8 +56741,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.534818,
+          25.064566
         ],
         "type": "Point"
       },
@@ -67361,7 +67344,7 @@
       "properties": {
         "id": "210638",
         "title": "寶順",
-        "address": "南投縣竹山鎮鎮江西路一段1-37號",
+        "address": "南投縣竹山鎮江西路一段1-37號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -67531,7 +67514,7 @@
       "properties": {
         "id": "210889",
         "title": "正勤",
-        "address": "台中市西屯區黎明三段539-3號.539-5號",
+        "address": "台中市西屯區黎明路三段539-3號.539-5號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -67848,6 +67831,23 @@
         "type": "Point"
       },
       "id": "211491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211620",
+        "title": "新文華",
+        "address": "台北市中正區廈門街77號77之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.517507,
+          25.024728
+        ],
+        "type": "Point"
+      },
+      "id": "211620"
     },
     {
       "type": "Feature",
@@ -71214,6 +71214,23 @@
         "type": "Point"
       },
       "id": "216234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216256",
+        "title": "仕豐",
+        "address": "高雄市橋頭區仕豐路61號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.307422,
+          22.750638
+        ],
+        "type": "Point"
+      },
+      "id": "216256"
     },
     {
       "type": "Feature",
