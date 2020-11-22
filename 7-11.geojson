@@ -67835,6 +67835,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211686",
+        "title": "慶陽",
+        "address": "台北市中正區衡陽路93號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.509553,
+          25.042315
+        ],
+        "type": "Point"
+      },
+      "id": "211686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211734",
         "title": "華文",
         "address": "高雄市苓雅區文橫二路2號與文橫二路二巷2號",
