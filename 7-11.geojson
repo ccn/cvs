@@ -67699,6 +67699,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211125",
+        "title": "三社",
+        "address": "台中市神岡區三社路256號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.688126,
+          24.240316
+        ],
+        "type": "Point"
+      },
+      "id": "211125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211169",
         "title": "園和",
         "address": "新北市永和區仁愛路267號269號",
