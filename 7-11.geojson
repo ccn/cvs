@@ -7383,23 +7383,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "122371",
-        "title": "觀成",
-        "address": "桃園市觀音區成功路一段557號559號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.12413,
-          25.054801
-        ],
-        "type": "Point"
-      },
-      "id": "122371"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "122382",
         "title": "白燈塔",
         "address": "屏東縣琉球鄉三民區大福村中正路303之2號1樓",
@@ -57450,7 +57433,7 @@
       "properties": {
         "id": "197696",
         "title": "欣三豐",
-        "address": "台中市豐原區三豐路89、93、95號1樓",
+        "address": "台中市豐原區源豐路89、93、95號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -66322,6 +66305,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209649",
+        "title": "榮曜",
+        "address": "新北市林口區文化三路二段156.158號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.375718,
+          25.081614
+        ],
+        "type": "Point"
+      },
+      "id": "209649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209650",
         "title": "寬士村",
         "address": "嘉義縣水上鄉寬士村崎子頭29-35號",
@@ -67559,6 +67559,23 @@
         "type": "Point"
       },
       "id": "210937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210971",
+        "title": "中蔗",
+        "address": "台中市大肚區中蔗路39號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.574636,
+          24.169882
+        ],
+        "type": "Point"
+      },
+      "id": "210971"
     },
     {
       "type": "Feature",
@@ -71401,6 +71418,23 @@
         "type": "Point"
       },
       "id": "216359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216360",
+        "title": "觀成",
+        "address": "桃園市觀音區成功路一段557號559號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.12413,
+          25.054801
+        ],
+        "type": "Point"
+      },
+      "id": "216360"
     },
     {
       "type": "Feature",
