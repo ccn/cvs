@@ -8118,25 +8118,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014583",
-        "title": "全家神岡大漢店",
-        "address": "台中市神岡區大漢街72號",
-        "post": "429",
-        "all": "SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,COFFEEDeliver,Preorder,SCoffee,pet",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.698369,
-          24.252755
-        ],
-        "type": "Point"
-      },
-      "id": "014583"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014585",
         "title": "全家豐原綠山店",
         "address": "台中市豐原區南陽路60號一樓",
@@ -36599,25 +36580,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017558",
-        "title": "全家中壢中央三店",
-        "address": "桃園市中壢區中大路300號松苑餐廳1樓",
-        "post": "320",
-        "all": "SWEETPOTATO,Photo,icecream,oneice,Kantoni,Preorder,Meatballs,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.19086371724993,
-          24.967104473398027
-        ],
-        "type": "Point"
-      },
-      "id": "017558"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017559",
         "title": "全家台中福大店",
         "address": "台中市西屯區文華路200號一樓",
@@ -40807,8 +40769,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.661179,
-          24.163798
+          120.656245,
+          24.16558
         ],
         "type": "Point"
       },
@@ -70248,6 +70210,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020103",
+        "title": "全家神岡大漢店",
+        "address": "台中市神岡區大漢街72號",
+        "post": "429",
+        "all": "SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,COFFEEDeliver,Preorder,SCoffee,pet",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.698369,
+          24.252755
+        ],
+        "type": "Point"
+      },
+      "id": "020103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020104",
         "title": "全家新蘭雅店",
         "address": "台北市士林區忠誠路二段52號壹樓及地下室部份",
@@ -71213,6 +71194,25 @@
         "type": "Point"
       },
       "id": "020180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020200",
+        "title": "全家中壢中央三店",
+        "address": "桃園市中壢區中大路300號松苑餐廳1樓",
+        "post": "320",
+        "all": "SWEETPOTATO,Photo,icecream,oneice,Kantoni,Preorder,Meatballs,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.19086371724993,
+          24.967104473398027
+        ],
+        "type": "Point"
+      },
+      "id": "020200"
     }
   ]
 }
