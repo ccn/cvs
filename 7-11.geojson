@@ -67886,6 +67886,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211723",
+        "title": "龍莊",
+        "address": "新北市新莊區中正路893巷38號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.413843,
+          25.02071
+        ],
+        "type": "Point"
+      },
+      "id": "211723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211734",
         "title": "華文",
         "address": "高雄市苓雅區文橫二路2號與文橫二路二巷2號",
@@ -76490,13 +76507,13 @@
       "properties": {
         "id": "887029",
         "title": "忠太",
-        "address": "台中市北區忠明8街1號或太原路一段492號1樓",
+        "address": "台中市北區太原路一段492號地下1層和忠明八街1號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.66565478083601,
-          24.1634508538191
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -78870,13 +78887,13 @@
       "properties": {
         "id": "902296",
         "title": "吉川",
-        "address": "台東縣台東市豐谷里中華路二段272號",
+        "address": "臺東縣臺東市豐谷里中華路2段272號274號276號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.13635,
-          22.743568
+          0,
+          0
         ],
         "type": "Point"
       },
