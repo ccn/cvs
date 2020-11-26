@@ -1841,23 +1841,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112477",
-        "title": "極緻",
-        "address": "基隆市仁愛區仁二路197號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.744586538664,
-          25.1287272172126
-        ],
-        "type": "Point"
-      },
-      "id": "112477"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "112503",
         "title": "嘉雅",
         "address": "嘉義市東區大雅路二段421號1樓",
@@ -8012,23 +7995,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "123064",
-        "title": "福和",
-        "address": "新北市中和區秀朗里大勇街25巷1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.51716,
-          24.993195
-        ],
-        "type": "Point"
-      },
-      "id": "123064"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "123086",
         "title": "龍田",
         "address": "台中市龍井區田中里臨港東路一段75號",
@@ -9368,23 +9334,6 @@
         "type": "Point"
       },
       "id": "126823"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "126878",
-        "title": "縣北",
-        "address": "桃園市桃園區中山北路136號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.303417,
-          24.995105
-        ],
-        "type": "Point"
-      },
-      "id": "126878"
     },
     {
       "type": "Feature",
@@ -67733,6 +67682,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211158",
+        "title": "育立",
+        "address": "台中市太平區育賢路282號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716602,
+          24.158542
+        ],
+        "type": "Point"
+      },
+      "id": "211158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211169",
         "title": "園和",
         "address": "新北市永和區仁愛路267號269號",
@@ -71575,6 +71541,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216500",
+        "title": "縣北",
+        "address": "桃園市桃園區中山北路136號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.303417,
+          24.995105
+        ],
+        "type": "Point"
+      },
+      "id": "216500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216555",
         "title": "輕井澤",
         "address": "桃園市桃園區大業路一段355號357號一樓",
@@ -71690,6 +71673,23 @@
         "type": "Point"
       },
       "id": "216669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216739",
+        "title": "福和",
+        "address": "新北市中和區秀朗里大勇街25巷1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.51716,
+          24.993195
+        ],
+        "type": "Point"
+      },
+      "id": "216739"
     },
     {
       "type": "Feature",
@@ -83341,13 +83341,13 @@
       "properties": {
         "id": "928357",
         "title": "吉安",
-        "address": "台北市中山區吉林路365號367號",
+        "address": "台北市中山區吉林路365號367號農安街137號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.530479,
-          25.064896
+          0,
+          0
         ],
         "type": "Point"
       },
