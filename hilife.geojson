@@ -549,23 +549,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2115",
-        "title": "北市雙連店",
-        "address": "台北市中山區民生西路６２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.520873847581,
-          25.0574787550685
-        ],
-        "type": "Point"
-      },
-      "id": "2115"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2126",
         "title": "新竹建中店",
         "address": "新竹市東區建中一路２號",
@@ -6744,8 +6727,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.5759475814796,
-          25.0625349249408
+          121.5752126562095,
+          25.0625665106243
         ],
         "type": "Point"
       },
@@ -13850,8 +13833,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.5751561018524,
-          25.06304
+          121.5751748773155,
+          25.0631128897258
         ],
         "type": "Point"
       },
@@ -21336,6 +21319,23 @@
         "type": "Point"
       },
       "id": "4794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4795",
+        "title": "員林員水店",
+        "address": "彰化縣員林市員水路一段臨５０３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5929608363535,
+          23.9527286214371
+        ],
+        "type": "Point"
+      },
+      "id": "4795"
     },
     {
       "type": "Feature",
