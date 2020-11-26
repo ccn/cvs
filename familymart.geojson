@@ -71179,6 +71179,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020186",
+        "title": "全家鹿谷麒麟店",
+        "address": "南投縣鹿谷鄉仁義路106號1樓",
+        "post": "558",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.754004,
+          23.746593
+        ],
+        "type": "Point"
+      },
+      "id": "020186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020200",
         "title": "全家中壢中央三店",
         "address": "桃園市中壢區中大路300號松苑餐廳1樓",
