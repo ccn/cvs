@@ -11980,8 +11980,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.707809,
+          24.21559
         ],
         "type": "Point"
       },
@@ -28391,23 +28391,6 @@
         "type": "Point"
       },
       "id": "162575"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "162586",
-        "title": "新仁政",
-        "address": "高雄市苓雅區仁政里青年一路299號301號303號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.302992,
-          22.620178
-        ],
-        "type": "Point"
-      },
-      "id": "162586"
     },
     {
       "type": "Feature",
@@ -49016,23 +48999,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188854",
-        "title": "仟翔",
-        "address": "苗栗縣竹南鎮龍山路二段275號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.873841,
-          24.700459
-        ],
-        "type": "Point"
-      },
-      "id": "188854"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188865",
         "title": "商華",
         "address": "新竹縣竹東鎮東寧路三段25號1樓",
@@ -65183,6 +65149,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208783",
+        "title": "富都",
+        "address": "高雄市三民區力行路83.85號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.288724,
+          22.638594
+        ],
+        "type": "Point"
+      },
+      "id": "208783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208794",
         "title": "成竹",
         "address": "台北市內湖區成功路四段173號1樓",
@@ -67434,8 +67417,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.640091,
+          24.186368
         ],
         "type": "Point"
       },
@@ -67763,6 +67746,23 @@
         "type": "Point"
       },
       "id": "211332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211398",
+        "title": "極緻",
+        "address": "基隆市仁愛區仁二路211號1樓B1",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.744311,
+          25.128871
+        ],
+        "type": "Point"
+      },
+      "id": "211398"
     },
     {
       "type": "Feature",
@@ -71524,6 +71524,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216452",
+        "title": "新仁政",
+        "address": "高雄市苓雅區仁政里青年一路299號301號303號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302992,
+          22.620178
+        ],
+        "type": "Point"
+      },
+      "id": "216452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216496",
         "title": "博林",
         "address": "新北市樹林區博愛街123號1樓",
@@ -71554,6 +71571,23 @@
         "type": "Point"
       },
       "id": "216500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216522",
+        "title": "仟翔",
+        "address": "苗栗縣竹南鎮龍山路二段275號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.873841,
+          24.700459
+        ],
+        "type": "Point"
+      },
+      "id": "216522"
     },
     {
       "type": "Feature",
@@ -76512,8 +76546,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.670653,
+          24.164784
         ],
         "type": "Point"
       },
@@ -78246,8 +78280,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.6797,
+          23.906433
         ],
         "type": "Point"
       },
@@ -78881,23 +78915,6 @@
         "type": "Point"
       },
       "id": "902241"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "902296",
-        "title": "吉川",
-        "address": "臺東縣臺東市豐谷里中華路2段272號274號276號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "id": "902296"
     },
     {
       "type": "Feature",
