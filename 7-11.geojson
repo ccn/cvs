@@ -34634,23 +34634,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170668",
-        "title": "政大",
-        "address": "台北市文山區指南路二段99號101號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.575542,
-          24.987804
-        ],
-        "type": "Point"
-      },
-      "id": "170668"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170679",
         "title": "蘆三",
         "address": "新北市蘆洲區三民路6號8號",
@@ -40937,6 +40920,23 @@
         "type": "Point"
       },
       "id": "182199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182203",
+        "title": "中慈",
+        "address": "桃園市桃園區中正三街411號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.298456,
+          25.003555
+        ],
+        "type": "Point"
+      },
+      "id": "182203"
     },
     {
       "type": "Feature",
@@ -57346,23 +57346,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "197696",
-        "title": "欣三豐",
-        "address": "台中市豐原區源豐路89、93、95號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.716376,
-          24.25307
-        ],
-        "type": "Point"
-      },
-      "id": "197696"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197700",
         "title": "湧久",
         "address": "台北市大同區延平北路四段157號159號",
@@ -62327,6 +62310,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201829",
+        "title": "政大",
+        "address": "台北市文山區指南路二段99號101號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.575542,
+          24.987804
+        ],
+        "type": "Point"
+      },
+      "id": "201829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -67257,6 +67257,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210650",
+        "title": "回家",
+        "address": "嘉義市西區中山路518號及林森西路580號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4419,
+          23.479281
+        ],
+        "type": "Point"
+      },
+      "id": "210650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210672",
         "title": "龍汶",
         "address": "桃園市中壢區龍文街33巷2號6號1樓",
@@ -67546,6 +67563,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211033",
+        "title": "承晨",
+        "address": "桃園市中壢區民權路五段65號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.203617,
+          25.014374
+        ],
+        "type": "Point"
+      },
+      "id": "211033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211044",
         "title": "保元",
         "address": "新北市新莊區中正路72號",
@@ -67784,6 +67818,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211457",
+        "title": "承莊",
+        "address": "宜蘭縣宜蘭市中山路五段148號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211491",
         "title": "F18P",
         "address": "台南市安定區蘇林里北園二路8號",
@@ -67899,6 +67950,40 @@
         "type": "Point"
       },
       "id": "211826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211882",
+        "title": "智復",
+        "address": "台中市東區復興路四段210號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.688107,
+          24.136443
+        ],
+        "type": "Point"
+      },
+      "id": "211882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211974",
+        "title": "板運",
+        "address": "新北市板橋區新站路68號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.464729,
+          25.01531
+        ],
+        "type": "Point"
+      },
+      "id": "211974"
     },
     {
       "type": "Feature",
@@ -71605,6 +71690,23 @@
         "type": "Point"
       },
       "id": "216555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216577",
+        "title": "欣三豐",
+        "address": "台中市豐原區源豐路89、93、95號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.716376,
+          24.25307
+        ],
+        "type": "Point"
+      },
+      "id": "216577"
     },
     {
       "type": "Feature",
@@ -102545,23 +102647,6 @@
         "type": "Point"
       },
       "id": "997766"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "997825",
-        "title": "承莊",
-        "address": "宜蘭縣宜蘭市中山路五段92號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.75625,
-          24.768199
-        ],
-        "type": "Point"
-      },
-      "id": "997825"
     },
     {
       "type": "Feature",
