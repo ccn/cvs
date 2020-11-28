@@ -5724,25 +5724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014042",
-        "title": "全家精英店",
-        "address": "台北市內湖區堤頂大道二段241號壹樓",
-        "post": "114",
-        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Kantoni,Preorder,SCoffee,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.566762,
-          25.07824
-        ],
-        "type": "Point"
-      },
-      "id": "014042"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014045",
         "title": "全家板橋西安店",
         "address": "新北市板橋區長安街295號1樓",
@@ -71308,6 +71289,25 @@
         "type": "Point"
       },
       "id": "020223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020226",
+        "title": "全家精英店",
+        "address": "台北市內湖區堤頂大道二段241號壹樓",
+        "post": "114",
+        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Kantoni,Preorder,SCoffee,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.566762,
+          25.07824
+        ],
+        "type": "Point"
+      },
+      "id": "020226"
     },
     {
       "type": "Feature",
