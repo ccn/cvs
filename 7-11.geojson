@@ -67852,6 +67852,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211583",
+        "title": "松站",
+        "address": "台中市北屯區松竹路一段1386號1388號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.705031,
+          24.182467
+        ],
+        "type": "Point"
+      },
+      "id": "211583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211608",
         "title": "正翔",
         "address": "新北市林口區中正路285.287號",
@@ -72342,13 +72359,13 @@
       "properties": {
         "id": "841001",
         "title": "中埔",
-        "address": "嘉義縣中埔鄉和美村中山路5段856號",
+        "address": "嘉義縣中埔鄉和美村中山路五段856號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.46073,
-          23.451948
+          0,
+          0
         ],
         "type": "Point"
       },
