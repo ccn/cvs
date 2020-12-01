@@ -632,25 +632,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012288",
-        "title": "全家林口竹林店",
-        "address": "新北市林口區林口路126號1F",
-        "post": "244",
-        "all": "SWEETPOTATO,Smoothie,WiFi,Rest,Preorder,Meatballs,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.388479,
-          25.081692
-        ],
-        "type": "Point"
-      },
-      "id": "012288"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012395",
         "title": "全家中和福順店",
         "address": "新北市中和區景平路708號",
@@ -685,25 +666,6 @@
         "type": "Point"
       },
       "id": "012406"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "012413",
-        "title": "全家汐止亞太二店",
-        "address": "新北市汐止區新台五路一段82至116號,Ｄ8—2號",
-        "post": "221",
-        "all": "SWEETPOTATO,icecream,oneice,Preorder,SCoffee",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.647221,
-          25.060325
-        ],
-        "type": "Point"
-      },
-      "id": "012413"
     },
     {
       "type": "Feature",
@@ -765,25 +727,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012451",
-        "title": "全家台中新忠勇店",
-        "address": "台中市南屯區忠勇路76之3號",
-        "post": "408",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,Preorder,SCoffee",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.616105,
-          24.151736
-        ],
-        "type": "Point"
-      },
-      "id": "012451"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012461",
         "title": "全家台南新和店",
         "address": "台南市南區新建路47號1樓",
@@ -799,25 +742,6 @@
         "type": "Point"
       },
       "id": "012461"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "012464",
-        "title": "全家淡水新江店",
-        "address": "新北市淡水區中山北路二段188巷16號1樓",
-        "post": "251",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder,pet,wash,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.44528326,
-          25.18510485
-        ],
-        "type": "Point"
-      },
-      "id": "012464"
     },
     {
       "type": "Feature",
@@ -917,44 +841,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012508",
-        "title": "全家新莊中榮店",
-        "address": "新北市新莊區中榮街84號",
-        "post": "242",
-        "all": "SWEETPOTATO,Smoothie,WiFi,Rest,Preorder,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.448131,
-          25.052862
-        ],
-        "type": "Point"
-      },
-      "id": "012508"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "012510",
-        "title": "全家龍潭龍聖店",
-        "address": "桃園市龍潭區梅龍路189號1樓",
-        "post": "325",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Kantoni,Preorder,wash,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.197519,
-          24.87339
-        ],
-        "type": "Point"
-      },
-      "id": "012510"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012517",
         "title": "全家下營中山店",
         "address": "台南市下營區中山路二段32號",
@@ -1027,25 +913,6 @@
         "type": "Point"
       },
       "id": "012544"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "012550",
-        "title": "全家三重成功店",
-        "address": "新北市三重區成功路145巷45號47號一樓",
-        "post": "241",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Preorder,Meatballs,pet,kit,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.487891,
-          25.053593
-        ],
-        "type": "Point"
-      },
-      "id": "012550"
     },
     {
       "type": "Feature",
@@ -3862,25 +3729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013562",
-        "title": "全家三峽新介壽店",
-        "address": "新北市三峽區介壽路三段176號1樓",
-        "post": "237",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Preorder,Meatballs,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.402477,
-          24.943936
-        ],
-        "type": "Point"
-      },
-      "id": "013562"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013565",
         "title": "全家台中新大富店",
         "address": "台中市西屯區朝富路100號1樓",
@@ -4789,25 +4637,6 @@
         "type": "Point"
       },
       "id": "013794"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "013797",
-        "title": "全家新復店",
-        "address": "台北市中山區復興北路514巷35號",
-        "post": "104",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,SUNMAI,Preorder,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.542588,
-          25.066095
-        ],
-        "type": "Point"
-      },
-      "id": "013797"
     },
     {
       "type": "Feature",
@@ -7506,25 +7335,6 @@
         "type": "Point"
       },
       "id": "014517"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014518",
-        "title": "全家埔里金牛店",
-        "address": "南投縣埔里鎮桃米路23-7號",
-        "post": "545",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SUNMAI,Preorder,Meatballs,intl,costco",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.931279,
-          23.944162
-        ],
-        "type": "Point"
-      },
-      "id": "014518"
     },
     {
       "type": "Feature",
@@ -13586,25 +13396,6 @@
         "type": "Point"
       },
       "id": "015359"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "015370",
-        "title": "全家中和中鼎店",
-        "address": "新北市中和區中安街80號一樓",
-        "post": "235",
-        "all": "SWEETPOTATO,WiFi,icecream,oneice,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.512095,
-          25.001877
-        ],
-        "type": "Point"
-      },
-      "id": "015370"
     },
     {
       "type": "Feature",
@@ -26301,25 +26092,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016778",
-        "title": "全家台中福鄰店",
-        "address": "台中市西屯區西屯路三段166之25號1樓",
-        "post": "407",
-        "all": "SWEETPOTATO,Toilet,Rest,COFFEEDeliver,SUNMAI,Preorder,costco",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.615308,
-          24.189566
-        ],
-        "type": "Point"
-      },
-      "id": "016778"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016779",
         "title": "全家台中嘉勝店",
         "address": "台中市北區大德街47號壹樓",
@@ -26643,25 +26415,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "016810",
-        "title": "全家民雄埤角店",
-        "address": "嘉義縣民雄鄉福樂村埤角106號",
-        "post": "621",
-        "all": "WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,Preorder,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.441239,
-          23.525299
-        ],
-        "type": "Point"
-      },
-      "id": "016810"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "016812",
         "title": "全家高雄漢民店",
         "address": "高雄市小港區漢民路501號1樓",
@@ -26981,25 +26734,6 @@
         "type": "Point"
       },
       "id": "016841"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "016846",
-        "title": "全家土城學林店",
-        "address": "新北市土城區學成路36號1樓",
-        "post": "236",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.452601,
-          24.987373
-        ],
-        "type": "Point"
-      },
-      "id": "016846"
     },
     {
       "type": "Feature",
@@ -67797,6 +67531,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "019969",
+        "title": "全家新莊中榮店",
+        "address": "新北市新莊區中榮街84號",
+        "post": "242",
+        "all": "SWEETPOTATO,Smoothie,WiFi,Rest,Preorder,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.448131,
+          25.052862
+        ],
+        "type": "Point"
+      },
+      "id": "019969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "019971",
         "title": "全家三芝吉祥店",
         "address": "新北市三芝區淡金路一段73,75,77號",
@@ -69925,6 +69678,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020108",
+        "title": "全家台中新忠勇店",
+        "address": "台中市南屯區忠勇路76之3號",
+        "post": "408",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,Preorder,SCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.616105,
+          24.151736
+        ],
+        "type": "Point"
+      },
+      "id": "020108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020109",
         "title": "全家港運店",
         "address": "台北市南港區玉成街52巷2弄7號一樓",
@@ -70343,6 +70115,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020133",
+        "title": "全家三重成功店",
+        "address": "新北市三重區成功路145巷45號47號一樓",
+        "post": "241",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,COFFEEDeliver,Preorder,Meatballs,pet,kit,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.487891,
+          25.053593
+        ],
+        "type": "Point"
+      },
+      "id": "020133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020134",
         "title": "全家台中福康店",
         "address": "台中市西屯區福康路71號1樓",
@@ -70666,6 +70457,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020156",
+        "title": "全家淡水新江店",
+        "address": "新北市淡水區中山北路二段188巷16號1樓",
+        "post": "251",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder,pet,wash,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44528326,
+          25.18510485
+        ],
+        "type": "Point"
+      },
+      "id": "020156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020158",
         "title": "全家高雄星光店",
         "address": "高雄市苓雅區新光路26號1樓",
@@ -70970,6 +70780,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020177",
+        "title": "全家林口竹林店",
+        "address": "新北市林口區林口路126號1F",
+        "post": "244",
+        "all": "SWEETPOTATO,Smoothie,WiFi,Rest,Preorder,Meatballs,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.388479,
+          25.081692
+        ],
+        "type": "Point"
+      },
+      "id": "020177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020178",
         "title": "全家新晴店",
         "address": "台北市中山區農安街4-1號",
@@ -71023,6 +70852,25 @@
         "type": "Point"
       },
       "id": "020180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020183",
+        "title": "全家板橋福德店",
+        "address": "新北市板橋區中正路254號1樓",
+        "post": "220",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.455558,
+          25.019405
+        ],
+        "type": "Point"
+      },
+      "id": "020183"
     },
     {
       "type": "Feature",
@@ -71084,6 +70932,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020187",
+        "title": "全家埔里金牛店",
+        "address": "南投縣埔里鎮桃米路23-7號",
+        "post": "545",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,SUNMAI,Preorder,Meatballs,intl,costco",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.931279,
+          23.944162
+        ],
+        "type": "Point"
+      },
+      "id": "020187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020189",
         "title": "全家善導寺店",
         "address": "台北市中正區忠孝東路一段9號1樓",
@@ -71122,6 +70989,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020191",
+        "title": "全家汐止亞太二店",
+        "address": "新北市汐止區新台五路一段82至116號,Ｄ8—2號",
+        "post": "221",
+        "all": "SWEETPOTATO,icecream,oneice,Preorder,SCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.647221,
+          25.060325
+        ],
+        "type": "Point"
+      },
+      "id": "020191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020192",
         "title": "全家中和新后店",
         "address": "新北市中和區連城路469巷23號1樓",
@@ -71156,6 +71042,44 @@
         "type": "Point"
       },
       "id": "020193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020196",
+        "title": "全家龍潭龍聖店",
+        "address": "桃園市龍潭區梅龍路189號1樓",
+        "post": "325",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,twoice,COFFEEDeliver,Kantoni,Preorder,wash,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.197519,
+          24.87339
+        ],
+        "type": "Point"
+      },
+      "id": "020196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020197",
+        "title": "全家台中福鄰店",
+        "address": "台中市西屯區西屯路三段166之25號1樓",
+        "post": "407",
+        "all": "SWEETPOTATO,Toilet,Rest,COFFEEDeliver,SUNMAI,Preorder,costco",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.615308,
+          24.189566
+        ],
+        "type": "Point"
+      },
+      "id": "020197"
     },
     {
       "type": "Feature",
@@ -71236,6 +71160,63 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020210",
+        "title": "全家新復店",
+        "address": "台北市中山區復興北路514巷35號",
+        "post": "104",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,SUNMAI,Preorder,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.542588,
+          25.066095
+        ],
+        "type": "Point"
+      },
+      "id": "020210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020212",
+        "title": "全家中和中鼎店",
+        "address": "新北市中和區中安街80號一樓",
+        "post": "235",
+        "all": "SWEETPOTATO,WiFi,icecream,oneice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.512095,
+          25.001877
+        ],
+        "type": "Point"
+      },
+      "id": "020212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020213",
+        "title": "全家土城學林店",
+        "address": "新北市土城區學成路36號1樓",
+        "post": "236",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.452601,
+          24.987373
+        ],
+        "type": "Point"
+      },
+      "id": "020213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020214",
         "title": "全家關廟英雄店",
         "address": "台南市關廟區南雄路一段1133號1樓",
@@ -71251,6 +71232,44 @@
         "type": "Point"
       },
       "id": "020214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020215",
+        "title": "全家三峽新介壽店",
+        "address": "新北市三峽區介壽路三段176號1樓",
+        "post": "237",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Preorder,Meatballs,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.402477,
+          24.943936
+        ],
+        "type": "Point"
+      },
+      "id": "020215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020217",
+        "title": "全家民雄埤角店",
+        "address": "嘉義縣民雄鄉福樂村埤角106號",
+        "post": "621",
+        "all": "WiFi,icecream,Parking,Toilet,Rest,oneice,COFFEEDeliver,Preorder,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.441239,
+          23.525299
+        ],
+        "type": "Point"
+      },
+      "id": "020217"
     },
     {
       "type": "Feature",
