@@ -8624,23 +8624,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "125129",
-        "title": "永發",
-        "address": "屏東縣屏東市永安里復興路258號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.487783705404,
-          22.6632046184653
-        ],
-        "type": "Point"
-      },
-      "id": "125129"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "125314",
         "title": "鹿心",
         "address": "台中市沙鹿區興仁里四平街58號",
@@ -65438,6 +65421,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209085",
+        "title": "華億",
+        "address": "台南市仁德區文華路三段432.436號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "209085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209096",
         "title": "泉富",
         "address": "台中市潭子區中山路一段57號1樓",
@@ -67712,6 +67712,23 @@
         "type": "Point"
       },
       "id": "211583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211594",
+        "title": "石錠",
+        "address": "新北市石碇區碇坪路50之1號50之2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211594"
     },
     {
       "type": "Feature",
@@ -71860,6 +71877,23 @@
         "type": "Point"
       },
       "id": "216739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216740",
+        "title": "永發",
+        "address": "屏東縣屏東市永安里復興路258號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.487783705404,
+          22.6632046184653
+        ],
+        "type": "Point"
+      },
+      "id": "216740"
     },
     {
       "type": "Feature",
