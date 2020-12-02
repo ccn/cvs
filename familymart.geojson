@@ -898,25 +898,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012544",
-        "title": "全家新林森店",
-        "address": "台北市中山區林森北路630號1樓",
-        "post": "104",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.52559,
-          25.067598
-        ],
-        "type": "Point"
-      },
-      "id": "012544"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012561",
         "title": "全家彰化金馬店",
         "address": "彰化縣彰化市彰馬路246之1號",
@@ -69127,25 +69108,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020075",
-        "title": "全家永康復華店",
-        "address": "台南市永康區復國一路477號1樓",
-        "post": "710",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,Preorder,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.244789,
-          23.015095
-        ],
-        "type": "Point"
-      },
-      "id": "020075"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020076",
         "title": "全家板橋川府店",
         "address": "新北市板橋區四川路一段65號1樓",
@@ -70115,6 +70077,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020132",
+        "title": "全家新林森店",
+        "address": "台北市中山區林森北路630號1樓",
+        "post": "104",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,oneice,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52559,
+          25.067598
+        ],
+        "type": "Point"
+      },
+      "id": "020132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020133",
         "title": "全家三重成功店",
         "address": "新北市三重區成功路145巷45號47號一樓",
@@ -70472,6 +70453,25 @@
         "type": "Point"
       },
       "id": "020156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020157",
+        "title": "全家永康復華店",
+        "address": "台南市永康區復國一路477號1樓",
+        "post": "710",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Toilet,Rest,oneice,Preorder,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.244789,
+          23.015095
+        ],
+        "type": "Point"
+      },
+      "id": "020157"
     },
     {
       "type": "Feature",
