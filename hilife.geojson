@@ -20932,6 +20932,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4752",
+        "title": "中山錦東店",
+        "address": "台北市中山區錦州街３２之１號及３２之２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5249779244253,
+          25.0602340061312
+        ],
+        "type": "Point"
+      },
+      "id": "4752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4753",
         "title": "新園鹽港店",
         "address": "屏東縣新園鄉光復路１２６號",
