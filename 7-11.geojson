@@ -26459,13 +26459,13 @@
       "properties": {
         "id": "158613",
         "title": "元長",
-        "address": "雲林縣元長鄉長南村7鄰中山路32-2號1F",
+        "address": "雲林縣元長鄉長南村7鄰中山路32號.32-2號1F",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.31371,
-          23.649688
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -65625,6 +65625,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209258",
+        "title": "銅高",
+        "address": "苗栗縣銅鑼鄉新興路2-26號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.789917,
+          24.48608
+        ],
+        "type": "Point"
+      },
+      "id": "209258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209269",
         "title": "重陽",
         "address": "台北市南港區重陽路179號181號1樓",
@@ -67089,7 +67106,7 @@
       "properties": {
         "id": "210638",
         "title": "寶順",
-        "address": "南投縣竹山鎮江西路一段1-37號",
+        "address": "南投縣竹山鎮江西路1-37號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -67597,6 +67614,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211262",
+        "title": "樂林",
+        "address": "新北市三重區永安北路二段15號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211273",
         "title": "民雄",
         "address": "嘉義縣民雄鄉民權路42-20號1樓",
@@ -67718,7 +67752,7 @@
       "properties": {
         "id": "211594",
         "title": "石錠",
-        "address": "新北市石碇區碇坪路50之1號50之2號",
+        "address": "新北市石碇區碇坪路一段50之1號50之2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
