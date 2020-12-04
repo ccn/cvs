@@ -27086,23 +27086,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "159122",
-        "title": "貴鳳",
-        "address": "新北市泰山區貴鳳街2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.421193,
-          25.031246
-        ],
-        "type": "Point"
-      },
-      "id": "159122"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "159133",
         "title": "晶越",
         "address": "台南市中西區西門路一段658號B2",
@@ -61564,13 +61547,13 @@
       "properties": {
         "id": "201380",
         "title": "旗廟",
-        "address": "高雄市旗津區振興里廟前路12號1樓",
+        "address": "高雄市旗津區永安里廟前路12號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.26790657682,
-          22.611808435391
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -68517,13 +68500,13 @@
       "properties": {
         "id": "213947",
         "title": "南投",
-        "address": "南投縣南投市民族路289號291號293號",
+        "address": "南投縣南投市民族路289、291、293號中山街135、143號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.685881,
-          23.908288
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -69333,13 +69316,13 @@
       "properties": {
         "id": "214478",
         "title": "萬里",
-        "address": "新北市萬里區瑪鍊路49號51號",
+        "address": "新北市萬里區碼鍊路49號51號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.688032,
-          25.176307
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -69412,6 +69395,23 @@
         "type": "Point"
       },
       "id": "214537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214548",
+        "title": "貴鳳",
+        "address": "新北市泰山區貴鳳街2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.421193,
+          25.031246
+        ],
+        "type": "Point"
+      },
+      "id": "214548"
     },
     {
       "type": "Feature",
@@ -89478,13 +89478,13 @@
       "properties": {
         "id": "953489",
         "title": "宏橋",
-        "address": "新竹縣湖口鄉工業一路7號7-1號",
+        "address": "新竹縣湖口鄉工業一路7號7-1號7-2號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.026557,
-          24.870235
+          0,
+          0
         ],
         "type": "Point"
       },
