@@ -7377,25 +7377,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014530",
-        "title": "全家八德櫻花店",
-        "address": "桃園市八德區長安街375號1樓",
-        "post": "334",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.319401,
-          24.948799
-        ],
-        "type": "Point"
-      },
-      "id": "014530"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014533",
         "title": "全家大城大功店",
         "address": "彰化縣大城鄉大城村中平路8號",
@@ -71046,6 +71027,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020194",
+        "title": "全家高雄大創店",
+        "address": "高雄市楠梓區創新路639號(部份)",
+        "post": "811",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.331038,
+          22.748172
+        ],
+        "type": "Point"
+      },
+      "id": "020194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020195",
+        "title": "全家豐原金站店",
+        "address": "台中市豐原區豐陽路147號1樓",
+        "post": "420",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.724177,
+          24.253531
+        ],
+        "type": "Point"
+      },
+      "id": "020195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020196",
         "title": "全家龍潭龍聖店",
         "address": "桃園市龍潭區梅龍路189號1樓",
@@ -71137,6 +71156,25 @@
         "type": "Point"
       },
       "id": "020202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020208",
+        "title": "全家八德櫻花店",
+        "address": "桃園市八德區長安街375號1樓",
+        "post": "334",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.319401,
+          24.948799
+        ],
+        "type": "Point"
+      },
+      "id": "020208"
     },
     {
       "type": "Feature",
