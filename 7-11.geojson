@@ -62140,6 +62140,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201830",
+        "title": "科管",
+        "address": "新竹市東區新安路2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.005915,
+          24.781646
+        ],
+        "type": "Point"
+      },
+      "id": "201830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -67121,6 +67138,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210649",
+        "title": "捷南",
+        "address": "新北市中和區捷運路69號71號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.508701,
+          24.989836
+        ],
+        "type": "Point"
+      },
+      "id": "210649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210650",
         "title": "回家",
         "address": "嘉義市西區中山路518號及林森西路580號",
@@ -67372,6 +67406,23 @@
         "type": "Point"
       },
       "id": "210937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210960",
+        "title": "智成",
+        "address": "新北市三芝區中正路二段1號智成街79號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.504687,
+          25.25579
+        ],
+        "type": "Point"
+      },
+      "id": "210960"
     },
     {
       "type": "Feature",
@@ -94487,23 +94538,6 @@
         "type": "Point"
       },
       "id": "970071"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "970118",
-        "title": "科管",
-        "address": "新竹市東區新安路2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.005915,
-          24.781646
-        ],
-        "type": "Point"
-      },
-      "id": "970118"
     },
     {
       "type": "Feature",
