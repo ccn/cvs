@@ -33631,23 +33631,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167905",
-        "title": "鑫港",
-        "address": "台北市士林區後港街210號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.520599,
-          25.088391
-        ],
-        "type": "Point"
-      },
-      "id": "167905"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167916",
         "title": "伍鈺",
         "address": "台南市永康區永華路406號408號",
@@ -43130,23 +43113,6 @@
         "type": "Point"
       },
       "id": "184151"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "184162",
-        "title": "正御",
-        "address": "新竹市北區中正路309號1+B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.962799,
-          24.813974
-        ],
-        "type": "Point"
-      },
-      "id": "184162"
     },
     {
       "type": "Feature",
@@ -64658,13 +64624,13 @@
       "properties": {
         "id": "208484",
         "title": "大鋒",
-        "address": "台中市潭子區大富路一段48-9號",
+        "address": "台中市潭子區大豐一路439號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.681215,
-          24.207487
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -66866,6 +66832,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210269",
+        "title": "拱天宮",
+        "address": "苗栗縣通霄鎮白東里2鄰9號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.709468,
+          24.571351
+        ],
+        "type": "Point"
+      },
+      "id": "210269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210270",
         "title": "知卡宣",
         "address": "花蓮縣吉安鄉海岸路469號",
@@ -67134,23 +67117,6 @@
         "type": "Point"
       },
       "id": "210638"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "210649",
-        "title": "捷南",
-        "address": "新北市中和區捷運路69號71號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508701,
-          24.989836
-        ],
-        "type": "Point"
-      },
-      "id": "210649"
     },
     {
       "type": "Feature",
@@ -67699,6 +67665,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211295",
+        "title": "萬品",
+        "address": "台北市文山區興隆路三段112巷2弄22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.556604,
+          24.999419
+        ],
+        "type": "Point"
+      },
+      "id": "211295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211332",
         "title": "松茂",
         "address": "台北市信義區松山路11號B1樓",
@@ -67922,13 +67905,13 @@
       "properties": {
         "id": "211882",
         "title": "智復",
-        "address": "台中市東區復興路四段210號",
+        "address": "台中市東區復興路四段210號1.2樓.地下層",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.688107,
-          24.136443
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -69480,6 +69463,23 @@
         "type": "Point"
       },
       "id": "214548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214560",
+        "title": "正御",
+        "address": "新竹市北區中正路309號1+B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.962799,
+          24.813974
+        ],
+        "type": "Point"
+      },
+      "id": "214560"
     },
     {
       "type": "Feature",
@@ -71928,6 +71928,23 @@
         "type": "Point"
       },
       "id": "216681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216692",
+        "title": "鑫港",
+        "address": "台北市士林區後港街210號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.520599,
+          25.088391
+        ],
+        "type": "Point"
+      },
+      "id": "216692"
     },
     {
       "type": "Feature",
