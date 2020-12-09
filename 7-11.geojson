@@ -67223,6 +67223,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210786",
+        "title": "樂欣",
+        "address": "桃園市蘆竹區長興路二段28號30號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.290647,
+          25.066782
+        ],
+        "type": "Point"
+      },
+      "id": "210786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210812",
         "title": "環和",
         "address": "新北市中和區中山路二段269號1樓2樓",
@@ -67661,23 +67678,6 @@
         "type": "Point"
       },
       "id": "211273"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "211295",
-        "title": "萬品",
-        "address": "台北市文山區興隆路三段112巷2弄22號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.556604,
-          24.999419
-        ],
-        "type": "Point"
-      },
-      "id": "211295"
     },
     {
       "type": "Feature",
