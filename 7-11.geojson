@@ -12264,13 +12264,13 @@
       "properties": {
         "id": "131283",
         "title": "大茅埔",
-        "address": "台中市東勢區東關路五段619號1樓",
+        "address": "台中市東勢區東關路五段617號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.83936,
-          24.207723
+          120.839382,
+          24.207716
         ],
         "type": "Point"
       },
@@ -37932,23 +37932,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "179609",
-        "title": "松佑",
-        "address": "台中市北屯區松竹五路二段22號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.711188,
-          24.17474
-        ],
-        "type": "Point"
-      },
-      "id": "179609"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "179610",
         "title": "繁華",
         "address": "屏東縣長治鄉繁華村水源路71.71-1號",
@@ -59660,13 +59643,13 @@
       "properties": {
         "id": "199566",
         "title": "麗騰",
-        "address": "宜蘭縣三星鄉大隱村大埔路112之7號",
+        "address": "宜蘭縣三星鄉三星路一段586號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.715137,
-          24.670261
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -67920,6 +67903,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212070",
+        "title": "汶昇",
+        "address": "台中市北區中清路一段102號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.677505,
+          24.153745
+        ],
+        "type": "Point"
+      },
+      "id": "212070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213556",
         "title": "順苓",
         "address": "高雄市小港區漢民路381號",
@@ -72030,6 +72030,23 @@
         "type": "Point"
       },
       "id": "216751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216795",
+        "title": "松佑",
+        "address": "台中市北屯區松竹五路二段22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.711188,
+          24.17474
+        ],
+        "type": "Point"
+      },
+      "id": "216795"
     },
     {
       "type": "Feature",
@@ -76677,13 +76694,13 @@
       "properties": {
         "id": "886222",
         "title": "桂林",
-        "address": "台北市萬華區桂林路160號",
+        "address": "台北市萬華區桂林路156號158號160號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.497735,
-          25.038404
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -100171,13 +100188,13 @@
       "properties": {
         "id": "990905",
         "title": "康樂",
-        "address": "台南市中西區安海里康樂街223號1樓2樓",
+        "address": "台南市中西區安海里康樂街223號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.194729,
-          22.994795
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -101837,13 +101854,13 @@
       "properties": {
         "id": "993454",
         "title": "清江",
-        "address": "台北市北投區公館路165號1樓",
+        "address": "台北市北投區公館路165號1樓.165-1號B1",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.506861,
-          25.129499
+          0,
+          0
         ],
         "type": "Point"
       },
