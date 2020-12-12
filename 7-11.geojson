@@ -26464,8 +26464,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.313668,
+          23.649736
         ],
         "type": "Point"
       },
@@ -60882,23 +60882,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200790",
-        "title": "添丁",
-        "address": "新北市永和區永貞路365號367號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508707,
-          25.007836
-        ],
-        "type": "Point"
-      },
-      "id": "200790"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200804",
         "title": "鑫德惠",
         "address": "台北市中山區德惠街15號1樓",
@@ -61501,8 +61484,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.267793,
+          22.611633
         ],
         "type": "Point"
       },
@@ -62017,23 +62000,6 @@
         "type": "Point"
       },
       "id": "201771"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "201782",
-        "title": "萬和",
-        "address": "台北市萬華區萬大路182號184號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500346,
-          25.027924
-        ],
-        "type": "Point"
-      },
-      "id": "201782"
     },
     {
       "type": "Feature",
@@ -64612,8 +64578,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.681246,
+          24.207531
         ],
         "type": "Point"
       },
@@ -65706,6 +65672,23 @@
         "type": "Point"
       },
       "id": "209339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209362",
+        "title": "福同",
+        "address": "新北市汐止區福德一路178號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.635692,
+          25.066024
+        ],
+        "type": "Point"
+      },
+      "id": "209362"
     },
     {
       "type": "Feature",
@@ -67893,8 +67876,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.688107,
+          24.136443
         ],
         "type": "Point"
       },
@@ -68556,8 +68539,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.685881,
+          23.908288
         ],
         "type": "Point"
       },
@@ -69372,8 +69355,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.687775,
+          25.176091
         ],
         "type": "Point"
       },
@@ -71286,6 +71269,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216186",
+        "title": "添丁",
+        "address": "新北市永和區永貞路365號367號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.508707,
+          25.007836
+        ],
+        "type": "Point"
+      },
+      "id": "216186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216197",
         "title": "禾雅",
         "address": "新竹市東區鐵道路一段66號",
@@ -72047,6 +72047,23 @@
         "type": "Point"
       },
       "id": "216795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216876",
+        "title": "萬和",
+        "address": "台北市萬華區萬大路182號184號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500346,
+          25.027924
+        ],
+        "type": "Point"
+      },
+      "id": "216876"
     },
     {
       "type": "Feature",
@@ -89585,8 +89602,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.026557,
+          24.870235
         ],
         "type": "Point"
       },
