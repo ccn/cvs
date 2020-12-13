@@ -17396,6 +17396,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4447",
+        "title": "台中榮醫二店",
+        "address": "台中市西屯區臺灣大道四段１６５０號(營養三樓前)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6050647263508,
+          24.1840579324737
+        ],
+        "type": "Point"
+      },
+      "id": "4447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4450",
         "title": "台中豐富店",
         "address": "台中市南屯區文心南三路３００號３０２號",
@@ -19279,6 +19296,23 @@
         "type": "Point"
       },
       "id": "4603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4604",
+        "title": "豐原豐社店",
+        "address": "台中市豐原區大豐路五段３５０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6982872409831,
+          24.2450577120419
+        ],
+        "type": "Point"
+      },
+      "id": "4604"
     },
     {
       "type": "Feature",
