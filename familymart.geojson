@@ -71369,6 +71369,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020221",
+        "title": "全家新店行政店",
+        "address": "新北市新店區北新路一段88巷12號3樓",
+        "post": "231",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.54209263,
+          24.96729842
+        ],
+        "type": "Point"
+      },
+      "id": "020221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020224",
         "title": "全家新文華店",
         "address": "台北市文山區景華街3巷2號1樓及B1",
