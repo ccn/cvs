@@ -70590,25 +70590,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020169",
-        "title": "全家通昌店",
-        "address": "台北市大安區文昌街142號壹樓全部",
-        "post": "106",
-        "all": "SWEETPOTATO,WiFi,Rest,Preorder,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.553157,
-          25.032471
-        ],
-        "type": "Point"
-      },
-      "id": "020169"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020170",
         "title": "全家平鎮平南店",
         "address": "桃園市平鎮區中豐路南勢二段462號1樓",
@@ -71236,6 +71217,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020211",
+        "title": "全家通昌店",
+        "address": "台北市大安區文昌街142號壹樓全部",
+        "post": "106",
+        "all": "SWEETPOTATO,WiFi,Rest,Preorder,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.553157,
+          25.032471
+        ],
+        "type": "Point"
+      },
+      "id": "020211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020212",
         "title": "全家中和中鼎店",
         "address": "新北市中和區中安街80號一樓",
@@ -71369,25 +71369,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020223",
-        "title": "全家燕巢義大店",
-        "address": "高雄市燕巢區義大路8號",
-        "post": "824",
-        "all": "SWEETPOTATO,Photo,WiFi,COFFEEDeliver,Kantoni,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.362156,
-          22.763158
-        ],
-        "type": "Point"
-      },
-      "id": "020223"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020224",
         "title": "全家新文華店",
         "address": "台北市文山區景華街3巷2號1樓及B1",
@@ -71479,6 +71460,25 @@
         "type": "Point"
       },
       "id": "020235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020247",
+        "title": "全家燕巢義大店",
+        "address": "高雄市燕巢區義大路8號",
+        "post": "824",
+        "all": "SWEETPOTATO,Photo,WiFi,COFFEEDeliver,Kantoni,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.362156,
+          22.763158
+        ],
+        "type": "Point"
+      },
+      "id": "020247"
     },
     {
       "type": "Feature",
