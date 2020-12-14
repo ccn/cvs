@@ -67852,6 +67852,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211804",
+        "title": "敦巨",
+        "address": "台北市松山區南京東路四段25號25之1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.550597,
+          25.05196
+        ],
+        "type": "Point"
+      },
+      "id": "211804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211826",
         "title": "中醫大",
         "address": "台中市北屯區經貿路一段110號",
