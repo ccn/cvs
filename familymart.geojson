@@ -64776,25 +64776,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019619",
-        "title": "全家新莊三鳳店",
-        "address": "新北市新莊區雙鳳路130號",
-        "post": "242",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,Meatballs,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.413109,
-          25.028144
-        ],
-        "type": "Point"
-      },
-      "id": "019619"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019620",
         "title": "全家中和秀吉店",
         "address": "新北市中和區自立路17號",
@@ -66799,8 +66780,8 @@
       },
       "geometry": {
         "coordinates": [
-          20.995803,
-          24.8476249
+          120.995825,
+          24.847586
         ],
         "type": "Point"
       },
@@ -71160,6 +71141,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020207",
+        "title": "全家龍井東園巷店",
+        "address": "台中市龍井區臺灣大道五段3巷62弄7號1樓",
+        "post": "434",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.592069,
+          24.181713
+        ],
+        "type": "Point"
+      },
+      "id": "020207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020208",
         "title": "全家八德櫻花店",
         "address": "桃園市八德區長安街375號1樓",
@@ -71426,6 +71426,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020227",
+        "title": "全家新莊三鳳店",
+        "address": "新北市新莊區雙鳳路130號",
+        "post": "242",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,Meatballs,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.413109,
+          25.028144
+        ],
+        "type": "Point"
+      },
+      "id": "020227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020233",
         "title": "全家中壢環西店",
         "address": "桃園市中壢區環西路二段302號1樓,2樓",
@@ -71479,6 +71498,25 @@
         "type": "Point"
       },
       "id": "020235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020236",
+        "title": "全家松山車站店",
+        "address": "台北市信義區松山路11號",
+        "post": "110",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.578971,
+          25.049183
+        ],
+        "type": "Point"
+      },
+      "id": "020236"
     },
     {
       "type": "Feature",
