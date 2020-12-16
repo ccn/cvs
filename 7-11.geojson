@@ -16206,23 +16206,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "138169",
-        "title": "泉北",
-        "address": "台北市北投區溫泉路70號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.504897361835,
-          25.135226244520897
-        ],
-        "type": "Point"
-      },
-      "id": "138169"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "138170",
         "title": "泉源",
         "address": "台北市北投區泉源路30號地下一樓",
@@ -59063,23 +59046,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "199234",
-        "title": "屏鵝",
-        "address": "屏東縣恆春鎮恆南路6-6號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.748753,
-          21.988402
-        ],
-        "type": "Point"
-      },
-      "id": "199234"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "199245",
         "title": "南海",
         "address": "台北市中正區南海路50號",
@@ -67920,6 +67886,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211907",
+        "title": "圓真",
+        "address": "雲林縣虎尾鎮信義路52號及三民路93號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.437754,
+          23.711109
+        ],
+        "type": "Point"
+      },
+      "id": "211907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212070",
         "title": "汶昇",
         "address": "台中市北區中清路一段102號",
@@ -72132,6 +72115,40 @@
         "type": "Point"
       },
       "id": "216876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216946",
+        "title": "屏鵝",
+        "address": "屏東縣恆春鎮恆南路6-6號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.748753,
+          21.988402
+        ],
+        "type": "Point"
+      },
+      "id": "216946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217008",
+        "title": "泉北",
+        "address": "台北市北投區溫泉路70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.504897361835,
+          25.135226244520897
+        ],
+        "type": "Point"
+      },
+      "id": "217008"
     },
     {
       "type": "Feature",
