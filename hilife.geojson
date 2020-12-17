@@ -12065,8 +12065,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.415754,
-          25.027161
+          121.415759364418,
+          25.0270783674165
         ],
         "type": "Point"
       },
@@ -15947,6 +15947,23 @@
         "type": "Point"
       },
       "id": "4335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4336",
+        "title": "和美黃蓉店",
+        "address": "彰化縣和美鎮線東路三段４９６、４９８號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.521573,
+          24.100906
+        ],
+        "type": "Point"
+      },
+      "id": "4336"
     },
     {
       "type": "Feature",
@@ -20588,6 +20605,23 @@
         "type": "Point"
       },
       "id": "4718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4721",
+        "title": "長治德協店",
+        "address": "屏東縣長治鄉德協村中興路６２７號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5484482939005,
+          22.6950738811943
+        ],
+        "type": "Point"
+      },
+      "id": "4721"
     },
     {
       "type": "Feature",
