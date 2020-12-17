@@ -32237,23 +32237,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "166692",
-        "title": "鳳陽",
-        "address": "高雄市鳳山區鳳林路97號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.375204,
-          22.622489
-        ],
-        "type": "Point"
-      },
-      "id": "166692"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "166739",
         "title": "金華",
         "address": "台北市大安區金華街140號1樓",
@@ -41906,23 +41889,6 @@
         "type": "Point"
       },
       "id": "183217"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "183228",
-        "title": "源隆",
-        "address": "高雄市大寮區永芳里進學路103號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.393613,
-          22.604858
-        ],
-        "type": "Point"
-      },
-      "id": "183228"
     },
     {
       "type": "Feature",
@@ -59580,8 +59546,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.715152,
+          24.670232
         ],
         "type": "Point"
       },
@@ -69484,6 +69450,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "214571",
+        "title": "和泰",
+        "address": "台北市大安區和平東路一段169號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.531704,
+          25.026457
+        ],
+        "type": "Point"
+      },
+      "id": "214571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214593",
+        "title": "源隆",
+        "address": "高雄市大寮區永芳里進學路103號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.393613,
+          22.604858
+        ],
+        "type": "Point"
+      },
+      "id": "214593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "215002",
         "title": "羅湖",
         "address": "新竹縣湖口鄉成功路1092號",
@@ -72132,6 +72132,23 @@
         "type": "Point"
       },
       "id": "216946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216957",
+        "title": "鳳陽",
+        "address": "高雄市鳳山區鳳林路97號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.375204,
+          22.622489
+        ],
+        "type": "Point"
+      },
+      "id": "216957"
     },
     {
       "type": "Feature",
@@ -76801,8 +76818,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.497804,
+          25.038402
         ],
         "type": "Point"
       },
@@ -87313,23 +87330,6 @@
         "type": "Point"
       },
       "id": "944751"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "944795",
-        "title": "和泰",
-        "address": "台北市大安區和平東路一段169號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.531704,
-          25.026457
-        ],
-        "type": "Point"
-      },
-      "id": "944795"
     },
     {
       "type": "Feature",
@@ -100295,8 +100295,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.194867,
+          22.994765
         ],
         "type": "Point"
       },
@@ -101961,8 +101961,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.506649,
+          25.12899
         ],
         "type": "Point"
       },
