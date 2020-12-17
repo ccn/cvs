@@ -6921,25 +6921,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "014452",
-        "title": "全家伸港新港店",
-        "address": "彰化縣伸港鄉新港路308號",
-        "post": "509",
-        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,Preorder,Meatballs,costco",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.486443777684,
-          24.1487983280018
-        ],
-        "type": "Point"
-      },
-      "id": "014452"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "014453",
         "title": "全家新廈門店",
         "address": "台北市中正區汀州路二段38號1樓",
@@ -10071,25 +10052,6 @@
         "type": "Point"
       },
       "id": "014966"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014967",
-        "title": "全家台中新榮總店",
-        "address": "台中市西屯區台灣大道四段1650號第一醫療大樓1樓",
-        "post": "407",
-        "all": "SWEETPOTATO,veg,Kantoni,FreshFruit,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.604647,
-          24.184299
-        ],
-        "type": "Point"
-      },
-      "id": "014967"
     },
     {
       "type": "Feature",
@@ -42225,7 +42187,7 @@
       "properties": {
         "id": "018070",
         "title": "全家麥寮德順店",
-        "address": "雲林縣麥寮鄉施厝村施厝230號1樓",
+        "address": "雲林縣麥寮鄉施厝村仁德東路523號",
         "post": "638",
         "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,twoice,Kantoni,Preorder,Meatballs,wash",
         "marker-color": "#01ac50"
@@ -71555,6 +71517,25 @@
         "type": "Point"
       },
       "id": "020288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020294",
+        "title": "全家伸港新港店",
+        "address": "彰化縣伸港鄉新港路308號",
+        "post": "509",
+        "all": "SWEETPOTATO,Photo,WiFi,Toilet,Rest,COFFEEDeliver,Preorder,Meatballs,costco",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.486443777684,
+          24.1487983280018
+        ],
+        "type": "Point"
+      },
+      "id": "020294"
     }
   ]
 }
