@@ -19181,6 +19181,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4595",
+        "title": "布袋海運店",
+        "address": "嘉義縣布袋鎮中正路１４３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.1548797157943,
+          23.3817904141558
+        ],
+        "type": "Point"
+      },
+      "id": "4595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4596",
         "title": "東勢石城店",
         "address": "台中市東勢區茂興里石城街２００及２０２號",
