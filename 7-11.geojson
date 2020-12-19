@@ -66900,6 +66900,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210498",
+        "title": "吉翔",
+        "address": "桃園市蘆竹區吉林路130號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.298088,
+          25.050074
+        ],
+        "type": "Point"
+      },
+      "id": "210498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210535",
         "title": "福二",
         "address": "基隆市七堵區福二街157號1樓",
@@ -67746,6 +67763,23 @@
         "type": "Point"
       },
       "id": "211620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211653",
+        "title": "文潭",
+        "address": "新北市樹林區千歲街61巷44號.46號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.425551,
+          24.998738
+        ],
+        "type": "Point"
+      },
+      "id": "211653"
     },
     {
       "type": "Feature",
@@ -80213,13 +80247,13 @@
       "properties": {
         "id": "906726",
         "title": "公道",
-        "address": "台南市南區夏林路1-16號",
+        "address": "台南市南區夏林路1-16號、1-17號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.195069,
-          22.9863
+          0,
+          0
         ],
         "type": "Point"
       },
