@@ -28543,25 +28543,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017010",
-        "title": "全家新竹新武陵店",
-        "address": "新竹市北區武陵路267號1樓",
-        "post": "300",
-        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,veg,Preorder,pet",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.970855,
-          24.824257
-        ],
-        "type": "Point"
-      },
-      "id": "017010"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017011",
         "title": "全家頭份武昌店",
         "address": "苗栗縣頭份市中華路1322號1樓",
@@ -70495,25 +70476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020167",
-        "title": "全家重陽店",
-        "address": "台北市南港區重陽路183,185號1樓",
-        "post": "115",
-        "all": "SWEETPOTATO,Photo,WiFi,Rest,veg,Preorder,Meatballs,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.598862,
-          25.056714
-        ],
-        "type": "Point"
-      },
-      "id": "020167"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020168",
         "title": "全家新莊建中店",
         "address": "新北市新莊區建中街118號,120號,122號",
@@ -71483,6 +71445,44 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020237",
+        "title": "全家松京店",
+        "address": "台北市中山區松江路122號1樓",
+        "post": "104",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.532796,
+          25.05236
+        ],
+        "type": "Point"
+      },
+      "id": "020237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020244",
+        "title": "全家新竹新武陵店",
+        "address": "新竹市北區武陵路267號1樓",
+        "post": "300",
+        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,Toilet,Rest,veg,Preorder,pet",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.970855,
+          24.824257
+        ],
+        "type": "Point"
+      },
+      "id": "020244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020247",
         "title": "全家燕巢義大店",
         "address": "高雄市燕巢區義大路8號",
@@ -71498,6 +71498,25 @@
         "type": "Point"
       },
       "id": "020247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020277",
+        "title": "全家重陽店",
+        "address": "台北市南港區重陽路183,185號1樓",
+        "post": "115",
+        "all": "SWEETPOTATO,Photo,WiFi,Rest,veg,Preorder,Meatballs,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.598862,
+          25.056714
+        ],
+        "type": "Point"
+      },
+      "id": "020277"
     },
     {
       "type": "Feature",
