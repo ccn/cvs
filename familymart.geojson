@@ -119,25 +119,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "006598",
-        "title": "全家台醫店",
-        "address": "台北市中正區中山南路7號1樓",
-        "post": "100",
-        "all": "SWEETPOTATO,icecream,oneice,twoice,COFFEEDeliver,Kantoni,Preorder,Rpotato,SCoffee,Meatballs,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.518534,
-          25.040793
-        ],
-        "type": "Point"
-      },
-      "id": "006598"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "008854",
         "title": "全家台中儷晶店",
         "address": "台中市西屯區青海路二段153號",
@@ -689,25 +670,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012430",
-        "title": "全家南庄桂花園店",
-        "address": "苗栗縣南庄鄉南江村5鄰東江89號1樓",
-        "post": "353",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SUNMAI,Preorder,Meatballs,costco,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.001364,
-          24.59538
-        ],
-        "type": "Point"
-      },
-      "id": "012430"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012442",
         "title": "全家高雄大興店",
         "address": "高雄市三民區大裕路38號",
@@ -818,25 +780,6 @@
         "type": "Point"
       },
       "id": "012493"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "012496",
-        "title": "全家高雄明鳳店",
-        "address": "高雄市前鎮區明鳳三路65號",
-        "post": "806",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SUNMAI,Preorder,Meatballs,wash,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.33672471,
-          22.58588235
-        ],
-        "type": "Point"
-      },
-      "id": "012496"
     },
     {
       "type": "Feature",
@@ -71464,6 +71407,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020239",
+        "title": "全家高雄明鳳店",
+        "address": "高雄市前鎮區明鳳三路65號",
+        "post": "806",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,SUNMAI,Preorder,Meatballs,wash,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.33672471,
+          22.58588235
+        ],
+        "type": "Point"
+      },
+      "id": "020239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020244",
         "title": "全家新竹新武陵店",
         "address": "新竹市北區武陵路267號1樓",
@@ -71479,6 +71441,25 @@
         "type": "Point"
       },
       "id": "020244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020245",
+        "title": "全家南庄桂花園店",
+        "address": "苗栗縣南庄鄉南江村5鄰東江89號1樓",
+        "post": "353",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,SUNMAI,Preorder,Meatballs,costco,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.001364,
+          24.59538
+        ],
+        "type": "Point"
+      },
+      "id": "020245"
     },
     {
       "type": "Feature",
