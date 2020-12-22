@@ -70628,25 +70628,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020181",
-        "title": "全家五股民義店",
-        "address": "新北市五股區民義路二段16號1樓",
-        "post": "248",
-        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Preorder,Meatballs,pet",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.420782,
-          25.096597
-        ],
-        "type": "Point"
-      },
-      "id": "020181"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020183",
         "title": "全家板橋福德店",
         "address": "新北市板橋區中正路254號1樓",
@@ -71308,6 +71289,25 @@
         "type": "Point"
       },
       "id": "020227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020228",
+        "title": "全家五股民義店",
+        "address": "新北市五股區民義路二段16號1樓",
+        "post": "248",
+        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Preorder,Meatballs,pet",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.420782,
+          25.096597
+        ],
+        "type": "Point"
+      },
+      "id": "020228"
     },
     {
       "type": "Feature",
