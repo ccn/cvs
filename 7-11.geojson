@@ -49033,23 +49033,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189053",
-        "title": "德沅",
-        "address": "桃園市八德區介壽路二段455號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.297596,
-          24.94566
-        ],
-        "type": "Point"
-      },
-      "id": "189053"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189075",
         "title": "永富",
         "address": "基隆市七堵區永富路99號101號103號1樓",
@@ -66679,6 +66662,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210292",
+        "title": "和醫二",
+        "address": "新北市中和區中正路291號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.493676,
+          24.993094
+        ],
+        "type": "Point"
+      },
+      "id": "210292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210340",
         "title": "明安",
         "address": "台南市安南區工業二路166號",
@@ -72068,6 +72068,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216810",
+        "title": "德沅",
+        "address": "桃園市八德區介壽路二段455號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.297596,
+          24.94566
+        ],
+        "type": "Point"
+      },
+      "id": "216810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216843",
         "title": "橋鈺",
         "address": "台南市永康區東橋七路369號1樓",
@@ -72166,6 +72183,23 @@
         "type": "Point"
       },
       "id": "217008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217019",
+        "title": "成德",
+        "address": "桃園市平鎮區承德路2號4號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.219712,
+          24.948647
+        ],
+        "type": "Point"
+      },
+      "id": "217019"
     },
     {
       "type": "Feature",
@@ -92430,23 +92464,6 @@
         "type": "Point"
       },
       "id": "963626"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "964434",
-        "title": "成德",
-        "address": "桃園市平鎮區承德路2號4號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.219712,
-          24.948647
-        ],
-        "type": "Point"
-      },
-      "id": "964434"
     },
     {
       "type": "Feature",
