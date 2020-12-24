@@ -20167,6 +20167,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4669",
+        "title": "將軍馬沙溝店",
+        "address": "台南市將軍區平沙里１鄰平沙１之１９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.0963826412733,
+          23.2171561075971
+        ],
+        "type": "Point"
+      },
+      "id": "4669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4673",
         "title": "蘆竹海山店",
         "address": "桃園市蘆竹區海山路二段５１３、５１５號",
