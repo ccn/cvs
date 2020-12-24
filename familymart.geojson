@@ -803,25 +803,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012522",
-        "title": "全家東港東光店",
-        "address": "屏東縣東港鎮長春二路206號",
-        "post": "928",
-        "all": "SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,Kantoni,Preorder,wash",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.459347,
-          22.467366
-        ],
-        "type": "Point"
-      },
-      "id": "012522"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012536",
         "title": "全家沙鹿鎮平店",
         "address": "台中市沙鹿區鎮南路二段95號1樓",
@@ -71479,6 +71460,25 @@
         "type": "Point"
       },
       "id": "020247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020248",
+        "title": "全家東港東光店",
+        "address": "屏東縣東港鎮長春二路206號",
+        "post": "928",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Parking,Toilet,Rest,oneice,twoice,COFFEEDeliver,Kantoni,Preorder,wash",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.459347,
+          22.467366
+        ],
+        "type": "Point"
+      },
+      "id": "020248"
     },
     {
       "type": "Feature",
