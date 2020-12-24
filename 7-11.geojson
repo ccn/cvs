@@ -60627,23 +60627,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200723",
-        "title": "新楊欣",
-        "address": "桃園市楊梅區中山北路一段360號362號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.157665,
-          24.908756
-        ],
-        "type": "Point"
-      },
-      "id": "200723"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200734",
         "title": "崴信",
         "address": "桃園市桃園區信光路22號1樓",
@@ -66781,23 +66764,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "210432",
-        "title": "新北科",
-        "address": "台北市大安區新生南路一段3號B1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.535602,
-          25.043441
-        ],
-        "type": "Point"
-      },
-      "id": "210432"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "210443",
         "title": "鋒彩",
         "address": "桃園市中壢區中正路1439之1號",
@@ -69429,6 +69395,23 @@
         "type": "Point"
       },
       "id": "214571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214582",
+        "title": "新北科",
+        "address": "台北市大安區新生南路一段3號B1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.535602,
+          25.043441
+        ],
+        "type": "Point"
+      },
+      "id": "214582"
     },
     {
       "type": "Feature",
