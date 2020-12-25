@@ -12806,23 +12806,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4077",
-        "title": "烏日大展店",
-        "address": "台中市烏日區高鐵五路１６１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.615475,
-          24.115999
-        ],
-        "type": "Point"
-      },
-      "id": "4077"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4078",
         "title": "台南府城店",
         "address": "台南市安平區永華路二段６號",
@@ -20486,6 +20469,23 @@
         "type": "Point"
       },
       "id": "4701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4702",
+        "title": "基隆家鄉店",
+        "address": "基隆市七堵區百七街７２、７４號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6977990435044,
+          25.0868171685163
+        ],
+        "type": "Point"
+      },
+      "id": "4702"
     },
     {
       "type": "Feature",
