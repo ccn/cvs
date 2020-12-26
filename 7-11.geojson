@@ -8471,23 +8471,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "124539",
-        "title": "中榮",
-        "address": "台中市西屯區台灣大道四段1650號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.603527,
-          24.185127
-        ],
-        "type": "Point"
-      },
-      "id": "124539"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "124540",
         "title": "狀元",
         "address": "南投縣竹山鎮大明路500號",
@@ -17069,23 +17052,6 @@
         "type": "Point"
       },
       "id": "139243"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "139265",
-        "title": "西門",
-        "address": "台南市北區西門路四段132號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.207604,
-          23.008812
-        ],
-        "type": "Point"
-      },
-      "id": "139265"
     },
     {
       "type": "Feature",
@@ -33070,23 +33036,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "167570",
-        "title": "龍米",
-        "address": "新北市八里區龍米路二段46號48號50號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.44838,
-          25.140602
-        ],
-        "type": "Point"
-      },
-      "id": "167570"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "167581",
         "title": "安松",
         "address": "台北市大安區安東街50之2號50之3號50之4號",
@@ -37554,23 +37503,6 @@
         "type": "Point"
       },
       "id": "177201"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "177212",
-        "title": "永華",
-        "address": "新北市中和區南山路127巷18弄42號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.503579,
-          24.996537
-        ],
-        "type": "Point"
-      },
-      "id": "177212"
     },
     {
       "type": "Feature",
@@ -42495,8 +42427,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.287621,
+          22.964769
         ],
         "type": "Point"
       },
@@ -53946,23 +53878,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "195405",
-        "title": "民笙",
-        "address": "桃園市桃園區民生路287號289號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.311639,
-          24.997322
-        ],
-        "type": "Point"
-      },
-      "id": "195405"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "195427",
         "title": "鳳捷",
         "address": "高雄市大寮區萬丹路151-1號",
@@ -60678,23 +60593,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200848",
-        "title": "延吉",
-        "address": "台北市大安區延吉街237號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.555705,
-          25.036636
-        ],
-        "type": "Point"
-      },
-      "id": "200848"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200859",
         "title": "樂華",
         "address": "新北市永和區永和路一段143之1號145號1至2樓",
@@ -61596,23 +61494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201690",
-        "title": "龍政",
-        "address": "桃園市龍潭區中正路162號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.216776,
-          24.8659
-        ],
-        "type": "Point"
-      },
-      "id": "201690"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201704",
         "title": "龍普",
         "address": "台北市大安區敦化南路一段233巷25號",
@@ -61660,23 +61541,6 @@
         "type": "Point"
       },
       "id": "201726"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "201748",
-        "title": "冠冠",
-        "address": "新北市新店區北新路一段231號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.540552,
-          24.965763
-        ],
-        "type": "Point"
-      },
-      "id": "201748"
     },
     {
       "type": "Feature",
@@ -66730,6 +66594,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210454",
+        "title": "長林",
+        "address": "桃園市龜山區復興街5號地下層",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210498",
         "title": "吉翔",
         "address": "桃園市蘆竹區吉林路130號1樓",
@@ -67468,8 +67349,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.744311,
+          25.128871
         ],
         "type": "Point"
       },
@@ -67593,6 +67474,23 @@
         "type": "Point"
       },
       "id": "211620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211642",
+        "title": "臨通",
+        "address": "台北市大安區通安街64號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.553189,
+          25.030757
+        ],
+        "type": "Point"
+      },
+      "id": "211642"
     },
     {
       "type": "Feature",
@@ -71388,6 +71286,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216290",
+        "title": "龍米",
+        "address": "新北市八里區龍米路二段46號48號50號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44838,
+          25.140602
+        ],
+        "type": "Point"
+      },
+      "id": "216290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216304",
         "title": "大庭",
         "address": "新北市板橋區國光里6鄰國光路65號1樓",
@@ -71707,6 +71622,23 @@
         "type": "Point"
       },
       "id": "216522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216533",
+        "title": "民笙",
+        "address": "桃園市桃園區民生路287號289號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.311639,
+          24.997322
+        ],
+        "type": "Point"
+      },
+      "id": "216533"
     },
     {
       "type": "Feature",
@@ -72034,6 +71966,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216821",
+        "title": "永華",
+        "address": "新北市中和區南山路127巷18弄42號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.503579,
+          24.996537
+        ],
+        "type": "Point"
+      },
+      "id": "216821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216832",
         "title": "學高",
         "address": "高雄市楠梓區藍田路962.966號",
@@ -72170,6 +72119,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217020",
+        "title": "龍政",
+        "address": "桃園市龍潭區中正路162號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.216776,
+          24.8659
+        ],
+        "type": "Point"
+      },
+      "id": "217020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217042",
         "title": "三星",
         "address": "宜蘭縣三星鄉義德村三星路五段228號",
@@ -72268,6 +72234,57 @@
         "type": "Point"
       },
       "id": "217112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217134",
+        "title": "西門",
+        "address": "台南市北區西門路四段132號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.207604,
+          23.008812
+        ],
+        "type": "Point"
+      },
+      "id": "217134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217237",
+        "title": "冠冠",
+        "address": "新北市新店區北新路一段231號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.540552,
+          24.965763
+        ],
+        "type": "Point"
+      },
+      "id": "217237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217271",
+        "title": "延吉",
+        "address": "台北市大安區延吉街237號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.555705,
+          25.036636
+        ],
+        "type": "Point"
+      },
+      "id": "217271"
     },
     {
       "type": "Feature",
@@ -80320,8 +80337,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.195099,
+          22.986296
         ],
         "type": "Point"
       },
