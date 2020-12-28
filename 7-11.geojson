@@ -67325,6 +67325,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211295",
+        "title": "萬品",
+        "address": "台北市文山區興隆路三段112巷2弄22號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.556604,
+          24.999419
+        ],
+        "type": "Point"
+      },
+      "id": "211295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211332",
         "title": "松茂",
         "address": "台北市信義區松山路11號B1樓",
@@ -67627,6 +67644,23 @@
         "type": "Point"
       },
       "id": "211907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211929",
+        "title": "青新",
+        "address": "新北市新店區中山路137號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211929"
     },
     {
       "type": "Feature",
