@@ -25403,23 +25403,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "155186",
-        "title": "懷翠",
-        "address": "新北市板橋區懷德街203號205號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.480419,
-          25.029087
-        ],
-        "type": "Point"
-      },
-      "id": "155186"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "155197",
         "title": "風城",
         "address": "新竹市東區民權路181號1樓",
@@ -49407,23 +49390,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189754",
-        "title": "潮欣",
-        "address": "高雄市大寮區潮寮里華中南路275號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.428868,
-          22.562747
-        ],
-        "type": "Point"
-      },
-      "id": "189754"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "189765",
         "title": "永平",
         "address": "新北市永和區中山路一段149至153號",
@@ -50593,23 +50559,6 @@
         "type": "Point"
       },
       "id": "192646"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "192668",
-        "title": "順舜",
-        "address": "桃園市蘆竹區南順六街22號24號26號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.290084,
-          25.039327
-        ],
-        "type": "Point"
-      },
-      "id": "192668"
     },
     {
       "type": "Feature",
@@ -54792,40 +54741,6 @@
         "type": "Point"
       },
       "id": "196051"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196084",
-        "title": "百齡",
-        "address": "台北市北投區石牌路一段37號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.510283,
-          25.113202
-        ],
-        "type": "Point"
-      },
-      "id": "196084"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196110",
-        "title": "盛發",
-        "address": "新北市蘆洲區光復路10號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.462564,
-          25.084221
-        ],
-        "type": "Point"
-      },
-      "id": "196110"
     },
     {
       "type": "Feature",
@@ -60933,23 +60848,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201209",
-        "title": "竹北",
-        "address": "新竹縣竹北市中正東路194號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.014818,
-          24.835292
-        ],
-        "type": "Point"
-      },
-      "id": "201209"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201221",
         "title": "華社",
         "address": "高雄市大社區中華路16-66號1.2樓",
@@ -61001,23 +60899,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "201298",
-        "title": "擎天崗",
-        "address": "台北市北投區湖山路一段12號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.547476,
-          25.152493
-        ],
-        "type": "Point"
-      },
-      "id": "201298"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "201302",
         "title": "台場",
         "address": "台北市松山區八德路三段20-2號",
@@ -61048,23 +60929,6 @@
         "type": "Point"
       },
       "id": "201324"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "201335",
-        "title": "慶豐",
-        "address": "高雄市鼓山區慶豐街1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.292236,
-          22.665731
-        ],
-        "type": "Point"
-      },
-      "id": "201335"
     },
     {
       "type": "Feature",
@@ -66798,6 +66662,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210719",
+        "title": "柑竹",
+        "address": "彰化縣和美鎮竹圍里彰新路四段臨245號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.522168,
+          24.120602
+        ],
+        "type": "Point"
+      },
+      "id": "210719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210720",
         "title": "七堵站",
         "address": "基隆市七堵區東新街2號1樓",
@@ -69310,6 +69191,23 @@
         "type": "Point"
       },
       "id": "214593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214607",
+        "title": "擎天崗",
+        "address": "台北市北投區湖山路一段12號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.547476,
+          25.152493
+        ],
+        "type": "Point"
+      },
+      "id": "214607"
     },
     {
       "type": "Feature",
@@ -71966,6 +71864,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216784",
+        "title": "竹北",
+        "address": "新竹縣竹北市中正東路194號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.014818,
+          24.835292
+        ],
+        "type": "Point"
+      },
+      "id": "216784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216795",
         "title": "松佑",
         "address": "台中市北屯區松竹五路二段22號1樓",
@@ -72051,6 +71966,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216854",
+        "title": "工權",
+        "address": "台中市南屯區工業區十八路31-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.608886,
+          24.155299
+        ],
+        "type": "Point"
+      },
+      "id": "216854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216876",
         "title": "萬和",
         "address": "台北市萬華區萬大路182號184號",
@@ -72102,6 +72034,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216968",
+        "title": "潮欣",
+        "address": "高雄市大寮區潮寮里華中南路275號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.428868,
+          22.562747
+        ],
+        "type": "Point"
+      },
+      "id": "216968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216979",
         "title": "坪高",
         "address": "高雄市小港區高坪二十二路321號",
@@ -72115,6 +72064,23 @@
         "type": "Point"
       },
       "id": "216979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216991",
+        "title": "百齡",
+        "address": "台北市北投區石牌路一段37號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.510283,
+          25.113202
+        ],
+        "type": "Point"
+      },
+      "id": "216991"
     },
     {
       "type": "Feature",
@@ -72255,6 +72221,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217097",
+        "title": "慶豐",
+        "address": "高雄市鼓山區慶豐街1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.292236,
+          22.665731
+        ],
+        "type": "Point"
+      },
+      "id": "217097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217112",
         "title": "九份",
         "address": "新北市瑞芳區基山街3號",
@@ -72289,6 +72272,57 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217145",
+        "title": "順舜",
+        "address": "桃園市蘆竹區南順六街22號24號26號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.290084,
+          25.039327
+        ],
+        "type": "Point"
+      },
+      "id": "217145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217190",
+        "title": "盛發",
+        "address": "新北市蘆洲區光復路10號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.462564,
+          25.084221
+        ],
+        "type": "Point"
+      },
+      "id": "217190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217204",
+        "title": "懷翠",
+        "address": "新北市板橋區懷德街203號205號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.480419,
+          25.029087
+        ],
+        "type": "Point"
+      },
+      "id": "217204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217237",
         "title": "冠冠",
         "address": "新北市新店區北新路一段231號",
@@ -72319,6 +72353,40 @@
         "type": "Point"
       },
       "id": "217271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217307",
+        "title": "日勝",
+        "address": "新北市泰山區山腳里泰林路二段515號517號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.424093,
+          25.063764
+        ],
+        "type": "Point"
+      },
+      "id": "217307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217363",
+        "title": "億載",
+        "address": "台南市東區大同路二段95-3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.213308,
+          22.979125
+        ],
+        "type": "Point"
+      },
+      "id": "217363"
     },
     {
       "type": "Feature",
@@ -72421,23 +72489,6 @@
         "type": "Point"
       },
       "id": "810018"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "810258",
-        "title": "長林",
-        "address": "桃園市龜山區復興街9號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.367424,
-          25.060552
-        ],
-        "type": "Point"
-      },
-      "id": "810258"
     },
     {
       "type": "Feature",
@@ -78341,23 +78392,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "895673",
-        "title": "億載",
-        "address": "台南市東區大同路二段95-3號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.213308,
-          22.979125
-        ],
-        "type": "Point"
-      },
-      "id": "895673"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "895695",
         "title": "太平",
         "address": "台中市太平區中興路171號",
@@ -83216,23 +83250,6 @@
         "type": "Point"
       },
       "id": "922625"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "922658",
-        "title": "工權",
-        "address": "台中市南屯區工業區十八路31-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.608886,
-          24.155299
-        ],
-        "type": "Point"
-      },
-      "id": "922658"
     },
     {
       "type": "Feature",
@@ -97632,23 +97649,6 @@
         "type": "Point"
       },
       "id": "979089"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "979241",
-        "title": "日勝",
-        "address": "新北市泰山區山腳里泰林路二段515號517號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.424093,
-          25.063764
-        ],
-        "type": "Point"
-      },
-      "id": "979241"
     },
     {
       "type": "Feature",
