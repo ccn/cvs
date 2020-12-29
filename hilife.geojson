@@ -13299,23 +13299,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4122",
-        "title": "桃市綠園店",
-        "address": "桃園市桃園區長春路３７、３９號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.305429,
-          25.000912
-        ],
-        "type": "Point"
-      },
-      "id": "4122"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4123",
         "title": "新竹凱旋店",
         "address": "新竹市東區振興路７９、８１號",
@@ -20140,8 +20123,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.0900371113366,
-          24.7783803841716
+          121.0899351873941,
+          24.7779858692724
         ],
         "type": "Point"
       },
@@ -20966,6 +20949,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4748",
+        "title": "中和霸氣店",
+        "address": "新北市中和區民德路１６３、１６５、１６７、１６９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4686850513907,
+          24.9996787293396
+        ],
+        "type": "Point"
+      },
+      "id": "4748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4750",
         "title": "恆春大光店",
         "address": "屏東縣恆春鎮大光路８９號",
@@ -21455,6 +21455,23 @@
         "type": "Point"
       },
       "id": "4797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4804",
+        "title": "三重國隆店",
+        "address": "新北市三重區國隆路１９、２１、２３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4929585697963,
+          25.0640811258045
+        ],
+        "type": "Point"
+      },
+      "id": "4804"
     },
     {
       "type": "Feature",
