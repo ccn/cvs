@@ -55920,13 +55920,13 @@
       "properties": {
         "id": "197227",
         "title": "瓏山林",
-        "address": "台北市內湖區康樂街125巷2號",
+        "address": "台北市內湖區康樂街125巷2號2之1號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.61953,
-          25.073387
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -63194,6 +63194,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "207919",
+        "title": "吉翠",
+        "address": "新北市板橋區裕民街53號1.2樓和55號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.461075,
+          25.028363
+        ],
+        "type": "Point"
+      },
+      "id": "207919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "207920",
         "title": "公力",
         "address": "桃園市大園區中正東路一段708之1號",
@@ -68160,7 +68177,7 @@
       "properties": {
         "id": "213947",
         "title": "南投",
-        "address": "南投縣南投市民族路289、291、293號中山街135、143號1樓",
+        "address": "南投縣南投市民族路289號291號293號",
         "marker-color": "#01ac50"
       },
       "geometry": {
