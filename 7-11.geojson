@@ -67104,6 +67104,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211217",
+        "title": "央大",
+        "address": "桃園市平鎮區民族路三段275號高雙路3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.192185,
+          24.958485
+        ],
+        "type": "Point"
+      },
+      "id": "211217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211262",
         "title": "樂林",
         "address": "新北市三重區永安北路二段15號",
