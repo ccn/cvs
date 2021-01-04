@@ -3745,23 +3745,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "116011",
-        "title": "海寮",
-        "address": "台南市安定區海寮里海寮街8號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.209689,
-          23.096525
-        ],
-        "type": "Point"
-      },
-      "id": "116011"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "116044",
         "title": "明福",
         "address": "桃園市八德區大明街105號107號",
@@ -71962,6 +71945,23 @@
         "type": "Point"
       },
       "id": "216795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216809",
+        "title": "海寮",
+        "address": "台南市安定區海寮里海寮街8號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.209689,
+          23.096525
+        ],
+        "type": "Point"
+      },
+      "id": "216809"
     },
     {
       "type": "Feature",
