@@ -30310,6 +30310,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "017179",
+        "title": "全家土城廣明店",
+        "address": "新北市土城區廣明街45號？47號",
+        "post": "236",
+        "all": "SWEETPOTATO,Photo,WiFi,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.455186,
+          24.993254
+        ],
+        "type": "Point"
+      },
+      "id": "017179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "017180",
         "title": "全家大溪員林店",
         "address": "桃園市大溪區員林路一段11號",
@@ -55975,25 +55994,6 @@
         "type": "Point"
       },
       "id": "019067"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "019069",
-        "title": "全家桃園新統領店",
-        "address": "桃園市桃園區中正路61號",
-        "post": "330",
-        "all": "SWEETPOTATO,icecream,oneice,Preorder,Rpotato",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.31260055,
-          24.99123844
-        ],
-        "type": "Point"
-      },
-      "id": "019069"
     },
     {
       "type": "Feature",
