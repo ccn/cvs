@@ -28310,23 +28310,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162955",
-        "title": "墩富",
-        "address": "台中市南屯區大墩路572號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.650017,
-          24.1497
-        ],
-        "type": "Point"
-      },
-      "id": "162955"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162966",
         "title": "昌平",
         "address": "台中市北屯區昌平路一段70號",
@@ -46874,23 +46857,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "187460",
-        "title": "社鑽",
-        "address": "台北市士林區中正路639號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.508208362729,
-          25.0862060732768
-        ],
-        "type": "Point"
-      },
-      "id": "187460"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "187471",
         "title": "文青",
         "address": "新北市土城區青雲路243號245號",
@@ -61375,6 +61341,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201852",
+        "title": "墩富",
+        "address": "台中市南屯區大墩路572號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.650017,
+          24.1497
+        ],
+        "type": "Point"
+      },
+      "id": "201852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201863",
         "title": "思源",
         "address": "新北市新莊區幸福路40號42號",
@@ -72085,6 +72068,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216924",
+        "title": "青潭",
+        "address": "新北市新店區北宜路一段41-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.538279,
+          24.957292
+        ],
+        "type": "Point"
+      },
+      "id": "216924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216946",
         "title": "屏鵝",
         "address": "屏東縣恆春鎮恆南路6-6號",
@@ -72340,6 +72340,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217123",
+        "title": "蓮冠",
+        "address": "花蓮縣花蓮市中山路426號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.601237,
+          23.987809
+        ],
+        "type": "Point"
+      },
+      "id": "217123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217134",
         "title": "西門",
         "address": "台南市北區西門路四段132號",
@@ -72523,6 +72540,23 @@
         "type": "Point"
       },
       "id": "217330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217341",
+        "title": "社鑽",
+        "address": "台北市士林區中正路639號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.508208362729,
+          25.0862060732768
+        ],
+        "type": "Point"
+      },
+      "id": "217341"
     },
     {
       "type": "Feature",
@@ -75090,23 +75124,6 @@
         "type": "Point"
       },
       "id": "871079"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "871220",
-        "title": "蓮冠",
-        "address": "花蓮縣花蓮市中山路426號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.601237,
-          23.987809
-        ],
-        "type": "Point"
-      },
-      "id": "871220"
     },
     {
       "type": "Feature",
@@ -78711,23 +78728,6 @@
         "type": "Point"
       },
       "id": "895949"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "895961",
-        "title": "青潭",
-        "address": "新北市新店區北宜路一段41-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.538279,
-          24.957292
-        ],
-        "type": "Point"
-      },
-      "id": "895961"
     },
     {
       "type": "Feature",
