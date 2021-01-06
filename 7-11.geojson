@@ -36589,23 +36589,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "174512",
-        "title": "杰朋",
-        "address": "新北市板橋區新海路385巷10弄11號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.458097,
-          25.026377
-        ],
-        "type": "Point"
-      },
-      "id": "174512"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "174523",
         "title": "登峰",
         "address": "新北市汐止區新台五路一段149號1樓",
@@ -63160,23 +63143,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "207919",
-        "title": "吉翠",
-        "address": "新北市板橋區裕民街53號1.2樓和55號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.461075,
-          25.028363
-        ],
-        "type": "Point"
-      },
-      "id": "207919"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "207920",
         "title": "公力",
         "address": "桃園市大園區中正東路一段708之1號",
@@ -72591,6 +72557,40 @@
         "type": "Point"
       },
       "id": "217363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217400",
+        "title": "新山外",
+        "address": "金門縣金湖鎮山外里復興西路2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          118.414302,
+          24.442457
+        ],
+        "type": "Point"
+      },
+      "id": "217400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217488",
+        "title": "杰朋",
+        "address": "新北市板橋區新海路385巷10弄11號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.458097,
+          25.026377
+        ],
+        "type": "Point"
+      },
+      "id": "217488"
     },
     {
       "type": "Feature",
@@ -83777,23 +83777,6 @@
         "type": "Point"
       },
       "id": "923569"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "923651",
-        "title": "新山外",
-        "address": "金門縣金湖鎮山外里復興西路2號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          118.414302,
-          24.442457
-        ],
-        "type": "Point"
-      },
-      "id": "923651"
     },
     {
       "type": "Feature",
