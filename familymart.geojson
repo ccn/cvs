@@ -71179,6 +71179,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020259",
+        "title": "全家桃園百貨店",
+        "address": "桃園市桃園區中正路61號1樓",
+        "post": "330",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.31260055,
+          24.99123844
+        ],
+        "type": "Point"
+      },
+      "id": "020259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020262",
         "title": "全家永康永明店",
         "address": "台南市永康區永明街262號",
@@ -71517,6 +71536,25 @@
         "type": "Point"
       },
       "id": "020289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020291",
+        "title": "全家台中詠成店",
+        "address": "台中市北屯區環太東路469號",
+        "post": "406",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.735452,
+          24.159999
+        ],
+        "type": "Point"
+      },
+      "id": "020291"
     },
     {
       "type": "Feature",
