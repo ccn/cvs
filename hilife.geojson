@@ -17658,8 +17658,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.768541,
-          25.130708
+          121.7686777926598,
+          25.1306497204347
         ],
         "type": "Point"
       },
@@ -21438,6 +21438,23 @@
         "type": "Point"
       },
       "id": "4804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4805",
+        "title": "嘉義吳鳳南店",
+        "address": "嘉義市東區吳鳳南路６３５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4593667571567,
+          23.4553652676764
+        ],
+        "type": "Point"
+      },
+      "id": "4805"
     },
     {
       "type": "Feature",
