@@ -3541,23 +3541,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "115856",
-        "title": "麗景",
-        "address": "高雄市楠梓區清豐里旗楠路891號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.338781,
-          22.742164
-        ],
-        "type": "Point"
-      },
-      "id": "115856"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "115867",
         "title": "鑫正發",
         "address": "苗栗縣苗栗市正發路196號",
@@ -67393,6 +67376,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211756",
+        "title": "佳政",
+        "address": "新北市樹林區中山路三段209-1號211號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.39383,
+          24.972305
+        ],
+        "type": "Point"
+      },
+      "id": "211756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211804",
         "title": "敦巨",
         "address": "台北市松山區南京東路四段25號25之1號",
@@ -72404,6 +72404,23 @@
         "type": "Point"
       },
       "id": "217215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217226",
+        "title": "麗景",
+        "address": "高雄市楠梓區清豐里旗楠路891號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.338781,
+          22.742164
+        ],
+        "type": "Point"
+      },
+      "id": "217226"
     },
     {
       "type": "Feature",
@@ -87500,23 +87517,6 @@
         "type": "Point"
       },
       "id": "944555"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "944566",
-        "title": "福音",
-        "address": "桃園市觀音區草漯里五福三街83號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.143596,
-          25.041959
-        ],
-        "type": "Point"
-      },
-      "id": "944566"
     },
     {
       "type": "Feature",
