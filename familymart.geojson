@@ -71122,6 +71122,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020255",
+        "title": "全家中和員科店",
+        "address": "新北市中和區員山路504之1號1樓",
+        "post": "235",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.479481,
+          25.008215
+        ],
+        "type": "Point"
+      },
+      "id": "020255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020256",
         "title": "全家淡水北淡店",
         "address": "新北市淡水區北新路182巷34號一樓",
@@ -71270,6 +71289,25 @@
         "type": "Point"
       },
       "id": "020266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020271",
+        "title": "全家大里金樹王店",
+        "address": "台中市大里區樹王路279號1樓",
+        "post": "412",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.668766,
+          24.107406
+        ],
+        "type": "Point"
+      },
+      "id": "020271"
     },
     {
       "type": "Feature",
@@ -71559,6 +71597,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020292",
+        "title": "全家神岡新工業店",
+        "address": "台中市神岡區中山路1058號1樓",
+        "post": "429",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.672886,
+          24.254767
+        ],
+        "type": "Point"
+      },
+      "id": "020292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020294",
         "title": "全家伸港新港店",
         "address": "彰化縣伸港鄉新港路308號",
@@ -71593,6 +71650,25 @@
         "type": "Point"
       },
       "id": "020298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020299",
+        "title": "全家雙全店",
+        "address": "台北市中山區民生西路62號1樓全部",
+        "post": "104",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.52089,
+          25.057589
+        ],
+        "type": "Point"
+      },
+      "id": "020299"
     },
     {
       "type": "Feature",
