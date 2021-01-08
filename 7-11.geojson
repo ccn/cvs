@@ -55840,8 +55840,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.619673,
+          25.073432
         ],
         "type": "Point"
       },
@@ -57478,6 +57478,23 @@
         "type": "Point"
       },
       "id": "198415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198426",
+        "title": "清康",
+        "address": "台中市清水區中山路106號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.574943,
+          24.267342
+        ],
+        "type": "Point"
+      },
+      "id": "198426"
     },
     {
       "type": "Feature",
@@ -66815,6 +66832,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211011",
+        "title": "高進",
+        "address": "桃園市中壢區環北路196號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.222114,
+          24.966087
+        ],
+        "type": "Point"
+      },
+      "id": "211011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211033",
         "title": "承晨",
         "address": "桃園市中壢區民權路五段65號1樓",
@@ -72427,13 +72461,13 @@
       "properties": {
         "id": "217237",
         "title": "冠冠",
-        "address": "新北市新店區北新路一段231號",
+        "address": "新北市新店區新生街1號1樓北新路一段231號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.540552,
-          24.965763
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -99661,13 +99695,13 @@
       "properties": {
         "id": "987909",
         "title": "來鑫",
-        "address": "新北市烏來區忠治里堰堤9號11號",
+        "address": "新北市烏來區新烏路五段160號162號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.547283,
-          24.870267
+          0,
+          0
         ],
         "type": "Point"
       },
