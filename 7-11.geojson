@@ -755,13 +755,13 @@
       "properties": {
         "id": "111038",
         "title": "峽太",
-        "address": "新北市三峽區大同路90號92號",
+        "address": "新北市三峽區大同路90,92,94號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.375575,
-          24.927642
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -8705,23 +8705,6 @@
         "type": "Point"
       },
       "id": "126269"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "126281",
-        "title": "富得",
-        "address": "新北市五股區五權路48號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.453212,
-          25.06857
-        ],
-        "type": "Point"
-      },
-      "id": "126281"
     },
     {
       "type": "Feature",
@@ -24145,23 +24128,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "153825",
-        "title": "環安",
-        "address": "台南市安南區長和路二段12巷272號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.223113,
-          23.07008
-        ],
-        "type": "Point"
-      },
-      "id": "153825"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "153858",
         "title": "京明",
         "address": "高雄市前鎮區瑞北路54號1樓及B1",
@@ -25575,13 +25541,13 @@
       "properties": {
         "id": "155393",
         "title": "雙華",
-        "address": "新北市蘆洲區中華街39號1樓",
+        "address": "新北市蘆洲區中華街39號、中華街35巷6號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.463028,
-          25.081297
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -47469,23 +47435,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188027",
-        "title": "大園港",
-        "address": "桃園市大園區大觀路1088號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.15991,
-          25.055663
-        ],
-        "type": "Point"
-      },
-      "id": "188027"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188038",
         "title": "城邦",
         "address": "桃園市桃園區樹仁三街81號83號85號1樓",
@@ -60083,23 +60032,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200594",
-        "title": "康葫",
-        "address": "台北市內湖區民權東路六段296巷3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.605603433311,
-          25.072520023865202
-        ],
-        "type": "Point"
-      },
-      "id": "200594"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200620",
         "title": "鑫站",
         "address": "台北市大同區長安西路52之1號B1",
@@ -67529,6 +67461,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212195",
+        "title": "康葫",
+        "address": "台北市內湖區民權東路六段296巷33號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.60644,
+          25.071936
+        ],
+        "type": "Point"
+      },
+      "id": "212195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "213556",
         "title": "順苓",
         "address": "高雄市小港區漢民路381號",
@@ -72221,6 +72170,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217031",
+        "title": "大園港",
+        "address": "桃園市大園區大觀路1088號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.15991,
+          25.055663
+        ],
+        "type": "Point"
+      },
+      "id": "217031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217042",
         "title": "三星",
         "address": "宜蘭縣三星鄉義德村三星路五段228號",
@@ -72319,6 +72285,23 @@
         "type": "Point"
       },
       "id": "217097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217101",
+        "title": "環安",
+        "address": "台南市安南區長和路二段12巷272號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.223113,
+          23.07008
+        ],
+        "type": "Point"
+      },
+      "id": "217101"
     },
     {
       "type": "Feature",
@@ -72625,6 +72608,23 @@
         "type": "Point"
       },
       "id": "217400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217433",
+        "title": "富得",
+        "address": "新北市五股區五權路48號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.453212,
+          25.06857
+        ],
+        "type": "Point"
+      },
+      "id": "217433"
     },
     {
       "type": "Feature",
@@ -86027,13 +86027,13 @@
       "properties": {
         "id": "940483",
         "title": "金典",
-        "address": "台中市西區健行路1046;1046之1號",
+        "address": "臺中市西區健行路1046、1046-1、1046-2號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.662971,
-          24.156529
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -102585,13 +102585,13 @@
       "properties": {
         "id": "996132",
         "title": "五華",
-        "address": "新北市三重區五華街148號",
+        "address": "新北市三重區五華街148號1.2樓，150號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.491193,
-          25.084047
+          0,
+          0
         ],
         "type": "Point"
       },
