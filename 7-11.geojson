@@ -17600,23 +17600,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141475",
-        "title": "油庫口",
-        "address": "新北市板橋區文化路一段188巷38號40號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.466692,
-          25.019061
-        ],
-        "type": "Point"
-      },
-      "id": "141475"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141501",
         "title": "香湖",
         "address": "嘉義市西區香湖里文化路8鄰700號",
@@ -33871,13 +33854,13 @@
       "properties": {
         "id": "170255",
         "title": "德復",
-        "address": "基隆市中山區復興路197號",
+        "address": "基隆市中山區復興路193號195號197號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.725974,
-          25.146517
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -58417,23 +58400,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "199186",
-        "title": "見晴",
-        "address": "台北市內湖區瑞光路196號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.576948,
-          25.074982
-        ],
-        "type": "Point"
-      },
-      "id": "199186"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "199212",
         "title": "龍池",
         "address": "桃園市龍潭區中豐路上林段187號189號1樓",
@@ -59807,6 +59773,23 @@
         "type": "Point"
       },
       "id": "200343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "200354",
+        "title": "舊舍",
+        "address": "彰化縣社頭鄉松竹村3鄰社石路937號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "200354"
     },
     {
       "type": "Feature",
@@ -61286,6 +61269,23 @@
         "type": "Point"
       },
       "id": "201863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201885",
+        "title": "油庫口",
+        "address": "新北市板橋區文化路一段188巷38號40號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.466692,
+          25.019061
+        ],
+        "type": "Point"
+      },
+      "id": "201885"
     },
     {
       "type": "Feature",
@@ -67342,6 +67342,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211745",
+        "title": "五興",
+        "address": "宜蘭縣五結鄉五結路三段258號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.788178,
+          24.683346
+        ],
+        "type": "Point"
+      },
+      "id": "211745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211756",
         "title": "佳政",
         "address": "新北市樹林區中山路三段209-1號211號1樓",
@@ -72625,6 +72642,23 @@
         "type": "Point"
       },
       "id": "217433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217477",
+        "title": "見晴",
+        "address": "台北市內湖區瑞光路196號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.576948,
+          25.074982
+        ],
+        "type": "Point"
+      },
+      "id": "217477"
     },
     {
       "type": "Feature",
