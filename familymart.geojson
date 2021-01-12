@@ -71730,6 +71730,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020304",
+        "title": "全家后里甲后店",
+        "address": "台中市后里區甲后路一段999號",
+        "post": "421",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.70915863,
+          24.31095542
+        ],
+        "type": "Point"
+      },
+      "id": "020304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020308",
         "title": "全家澎湖鑫旺店",
         "address": "澎湖縣馬公市吉慶路7號",
