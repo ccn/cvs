@@ -66985,6 +66985,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211181",
+        "title": "利穗",
+        "address": "新北市中和區民利街38號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211217",
         "title": "央大",
         "address": "桃園市平鎮區民族路三段275號高雙路3號",
@@ -67457,6 +67474,23 @@
         "type": "Point"
       },
       "id": "211929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211963",
+        "title": "台企",
+        "address": "台北市內湖區新明路122之7號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.587232,
+          25.058315
+        ],
+        "type": "Point"
+      },
+      "id": "211963"
     },
     {
       "type": "Feature",
