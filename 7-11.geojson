@@ -33854,7 +33854,7 @@
       "properties": {
         "id": "170255",
         "title": "德復",
-        "address": "基隆市中山區復興路193號195號197號",
+        "address": "基隆市中山區復興路193號195號197號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -65659,6 +65659,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "209937",
+        "title": "侑群",
+        "address": "高雄市橋頭區甲昌路227號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.293278,
+          22.73647
+        ],
+        "type": "Point"
+      },
+      "id": "209937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "209959",
         "title": "達武",
         "address": "台東縣達仁鄉安朔村復興路21號及21-1號",
@@ -67070,6 +67087,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211310",
+        "title": "哈囉",
+        "address": "高雄市左營區左營大路676號1樓2樓678號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.298341,
+          22.691997
+        ],
+        "type": "Point"
+      },
+      "id": "211310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211332",
         "title": "松茂",
         "address": "台北市信義區松山路11號B1樓",
@@ -67423,6 +67457,23 @@
         "type": "Point"
       },
       "id": "211826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211859",
+        "title": "水水",
+        "address": "新竹市東區水源街69號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.991508,
+          24.801079
+        ],
+        "type": "Point"
+      },
+      "id": "211859"
     },
     {
       "type": "Feature",
