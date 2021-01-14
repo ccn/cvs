@@ -71236,6 +71236,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020270",
+        "title": "全家龍井麗水店",
+        "address": "台中市龍井區臨港路一段55號",
+        "post": "434",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.50582,
+          24.210091
+        ],
+        "type": "Point"
+      },
+      "id": "020270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020271",
         "title": "全家大里金樹王店",
         "address": "台中市大里區樹王路279號1樓",
