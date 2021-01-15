@@ -25529,8 +25529,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.463037,
+          25.081286
         ],
         "type": "Point"
       },
@@ -50580,23 +50580,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "192886",
-        "title": "向興",
-        "address": "台中市西區向上路一段95號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.663283,
-          24.1466
-        ],
-        "type": "Point"
-      },
-      "id": "192886"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "192901",
         "title": "芮霖",
         "address": "桃園市蘆竹區中興路536之1號",
@@ -59784,8 +59767,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.592746,
+          23.900918
         ],
         "type": "Point"
       },
@@ -67009,8 +66992,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.479621,
+          24.999002
         ],
         "type": "Point"
       },
@@ -67576,6 +67559,23 @@
         "type": "Point"
       },
       "id": "212195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212564",
+        "title": "財豐",
+        "address": "基隆市中正區新豐街389號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.785378,
+          25.135299
+        ],
+        "type": "Point"
+      },
+      "id": "212564"
     },
     {
       "type": "Feature",
@@ -72119,6 +72119,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216898",
+        "title": "向興",
+        "address": "台中市西區向上路一段95號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.663283,
+          24.1466
+        ],
+        "type": "Point"
+      },
+      "id": "216898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216924",
         "title": "青潭",
         "address": "新北市新店區北宜路一段41-1號",
@@ -72551,8 +72568,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.54048,
+          24.965475
         ],
         "type": "Point"
       },
@@ -86140,23 +86157,6 @@
         "type": "Point"
       },
       "id": "940472"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "940483",
-        "title": "金典",
-        "address": "臺中市西區健行路1046、1046-1、1046-2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "id": "940483"
     },
     {
       "type": "Feature",
@@ -99819,8 +99819,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.547312,
+          24.870096
         ],
         "type": "Point"
       },
@@ -102709,8 +102709,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.491193,
+          25.084047
         ],
         "type": "Point"
       },
