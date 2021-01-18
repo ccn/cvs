@@ -11429,23 +11429,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "130567",
-        "title": "龍東",
-        "address": "桃園市中壢區龍東路138號140號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.252258176477,
-          24.9291625276036
-        ],
-        "type": "Point"
-      },
-      "id": "130567"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "130615",
         "title": "慶嶸",
         "address": "新北市樹林區保安街一段323號323-1號1樓",
@@ -27137,23 +27120,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "159373",
-        "title": "哨船頭",
-        "address": "基隆市中正區義一路43號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.74572853973899,
-          25.133485233801302
-        ],
-        "type": "Point"
-      },
-      "id": "159373"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "159384",
         "title": "港興",
         "address": "台北市南港區興華路119號121號123號125號",
@@ -39628,23 +39594,6 @@
         "type": "Point"
       },
       "id": "181314"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "181325",
-        "title": "竹永",
-        "address": "新竹縣竹東鎮仁愛里北興路二段185號187號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.090813,
-          24.741197
-        ],
-        "type": "Point"
-      },
-      "id": "181325"
     },
     {
       "type": "Feature",
@@ -66288,6 +66237,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210502",
+        "title": "欣欣",
+        "address": "桃園市龜山區萬壽路二段1280號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.326607,
+          24.993274
+        ],
+        "type": "Point"
+      },
+      "id": "210502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210535",
         "title": "福二",
         "address": "基隆市七堵區福二街157號1樓",
@@ -67542,6 +67508,23 @@
         "type": "Point"
       },
       "id": "212070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212081",
+        "title": "莊和",
+        "address": "新北市新莊區中和街34.36號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.44825,
+          25.043937
+        ],
+        "type": "Point"
+      },
+      "id": "212081"
     },
     {
       "type": "Feature",
@@ -72748,6 +72731,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217444",
+        "title": "哨船頭",
+        "address": "基隆市中正區義一路43號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.74572853973899,
+          25.133485233801302
+        ],
+        "type": "Point"
+      },
+      "id": "217444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217466",
+        "title": "龍東",
+        "address": "桃園市中壢區龍東路138號140號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.252258176477,
+          24.9291625276036
+        ],
+        "type": "Point"
+      },
+      "id": "217466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217477",
         "title": "見晴",
         "address": "台北市內湖區瑞光路196號",
@@ -72778,6 +72795,23 @@
         "type": "Point"
       },
       "id": "217488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238201",
+        "title": "竹永",
+        "address": "新竹縣竹東鎮仁愛里北興路二段185號187號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.090813,
+          24.741197
+        ],
+        "type": "Point"
+      },
+      "id": "238201"
     },
     {
       "type": "Feature",
