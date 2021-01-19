@@ -12127,6 +12127,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "015262",
+        "title": "全家東河農會店",
+        "address": "臺東縣東河鄉都蘭村都蘭路209-1號",
+        "post": "959",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,veg,oneice,COFFEEDeliver,Preorder,costco,pet,wash,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2283281,
+          22.8747033
+        ],
+        "type": "Point"
+      },
+      "id": "015262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "015263",
         "title": "全家懷生店",
         "address": "台北市大安區復興南路一段70號",
