@@ -17345,23 +17345,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141176",
-        "title": "榮華",
-        "address": "新北市蘆洲區長榮路75號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.461944,
-          25.083502
-        ],
-        "type": "Point"
-      },
-      "id": "141176"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141187",
         "title": "楊功",
         "address": "桃園市楊梅區瑞溪路二段162號1樓",
@@ -27762,23 +27745,6 @@
         "type": "Point"
       },
       "id": "161295"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "161343",
-        "title": "文藻",
-        "address": "高雄市三民區民族一路900號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.320047,
-          22.669169
-        ],
-        "type": "Point"
-      },
-      "id": "161343"
     },
     {
       "type": "Feature",
@@ -49509,23 +49475,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190341",
-        "title": "梧棲",
-        "address": "台中市梧棲區台灣大道八段962號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.538805,
-          24.249305
-        ],
-        "type": "Point"
-      },
-      "id": "190341"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190352",
         "title": "壢和",
         "address": "桃園市中壢區中和路114號",
@@ -67495,6 +67444,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212047",
+        "title": "仁忠",
+        "address": "高雄市林園區仁愛路129.131.133號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.392111,
+          22.506854
+        ],
+        "type": "Point"
+      },
+      "id": "212047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212070",
         "title": "汶昇",
         "address": "台中市北區中清路一段102號",
@@ -71932,6 +71898,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216773",
+        "title": "梧棲",
+        "address": "台中市梧棲區台灣大道八段962號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.538805,
+          24.249305
+        ],
+        "type": "Point"
+      },
+      "id": "216773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216784",
         "title": "竹北",
         "address": "新竹縣竹北市中正東路194號",
@@ -74852,23 +74835,6 @@
         "type": "Point"
       },
       "id": "864901"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "864923",
-        "title": "通豪",
-        "address": "台中市北區漢口路三段172號174號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.671975,
-          24.166802
-        ],
-        "type": "Point"
-      },
-      "id": "864923"
     },
     {
       "type": "Feature",
@@ -87704,6 +87670,23 @@
         "type": "Point"
       },
       "id": "944555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "944566",
+        "title": "福音",
+        "address": "桃園市觀音區新生路1467之1號1樓五福三街83號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "944566"
     },
     {
       "type": "Feature",
