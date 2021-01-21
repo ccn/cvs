@@ -14557,23 +14557,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "135919",
-        "title": "前中",
-        "address": "高雄市大寮區自由路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.388601,
-          22.614388
-        ],
-        "type": "Point"
-      },
-      "id": "135919"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "135942",
         "title": "萊福",
         "address": "台北市信義區林口街48號",
@@ -33791,8 +33774,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.726261,
+          25.146159
         ],
         "type": "Point"
       },
@@ -50808,8 +50791,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.724652,
+          24.158845
         ],
         "type": "Point"
       },
@@ -55374,6 +55357,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "197021",
+        "title": "北庄",
+        "address": "台中市北屯區后庄北路221-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.666976,
+          24.192222
+        ],
+        "type": "Point"
+      },
+      "id": "197021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "197032",
         "title": "明水",
         "address": "台北市中山區明水路636號樂群三路1號",
@@ -56577,23 +56577,6 @@
         "type": "Point"
       },
       "id": "197858"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "197870",
-        "title": "新崛江",
-        "address": "高雄市新興區振成里新田路114號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.304322598211,
-          22.622659473990897
-        ],
-        "type": "Point"
-      },
-      "id": "197870"
     },
     {
       "type": "Feature",
@@ -61154,6 +61137,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201874",
+        "title": "台塑",
+        "address": "高雄市仁武區竹後里水管路189號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.335362,
+          22.706405
+        ],
+        "type": "Point"
+      },
+      "id": "201874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "201885",
         "title": "油庫口",
         "address": "新北市板橋區文化路一段188巷38號40號1樓",
@@ -63241,6 +63241,23 @@
         "type": "Point"
       },
       "id": "208107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208118",
+        "title": "梅花",
+        "address": "台南市楠西區楠西里中正路176號前面",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.485766,
+          23.1757
+        ],
+        "type": "Point"
+      },
+      "id": "208118"
     },
     {
       "type": "Feature",
@@ -67580,6 +67597,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212519",
+        "title": "民龍",
+        "address": "台北市內湖區新湖二路26號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.575204,
+          25.060813
+        ],
+        "type": "Point"
+      },
+      "id": "212519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212520",
         "title": "鴻運",
         "address": "新北市五股區水碓一路1號",
@@ -67587,8 +67621,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.432688,
+          25.072803
         ],
         "type": "Point"
       },
@@ -71575,6 +71609,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216474",
+        "title": "新崛江",
+        "address": "高雄市新興區振成里新田路114號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304322598211,
+          22.622659473990897
+        ],
+        "type": "Point"
+      },
+      "id": "216474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216485",
         "title": "紫陽",
         "address": "台北市內湖區紫陽里陽光街159號",
@@ -72867,6 +72918,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217514",
+        "title": "前中",
+        "address": "高雄市大寮區自由路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.388601,
+          22.614388
+        ],
+        "type": "Point"
+      },
+      "id": "217514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217525",
         "title": "天虹",
         "address": "高雄市鳳山區鎮南里五甲二路744號",
@@ -73917,23 +73985,6 @@
         "type": "Point"
       },
       "id": "852724"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "854030",
-        "title": "台塑",
-        "address": "高雄市仁武區竹後里水管路189號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.335362,
-          22.706405
-        ],
-        "type": "Point"
-      },
-      "id": "854030"
     },
     {
       "type": "Feature",
@@ -83222,13 +83273,13 @@
       "properties": {
         "id": "921552",
         "title": "海福",
-        "address": "苗栗縣竹南鎮海口里街86號",
+        "address": "苗栗縣竹南鎮海口里明勝路318號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.863109,
-          24.675224
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -87783,8 +87834,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.143641,
+          25.041802
         ],
         "type": "Point"
       },
