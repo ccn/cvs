@@ -30253,25 +30253,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017179",
-        "title": "全家土城廣明店",
-        "address": "新北市土城區廣明街45號及47號",
-        "post": "236",
-        "all": "SWEETPOTATO,Photo,WiFi,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.455186,
-          24.993254
-        ],
-        "type": "Point"
-      },
-      "id": "017179"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017180",
         "title": "全家大溪員林店",
         "address": "桃園市大溪區員林路一段11號",
@@ -45601,25 +45582,6 @@
         "type": "Point"
       },
       "id": "018332"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "018333",
-        "title": "全家高雄哈瑪星店",
-        "address": "高雄市鼓山區臨海二路52號",
-        "post": "804",
-        "all": "SWEETPOTATO,WiFi,Rest,veg,COFFEEDeliver,SUNMAI,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.270693,
-          22.624045
-        ],
-        "type": "Point"
-      },
-      "id": "018333"
     },
     {
       "type": "Feature",
@@ -64111,25 +64073,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019634",
-        "title": "全家台中輕井澤店",
-        "address": "台中市南屯區黎明路二段706號1樓及2樓",
-        "post": "408",
-        "all": "icecream,oneice,Meatballs,intl,costco,wash",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.63413,
-          24.159247
-        ],
-        "type": "Point"
-      },
-      "id": "019634"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019635",
         "title": "全家永康永慶店",
         "address": "台南市永康區復國一路344號,346號",
@@ -72015,6 +71958,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020321",
+        "title": "全家台中輕井澤店",
+        "address": "台中市南屯區黎明路二段706號1樓及2樓",
+        "post": "408",
+        "all": "icecream,oneice,Meatballs,intl,costco,wash",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.63413,
+          24.159247
+        ],
+        "type": "Point"
+      },
+      "id": "020321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020324",
         "title": "全家鳳山新強店",
         "address": "高雄市鳳山區新富路210號",
@@ -72049,6 +72011,25 @@
         "type": "Point"
       },
       "id": "020326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020327",
+        "title": "全家台中火車頭店",
+        "address": "台中市中區台灣大道一段1號1樓Ａ03櫃位",
+        "post": "400",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.685163,
+          24.136927
+        ],
+        "type": "Point"
+      },
+      "id": "020327"
     },
     {
       "type": "Feature",
