@@ -46973,25 +46973,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "018418",
-        "title": "全家三重重陽店",
-        "address": "新北市三重區重陽路一段109號,111號1樓",
-        "post": "241",
-        "all": "SWEETPOTATO,WiFi,Rest,COFFEEDeliver,Kantoni,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.486873,
-          25.059753
-        ],
-        "type": "Point"
-      },
-      "id": "018418"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "018419",
         "title": "全家新莊新和港店",
         "address": "新北市新莊區中港一街143號",
@@ -71084,6 +71065,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020267",
+        "title": "全家台南萬年店",
+        "address": "台南市南區萬年五街268號1樓",
+        "post": "702",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.188212,
+          22.935916
+        ],
+        "type": "Point"
+      },
+      "id": "020267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020268",
         "title": "全家台南新市政店",
         "address": "台南市安平區永華路二段288號1樓與夾層",
@@ -71840,6 +71840,25 @@
         "type": "Point"
       },
       "id": "020309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020311",
+        "title": "全家三地門恆美店",
+        "address": "屏東縣三地門鄉中正路二段16號",
+        "post": "901",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.65271,
+          22.714303
+        ],
+        "type": "Point"
+      },
+      "id": "020311"
     },
     {
       "type": "Feature",
