@@ -44732,23 +44732,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "185903",
-        "title": "博愛街",
-        "address": "新竹縣竹北市博愛街709號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.015699,
-          24.8437
-        ],
-        "type": "Point"
-      },
-      "id": "185903"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "185914",
         "title": "科工館",
         "address": "高雄市三民區安發里平等路91號93號",
@@ -59284,6 +59267,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "200055",
+        "title": "兆溢",
+        "address": "彰化縣彰化市崙美路246號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.528529,
+          24.059539
+        ],
+        "type": "Point"
+      },
+      "id": "200055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "200066",
         "title": "參龍",
         "address": "台北市內湖區新湖一路95號1樓",
@@ -67461,6 +67461,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211952",
+        "title": "漢生東",
+        "address": "新北市板橋區漢生東路45號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46578,
+          25.016806
+        ],
+        "type": "Point"
+      },
+      "id": "211952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211963",
         "title": "台企",
         "address": "台北市內湖區新明路122之7號",
@@ -67559,6 +67576,23 @@
         "type": "Point"
       },
       "id": "212195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212210",
+        "title": "仁順",
+        "address": "新竹縣湖口鄉仁和路130號132號134號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.015295,
+          24.872408
+        ],
+        "type": "Point"
+      },
+      "id": "212210"
     },
     {
       "type": "Feature",
@@ -93099,13 +93133,13 @@
       "properties": {
         "id": "965242",
         "title": "清峰",
-        "address": "台中市清水區中華路330號",
+        "address": "台中市清水區中華路330號、鰲峰路173-3號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.566815,
-          24.268205
+          0,
+          0
         ],
         "type": "Point"
       },
