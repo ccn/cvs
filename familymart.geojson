@@ -28771,25 +28771,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017065",
-        "title": "全家板橋江翠店",
-        "address": "新北市板橋區懷德街127巷1號及3號1F",
-        "post": "220",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.478897,
-          25.030925
-        ],
-        "type": "Point"
-      },
-      "id": "017065"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017066",
         "title": "全家頭份大同店",
         "address": "苗栗縣頭份市大同路1號一樓",
@@ -37526,25 +37507,6 @@
         "type": "Point"
       },
       "id": "017756"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017757",
-        "title": "全家新竹交大店",
-        "address": "新竹市東區大學路1001之2號一樓",
-        "post": "300",
-        "all": "SWEETPOTATO,icecream,Rest,veg,oneice,twoice,Kantoni,Preorder,Meatballs,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.998209,
-          24.786842
-        ],
-        "type": "Point"
-      },
-      "id": "017757"
     },
     {
       "type": "Feature",
@@ -55352,25 +55314,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019034",
-        "title": "全家新莊研店",
-        "address": "台北市南港區舊莊街一段169號",
-        "post": "115",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,Meatballs",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.621235,
-          25.039469
-        ],
-        "type": "Point"
-      },
-      "id": "019034"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019035",
         "title": "全家新市民林店",
         "address": "台南市新市區民生路62號",
@@ -64719,25 +64662,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019678",
-        "title": "全家蘆竹洛陽店",
-        "address": "桃園市蘆竹區南榮村光明路一段119號121號一樓",
-        "post": "338",
-        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,FreshFruit,Preorder,Meatballs,costco,leezen,pet",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.290365,
-          25.044211
-        ],
-        "type": "Point"
-      },
-      "id": "019678"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019680",
         "title": "全家名間金交流店",
         "address": "南投縣名間鄉彰南路243號",
@@ -70096,25 +70020,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020209",
-        "title": "全家南陽店",
-        "address": "台北市中正區信陽街15號",
-        "post": "100",
-        "all": "SWEETPOTATO,WiFi,icecream,oneice,COFFEEDeliver,Kantoni,Preorder,SCoffee,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.516203,
-          25.044774
-        ],
-        "type": "Point"
-      },
-      "id": "020209"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020210",
         "title": "全家新復店",
         "address": "台北市中山區復興北路514巷35號",
@@ -70989,6 +70894,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020261",
+        "title": "全家新港大潭店",
+        "address": "嘉義縣新港鄉大潭村21鄰13-2號",
+        "post": "616",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.369206,
+          23.552168
+        ],
+        "type": "Point"
+      },
+      "id": "020261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020262",
         "title": "全家永康永明店",
         "address": "台南市永康區永明街262號",
@@ -71074,8 +70998,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.188212,
-          22.935916
+          120.18858900000002,
+          22.932153
         ],
         "type": "Point"
       },
@@ -71863,6 +71787,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020312",
+        "title": "全家烏日前竹店",
+        "address": "台中市烏日區光明路46號",
+        "post": "414",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.64672088623,
+          24.0946083068848
+        ],
+        "type": "Point"
+      },
+      "id": "020312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020313",
         "title": "全家秀水民主店",
         "address": "彰化縣秀水鄉馬鳴路117號",
@@ -71878,6 +71821,25 @@
         "type": "Point"
       },
       "id": "020313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020314",
+        "title": "全家高雄龍德店",
+        "address": "高雄市鼓山區龍德路106巷3之1號",
+        "post": "804",
+        "all": "LCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.300129,
+          22.654416
+        ],
+        "type": "Point"
+      },
+      "id": "020314"
     },
     {
       "type": "Feature",
@@ -72053,6 +72015,63 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020328",
+        "title": "全家台中公民店",
+        "address": "台中市西區五權路2-139號",
+        "post": "403",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.66891,
+          24.142878
+        ],
+        "type": "Point"
+      },
+      "id": "020328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020344",
+        "title": "全家新竹交大店",
+        "address": "新竹市東區大學路1001之2號一樓",
+        "post": "300",
+        "all": "SWEETPOTATO,icecream,Rest,veg,oneice,twoice,Kantoni,Preorder,Meatballs,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.998209,
+          24.786842
+        ],
+        "type": "Point"
+      },
+      "id": "020344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020349",
+        "title": "全家板橋江翠店",
+        "address": "新北市板橋區懷德街127巷1號及3號1F",
+        "post": "220",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.478897,
+          25.030925
+        ],
+        "type": "Point"
+      },
+      "id": "020349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020358",
         "title": "全家平鎮義廣店",
         "address": "桃園市平鎮區廣明路59號",
@@ -72091,6 +72110,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020368",
+        "title": "全家新莊研店",
+        "address": "台北市南港區舊莊街一段169號",
+        "post": "115",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,Meatballs",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.621235,
+          25.039469
+        ],
+        "type": "Point"
+      },
+      "id": "020368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020374",
         "title": "全家屏東大崇店",
         "address": "屏東縣屏東市大同北路102號",
@@ -72106,6 +72144,44 @@
         "type": "Point"
       },
       "id": "020374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020383",
+        "title": "全家南陽店",
+        "address": "台北市中正區信陽街15號",
+        "post": "100",
+        "all": "SWEETPOTATO,WiFi,icecream,oneice,COFFEEDeliver,Kantoni,Preorder,SCoffee,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.516203,
+          25.044774
+        ],
+        "type": "Point"
+      },
+      "id": "020383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020398",
+        "title": "全家蘆竹洛陽店",
+        "address": "桃園市蘆竹區南榮村光明路一段119號121號一樓",
+        "post": "338",
+        "all": "SWEETPOTATO,Smoothie,Photo,WiFi,icecream,Toilet,Rest,oneice,twoice,COFFEEDeliver,FreshFruit,Preorder,Meatballs,costco,leezen,pet",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.290365,
+          25.044211
+        ],
+        "type": "Point"
+      },
+      "id": "020398"
     }
   ]
 }
