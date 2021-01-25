@@ -41315,23 +41315,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "183099",
-        "title": "景和",
-        "address": "台中市北屯區太原路三段907號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.714009,
-          24.164576
-        ],
-        "type": "Point"
-      },
-      "id": "183099"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "183136",
         "title": "芬農",
         "address": "彰化縣芬園鄉彰南路四段337號1樓",
@@ -61171,6 +61154,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "202017",
+        "title": "康福",
+        "address": "台北市大安區永康街12之2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.529472,
+          25.031553
+        ],
+        "type": "Point"
+      },
+      "id": "202017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -61813,6 +61813,23 @@
         "type": "Point"
       },
       "id": "206857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206868",
+        "title": "龍橋",
+        "address": "台南市永康區烏竹里7鄰龍橋街406號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.262954,
+          23.042619
+        ],
+        "type": "Point"
+      },
+      "id": "206868"
     },
     {
       "type": "Feature",
@@ -63213,13 +63230,13 @@
       "properties": {
         "id": "208093",
         "title": "瑞順",
-        "address": "高雄市鳳山區瑞興路210.212.216號",
+        "address": "高雄市鳳山區瑞興街216號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          120.366583,
-          22.627561
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -67614,6 +67631,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212368",
+        "title": "合莊",
+        "address": "高雄市新興區六合二路37號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.300651,
+          22.632463
+        ],
+        "type": "Point"
+      },
+      "id": "212368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212483",
         "title": "開懷",
         "address": "台北市中正區開封街一段15號17號1樓17號2樓",
@@ -67627,6 +67661,23 @@
         "type": "Point"
       },
       "id": "212483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212508",
+        "title": "華富",
+        "address": "新北市板橋區華江ㄧ路501號1.2樓.502號1.2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.466214,
+          25.032821
+        ],
+        "type": "Point"
+      },
+      "id": "212508"
     },
     {
       "type": "Feature",
@@ -72699,13 +72750,13 @@
       "properties": {
         "id": "217237",
         "title": "冠冠",
-        "address": "新北市新店區新生街1號1樓北新路一段231號1樓",
+        "address": "新北市新店區北新路一段231號1樓新生街1號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.54048,
-          24.965475
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -72897,6 +72948,23 @@
         "type": "Point"
       },
       "id": "217444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217455",
+        "title": "景和",
+        "address": "台中市北屯區太原路三段907號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.714009,
+          24.164576
+        ],
+        "type": "Point"
+      },
+      "id": "217455"
     },
     {
       "type": "Feature",
