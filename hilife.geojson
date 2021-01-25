@@ -12949,8 +12949,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.592931,
-          25.054528
+          121.5929068601188,
+          25.0544429560247
         ],
         "type": "Point"
       },
@@ -21455,6 +21455,23 @@
         "type": "Point"
       },
       "id": "4813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4821",
+        "title": "大雅月祥店",
+        "address": "台中市大雅區月祥路４６６－１號、４６８號部份",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6246304870563,
+          24.2353045262548
+        ],
+        "type": "Point"
+      },
+      "id": "4821"
     },
     {
       "type": "Feature",
