@@ -24961,23 +24961,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "154910",
-        "title": "大發",
-        "address": "高雄市大寮區振成里鳳林三路322號324號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.397748,
-          22.60185
-        ],
-        "type": "Point"
-      },
-      "id": "154910"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "154943",
         "title": "欣樂",
         "address": "新竹縣新豐鄉康樂路一段358號",
@@ -40563,23 +40546,6 @@
         "type": "Point"
       },
       "id": "182395"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "182409",
-        "title": "權大",
-        "address": "台中市西區五權西路一段271號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.655534,
-          24.13989
-        ],
-        "type": "Point"
-      },
-      "id": "182409"
     },
     {
       "type": "Feature",
@@ -61171,6 +61137,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "202350",
+        "title": "崧站",
+        "address": "台北市信義區松隆路329巷4號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.579317,
+          25.048426
+        ],
+        "type": "Point"
+      },
+      "id": "202350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202419",
         "title": "北車站",
         "address": "台北市中正區忠孝西路一段49號地下一樓",
@@ -67189,6 +67172,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211527",
+        "title": "吉泰來",
+        "address": "台中市霧峰區中正路583號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.695885,
+          24.054799
+        ],
+        "type": "Point"
+      },
+      "id": "211527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211583",
         "title": "松站",
         "address": "台中市北屯區松竹路一段1386號1388號",
@@ -67427,6 +67427,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211871",
+        "title": "苗公",
+        "address": "苗栗縣苗栗市青苗里至公路12號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.820062,
+          24.557126
+        ],
+        "type": "Point"
+      },
+      "id": "211871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211882",
         "title": "智復",
         "address": "台中市東區復興路四段210號1.2樓.地下層",
@@ -67474,6 +67491,23 @@
         "type": "Point"
       },
       "id": "211929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211941",
+        "title": "新震",
+        "address": "桃園市觀音區新生路171號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.136224,
+          25.016962
+        ],
+        "type": "Point"
+      },
+      "id": "211941"
     },
     {
       "type": "Feature",
@@ -72323,6 +72357,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216902",
+        "title": "權大",
+        "address": "台中市西區五權西路一段271號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.655534,
+          24.13989
+        ],
+        "type": "Point"
+      },
+      "id": "216902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216924",
         "title": "青潭",
         "address": "新北市新店區北宜路一段41-1號",
@@ -73016,6 +73067,23 @@
         "type": "Point"
       },
       "id": "217488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217503",
+        "title": "大發",
+        "address": "高雄市大寮區振成里鳳林三路322號324號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.397748,
+          22.60185
+        ],
+        "type": "Point"
+      },
+      "id": "217503"
     },
     {
       "type": "Feature",
@@ -80160,6 +80228,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "902296",
+        "title": "吉川",
+        "address": "台東縣台東市豐谷里中華路2段272號274號276號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "902296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "902311",
         "title": "昇容",
         "address": "新北市板橋區重慶路346巷8號",
@@ -81975,23 +82060,6 @@
         "type": "Point"
       },
       "id": "912709"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "912721",
-        "title": "苗公",
-        "address": "苗栗縣苗栗市中山路602之1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.819512,
-          24.557695
-        ],
-        "type": "Point"
-      },
-      "id": "912721"
     },
     {
       "type": "Feature",
@@ -86412,6 +86480,23 @@
         "type": "Point"
       },
       "id": "940472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "940483",
+        "title": "金典",
+        "address": "台中市西區健行路1046、1046-1、1046-2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "940483"
     },
     {
       "type": "Feature",
@@ -99451,23 +99536,6 @@
         "type": "Point"
       },
       "id": "982502"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982513",
-        "title": "新斗中",
-        "address": "彰化縣北斗鎮中華路205號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.523709,
-          23.872963
-        ],
-        "type": "Point"
-      },
-      "id": "982513"
     },
     {
       "type": "Feature",
