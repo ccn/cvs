@@ -708,25 +708,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "012517",
-        "title": "全家下營中山店",
-        "address": "台南市下營區中山路二段32號",
-        "post": "735",
-        "all": "SWEETPOTATO,Smoothie,WiFi,COFFEEDeliver,Preorder,SCoffee",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.260924,
-          23.234249
-        ],
-        "type": "Point"
-      },
-      "id": "012517"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "012536",
         "title": "全家沙鹿鎮平店",
         "address": "台中市沙鹿區鎮南路二段95號1樓",
@@ -66201,25 +66182,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "019967",
-        "title": "全家新莊萬安店",
-        "address": "新北市新莊區萬安街80號",
-        "post": "242",
-        "all": "SWEETPOTATO,Photo,WiFi,Rest,Preorder,Meatballs,costco",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.42077,
-          25.023121
-        ],
-        "type": "Point"
-      },
-      "id": "019967"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "019968",
         "title": "全家新竹富美二店",
         "address": "新竹市香山區延平路二段171號1樓",
@@ -71920,6 +71882,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020322",
+        "title": "全家下營中山店",
+        "address": "台南市下營區中山路二段32號",
+        "post": "735",
+        "all": "SWEETPOTATO,Smoothie,WiFi,COFFEEDeliver,Preorder,SCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.260924,
+          23.234249
+        ],
+        "type": "Point"
+      },
+      "id": "020322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020324",
         "title": "全家鳳山新強店",
         "address": "高雄市鳳山區新富路210號",
@@ -72182,6 +72163,25 @@
         "type": "Point"
       },
       "id": "020383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020386",
+        "title": "全家新莊萬安店",
+        "address": "新北市新莊區萬安街80號",
+        "post": "242",
+        "all": "SWEETPOTATO,Photo,WiFi,Rest,Preorder,Meatballs,costco",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.42077,
+          25.023121
+        ],
+        "type": "Point"
+      },
+      "id": "020386"
     },
     {
       "type": "Feature",
