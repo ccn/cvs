@@ -20949,23 +20949,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "148410",
-        "title": "新永健",
-        "address": "台南市中西區健康路一段346號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.200073,
-          22.98151
-        ],
-        "type": "Point"
-      },
-      "id": "148410"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "148487",
         "title": "新東灣",
         "address": "台南市永康區民族路186號188號1樓",
@@ -67155,6 +67138,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211479",
+        "title": "千藝",
+        "address": "桃園市桃園區同德六街1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "211479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211491",
         "title": "F18P",
         "address": "台南市安定區蘇林里北園二路8號",
@@ -67648,6 +67648,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212243",
+        "title": "大心",
+        "address": "新北市三重區大同北路148巷2-1號1.2樓和2-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.491771,
+          25.064914
+        ],
+        "type": "Point"
+      },
+      "id": "212243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212276",
         "title": "布拉格",
         "address": "桃園市大園區拔子林一路137號拔子林三路6號",
@@ -67661,6 +67678,23 @@
         "type": "Point"
       },
       "id": "212276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212335",
+        "title": "京采",
+        "address": "桃園市桃園區延平路289號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.315031,
+          24.97418
+        ],
+        "type": "Point"
+      },
+      "id": "212335"
     },
     {
       "type": "Feature",
@@ -69446,6 +69480,23 @@
         "type": "Point"
       },
       "id": "214607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214618",
+        "title": "影華",
+        "address": "桃園市中壢區九和一街20號之1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.22389,
+          24.961608
+        ],
+        "type": "Point"
+      },
+      "id": "214618"
     },
     {
       "type": "Feature",
@@ -73071,6 +73122,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217499",
+        "title": "新永健",
+        "address": "台南市中西區健康路一段346號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.200073,
+          22.98151
+        ],
+        "type": "Point"
+      },
+      "id": "217499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217503",
         "title": "大發",
         "address": "高雄市大寮區振成里鳳林三路322號324號1樓",
@@ -73118,6 +73186,23 @@
         "type": "Point"
       },
       "id": "217525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "227636",
+        "title": "國匯",
+        "address": "桃園市桃園區經國路801號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.300427,
+          25.028584
+        ],
+        "type": "Point"
+      },
+      "id": "227636"
     },
     {
       "type": "Feature",
@@ -86072,23 +86157,6 @@
         "type": "Point"
       },
       "id": "935632"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "935643",
-        "title": "影華",
-        "address": "桃園市中壢區九和一街20號之1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.22389,
-          24.961608
-        ],
-        "type": "Point"
-      },
-      "id": "935643"
     },
     {
       "type": "Feature",
