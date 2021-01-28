@@ -3235,23 +3235,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2615",
-        "title": "嘉縣嘉昱店",
-        "address": "嘉義縣東石鄉猿樹村１４５之１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.1521861865082,
-          23.4581754080642
-        ],
-        "type": "Point"
-      },
-      "id": "2615"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2619",
         "title": "北縣重盈店",
         "address": "新北市三重區文化北路１０號",
@@ -9005,8 +8988,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.622365925691,
-          25.0380683107257
+          121.6225214938139,
+          25.0381679469676
         ],
         "type": "Point"
       },
@@ -13969,8 +13952,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.555022,
-          25.020934
+          121.5550541865082,
+          25.0208805291513
         ],
         "type": "Point"
       },
@@ -23444,23 +23427,6 @@
         "type": "Point"
       },
       "id": "F992"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "F995",
-        "title": "桃市中華二店",
-        "address": "桃園市桃園區中華路２７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.3112689664664,
-          24.9907893555793
-        ],
-        "type": "Point"
-      },
-      "id": "F995"
     },
     {
       "type": "Feature",
