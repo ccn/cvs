@@ -56989,6 +56989,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "198253",
+        "title": "闔平",
+        "address": "台南市安南區府安路5段98巷56弄33號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.2012,
+          23.025685
+        ],
+        "type": "Point"
+      },
+      "id": "198253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "198275",
         "title": "日安",
         "address": "台北市士林區文林路444號1樓",
@@ -66220,6 +66237,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210524",
+        "title": "武昌",
+        "address": "高雄市苓雅區武昌路77號1樓79號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.334628,
+          22.618387
+        ],
+        "type": "Point"
+      },
+      "id": "210524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210535",
         "title": "福二",
         "address": "基隆市七堵區福二街157號1樓",
@@ -67145,8 +67179,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.301082,
+          25.016869
         ],
         "type": "Point"
       },
@@ -67236,6 +67270,23 @@
         "type": "Point"
       },
       "id": "211608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211619",
+        "title": "麻太",
+        "address": "嘉義縣太保市過溝里6鄰過溝52-14號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.36318,
+          23.497733
+        ],
+        "type": "Point"
+      },
+      "id": "211619"
     },
     {
       "type": "Feature",
@@ -67616,13 +67667,13 @@
       "properties": {
         "id": "212195",
         "title": "康葫",
-        "address": "台北市內湖區民權東路六段296巷33號1樓",
+        "address": "台北市內湖區民權東路六段296巷33號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.60644,
-          25.071936
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -72782,6 +72833,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217156",
+        "title": "向勝",
+        "address": "台中市西區東興路三段57號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.65286,
+          24.146636
+        ],
+        "type": "Point"
+      },
+      "id": "217156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217190",
         "title": "盛發",
         "address": "新北市蘆洲區光復路10號",
@@ -72857,8 +72925,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.540474,
+          24.965493
         ],
         "type": "Point"
       },
@@ -72897,6 +72965,23 @@
         "type": "Point"
       },
       "id": "217271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217293",
+        "title": "熊貓",
+        "address": "台中市南屯區向上南路一段325號1-2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.647679,
+          24.144921
+        ],
+        "type": "Point"
+      },
+      "id": "217293"
     },
     {
       "type": "Feature",
@@ -72999,6 +73084,23 @@
         "type": "Point"
       },
       "id": "217363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "217396",
+        "title": "西屯重慶",
+        "address": "台中市西屯區西屯路二段95之25號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.655881,
+          24.165495
+        ],
+        "type": "Point"
+      },
+      "id": "217396"
     },
     {
       "type": "Feature",
@@ -73203,6 +73305,23 @@
         "type": "Point"
       },
       "id": "227636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "227658",
+        "title": "藍天樓",
+        "address": "台北市中山區北安路387號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.540409,
+          25.079765
+        ],
+        "type": "Point"
+      },
+      "id": "227658"
     },
     {
       "type": "Feature",
@@ -75481,23 +75600,6 @@
         "type": "Point"
       },
       "id": "865834"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "865889",
-        "title": "向勝",
-        "address": "台中市西區東興路三段57號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.65286,
-          24.146636
-        ],
-        "type": "Point"
-      },
-      "id": "865889"
     },
     {
       "type": "Feature",
@@ -77861,23 +77963,6 @@
         "type": "Point"
       },
       "id": "886392"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "886406",
-        "title": "熊貓",
-        "address": "台中市南屯區向上南路一段325號1-2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.647679,
-          24.144921
-        ],
-        "type": "Point"
-      },
-      "id": "886406"
     },
     {
       "type": "Feature",
@@ -80320,8 +80405,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.136318,
+          22.743572
         ],
         "type": "Point"
       },
@@ -83528,7 +83613,7 @@
       "properties": {
         "id": "921552",
         "title": "海福",
-        "address": "苗栗縣竹南鎮海口里明勝路318號",
+        "address": "苗栗縣竹南鎮明勝路318號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -86559,8 +86644,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.662996,
+          24.156473
         ],
         "type": "Point"
       },
@@ -89438,23 +89523,6 @@
         "type": "Point"
       },
       "id": "951405"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "951427",
-        "title": "西屯重慶",
-        "address": "台中市西屯區西屯路二段95之25號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.655881,
-          24.165495
-        ],
-        "type": "Point"
-      },
-      "id": "951427"
     },
     {
       "type": "Feature",
@@ -93359,8 +93427,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.56684,
+          24.268189
         ],
         "type": "Point"
       },
