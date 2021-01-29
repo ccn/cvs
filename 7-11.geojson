@@ -49186,23 +49186,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "190053",
-        "title": "斗崙",
-        "address": "新竹縣竹北市光明十一路188號190號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.998304,
-          24.833221
-        ],
-        "type": "Point"
-      },
-      "id": "190053"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190123",
         "title": "世新大",
         "address": "台北市文山區木柵路一段17巷1號1樓",
@@ -63213,7 +63196,7 @@
       "properties": {
         "id": "208093",
         "title": "瑞順",
-        "address": "高雄市鳳山區瑞興街216號1樓",
+        "address": "高雄市鳳山區瑞興路216號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -66645,6 +66628,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210926",
+        "title": "蘇花",
+        "address": "宜蘭縣南澳鄉南澳村蘇花路二段433號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.804807,
+          24.466571
+        ],
+        "type": "Point"
+      },
+      "id": "210926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210937",
         "title": "富亦",
         "address": "台中市南屯區公益路二段939號1樓和龍富路四段552號1樓",
@@ -67206,6 +67206,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211505",
+        "title": "上發",
+        "address": "屏東縣萬丹鄉南北路二段608號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.467137,
+          22.602272
+        ],
+        "type": "Point"
+      },
+      "id": "211505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211527",
         "title": "吉泰來",
         "address": "台中市霧峰區中正路583號",
@@ -67763,6 +67780,23 @@
         "type": "Point"
       },
       "id": "212368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212380",
+        "title": "千晴",
+        "address": "苗栗縣三義鄉西湖村伯公坑178號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.750214,
+          24.378997
+        ],
+        "type": "Point"
+      },
+      "id": "212380"
     },
     {
       "type": "Feature",
@@ -69548,6 +69582,23 @@
         "type": "Point"
       },
       "id": "214618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214629",
+        "title": "斗崙",
+        "address": "新竹縣竹北市光明十一路188號190號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.998304,
+          24.833221
+        ],
+        "type": "Point"
+      },
+      "id": "214629"
     },
     {
       "type": "Feature",
@@ -73322,6 +73373,23 @@
         "type": "Point"
       },
       "id": "227658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "227728",
+        "title": "臺醫東",
+        "address": "台北市中正區中山南路7號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.518833,
+          25.04078
+        ],
+        "type": "Point"
+      },
+      "id": "227728"
     },
     {
       "type": "Feature",
