@@ -4646,23 +4646,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "118866",
-        "title": "新壯觀",
-        "address": "基隆市安樂區麥金路64號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.726471524553,
-          25.1165791752176
-        ],
-        "type": "Point"
-      },
-      "id": "118866"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "118899",
         "title": "掬華",
         "address": "台北市中正區中華路二段407號",
@@ -25688,23 +25671,6 @@
         "type": "Point"
       },
       "id": "155566"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "155577",
-        "title": "兒醫",
-        "address": "台北市中正區青島西路7號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.518194368684,
-          25.0450179292884
-        ],
-        "type": "Point"
-      },
-      "id": "155577"
     },
     {
       "type": "Feature",
@@ -55357,23 +55323,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "197098",
-        "title": "景旺",
-        "address": "新北市中和區成功路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.526373,
-          24.994185
-        ],
-        "type": "Point"
-      },
-      "id": "197098"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197102",
         "title": "金峰",
         "address": "新北市土城區明峰街9號11號",
@@ -61103,6 +61052,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201896",
+        "title": "兒醫",
+        "address": "台北市中正區青島西路7號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.518194368684,
+          25.0450179292884
+        ],
+        "type": "Point"
+      },
+      "id": "201896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202017",
         "title": "康福",
         "address": "台北市大安區永康街12之2號1樓",
@@ -61133,6 +61099,23 @@
         "type": "Point"
       },
       "id": "202350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202394",
+        "title": "奇美博",
+        "address": "台南市仁德區文華路二段66號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.225742,
+          22.934606
+        ],
+        "type": "Point"
+      },
+      "id": "202394"
     },
     {
       "type": "Feature",
@@ -66985,6 +66968,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211228",
+        "title": "新溪州",
+        "address": "彰化縣溪州鄉中山路三段436號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.497072,
+          23.852595
+        ],
+        "type": "Point"
+      },
+      "id": "211228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211262",
         "title": "樂林",
         "address": "新北市三重區永安北路二段15號",
@@ -67644,6 +67644,23 @@
         "type": "Point"
       },
       "id": "212047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212069",
+        "title": "秀和",
+        "address": "新北市永和區國中路99號101號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.524371,
+          25.006144
+        ],
+        "type": "Point"
+      },
+      "id": "212069"
     },
     {
       "type": "Feature",
@@ -73173,6 +73190,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217411",
+        "title": "嘉北",
+        "address": "嘉義市西區保安里興達路331號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.437103,
+          23.48658
+        ],
+        "type": "Point"
+      },
+      "id": "217411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217433",
         "title": "富得",
         "address": "新北市五股區五權路48號1樓",
@@ -73407,6 +73441,40 @@
         "type": "Point"
       },
       "id": "238201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238245",
+        "title": "景旺",
+        "address": "新北市中和區成功路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.526373,
+          24.994185
+        ],
+        "type": "Point"
+      },
+      "id": "238245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238278",
+        "title": "新壯觀",
+        "address": "基隆市安樂區麥金路64號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.726471524553,
+          25.1165791752176
+        ],
+        "type": "Point"
+      },
+      "id": "238278"
     },
     {
       "type": "Feature",
@@ -97806,23 +97874,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "976459",
-        "title": "嘉北",
-        "address": "嘉義市西區保安里興達路331號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.437103,
-          23.48658
-        ],
-        "type": "Point"
-      },
-      "id": "976459"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "976633",
         "title": "聯坊",
         "address": "台北市南港區東新街118巷1號",
@@ -103038,23 +103089,6 @@
         "type": "Point"
       },
       "id": "993672"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "993683",
-        "title": "新溪州",
-        "address": "彰化縣溪州鄉尾厝村中山路三段474號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.497794,
-          23.852822
-        ],
-        "type": "Point"
-      },
-      "id": "993683"
     },
     {
       "type": "Feature",
