@@ -19453,6 +19453,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4622",
+        "title": "觀音菩薩店",
+        "address": "桃園市觀音區長春街５０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1186458204995,
+          25.0509635981917
+        ],
+        "type": "Point"
+      },
+      "id": "4622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4626",
         "title": "東勢東崎店",
         "address": "台中市東勢區東崎路五段３０８及３１０號",
@@ -21455,6 +21472,23 @@
         "type": "Point"
       },
       "id": "4821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4822",
+        "title": "台中榮總店",
+        "address": "台中市西屯區臺灣大道四段１６５０號(營養３F)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6049735312443,
+          24.1843270804791
+        ],
+        "type": "Point"
+      },
+      "id": "4822"
     },
     {
       "type": "Feature",
