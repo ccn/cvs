@@ -20150,6 +20150,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4680",
+        "title": "板橋江寧店",
+        "address": "新北市板橋區江寧路三段４９、５１號一樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4716888211486,
+          25.032082308698
+        ],
+        "type": "Point"
+      },
+      "id": "4680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4681",
         "title": "大園A13店",
         "address": "桃園市大園區航站南路９號地下一層之１號",
