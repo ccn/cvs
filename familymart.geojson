@@ -71901,6 +71901,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020359",
+        "title": "全家中和秀欣店",
+        "address": "新北市中和區復興路267號1樓及地下室",
+        "post": "235",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.502622,
+          24.990223
+        ],
+        "type": "Point"
+      },
+      "id": "020359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020360",
         "title": "全家三重陽光店",
         "address": "新北市三重區三陽路110號1樓",
