@@ -10035,23 +10035,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "128140",
-        "title": "寶山",
-        "address": "新竹縣竹東鎮中興路三段173號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.056021,
-          24.767209
-        ],
-        "type": "Point"
-      },
-      "id": "128140"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "128221",
         "title": "新陽光",
         "address": "新北市泰山區泰林路二段368號370號",
@@ -61069,6 +61052,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201911",
+        "title": "寶山",
+        "address": "新竹縣竹東鎮中興路三段173號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.056021,
+          24.767209
+        ],
+        "type": "Point"
+      },
+      "id": "201911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202017",
         "title": "康福",
         "address": "台北市大安區永康街12之2號1樓",
@@ -61116,6 +61116,23 @@
         "type": "Point"
       },
       "id": "202394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202408",
+        "title": "豐梅",
+        "address": "台中市石岡區豐勢路460號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.801102,
+          24.268939
+        ],
+        "type": "Point"
+      },
+      "id": "202408"
     },
     {
       "type": "Feature",
@@ -67525,6 +67542,23 @@
         "type": "Point"
       },
       "id": "211882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211893",
+        "title": "佳東",
+        "address": "台南市佳里區進學路7號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.183793,
+          23.163905
+        ],
+        "type": "Point"
+      },
+      "id": "211893"
     },
     {
       "type": "Feature",
