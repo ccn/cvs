@@ -1049,8 +1049,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.471922600921,
-          25.0303310453223
+          121.4717107064089,
+          25.0304512782297
         ],
         "type": "Point"
       },
@@ -13979,23 +13979,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4181",
-        "title": "歸仁航特店",
-        "address": "台南市歸仁區南丁路１８８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.281525,
-          22.979048
-        ],
-        "type": "Point"
-      },
-      "id": "4181"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4182",
         "title": "鳳山黃埔店",
         "address": "高雄市鳳山區維武路１號",
@@ -18514,23 +18497,6 @@
         "type": "Point"
       },
       "id": "4554"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4555",
-        "title": "歸仁武東店",
-        "address": "台南市歸仁區中正南路三段２４２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.2704076721598,
-          22.9123591529464
-        ],
-        "type": "Point"
-      },
-      "id": "4555"
     },
     {
       "type": "Feature",
