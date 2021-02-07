@@ -947,8 +947,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.492693,
-          25.060587
+          121.4927895595246,
+          25.0604679443044
         ],
         "type": "Point"
       },
@@ -15924,8 +15924,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.451158,
-          25.047894
+          121.4511338601189,
+          25.0478551206575
         ],
         "type": "Point"
       },
@@ -21489,6 +21489,74 @@
         "type": "Point"
       },
       "id": "4823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4824",
+        "title": "新竹浸水店",
+        "address": "新竹市香山區浸水街３６５號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.9270998657586,
+          24.7989120071796
+        ],
+        "type": "Point"
+      },
+      "id": "4824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4829",
+        "title": "埔里酒廠店",
+        "address": "南投縣埔里鎮中山路三段２１９號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.9603481889609,
+          23.9678629824004
+        ],
+        "type": "Point"
+      },
+      "id": "4829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4832",
+        "title": "枋山海景店",
+        "address": "屏東縣枋山鄉中山路三段６１-１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6587287776543,
+          22.2481510610059
+        ],
+        "type": "Point"
+      },
+      "id": "4832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4833",
+        "title": "東石農會店",
+        "address": "嘉義縣東石鄉猿樹村１４７號壹樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.1519007850279,
+          23.4581351013004
+        ],
+        "type": "Point"
+      },
+      "id": "4833"
     },
     {
       "type": "Feature",
