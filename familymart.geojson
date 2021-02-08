@@ -12625,7 +12625,7 @@
         "title": "全家台中朝貴店",
         "address": "台中市西屯區朝馬路139號,141號,143號一樓",
         "post": "407",
-        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,veg,oneice,Preorder,SCoffee,Meatballs",
+        "all": "SWEETPOTATO,Smoothie,WiFi,Toilet,Rest,veg,Preorder,SCoffee,Meatballs",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -46825,7 +46825,7 @@
         "title": "全家蘆洲徐匯店",
         "address": "新北市蘆洲區中山一路25號1樓",
         "post": "247",
-        "all": "SWEETPOTATO,icecream,oneice,twoice,Preorder,Meatballs",
+        "all": "SWEETPOTATO,Preorder,Meatballs",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -53684,7 +53684,7 @@
         "title": "全家埔里大坪頂店",
         "address": "南投縣埔里鎮西安路三段286號一樓",
         "post": "545",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder,Meatballs",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,Meatballs",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -62345,7 +62345,7 @@
       "type": "Feature",
       "properties": {
         "id": "019565",
-        "title": "全家中埔檨仔林",
+        "title": "全家中埔檨仔林店",
         "address": "嘉義縣中埔鄉社口村19鄰檨仔林23-2號",
         "post": "606",
         "all": null,
@@ -70537,7 +70537,7 @@
         "title": "全家重陽店",
         "address": "台北市南港區重陽路183,185號1樓",
         "post": "115",
-        "all": "SWEETPOTATO,Photo,WiFi,Rest,veg,Preorder,Meatballs,hada,CS",
+        "all": "SWEETPOTATO,Photo,WiFi,icecream,Rest,veg,oneice,Preorder,Meatballs,hada,CS",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -70686,10 +70686,10 @@
       "type": "Feature",
       "properties": {
         "id": "020287",
-        "title": "全家苑裡山腳店",
+        "title": "全家苑裡舊社店",
         "address": "苗栗縣苑裡鎮舊社里6鄰舊社83之8號",
         "post": "358",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -70860,7 +70860,7 @@
         "title": "全家宜蘭女中店",
         "address": "宜蘭縣宜蘭市中山路二段107號1樓",
         "post": "260",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -71107,7 +71107,7 @@
         "title": "全家烏日前竹店",
         "address": "台中市烏日區光明路46號",
         "post": "414",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -71145,7 +71145,7 @@
         "title": "全家高雄龍德店",
         "address": "高雄市鼓山區龍德路106巷3之1號",
         "post": "804",
-        "all": "LCoffee",
+        "all": "icecream,oneice,LCoffee",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -71278,7 +71278,7 @@
         "title": "全家台中輕井澤店",
         "address": "台中市南屯區黎明路二段706號1樓及2樓",
         "post": "408",
-        "all": "icecream,oneice,SCoffee,Meatballs,intl,costco,wash",
+        "all": "SCoffee,Meatballs,intl,costco,wash",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -71506,7 +71506,7 @@
         "title": "全家梧棲金自由店",
         "address": "台中市梧棲區中央路一段918-5號",
         "post": "435",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -71677,7 +71677,7 @@
         "title": "全家興萬店",
         "address": "台北市文山區萬安街29號一樓",
         "post": "116",
-        "all": null,
+        "all": "icecream,oneice,twoice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -71734,7 +71734,7 @@
         "title": "全家中和秀欣店",
         "address": "新北市中和區復興路267號1樓及地下室",
         "post": "235",
-        "all": null,
+        "all": "icecream,oneice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -71772,7 +71772,7 @@
         "title": "全家名間水頭店",
         "address": "南投縣名間鄉員集路151-13號",
         "post": "551",
-        "all": null,
+        "all": "icecream,oneice,twoice",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -71986,8 +71986,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.4695836,
-          23.9593617
+          120.469581604004,
+          23.9593620300293
         ],
         "type": "Point"
       },
