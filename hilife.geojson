@@ -20286,6 +20286,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4695",
+        "title": "觀音草漯店",
+        "address": "桃園市觀音區新生路１６２１號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1431373832881,
+          25.0438379526307
+        ],
+        "type": "Point"
+      },
+      "id": "4695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4696",
         "title": "永和開運店",
         "address": "新北市永和區永利路２５０號",
