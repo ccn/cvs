@@ -3710,25 +3710,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013676",
-        "title": "全家中壢農會店",
-        "address": "桃園市中壢區中山路97號1樓",
-        "post": "320",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,wash,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.225551,
-          24.955414
-        ],
-        "type": "Point"
-      },
-      "id": "013676"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013690",
         "title": "全家綠堤店",
         "address": "台北市萬華區環河南路二段173號",
@@ -30234,25 +30215,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "017215",
-        "title": "全家埔里新東興店",
-        "address": "南投縣埔里鎮中正路204號",
-        "post": "545",
-        "all": "WiFi,Toilet,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.97292,
-          23.959225
-        ],
-        "type": "Point"
-      },
-      "id": "017215"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "017217",
         "title": "全家高雄新海店",
         "address": "高雄市左營區海功路2號1樓",
@@ -34923,25 +34885,6 @@
         "type": "Point"
       },
       "id": "017581"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "017582",
-        "title": "全家永康永華店",
-        "address": "台南市永康區永大路二段1266號",
-        "post": "710",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,Preorder,SCoffee",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.261659,
-          23.021286
-        ],
-        "type": "Point"
-      },
-      "id": "017582"
     },
     {
       "type": "Feature",
@@ -72015,6 +71958,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020381",
+        "title": "全家埔里新東興店",
+        "address": "南投縣埔里鎮中正路204號",
+        "post": "545",
+        "all": "WiFi,Toilet,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.97292,
+          23.959225
+        ],
+        "type": "Point"
+      },
+      "id": "020381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020382",
         "title": "全家大東店",
         "address": "台北市士林區大東路63號1樓",
@@ -72186,6 +72148,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020392",
+        "title": "全家台中中清二店",
+        "address": "台中市北屯區中清路二段1068號",
+        "post": "406",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.661348,
+          24.190755
+        ],
+        "type": "Point"
+      },
+      "id": "020392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020394",
         "title": "全家土城香榭店",
         "address": "新北市土城區金城路三段10號1樓",
@@ -72220,6 +72201,25 @@
         "type": "Point"
       },
       "id": "020395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020396",
+        "title": "全家中壢農會店",
+        "address": "桃園市中壢區中山路97號1樓",
+        "post": "320",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,Preorder,wash,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.225551,
+          24.955414
+        ],
+        "type": "Point"
+      },
+      "id": "020396"
     },
     {
       "type": "Feature",
@@ -72334,6 +72334,25 @@
         "type": "Point"
       },
       "id": "020405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020408",
+        "title": "全家永康永華店",
+        "address": "台南市永康區永大路二段1266號",
+        "post": "710",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,COFFEEDeliver,Preorder,SCoffee",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.261659,
+          23.021286
+        ],
+        "type": "Point"
+      },
+      "id": "020408"
     },
     {
       "type": "Feature",
