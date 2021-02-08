@@ -42250,6 +42250,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "184014",
+        "title": "市正",
+        "address": "桃園市桃園區縣府路88之1號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.302646,
+          24.993794
+        ],
+        "type": "Point"
+      },
+      "id": "184014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "184036",
         "title": "善良",
         "address": "台南市善化區中正路385號1樓",
@@ -61184,6 +61201,40 @@
         "type": "Point"
       },
       "id": "202213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202268",
+        "title": "育英",
+        "address": "新竹市北區育英里15鄰四維路53號1樓.西門街212號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.961174,
+          24.800268
+        ],
+        "type": "Point"
+      },
+      "id": "202268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202279",
+        "title": "有魚",
+        "address": "屏東縣恆春鎮砂尾路16-65號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.740872,
+          21.951682
+        ],
+        "type": "Point"
+      },
+      "id": "202279"
     },
     {
       "type": "Feature",
