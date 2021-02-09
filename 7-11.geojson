@@ -2470,23 +2470,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "113311",
-        "title": "嘉西",
-        "address": "嘉義市西區大溪里北港路13鄰597號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.419195,
-          23.48529
-        ],
-        "type": "Point"
-      },
-      "id": "113311"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "113333",
         "title": "翁子",
         "address": "台中市豐原區豐勢路一段669號一樓",
@@ -68039,23 +68022,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "212173",
-        "title": "公崙",
-        "address": "新北市新店區安民街13號安民街3巷6弄12號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.515264,
-          24.964565
-        ],
-        "type": "Point"
-      },
-      "id": "212173"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "212195",
         "title": "康葫",
         "address": "台北市內湖區民權東路六段296巷33號",
@@ -73934,6 +73900,23 @@
         "type": "Point"
       },
       "id": "238315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238441",
+        "title": "嘉西",
+        "address": "嘉義市西區大溪里北港路13鄰597號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.419195,
+          23.48529
+        ],
+        "type": "Point"
+      },
+      "id": "238441"
     },
     {
       "type": "Feature",
