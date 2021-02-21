@@ -12840,23 +12840,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "131940",
-        "title": "友勤",
-        "address": "新北市樹林區大有路65號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.383459,
-          24.947562
-        ],
-        "type": "Point"
-      },
-      "id": "131940"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "131951",
         "title": "四德",
         "address": "台中市霧峰區四德里四德路525之2號",
@@ -35620,23 +35603,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "173955",
-        "title": "華國",
-        "address": "新竹市東區中華路一段107號109號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.993974,
-          24.816014
-        ],
-        "type": "Point"
-      },
-      "id": "173955"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "173977",
         "title": "小金",
         "address": "金門縣烈嶼鄉林湖村東林街156號",
@@ -45531,23 +45497,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "186630",
-        "title": "鎮陽",
-        "address": "高雄市前鎮區鎮陽里前鎮街278號280號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.308274,
-          22.592166
-        ],
-        "type": "Point"
-      },
-      "id": "186630"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "186652",
         "title": "新艋舺",
         "address": "台北市萬華區萬大路292號294號",
@@ -46649,23 +46598,6 @@
         "type": "Point"
       },
       "id": "187633"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "187655",
-        "title": "高峰",
-        "address": "新北市土城區中央路二段187號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.442112,
-          24.975735
-        ],
-        "type": "Point"
-      },
-      "id": "187655"
     },
     {
       "type": "Feature",
@@ -56877,8 +56809,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.2012,
+          23.025685
         ],
         "type": "Point"
       },
@@ -63619,6 +63551,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208303",
+        "title": "鳳儀",
+        "address": "高雄市鳳山區頂庄路209號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.360203,
+          22.588192
+        ],
+        "type": "Point"
+      },
+      "id": "208303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208314",
         "title": "恆好",
         "address": "屏東縣恆春鎮恆南路70-1號",
@@ -67740,8 +67689,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.774611,
+          24.770367
         ],
         "type": "Point"
       },
@@ -68199,8 +68148,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.466209,
+          25.032804
         ],
         "type": "Point"
       },
@@ -68267,8 +68216,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.491678,
+          24.996645
         ],
         "type": "Point"
       },
@@ -73394,6 +73343,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217259",
+        "title": "高峰",
+        "address": "新北市土城區中央路二段187號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.442112,
+          24.975735
+        ],
+        "type": "Point"
+      },
+      "id": "217259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217260",
         "title": "興觀",
         "address": "新北市板橋區大觀路二段37巷34號36號1樓",
@@ -73870,6 +73836,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238267",
+        "title": "鎮陽",
+        "address": "高雄市前鎮區鎮陽里前鎮街278號280號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.308274,
+          22.592166
+        ],
+        "type": "Point"
+      },
+      "id": "238267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238278",
         "title": "新壯觀",
         "address": "基隆市安樂區麥金路64號1樓",
@@ -73887,6 +73870,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238304",
+        "title": "華國",
+        "address": "新竹市東區中華路一段107號109號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.993974,
+          24.816014
+        ],
+        "type": "Point"
+      },
+      "id": "238304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238315",
         "title": "擎天",
         "address": "桃園市桃園區桃鶯路50號52號1樓",
@@ -73900,6 +73900,23 @@
         "type": "Point"
       },
       "id": "238315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238326",
+        "title": "友勤",
+        "address": "新北市樹林區大有路65號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.383459,
+          24.947562
+        ],
+        "type": "Point"
+      },
+      "id": "238326"
     },
     {
       "type": "Feature",
