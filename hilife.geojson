@@ -3150,23 +3150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2598",
-        "title": "新竹竹諺店",
-        "address": "新竹市北區中華路三段８８號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.961278813482,
-          24.796820068388
-        ],
-        "type": "Point"
-      },
-      "id": "2598"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "2602",
         "title": "苗縣苗苑店",
         "address": "苗栗縣苑裡鎮新復里９鄰新復１３２-１３號",
@@ -6941,23 +6924,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3279",
-        "title": "桃縣楊賀店",
-        "address": "桃園市楊梅區幼獅路二段１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.172536369592,
-          24.9302718906269
-        ],
-        "type": "Point"
-      },
-      "id": "3279"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3282",
         "title": "鳳山鳳育店",
         "address": "高雄市鳳山區鳳育路２號及和成路５１９－１號",
@@ -8450,23 +8416,6 @@
         "type": "Point"
       },
       "id": "3549"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3550",
-        "title": "北縣淡醫店",
-        "address": "新北市淡水區民權路４７號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.459871269581,
-          25.1395116110332
-        ],
-        "type": "Point"
-      },
-      "id": "3550"
     },
     {
       "type": "Feature",
@@ -9980,23 +9929,6 @@
         "type": "Point"
       },
       "id": "3779"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3782",
-        "title": "台中才益店",
-        "address": "台中市西區英才路５１０號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.6650795129953,
-          24.1514314062081
-        ],
-        "type": "Point"
-      },
-      "id": "3782"
     },
     {
       "type": "Feature",
@@ -16478,23 +16410,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4381",
-        "title": "北市安勝店",
-        "address": "台北市大安區大安路一段７７號B１(東區地下街)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5463954259339,
-          25.0417413854148
-        ],
-        "type": "Point"
-      },
-      "id": "4381"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4382",
         "title": "台中城愛店",
         "address": "台中市南屯區干城街２６７號",
@@ -16627,23 +16542,6 @@
         "type": "Point"
       },
       "id": "4392"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "4393",
-        "title": "東港東琉店",
-        "address": "屏東縣東港鎮朝安里朝隆路４３號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.444746,
-          22.468321
-        ],
-        "type": "Point"
-      },
-      "id": "4393"
     },
     {
       "type": "Feature",
@@ -21408,6 +21306,40 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4798",
+        "title": "玉井芒果店",
+        "address": "台南市玉井區中山路８２之１號&玉成段４９１、４９２、",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.462102490363,
+          23.1200090944717
+        ],
+        "type": "Point"
+      },
+      "id": "4798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4803",
+        "title": "大安台科大店",
+        "address": "台北市大安區基隆路四段４３號(第一學生宿舍１樓B區)",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5428400017512,
+          25.0130567891377
+        ],
+        "type": "Point"
+      },
+      "id": "4803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4804",
         "title": "三重國隆店",
         "address": "新北市三重區國隆路１９、２１、２３號",
@@ -21806,8 +21738,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.588330438398,
-          25.048919695948
+          121.5883062985169,
+          25.0489099761949
         ],
         "type": "Point"
       },
