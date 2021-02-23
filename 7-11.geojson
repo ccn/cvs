@@ -45293,23 +45293,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "186515",
-        "title": "新慶陽",
-        "address": "台北市大同區重慶北路二段60號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.5138,
-          25.055701
-        ],
-        "type": "Point"
-      },
-      "id": "186515"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "186526",
         "title": "行義",
         "address": "台北市北投區石牌路二段348巷1號3號1樓",
@@ -67971,6 +67954,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212173",
+        "title": "公崙",
+        "address": "新北市新店區安民街13號安民街3巷6弄12號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.515264,
+          24.964565
+        ],
+        "type": "Point"
+      },
+      "id": "212173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212195",
         "title": "康葫",
         "address": "台北市內湖區民權東路六段296巷33號",
@@ -73815,6 +73815,23 @@
         "type": "Point"
       },
       "id": "238201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238212",
+        "title": "新慶陽",
+        "address": "台北市大同區重慶北路二段60號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5138,
+          25.055701
+        ],
+        "type": "Point"
+      },
+      "id": "238212"
     },
     {
       "type": "Feature",
