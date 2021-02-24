@@ -33954,23 +33954,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "170657",
-        "title": "復安",
-        "address": "台北市松山區民生東路三段130巷2之1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54590638916899,
-          25.0565789692269
-        ],
-        "type": "Point"
-      },
-      "id": "170657"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170679",
         "title": "蘆三",
         "address": "新北市蘆洲區三民路6號8號",
@@ -51821,23 +51804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "194424",
-        "title": "長權",
-        "address": "高雄市前鎮區民權二路380號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.313825,
-          22.610721
-        ],
-        "type": "Point"
-      },
-      "id": "194424"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "194435",
         "title": "德厚",
         "address": "新北市汐止區福德二路189號1樓",
@@ -61035,6 +61001,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "201944",
+        "title": "復安",
+        "address": "台北市松山區民生東路三段130巷2之1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.54590638916899,
+          25.0565789692269
+        ],
+        "type": "Point"
+      },
+      "id": "201944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "202017",
         "title": "康福",
         "address": "台北市大安區永康街12之2號1樓",
@@ -61473,6 +61456,23 @@
         "type": "Point"
       },
       "id": "206569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206581",
+        "title": "上慶",
+        "address": "雲林縣斗六市漢口路190.192號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.540392,
+          23.71261
+        ],
+        "type": "Point"
+      },
+      "id": "206581"
     },
     {
       "type": "Feature",
@@ -63513,6 +63513,23 @@
         "type": "Point"
       },
       "id": "208266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208277",
+        "title": "仙隆",
+        "address": "屏東縣新園鄉仙吉路9-2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.459894,
+          22.538877
+        ],
+        "type": "Point"
+      },
+      "id": "208277"
     },
     {
       "type": "Feature",
@@ -67410,6 +67427,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211572",
+        "title": "新營",
+        "address": "台南市新營區復興路642號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.295679,
+          23.306143
+        ],
+        "type": "Point"
+      },
+      "id": "211572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211583",
         "title": "松站",
         "address": "台中市北屯區松竹路一段1386號1388號",
@@ -67950,23 +67984,6 @@
         "type": "Point"
       },
       "id": "212081"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "212173",
-        "title": "公崙",
-        "address": "新北市新店區安民街13號安民街3巷6弄12號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.515264,
-          24.964565
-        ],
-        "type": "Point"
-      },
-      "id": "212173"
     },
     {
       "type": "Feature",
@@ -73849,6 +73866,23 @@
         "type": "Point"
       },
       "id": "238245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238256",
+        "title": "長權",
+        "address": "高雄市前鎮區民權二路380號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.313825,
+          22.610721
+        ],
+        "type": "Point"
+      },
+      "id": "238256"
     },
     {
       "type": "Feature",
