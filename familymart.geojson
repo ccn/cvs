@@ -461,25 +461,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "011655",
-        "title": "全家樹林新中店",
-        "address": "新北市樹林區中山路三段107號及107-1號",
-        "post": "238",
-        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Preorder,SCoffee,Meatballs,kit,CS",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.399777,
-          24.974555
-        ],
-        "type": "Point"
-      },
-      "id": "011655"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "011685",
         "title": "全家宜蘭廣鑫店",
         "address": "宜蘭縣冬山鄉廣興路267號",
@@ -70856,25 +70837,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020309",
-        "title": "全家五結鑫利成店",
-        "address": "宜蘭縣五結鄉利成路一段5-1號",
-        "post": "268",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,SUNMAI,Preorder,costco,pet,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.828028,
-          24.648514
-        ],
-        "type": "Point"
-      },
-      "id": "020309"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020310",
         "title": "全家朴子牛挑灣店",
         "address": "嘉義縣朴子市梅華里10鄰牛挑灣65之1號",
@@ -71901,25 +71863,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020384",
-        "title": "全家新店德正店",
-        "address": "新北市新店區德正街27巷1號",
-        "post": "231",
-        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder,intl,wash",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.544504,
-          24.971471
-        ],
-        "type": "Point"
-      },
-      "id": "020384"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020385",
         "title": "全家宜蘭內城店",
         "address": "宜蘭縣員山鄉內城路455號1樓",
@@ -72300,6 +72243,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020417",
+        "title": "全家樹林新中店",
+        "address": "新北市樹林區中山路三段107號及107-1號",
+        "post": "238",
+        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Toilet,Rest,oneice,COFFEEDeliver,Preorder,SCoffee,Meatballs,kit,CS",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.399777,
+          24.974555
+        ],
+        "type": "Point"
+      },
+      "id": "020417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020418",
         "title": "全家土城虎躍店",
         "address": "新北市土城區自由街2號1樓",
@@ -72471,6 +72433,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020441",
+        "title": "全家新店德正店",
+        "address": "新北市新店區德正街27巷1號",
+        "post": "231",
+        "all": "SWEETPOTATO,WiFi,icecream,Toilet,Rest,oneice,twoice,Preorder,intl,wash",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.544504,
+          24.971471
+        ],
+        "type": "Point"
+      },
+      "id": "020441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020446",
         "title": "全家仁德太乙店",
         "address": "台南市仁德區土庫路54號",
@@ -72486,6 +72467,25 @@
         "type": "Point"
       },
       "id": "020446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020450",
+        "title": "全家五結鑫利成店",
+        "address": "宜蘭縣五結鄉利成路一段5-1號",
+        "post": "268",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,SUNMAI,Preorder,costco,pet,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.828028,
+          24.648514
+        ],
+        "type": "Point"
+      },
+      "id": "020450"
     }
   ]
 }
