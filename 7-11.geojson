@@ -67580,6 +67580,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211697",
+        "title": "朴子",
+        "address": "嘉義縣朴子市中興路139號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.242987,
+          23.45957
+        ],
+        "type": "Point"
+      },
+      "id": "211697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211712",
         "title": "永燕",
         "address": "台南市永康區中山南路518號",
@@ -67899,6 +67916,23 @@
         "type": "Point"
       },
       "id": "211963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212025",
+        "title": "美河",
+        "address": "新北市新店區三民路35巷2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.537323,
+          24.970566
+        ],
+        "type": "Point"
+      },
+      "id": "212025"
     },
     {
       "type": "Feature",
