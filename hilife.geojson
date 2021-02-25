@@ -6465,23 +6465,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3158",
-        "title": "南投投興店",
-        "address": "南投縣南投市光華十路６-１號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.693207915307,
-          23.9494612974452
-        ],
-        "type": "Point"
-      },
-      "id": "3158"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3160",
         "title": "中縣中秋店",
         "address": "台中市大肚區自由路２１２-９號",
@@ -15443,7 +15426,7 @@
       "properties": {
         "id": "4309",
         "title": "台中路思義店",
-        "address": "台中市西屯區台灣大道四段１７２７號",
+        "address": "台中市西屯區臺灣大道四段１７２７號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -20082,23 +20065,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4685",
-        "title": "龜山新路店",
-        "address": "桃園市龜山區中興路３０２號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.3344100216875,
-          24.9909042354418
-        ],
-        "type": "Point"
-      },
-      "id": "4685"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "4688",
         "title": "竹北中正西店",
         "address": "新竹縣竹北市中正西路２１３號",
@@ -20452,6 +20418,23 @@
         "type": "Point"
       },
       "id": "4718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4719",
+        "title": "屏東水源店",
+        "address": "屏東縣屏東市林森路東段１００號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.5049617462778,
+          22.6695618109978
+        ],
+        "type": "Point"
+      },
+      "id": "4719"
     },
     {
       "type": "Feature",
@@ -21472,6 +21455,23 @@
         "type": "Point"
       },
       "id": "4829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4830",
+        "title": "大里永隆店",
+        "address": "台中市大里區永隆路３０號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6777205349559,
+          24.1047059526686
+        ],
+        "type": "Point"
+      },
+      "id": "4830"
     },
     {
       "type": "Feature",
