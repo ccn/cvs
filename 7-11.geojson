@@ -9576,23 +9576,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127468",
-        "title": "博勝",
-        "address": "屏東縣屏東市博愛路263號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.48093,
-          22.679339
-        ],
-        "type": "Point"
-      },
-      "id": "127468"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127505",
         "title": "福湖",
         "address": "台北市內湖區內湖路一段411巷17號19弄1號",
@@ -30758,23 +30741,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "165806",
-        "title": "財高",
-        "address": "基隆市中正區新豐街381號383號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.785690569904,
-          25.135290239105398
-        ],
-        "type": "Point"
-      },
-      "id": "165806"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "165817",
         "title": "九德",
         "address": "台中市烏日區九德村中華路43.45.47號1樓",
@@ -39394,23 +39360,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181369",
-        "title": "華碩",
-        "address": "台北市北投區立德路15號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.471453,
-          25.124844
-        ],
-        "type": "Point"
-      },
-      "id": "181369"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "181381",
         "title": "大立光",
         "address": "台中市南屯區精科路13號4樓",
@@ -45459,23 +45408,6 @@
         "type": "Point"
       },
       "id": "186629"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "186652",
-        "title": "新艋舺",
-        "address": "台北市萬華區萬大路292號294號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.500273,
-          25.025253
-        ],
-        "type": "Point"
-      },
-      "id": "186652"
     },
     {
       "type": "Feature",
@@ -55952,23 +55884,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "197629",
-        "title": "金美",
-        "address": "新北市金山區中山路143號145號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.6389,
-          25.220131
-        ],
-        "type": "Point"
-      },
-      "id": "197629"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197630",
         "title": "福德三",
         "address": "新北市新莊區福德三街70號72號1樓",
@@ -61014,6 +60929,23 @@
         "type": "Point"
       },
       "id": "201944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201966",
+        "title": "金美",
+        "address": "新北市金山區中山路143號145號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6389,
+          25.220131
+        ],
+        "type": "Point"
+      },
+      "id": "201966"
     },
     {
       "type": "Feature",
@@ -67019,6 +66951,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211103",
+        "title": "社旺",
+        "address": "高雄市大社區大社路30-29號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.34718,
+          22.733129
+        ],
+        "type": "Point"
+      },
+      "id": "211103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211114",
         "title": "觀月",
         "address": "高雄市田寮區月球路34-6號",
@@ -69701,23 +69650,6 @@
         "type": "Point"
       },
       "id": "214456"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "214467",
-        "title": "市民",
-        "address": "台中市西區公益路157號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.662807,
-          24.150724
-        ],
-        "type": "Point"
-      },
-      "id": "214467"
     },
     {
       "type": "Feature",
@@ -74006,6 +73938,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238430",
+        "title": "市民",
+        "address": "台中市西區公益路157號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.662807,
+          24.150724
+        ],
+        "type": "Point"
+      },
+      "id": "238430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238441",
         "title": "嘉西",
         "address": "嘉義市西區大溪里北港路13鄰597號",
@@ -74019,6 +73968,40 @@
         "type": "Point"
       },
       "id": "238441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238463",
+        "title": "新艋舺",
+        "address": "台北市萬華區萬大路292號294號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.500273,
+          25.025253
+        ],
+        "type": "Point"
+      },
+      "id": "238463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238474",
+        "title": "博勝",
+        "address": "屏東縣屏東市博愛路263號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.48093,
+          22.679339
+        ],
+        "type": "Point"
+      },
+      "id": "238474"
     },
     {
       "type": "Feature",
