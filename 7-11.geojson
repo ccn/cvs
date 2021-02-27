@@ -10137,23 +10137,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "128542",
-        "title": "中興",
-        "address": "台北市信義區基隆路二段22號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.558791,
-          25.031971
-        ],
-        "type": "Point"
-      },
-      "id": "128542"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "128553",
         "title": "甘肅",
         "address": "台中市西屯區甘肅路二段22號",
@@ -13992,23 +13975,6 @@
         "type": "Point"
       },
       "id": "135104"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "135229",
-        "title": "漢神",
-        "address": "台北市文山區景中街45號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.544101,
-          24.992714
-        ],
-        "type": "Point"
-      },
-      "id": "135229"
     },
     {
       "type": "Feature",
@@ -26844,23 +26810,6 @@
         "type": "Point"
       },
       "id": "159281"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "159292",
-        "title": "達人",
-        "address": "台北市內湖區內湖路二段249號251號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.589663,
-          25.082
-        ],
-        "type": "Point"
-      },
-      "id": "159292"
     },
     {
       "type": "Feature",
@@ -40601,23 +40550,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182650",
-        "title": "廟東",
-        "address": "高雄市左營區左營大路340號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.292141,
-          22.686568
-        ],
-        "type": "Point"
-      },
-      "id": "182650"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182694",
         "title": "苗龍",
         "address": "苗栗縣後龍鎮造豐路333號",
@@ -40988,23 +40920,6 @@
         "type": "Point"
       },
       "id": "182993"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "183011",
-        "title": "京城",
-        "address": "台北市松山區南京東路四段75之2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.553565,
-          25.051819
-        ],
-        "type": "Point"
-      },
-      "id": "183011"
     },
     {
       "type": "Feature",
@@ -44133,23 +44048,6 @@
         "type": "Point"
       },
       "id": "185659"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185660",
-        "title": "新球庭",
-        "address": "高雄市新興區林森一路162號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.304705,
-          22.630147
-        ],
-        "type": "Point"
-      },
-      "id": "185660"
     },
     {
       "type": "Feature",
@@ -48829,23 +48727,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "189994",
-        "title": "新創",
-        "address": "高雄市楠梓區創新路1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.32328,
-          22.739624
-        ],
-        "type": "Point"
-      },
-      "id": "189994"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "190008",
         "title": "淡水",
         "address": "新北市淡水區中正東路3號",
@@ -53211,23 +53092,6 @@
         "type": "Point"
       },
       "id": "195508"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "195519",
-        "title": "東湖",
-        "address": "台北市內湖區五分街62號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.615814,
-          25.067211
-        ],
-        "type": "Point"
-      },
-      "id": "195519"
     },
     {
       "type": "Feature",
@@ -60929,6 +60793,23 @@
         "type": "Point"
       },
       "id": "201944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201955",
+        "title": "達人",
+        "address": "台北市內湖區內湖路二段249號251號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.589663,
+          25.082
+        ],
+        "type": "Point"
+      },
+      "id": "201955"
     },
     {
       "type": "Feature",
@@ -68838,23 +68719,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "213936",
-        "title": "合維",
-        "address": "台北市大安區四維路170巷8號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.54762538947301,
-          25.0281958700811
-        ],
-        "type": "Point"
-      },
-      "id": "213936"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "213947",
         "title": "南投",
         "address": "南投縣南投市民族路289號291號293號",
@@ -72884,6 +72748,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216935",
+        "title": "東湖",
+        "address": "台北市內湖區五分街62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.615814,
+          25.067211
+        ],
+        "type": "Point"
+      },
+      "id": "216935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216946",
         "title": "屏鵝",
         "address": "屏東縣恆春鎮恆南路6-6號",
@@ -73887,6 +73768,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238289",
+        "title": "中興",
+        "address": "台北市信義區基隆路二段22號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.558791,
+          25.031971
+        ],
+        "type": "Point"
+      },
+      "id": "238289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238304",
         "title": "華國",
         "address": "新竹市東區中華路一段107號109號",
@@ -73938,6 +73836,57 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238337",
+        "title": "京城",
+        "address": "台北市松山區南京東路四段75之2號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.553565,
+          25.051819
+        ],
+        "type": "Point"
+      },
+      "id": "238337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238407",
+        "title": "廟東",
+        "address": "高雄市左營區左營大路340號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.292141,
+          22.686568
+        ],
+        "type": "Point"
+      },
+      "id": "238407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238418",
+        "title": "漢神",
+        "address": "台北市文山區景中街45號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.544101,
+          24.992714
+        ],
+        "type": "Point"
+      },
+      "id": "238418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238430",
         "title": "市民",
         "address": "台中市西區公益路157號",
@@ -73972,6 +73921,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238452",
+        "title": "新球庭",
+        "address": "高雄市新興區林森一路162號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.304705,
+          22.630147
+        ],
+        "type": "Point"
+      },
+      "id": "238452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238463",
         "title": "新艋舺",
         "address": "台北市萬華區萬大路292號294號",
@@ -74002,6 +73968,40 @@
         "type": "Point"
       },
       "id": "238474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238485",
+        "title": "昭勝",
+        "address": "屏東縣內埔鄉龍潭村昭勝路216號218號220號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.60065,
+          22.673166
+        ],
+        "type": "Point"
+      },
+      "id": "238485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238533",
+        "title": "合維",
+        "address": "台北市大安區四維路170巷8號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.54762538947301,
+          25.0281958700811
+        ],
+        "type": "Point"
+      },
+      "id": "238533"
     },
     {
       "type": "Feature",
@@ -98142,23 +98142,6 @@
         "type": "Point"
       },
       "id": "975788"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "975825",
-        "title": "昭勝",
-        "address": "屏東縣內埔鄉龍潭村昭勝路216號218號220號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.60065,
-          22.673166
-        ],
-        "type": "Point"
-      },
-      "id": "975825"
     },
     {
       "type": "Feature",
