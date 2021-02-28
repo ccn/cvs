@@ -55833,23 +55833,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "197722",
-        "title": "建六",
-        "address": "新北市中和區建六路62號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.486109,
-          25.002031
-        ],
-        "type": "Point"
-      },
-      "id": "197722"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197733",
         "title": "鑫國泰",
         "address": "台北市信義區忠孝東路五段68號24樓",
@@ -73883,6 +73866,23 @@
         "type": "Point"
       },
       "id": "238418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238429",
+        "title": "建六",
+        "address": "新北市中和區建六路62號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.486109,
+          25.002031
+        ],
+        "type": "Point"
+      },
+      "id": "238429"
     },
     {
       "type": "Feature",
