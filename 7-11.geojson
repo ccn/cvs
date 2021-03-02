@@ -47044,23 +47044,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "188223",
-        "title": "文聖",
-        "address": "新北市板橋區文聖街64號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.476899,
-          25.030688
-        ],
-        "type": "Point"
-      },
-      "id": "188223"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "188234",
         "title": "念楨",
         "address": "屏東縣內埔鄉黎明村黎東路221號1樓",
@@ -74002,6 +73985,23 @@
         "type": "Point"
       },
       "id": "238533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238658",
+        "title": "文聖",
+        "address": "新北市板橋區文聖街64號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.476899,
+          25.030688
+        ],
+        "type": "Point"
+      },
+      "id": "238658"
     },
     {
       "type": "Feature",
