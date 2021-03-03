@@ -37303,23 +37303,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "179702",
-        "title": "新天際",
-        "address": "新北市蘆洲區三民路575號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.462009,
-          25.092476
-        ],
-        "type": "Point"
-      },
-      "id": "179702"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "179724",
         "title": "正原",
         "address": "新北市中和區中山路二段530號1樓",
@@ -63483,6 +63466,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208392",
+        "title": "龍陽",
+        "address": "苗栗縣頭份市光華北路150號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208428",
         "title": "勝堉",
         "address": "台南市東區育樂街1號",
@@ -69769,6 +69769,23 @@
         "type": "Point"
       },
       "id": "214630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214641",
+        "title": "新天際",
+        "address": "新北市蘆洲區三民路575號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.462009,
+          25.092476
+        ],
+        "type": "Point"
+      },
+      "id": "214641"
     },
     {
       "type": "Feature",
