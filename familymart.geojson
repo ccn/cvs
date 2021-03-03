@@ -1772,25 +1772,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "013066",
-        "title": "全家五股凌雲店",
-        "address": "新北市五股區凌雲路一段81號",
-        "post": "248",
-        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.450814,
-          25.101243
-        ],
-        "type": "Point"
-      },
-      "id": "013066"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "013071",
         "title": "全家高雄覺禮店",
         "address": "高雄市三民區覺民路38號",
@@ -8361,25 +8342,6 @@
         "type": "Point"
       },
       "id": "014903"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "014905",
-        "title": "全家康定店",
-        "address": "台北市萬華區康定路73號",
-        "post": "108",
-        "all": "SWEETPOTATO,WiFi,Rest,SUNMAI,Preorder,SCoffee,CS",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.502188,
-          25.040745
-        ],
-        "type": "Point"
-      },
-      "id": "014905"
     },
     {
       "type": "Feature",
@@ -71198,25 +71160,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020366",
-        "title": "全家八里船頭店",
-        "address": "新北市八里區渡船頭街1號",
-        "post": "249",
-        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder,kit,CS",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.434318,
-          25.158378
-        ],
-        "type": "Point"
-      },
-      "id": "020366"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020367",
         "title": "全家基隆東信店",
         "address": "基隆市信義區東信路5號",
@@ -72281,6 +72224,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020437",
+        "title": "全家五股凌雲店",
+        "address": "新北市五股區凌雲路一段81號",
+        "post": "248",
+        "all": "SWEETPOTATO,WiFi,Rest,Preorder",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.450814,
+          25.101243
+        ],
+        "type": "Point"
+      },
+      "id": "020437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020438",
         "title": "全家松平店",
         "address": "台北市中山區四平街47號",
@@ -72296,25 +72258,6 @@
         "type": "Point"
       },
       "id": "020438"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "020439",
-        "title": "全家新實店",
-        "address": "臺北市北投區實踐街51號1樓",
-        "post": "112",
-        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,Preorder,hada",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.509529,
-          25.115327
-        ],
-        "type": "Point"
-      },
-      "id": "020439"
     },
     {
       "type": "Feature",
@@ -72471,6 +72414,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020453",
+        "title": "全家新實店",
+        "address": "臺北市北投區實踐街51號1樓",
+        "post": "112",
+        "all": "SWEETPOTATO,Smoothie,WiFi,icecream,Rest,oneice,twoice,Preorder,hada",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.509529,
+          25.115327
+        ],
+        "type": "Point"
+      },
+      "id": "020453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020454",
         "title": "全家新店德安店",
         "address": "新北市新店區安康路二段303號",
@@ -72486,6 +72448,44 @@
         "type": "Point"
       },
       "id": "020454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020456",
+        "title": "全家八里船頭店",
+        "address": "新北市八里區渡船頭街1號",
+        "post": "249",
+        "all": "SWEETPOTATO,WiFi,icecream,Rest,oneice,Preorder,kit,CS",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.434318,
+          25.158378
+        ],
+        "type": "Point"
+      },
+      "id": "020456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020461",
+        "title": "全家康定店",
+        "address": "台北市萬華區康定路73號",
+        "post": "108",
+        "all": "SWEETPOTATO,WiFi,Rest,SUNMAI,Preorder,SCoffee,CS",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.502188,
+          25.040745
+        ],
+        "type": "Point"
+      },
+      "id": "020461"
     },
     {
       "type": "Feature",
