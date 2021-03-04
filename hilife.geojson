@@ -9610,6 +9610,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3750",
+        "title": "北市湖鑽店",
+        "address": "台北市內湖區瑞光路５０２號１樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.567715882363,
+          25.078901856759
+        ],
+        "type": "Point"
+      },
+      "id": "3750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "3751",
         "title": "北縣真理店",
         "address": "新北市淡水區真理街３２號",
@@ -21789,8 +21806,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.504451742467,
-          24.9839390079523
+          121.5045161154834,
+          24.9839074020288
         ],
         "type": "Point"
       },
