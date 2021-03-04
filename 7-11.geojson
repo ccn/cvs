@@ -28871,23 +28871,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "164353",
-        "title": "德力",
-        "address": "桃園市八德區大福里介壽路一段134號136號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.302268,
-          24.9753
-        ],
-        "type": "Point"
-      },
-      "id": "164353"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "164375",
         "title": "忠華",
         "address": "新北市土城區中華路一段185號187號1樓",
@@ -63473,8 +63456,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.888207,
+          24.69818
         ],
         "type": "Point"
       },
@@ -73679,6 +73662,23 @@
         "type": "Point"
       },
       "id": "238212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238223",
+        "title": "德力",
+        "address": "桃園市八德區大福里介壽路一段134號136號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.302268,
+          24.9753
+        ],
+        "type": "Point"
+      },
+      "id": "238223"
     },
     {
       "type": "Feature",
