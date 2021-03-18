@@ -26661,23 +26661,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "159236",
-        "title": "林北",
-        "address": "台北市中山區民生東路一段46號46-1號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.524673,
-          25.057908
-        ],
-        "type": "Point"
-      },
-      "id": "159236"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "159247",
         "title": "松興",
         "address": "高雄市小港區松山里高鳳路34-3,34-4,34-5,34-6號",
@@ -67648,6 +67631,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212014",
+        "title": "蓮馨",
+        "address": "高雄市阿蓮區和平路136號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.332422,
+          22.882291
+        ],
+        "type": "Point"
+      },
+      "id": "212014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212025",
         "title": "美河",
         "address": "新北市新店區三民路35巷2號",
@@ -74274,6 +74274,40 @@
         "type": "Point"
       },
       "id": "238670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238681",
+        "title": "林北",
+        "address": "台北市中山區民生東路一段46號46-1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.524673,
+          25.057908
+        ],
+        "type": "Point"
+      },
+      "id": "238681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238728",
+        "title": "文華",
+        "address": "台中市西屯區寧夏路232號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.660237,
+          24.169065
+        ],
+        "type": "Point"
+      },
+      "id": "238728"
     },
     {
       "type": "Feature",
@@ -98754,23 +98788,6 @@
         "type": "Point"
       },
       "id": "977164"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "977201",
-        "title": "文華",
-        "address": "台中市西屯區寧夏路232號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.660237,
-          24.169065
-        ],
-        "type": "Point"
-      },
-      "id": "977201"
     },
     {
       "type": "Feature",
