@@ -27596,23 +27596,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "162117",
-        "title": "文昌",
-        "address": "高雄市新興區六合路117號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.315994,
-          22.631915
-        ],
-        "type": "Point"
-      },
-      "id": "162117"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "162162",
         "title": "忠柯",
         "address": "新北市林口區忠孝路642號",
@@ -35610,8 +35593,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.974746,
+          24.817732
         ],
         "type": "Point"
       },
@@ -69457,8 +69440,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.687775,
+          25.176091
         ],
         "type": "Point"
       },
@@ -73632,6 +73615,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217536",
+        "title": "文昌",
+        "address": "高雄市新興區六合路117號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.315994,
+          22.631915
+        ],
+        "type": "Point"
+      },
+      "id": "217536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "227636",
         "title": "國匯",
         "address": "桃園市桃園區經國路801號",
@@ -73707,8 +73707,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.652149,
+          24.383332
         ],
         "type": "Point"
       },
@@ -73724,8 +73724,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.299787,
+          25.022898
         ],
         "type": "Point"
       },
@@ -73758,8 +73758,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.460461,
+          25.139527
         ],
         "type": "Point"
       },
@@ -88990,8 +88990,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.532005,
+          22.964029
         ],
         "type": "Point"
       },
