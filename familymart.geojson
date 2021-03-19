@@ -67037,25 +67037,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "020124",
-        "title": "全家蘆竹山腳店",
-        "address": "桃園市蘆竹區南山路三段278號1樓(前段)",
-        "post": "338",
-        "all": "SWEETPOTATO,WiFi,Toilet,Rest,SUNMAI,Preorder,Meatballs,kit",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.28626,
-          25.084752
-        ],
-        "type": "Point"
-      },
-      "id": "020124"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "020125",
         "title": "全家高雄南衙店",
         "address": "高雄市前鎮區草衙二路337號",
@@ -72395,6 +72376,25 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "020457",
+        "title": "全家蘆竹山腳店",
+        "address": "桃園市蘆竹區南山路三段278號1樓(前段)",
+        "post": "338",
+        "all": "SWEETPOTATO,WiFi,Toilet,Rest,SUNMAI,Preorder,Meatballs,kit",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.28626,
+          25.084752
+        ],
+        "type": "Point"
+      },
+      "id": "020457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "020461",
         "title": "全家康定店",
         "address": "台北市萬華區康定路73號",
@@ -72505,6 +72505,25 @@
         "type": "Point"
       },
       "id": "020474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020477",
+        "title": "全家中壢環福店",
+        "address": "桃園市中壢區環中東路二段314號1樓及夾層",
+        "post": "320",
+        "all": null,
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.235139,
+          24.948324
+        ],
+        "type": "Point"
+      },
+      "id": "020477"
     },
     {
       "type": "Feature",
