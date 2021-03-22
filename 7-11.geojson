@@ -35282,13 +35282,13 @@
       "properties": {
         "id": "173896",
         "title": "頭寮",
-        "address": "桃園市大溪區復興路一段906號",
+        "address": "桃園市大溪區復興路一段902之1及906號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.284828,
-          24.848079
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -43742,23 +43742,6 @@
         "type": "Point"
       },
       "id": "185534"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185545",
-        "title": "芳榮",
-        "address": "新北市三峽區中正路二段536號538號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.360748,
-          24.906609
-        ],
-        "type": "Point"
-      },
-      "id": "185545"
     },
     {
       "type": "Feature",
@@ -53194,23 +53177,6 @@
         "type": "Point"
       },
       "id": "195852"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "195863",
-        "title": "華榮",
-        "address": "高雄市鼓山區明倫路149號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.298231,
-          22.664406
-        ],
-        "type": "Point"
-      },
-      "id": "195863"
     },
     {
       "type": "Feature",
@@ -64078,23 +64044,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "209007",
-        "title": "捷安特",
-        "address": "台中市西屯區東大路一段999號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.611389,
-          24.209444
-        ],
-        "type": "Point"
-      },
-      "id": "209007"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "209018",
         "title": "農科",
         "address": "屏東縣長治鄉德和村農科路23號1樓",
@@ -66726,6 +66675,23 @@
         "type": "Point"
       },
       "id": "211125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "211136",
+        "title": "霧台",
+        "address": "屏東縣霧台鄉神山巷15號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.727666,
+          22.750826
+        ],
+        "type": "Point"
+      },
+      "id": "211136"
     },
     {
       "type": "Feature",
@@ -73666,6 +73632,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "227670",
+        "title": "吉孝",
+        "address": "台北市大安區忠孝東路四段299號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.555337,
+          25.041598
+        ],
+        "type": "Point"
+      },
+      "id": "227670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "227728",
         "title": "臺醫東",
         "address": "台北市中正區中山南路7號1樓",
@@ -74246,13 +74229,13 @@
       "properties": {
         "id": "238658",
         "title": "文聖",
-        "address": "新北市板橋區文聖街64號",
+        "address": "新北市板橋區文聖街64號1樓.松柏街96號1樓",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.476899,
-          25.030688
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -74295,6 +74278,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238706",
+        "title": "芳榮",
+        "address": "新北市三峽區中正路二段536號538號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.360748,
+          24.906609
+        ],
+        "type": "Point"
+      },
+      "id": "238706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238728",
         "title": "文華",
         "address": "台中市西屯區寧夏路232號",
@@ -74308,6 +74308,23 @@
         "type": "Point"
       },
       "id": "238728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238773",
+        "title": "華榮",
+        "address": "高雄市鼓山區明倫路149號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.298231,
+          22.664406
+        ],
+        "type": "Point"
+      },
+      "id": "238773"
     },
     {
       "type": "Feature",
