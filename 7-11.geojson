@@ -19844,23 +19844,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "144669",
-        "title": "德鄰",
-        "address": "台北市信義區松德路127號129號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.575297409907,
-          25.0375209021823
-        ],
-        "type": "Point"
-      },
-      "id": "144669"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "144670",
         "title": "華新一",
         "address": "基隆市七堵區華新一路22號26號1樓",
@@ -44205,23 +44188,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "185969",
-        "title": "親親",
-        "address": "台中市北區錦洲里北屯路14號.14-2號.14-3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.692056,
-          24.160399
-        ],
-        "type": "Point"
-      },
-      "id": "185969"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "185981",
         "title": "新楊埔",
         "address": "桃園市楊梅區中興路47號1樓新興街66號1樓",
@@ -52378,23 +52344,6 @@
         "type": "Point"
       },
       "id": "195221"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "195232",
-        "title": "內厝五",
-        "address": "桃園市大園區中興路二段359巷9弄3號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.2337,
-          25.014291
-        ],
-        "type": "Point"
-      },
-      "id": "195232"
     },
     {
       "type": "Feature",
@@ -65744,6 +65693,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210317",
+        "title": "永高",
+        "address": "台南市永康區鹽興里中正北路185號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "210317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210340",
         "title": "明安",
         "address": "台南市安南區工業二路166號",
@@ -67801,6 +67767,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212302",
+        "title": "春安",
+        "address": "台中市南屯區嶺東南路165號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.610131,
+          24.135463
+        ],
+        "type": "Point"
+      },
+      "id": "212302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212335",
         "title": "京采",
         "address": "桃園市桃園區延平路289號1樓",
@@ -67882,6 +67865,23 @@
         "type": "Point"
       },
       "id": "212391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212450",
+        "title": "中捷",
+        "address": "台中市烏日區高鐵東一路28號2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "212450"
     },
     {
       "type": "Feature",
@@ -73921,6 +73921,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238290",
+        "title": "內厝五",
+        "address": "桃園市大園區中興路二段359巷9弄3號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2337,
+          25.014291
+        ],
+        "type": "Point"
+      },
+      "id": "238290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238304",
         "title": "華國",
         "address": "新竹市東區中華路一段107號109號",
@@ -73985,6 +74002,23 @@
         "type": "Point"
       },
       "id": "238337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238360",
+        "title": "德鄰",
+        "address": "台北市信義區松德路127號129號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.575297409907,
+          25.0375209021823
+        ],
+        "type": "Point"
+      },
+      "id": "238360"
     },
     {
       "type": "Feature",
@@ -74291,6 +74325,23 @@
         "type": "Point"
       },
       "id": "238706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238717",
+        "title": "親親",
+        "address": "台中市北區錦洲里北屯路14號.14-2號.14-3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.692056,
+          24.160399
+        ],
+        "type": "Point"
+      },
+      "id": "238717"
     },
     {
       "type": "Feature",
