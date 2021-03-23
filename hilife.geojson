@@ -1984,8 +1984,8 @@
       },
       "geometry": {
         "coordinates": [
-          121.3339463074749,
-          24.9909067526681
+          121.333837809136,
+          24.9907827671793
         ],
         "type": "Point"
       },
@@ -21557,6 +21557,23 @@
         "type": "Point"
       },
       "id": "4839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4846",
+        "title": "三民千禧店",
+        "address": "高雄市三民區民族一路９００號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.3200084499462,
+          22.66923665696
+        ],
+        "type": "Point"
+      },
+      "id": "4846"
     },
     {
       "type": "Feature",
