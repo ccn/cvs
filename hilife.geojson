@@ -20752,7 +20752,7 @@
       },
       "geometry": {
         "coordinates": [
-          121.227697894713,
+          121.227700576922,
           24.847692210086
         ],
         "type": "Point"
@@ -21387,6 +21387,23 @@
         "type": "Point"
       },
       "id": "4813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4819",
+        "title": "五股凌雲店",
+        "address": "新北市五股區凌雲路三段４６號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.4310036850932,
+          25.1087429440264
+        ],
+        "type": "Point"
+      },
+      "id": "4819"
     },
     {
       "type": "Feature",
