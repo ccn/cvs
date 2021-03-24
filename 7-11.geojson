@@ -74380,6 +74380,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238821",
+        "title": "天健",
+        "address": "高雄市新興區中山一路279號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.30204,
+          22.635646
+        ],
+        "type": "Point"
+      },
+      "id": "238821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "780399",
         "title": "中港",
         "address": "新北市新莊區中港路133號",
@@ -92464,23 +92481,6 @@
         "type": "Point"
       },
       "id": "956341"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "956400",
-        "title": "天健",
-        "address": "高雄市新興區中山一路279號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.30204,
-          22.635646
-        ],
-        "type": "Point"
-      },
-      "id": "956400"
     },
     {
       "type": "Feature",
