@@ -9559,23 +9559,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "127516",
-        "title": "經貿",
-        "address": "台北市南港區三重路19號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.61380343871001,
-          25.056118966438
-        ],
-        "type": "Point"
-      },
-      "id": "127516"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "127538",
         "title": "國泰",
         "address": "南投縣草屯鎮中正路636號1樓及和興街93號1樓",
@@ -21629,23 +21612,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149549",
-        "title": "德東",
-        "address": "台北市士林區德行東路262號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.534693,
-          25.109746
-        ],
-        "type": "Point"
-      },
-      "id": "149549"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "149550",
         "title": "永華東",
         "address": "台南市安平區永華路二段210號",
@@ -32335,6 +32301,23 @@
         "type": "Point"
       },
       "id": "167525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "167536",
+        "title": "尚國",
+        "address": "桃園市桃園區國強一街218號220號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "167536"
     },
     {
       "type": "Feature",
@@ -74210,6 +74193,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238511",
+        "title": "德東",
+        "address": "台北市士林區德行東路262號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.534693,
+          25.109746
+        ],
+        "type": "Point"
+      },
+      "id": "238511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238533",
         "title": "合維",
         "address": "台北市大安區四維路170巷8號1樓",
@@ -74274,6 +74274,23 @@
         "type": "Point"
       },
       "id": "238658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238669",
+        "title": "經貿",
+        "address": "台北市南港區三重路19號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.61380343871001,
+          25.056118966438
+        ],
+        "type": "Point"
+      },
+      "id": "238669"
     },
     {
       "type": "Feature",
