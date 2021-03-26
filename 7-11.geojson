@@ -362,23 +362,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "110426",
-        "title": "資砡",
-        "address": "嘉義市西區港坪里玉山路422號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.418522,
-          23.47048
-        ],
-        "type": "Point"
-      },
-      "id": "110426"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "110459",
         "title": "員昌",
         "address": "彰化縣員林市黎明里12鄰南昌路70號72號1樓",
@@ -1042,23 +1025,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "111500",
-        "title": "嘉府",
-        "address": "嘉義市東區民權路194號196號198號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.455146,
-          23.483269
-        ],
-        "type": "Point"
-      },
-      "id": "111500"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "111511",
         "title": "翁聚德",
         "address": "嘉義縣中埔鄉和睦村司公部4-20號1樓",
@@ -1089,23 +1055,6 @@
         "type": "Point"
       },
       "id": "111522"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "111533",
-        "title": "嘉和",
-        "address": "嘉義市東區中山路169號171號173號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.455862,
-          23.481663
-        ],
-        "type": "Point"
-      },
-      "id": "111533"
     },
     {
       "type": "Feature",
@@ -1225,23 +1174,6 @@
         "type": "Point"
       },
       "id": "111739"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "111751",
-        "title": "嘉國",
-        "address": "嘉義市東區民族路102號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.459185,
-          23.477048
-        ],
-        "type": "Point"
-      },
-      "id": "111751"
     },
     {
       "type": "Feature",
@@ -1820,23 +1752,6 @@
         "type": "Point"
       },
       "id": "112466"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "112503",
-        "title": "嘉雅",
-        "address": "嘉義市東區大雅路二段421號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.473458,
-          23.47749
-        ],
-        "type": "Point"
-      },
-      "id": "112503"
     },
     {
       "type": "Feature",
@@ -3758,23 +3673,6 @@
         "type": "Point"
       },
       "id": "116206"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "116262",
-        "title": "精城",
-        "address": "嘉義市東區圳頭里林森東路720號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.477152,
-          23.492306
-        ],
-        "type": "Point"
-      },
-      "id": "116262"
     },
     {
       "type": "Feature",
@@ -10800,23 +10698,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "130154",
-        "title": "東嘉院",
-        "address": "嘉義市東區忠孝路642號(嘉義基督教醫院門診大樓內)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.450523658252,
-          23.500737538813098
-        ],
-        "type": "Point"
-      },
-      "id": "130154"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "130165",
         "title": "新港",
         "address": "嘉義縣新港鄉宮前村中山路72巷1號.中山路74號",
@@ -12326,23 +12207,6 @@
         "type": "Point"
       },
       "id": "131515"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "131560",
-        "title": "八大",
-        "address": "嘉義市西區保福里八德路237號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.430123,
-          23.488714
-        ],
-        "type": "Point"
-      },
-      "id": "131560"
     },
     {
       "type": "Feature",
@@ -15543,40 +15407,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "137786",
-        "title": "嘉德",
-        "address": "嘉義市西區八德路73號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.430691,
-          23.483731
-        ],
-        "type": "Point"
-      },
-      "id": "137786"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "137797",
-        "title": "新嘉醫",
-        "address": "嘉義市西區福全里北港路309號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.428479,
-          23.480787
-        ],
-        "type": "Point"
-      },
-      "id": "137797"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "137801",
         "title": "南德",
         "address": "台南市南區中華南路二段101之1號",
@@ -17345,40 +17175,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "141501",
-        "title": "香湖",
-        "address": "嘉義市西區香湖里文化路8鄰700號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.442706,
-          23.497275
-        ],
-        "type": "Point"
-      },
-      "id": "141501"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "141512",
-        "title": "北社尾",
-        "address": "嘉義市西區北湖里北社尾路165號附1",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.426786643334,
-          23.495181519053897
-        ],
-        "type": "Point"
-      },
-      "id": "141512"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "141523",
         "title": "員泰",
         "address": "宜蘭縣宜蘭市泰山路33之3號33之4號1樓",
@@ -17443,23 +17239,6 @@
         "type": "Point"
       },
       "id": "141590"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "141604",
-        "title": "金和",
-        "address": "台北市北投區中和街314號316號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.499919358385,
-          25.1410502649339
-        ],
-        "type": "Point"
-      },
-      "id": "141604"
     },
     {
       "type": "Feature",
@@ -19504,23 +19283,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "144186",
-        "title": "義東",
-        "address": "嘉義市東區東義路85號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.468851670088,
-          23.493783514832298
-        ],
-        "type": "Point"
-      },
-      "id": "144186"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "144197",
         "title": "安興",
         "address": "台南市永康區北灣里20鄰北興路51號",
@@ -19534,23 +19296,6 @@
         "type": "Point"
       },
       "id": "144197"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "144201",
-        "title": "秋園",
-        "address": "嘉義市西區新民路681號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.439869,
-          23.468331
-        ],
-        "type": "Point"
-      },
-      "id": "144201"
     },
     {
       "type": "Feature",
@@ -21833,23 +21578,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "149826",
-        "title": "新嘉商",
-        "address": "嘉義市東區民權路72號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.460703,
-          23.48397
-        ],
-        "type": "Point"
-      },
-      "id": "149826"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "150701",
         "title": "辰皓",
         "address": "高雄市路竹區國昌路312號",
@@ -22526,23 +22254,6 @@
         "type": "Point"
       },
       "id": "151416"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "151461",
-        "title": "鈺順",
-        "address": "嘉義市西區新榮路35巷20號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.443659,
-          23.469849
-        ],
-        "type": "Point"
-      },
-      "id": "151461"
     },
     {
       "type": "Feature",
@@ -30078,23 +29789,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "165482",
-        "title": "嘉坪",
-        "address": "嘉義市西區大同路455號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.422995,
-          23.476007
-        ],
-        "type": "Point"
-      },
-      "id": "165482"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "165493",
         "title": "明采",
         "address": "新竹縣竹北市光明一路158號1樓",
@@ -31298,23 +30992,6 @@
         "type": "Point"
       },
       "id": "166496"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "166500",
-        "title": "秀泰",
-        "address": "嘉義市西區國華里文化路293號1樓及2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.448111,
-          23.484917
-        ],
-        "type": "Point"
-      },
-      "id": "166500"
     },
     {
       "type": "Feature",
@@ -34226,23 +33903,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "171188",
-        "title": "新車店",
-        "address": "嘉義市西區福民里南京路462號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.436194,
-          23.46569
-        ],
-        "type": "Point"
-      },
-      "id": "171188"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "171199",
         "title": "瑞和",
         "address": "台北市內湖區瑞光路316巷56號1樓",
@@ -35253,8 +34913,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.284757,
+          24.847774
         ],
         "type": "Point"
       },
@@ -37405,23 +37065,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "180023",
-        "title": "嘉林",
-        "address": "嘉義市東區林森東路950號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.482492,
-          23.494763
-        ],
-        "type": "Point"
-      },
-      "id": "180023"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "180034",
         "title": "安康",
         "address": "新北市新店區安德街70號72號1樓+2樓",
@@ -38353,40 +37996,6 @@
         "type": "Point"
       },
       "id": "180757"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "180780",
-        "title": "嘉義大",
-        "address": "嘉義市東區學府路300號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.483587680269,
-          23.464267412083
-        ],
-        "type": "Point"
-      },
-      "id": "180780"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "180791",
-        "title": "嘉潭",
-        "address": "嘉義市東區學府路300號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.483587680269,
-          23.464267412083
-        ],
-        "type": "Point"
-      },
-      "id": "180791"
     },
     {
       "type": "Feature",
@@ -40363,23 +39972,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "182742",
-        "title": "安捷",
-        "address": "嘉義市西區保安里保安一路301.303號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.433315,
-          23.492444
-        ],
-        "type": "Point"
-      },
-      "id": "182742"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "182764",
         "title": "新榮",
         "address": "台中市大里區東榮路552號",
@@ -40580,23 +40172,6 @@
         "type": "Point"
       },
       "id": "182904"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "182926",
-        "title": "湖康",
-        "address": "嘉義市西區湖內里湖子內路195號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.441944,
-          23.451317
-        ],
-        "type": "Point"
-      },
-      "id": "182926"
     },
     {
       "type": "Feature",
@@ -42828,23 +42403,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "184885",
-        "title": "新瑞鴻",
-        "address": "嘉義市西區文化里民族路456號458號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.449731,
-          23.476116
-        ],
-        "type": "Point"
-      },
-      "id": "184885"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "184900",
         "title": "文慈",
         "address": "高雄市左營區福山里重愛路65號",
@@ -43589,23 +43147,6 @@
         "type": "Point"
       },
       "id": "185442"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185453",
-        "title": "嘉上",
-        "address": "嘉義市西區車店里上海路147號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.432212,
-          23.466016
-        ],
-        "type": "Point"
-      },
-      "id": "185453"
     },
     {
       "type": "Feature",
@@ -46462,23 +46003,6 @@
         "type": "Point"
       },
       "id": "187932"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "187965",
-        "title": "立宣",
-        "address": "嘉義市東區立仁路120號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.463572,
-          23.464948
-        ],
-        "type": "Point"
-      },
-      "id": "187965"
     },
     {
       "type": "Feature",
@@ -49458,23 +48982,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "192750",
-        "title": "湖興",
-        "address": "嘉義市東區興安里24鄰興美六路368號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.447953,
-          23.458719
-        ],
-        "type": "Point"
-      },
-      "id": "192750"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "192783",
         "title": "唯勝",
         "address": "台南市中西區民權路三段150號一樓",
@@ -52178,23 +51685,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "195128",
-        "title": "大統",
-        "address": "嘉義市西區西平里博愛路二段696號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.428353,
-          23.468865
-        ],
-        "type": "Point"
-      },
-      "id": "195128"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "195139",
         "title": "青年",
         "address": "台北市萬華區青年路188號1樓",
@@ -52735,23 +52225,6 @@
         "type": "Point"
       },
       "id": "195520"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "195531",
-        "title": "嘉驛",
-        "address": "嘉義市西區書院里中山路534號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.44087,
-          23.47859
-        ],
-        "type": "Point"
-      },
-      "id": "195531"
     },
     {
       "type": "Feature",
@@ -53534,23 +53007,6 @@
         "type": "Point"
       },
       "id": "196198"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "196202",
-        "title": "國華",
-        "address": "嘉義市西區國華里國華街283號1樓.2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.448291,
-          23.480679
-        ],
-        "type": "Point"
-      },
-      "id": "196202"
     },
     {
       "type": "Feature",
@@ -58230,23 +57686,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "199935",
-        "title": "桃城",
-        "address": "嘉義市西區北興街456號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.433721,
-          23.488242
-        ],
-        "type": "Point"
-      },
-      "id": "199935"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "199946",
         "title": "光環",
         "address": "新北市板橋區光環路二段68號70號1樓",
@@ -61099,23 +60538,6 @@
         "type": "Point"
       },
       "id": "206710"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "206732",
-        "title": "新嘉友",
-        "address": "嘉義市西區福全里友愛路222.222-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.43411,
-          23.481659
-        ],
-        "type": "Point"
-      },
-      "id": "206732"
     },
     {
       "type": "Feature",
@@ -65132,23 +64554,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "209915",
-        "title": "嘉愛",
-        "address": "嘉義市西區仁愛路212號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.443041,
-          23.469264
-        ],
-        "type": "Point"
-      },
-      "id": "209915"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "209926",
         "title": "蘭雲",
         "address": "宜蘭縣頭城鎮青雲路三段315號317號",
@@ -65683,8 +65088,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.243476,
+          23.041813
         ],
         "type": "Point"
       },
@@ -66029,23 +65434,6 @@
         "type": "Point"
       },
       "id": "210649"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "210650",
-        "title": "回家",
-        "address": "嘉義市西區中山路518號及林森西路580號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.4419,
-          23.479281
-        ],
-        "type": "Point"
-      },
-      "id": "210650"
     },
     {
       "type": "Feature",
@@ -67859,8 +67247,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          120.613749,
+          24.110139
         ],
         "type": "Point"
       },
@@ -70538,23 +69926,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "215563",
-        "title": "嘉賢",
-        "address": "嘉義市西區光路里世賢路四段120號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.443744,
-          23.461762
-        ],
-        "type": "Point"
-      },
-      "id": "215563"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "215574",
         "title": "和建",
         "address": "新北市中和區建一路16號1樓",
@@ -72204,23 +71575,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "216647",
-        "title": "高上",
-        "address": "高雄市三民區建國二路318號B1樓西側",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.302846,
-          22.639186
-        ],
-        "type": "Point"
-      },
-      "id": "216647"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "216658",
         "title": "東勝",
         "address": "台南市東山區東山里235號",
@@ -73360,23 +72714,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "217411",
-        "title": "嘉北",
-        "address": "嘉義市西區保安里興達路331號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.437103,
-          23.48658
-        ],
-        "type": "Point"
-      },
-      "id": "217411"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "217422",
         "title": "五權",
         "address": "台中市西區南屯路一段60號62號64號",
@@ -73696,6 +73033,23 @@
         "type": "Point"
       },
       "id": "227957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "228019",
+        "title": "天合",
+        "address": "花蓮縣瑞穗鄉溫泉路二段308號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "228019"
     },
     {
       "type": "Feature",
@@ -74091,23 +73445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "238441",
-        "title": "嘉西",
-        "address": "嘉義市西區大溪里北港路13鄰597號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.419195,
-          23.48529
-        ],
-        "type": "Point"
-      },
-      "id": "238441"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "238452",
         "title": "新球庭",
         "address": "高雄市新興區林森一路162號",
@@ -74227,6 +73564,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238555",
+        "title": "金和",
+        "address": "台北市北投區中和街314號316號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.499919358385,
+          25.1410502649339
+        ],
+        "type": "Point"
+      },
+      "id": "238555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238566",
         "title": "寶元",
         "address": "新北市新店區寶橋路156之2號156之3號1樓",
@@ -74268,8 +73622,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.476889,
+          25.030681
         ],
         "type": "Point"
       },
@@ -75043,23 +74397,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "844882",
-        "title": "彌陀",
-        "address": "嘉義市東區芳安路1號1F",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.465513668713,
-          23.4691014286812
-        ],
-        "type": "Point"
-      },
-      "id": "844882"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "844893",
         "title": "民強",
         "address": "高雄市鼓山區九如四路706號708號710號712號",
@@ -75481,23 +74818,6 @@
         "type": "Point"
       },
       "id": "854443"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "854498",
-        "title": "台林",
-        "address": "嘉義市東區新生路723號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.45485,
-          23.495612
-        ],
-        "type": "Point"
-      },
-      "id": "854498"
     },
     {
       "type": "Feature",
@@ -77440,23 +76760,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "874355",
-        "title": "垂楊",
-        "address": "嘉義市西區垂楊里仁愛路315號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.44234765392301,
-          23.473060442136102
-        ],
-        "type": "Point"
-      },
-      "id": "874355"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "874388",
         "title": "曾德",
         "address": "台北市中山區錦州街21-2號",
@@ -77844,23 +77147,6 @@
         "type": "Point"
       },
       "id": "880143"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "880154",
-        "title": "嘉洋",
-        "address": "嘉義市西區民生南路600號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.443488,
-          23.457658
-        ],
-        "type": "Point"
-      },
-      "id": "880154"
     },
     {
       "type": "Feature",
@@ -79170,23 +78456,6 @@
         "type": "Point"
       },
       "id": "888099"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "888136",
-        "title": "嘉華",
-        "address": "嘉義市西區仁愛路415號417號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.441892,
-          23.477516
-        ],
-        "type": "Point"
-      },
-      "id": "888136"
     },
     {
       "type": "Feature",
@@ -82455,23 +81724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "909323",
-        "title": "嘉工",
-        "address": "嘉義市東區彌陀路240號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.463092,
-          23.473678
-        ],
-        "type": "Point"
-      },
-      "id": "909323"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "909390",
         "title": "石門",
         "address": "新北市石門區中山路78號",
@@ -83237,23 +82489,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "912639",
-        "title": "嘉達",
-        "address": "嘉義市西區保安里四維路18鄰302號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.428069,
-          23.485066
-        ],
-        "type": "Point"
-      },
-      "id": "912639"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "912709",
         "title": "科學城",
         "address": "桃園市中壢區中北路二段206號",
@@ -83726,23 +82961,6 @@
         "type": "Point"
       },
       "id": "914152"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "914174",
-        "title": "蘭潭",
-        "address": "嘉義市東區大雅路二段573號575號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.467898,
-          23.477323
-        ],
-        "type": "Point"
-      },
-      "id": "914174"
     },
     {
       "type": "Feature",
@@ -85307,23 +84525,6 @@
         "type": "Point"
       },
       "id": "923019"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "923020",
-        "title": "嘉賓",
-        "address": "嘉義市西區新西里垂楊路611號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.437858,
-          23.472573
-        ],
-        "type": "Point"
-      },
-      "id": "923020"
     },
     {
       "type": "Feature",
@@ -86909,23 +86110,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "932895",
-        "title": "湖子內",
-        "address": "嘉義市西區湖內里南京路124號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.44074,
-          23.456447
-        ],
-        "type": "Point"
-      },
-      "id": "932895"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "932965",
         "title": "新統興",
         "address": "高雄市三民區黃興路151號",
@@ -87194,23 +86378,6 @@
         "type": "Point"
       },
       "id": "934776"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "934813",
-        "title": "嘉榮",
-        "address": "嘉義市西區劉厝里自強街34號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.422842,
-          23.464994
-        ],
-        "type": "Point"
-      },
-      "id": "934813"
     },
     {
       "type": "Feature",
@@ -87844,23 +87011,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "941095",
-        "title": "保愛",
-        "address": "嘉義市西區新厝里捌鄰友愛路711號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.438774,
-          23.49174
-        ],
-        "type": "Point"
-      },
-      "id": "941095"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "941121",
         "title": "員崠",
         "address": "新竹縣竹東鎮東峰路336號",
@@ -87942,23 +87092,6 @@
         "type": "Point"
       },
       "id": "941224"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "941279",
-        "title": "軍暉",
-        "address": "嘉義市東區軍輝路60號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.463773668,
-          23.4562133836968
-        ],
-        "type": "Point"
-      },
-      "id": "941279"
     },
     {
       "type": "Feature",
@@ -89697,23 +88830,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "947679",
-        "title": "嘉高",
-        "address": "嘉義市西區北港路1062號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.397724,
-          23.492218
-        ],
-        "type": "Point"
-      },
-      "id": "947679"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "947738",
         "title": "統賀",
         "address": "新竹縣竹北市中正東路67號69號",
@@ -90377,23 +89493,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "951070",
-        "title": "新嘉基",
-        "address": "嘉義市東區頂庄里忠孝路650號(嘉義基督教醫院門診大樓外)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.450655658343,
-          23.5004975379779
-        ],
-        "type": "Point"
-      },
-      "id": "951070"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "951106",
         "title": "漁翁",
         "address": "澎湖縣西嶼鄉外垵村113號",
@@ -90645,23 +89744,6 @@
         "type": "Point"
       },
       "id": "951597"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "951601",
-        "title": "嘉文",
-        "address": "嘉義市東區盧厝里文雅街211號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.483978,
-          23.482635
-        ],
-        "type": "Point"
-      },
-      "id": "951601"
     },
     {
       "type": "Feature",
@@ -94542,23 +93624,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "965493",
-        "title": "元福",
-        "address": "嘉義市東區王田里林森東路288號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.46362,
-          23.488723
-        ],
-        "type": "Point"
-      },
-      "id": "965493"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "965552",
         "title": "麟洛",
         "address": "屏東縣麟洛鄉麟趾村中山路519-5號",
@@ -95456,23 +94521,6 @@
         "type": "Point"
       },
       "id": "967282"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "967318",
-        "title": "博元",
-        "address": "嘉義市西區博愛路二段572號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.430704,
-          23.471691
-        ],
-        "type": "Point"
-      },
-      "id": "967318"
     },
     {
       "type": "Feature",
@@ -97653,23 +96701,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "971580",
-        "title": "新大業",
-        "address": "嘉義市東區安寮里24鄰吳鳳南路194號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.45554666257601,
-          23.4635654092187
-        ],
-        "type": "Point"
-      },
-      "id": "971580"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "971616",
         "title": "新長明",
         "address": "桃園市龜山區復興一路62號1樓",
@@ -97921,23 +96952,6 @@
         "type": "Point"
       },
       "id": "972114"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "972125",
-        "title": "嘉英",
-        "address": "嘉義市東區荖藤里忠孝北街206號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.442312,
-          23.51627
-        ],
-        "type": "Point"
-      },
-      "id": "972125"
     },
     {
       "type": "Feature",
@@ -99438,23 +98452,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "980034",
-        "title": "嘉永",
-        "address": "嘉義市西區育英里民生南路129號131號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.447292,
-          23.470563
-        ],
-        "type": "Point"
-      },
-      "id": "980034"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "980045",
         "title": "于滿",
         "address": "雲林縣斗南鎮延平路二段581號1樓",
@@ -99897,23 +98894,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "981107",
-        "title": "新港坪",
-        "address": "嘉義市西區玉山路203號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.426106,
-          23.471927
-        ],
-        "type": "Point"
-      },
-      "id": "981107"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "981196",
         "title": "豐肚",
         "address": "台中市大肚區社腳里沙田路一段916號",
@@ -100114,23 +99094,6 @@
         "type": "Point"
       },
       "id": "981613"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "981624",
-        "title": "新嘉院",
-        "address": "嘉義市東區忠孝路539號1樓(嘉義基督教醫院住院大樓內)",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.45029265815701,
-          23.4990715329977
-        ],
-        "type": "Point"
-      },
-      "id": "981624"
     },
     {
       "type": "Feature",
@@ -100607,23 +99570,6 @@
         "type": "Point"
       },
       "id": "982443"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "982454",
-        "title": "新嘉家",
-        "address": "嘉義市東區宣信里和平路103號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.45778066365901,
-          23.4744514472275
-        ],
-        "type": "Point"
-      },
-      "id": "982454"
     },
     {
       "type": "Feature",
@@ -101648,23 +100594,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "990248",
-        "title": "旭豐",
-        "address": "嘉義市東區溪興街107號109號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.45761,
-          23.45554
-        ],
-        "type": "Point"
-      },
-      "id": "990248"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "990271",
         "title": "新裕新",
         "address": "台南市新營區新進路二段90號1樓",
@@ -101712,23 +100641,6 @@
         "type": "Point"
       },
       "id": "990352"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "990374",
-        "title": "新嘉勝",
-        "address": "嘉義市西區博愛路一段421號及北興街148號150號152號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.441829,
-          23.48402
-        ],
-        "type": "Point"
-      },
-      "id": "990374"
     },
     {
       "type": "Feature",
@@ -103348,23 +102260,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "992819",
-        "title": "圓環",
-        "address": "嘉義市西區北杏里文化路155之2號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.449364,
-          23.480378
-        ],
-        "type": "Point"
-      },
-      "id": "992819"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "992820",
         "title": "南英",
         "address": "台南市中西區永福路一段30號32號1, 2樓",
@@ -104024,23 +102919,6 @@
         "type": "Point"
       },
       "id": "993823"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "993834",
-        "title": "光彩",
-        "address": "嘉義市西區民生北路182號184號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.446661,
-          23.478293
-        ],
-        "type": "Point"
-      },
-      "id": "993834"
     },
     {
       "type": "Feature",
