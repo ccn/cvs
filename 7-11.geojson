@@ -33070,23 +33070,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "169901",
-        "title": "宜增",
-        "address": "新北市新莊區中平路158號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.444921,
-          25.047465
-        ],
-        "type": "Point"
-      },
-      "id": "169901"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "170026",
         "title": "新昌",
         "address": "高雄市左營區光輝里後昌路637號639號1樓",
@@ -33185,23 +33168,6 @@
         "type": "Point"
       },
       "id": "170130"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "170185",
-        "title": "文南",
-        "address": "台南市南區健康路二段270號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.19002151343601,
-          22.9818977239341
-        ],
-        "type": "Point"
-      },
-      "id": "170185"
     },
     {
       "type": "Feature",
@@ -57363,23 +57329,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "199256",
-        "title": "鑫仰德",
-        "address": "台北市士林區仰德大道三段68號70號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.552876,
-          25.118849
-        ],
-        "type": "Point"
-      },
-      "id": "199256"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "199267",
         "title": "敦化",
         "address": "台北市松山區民權東路三段160巷9號1樓",
@@ -67580,6 +67529,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212058",
+        "title": "桂誠",
+        "address": "高雄市小港區桂園路70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.354903,
+          22.583905
+        ],
+        "type": "Point"
+      },
+      "id": "212058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212069",
         "title": "秀和",
         "address": "新北市永和區國中路99號101號",
@@ -67627,6 +67593,23 @@
         "type": "Point"
       },
       "id": "212081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212139",
+        "title": "民族西",
+        "address": "台北市大同區民族西路151號153號155號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.516164,
+          25.068714
+        ],
+        "type": "Point"
+      },
+      "id": "212139"
     },
     {
       "type": "Feature",
@@ -69667,6 +69650,23 @@
         "type": "Point"
       },
       "id": "214641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214674",
+        "title": "文南",
+        "address": "台南市南區健康路二段270號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.19002151343601,
+          22.9818977239341
+        ],
+        "type": "Point"
+      },
+      "id": "214674"
     },
     {
       "type": "Feature",
@@ -73139,6 +73139,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "217282",
+        "title": "鑫仰德",
+        "address": "台北市士林區仰德大道三段68號70號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.552876,
+          25.118849
+        ],
+        "type": "Point"
+      },
+      "id": "217282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "217293",
         "title": "熊貓",
         "address": "台中市南屯區向上南路一段325號1-2樓",
@@ -73798,6 +73815,23 @@
         "type": "Point"
       },
       "id": "238223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238234",
+        "title": "宜增",
+        "address": "新北市新莊區中平路158號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.444921,
+          25.047465
+        ],
+        "type": "Point"
+      },
+      "id": "238234"
     },
     {
       "type": "Feature",
