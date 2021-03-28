@@ -63228,6 +63228,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "208510",
+        "title": "詠康",
+        "address": "桃園市桃園區長春路37號39號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "208510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "208521",
         "title": "成高",
         "address": "桃園市桃園區成功路三段8號1樓",
@@ -67610,6 +67627,23 @@
         "type": "Point"
       },
       "id": "212139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212151",
+        "title": "添功",
+        "address": "新竹市北區中山路436號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.957522,
+          24.799788
+        ],
+        "type": "Point"
+      },
+      "id": "212151"
     },
     {
       "type": "Feature",
@@ -73696,6 +73730,23 @@
         "type": "Point"
       },
       "id": "228019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "228097",
+        "title": "天送埤",
+        "address": "宜蘭縣三星鄉三星路七段208號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.623753,
+          24.662074
+        ],
+        "type": "Point"
+      },
+      "id": "228097"
     },
     {
       "type": "Feature",
