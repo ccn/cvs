@@ -66050,6 +66050,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "210708",
+        "title": "森之丘",
+        "address": "高雄市橋頭區橋新七路1號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.31658,
+          22.737885
+        ],
+        "type": "Point"
+      },
+      "id": "210708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "210719",
         "title": "柑竹",
         "address": "彰化縣和美鎮竹圍里彰新路四段臨245號",
@@ -66301,6 +66318,23 @@
         "type": "Point"
       },
       "id": "210937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210948",
+        "title": "愛山林",
+        "address": "桃園市蘆竹區山林路一段297號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.293643,
+          25.085181
+        ],
+        "type": "Point"
+      },
+      "id": "210948"
     },
     {
       "type": "Feature",
@@ -66968,6 +67002,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "211561",
+        "title": "愛國",
+        "address": "台北市大安區愛國東路75號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.527296,
+          25.031752
+        ],
+        "type": "Point"
+      },
+      "id": "211561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "211572",
         "title": "新營",
         "address": "台南市新營區復興路642號",
@@ -67474,6 +67525,23 @@
         "type": "Point"
       },
       "id": "211974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212003",
+        "title": "新博如",
+        "address": "高雄市三民區博愛一路1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302496,
+          22.641422
+        ],
+        "type": "Point"
+      },
+      "id": "212003"
     },
     {
       "type": "Feature",
@@ -73645,6 +73713,23 @@
         "type": "Point"
       },
       "id": "227670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "227706",
+        "title": "沿山道",
+        "address": "苗栗縣公館鄉山村尖山224-9號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "227706"
     },
     {
       "type": "Feature",
