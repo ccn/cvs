@@ -9491,23 +9491,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3719",
-        "title": "北縣汐德店",
-        "address": "新北市汐止區中興路１５６號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.6324226351048,
-          25.0648410968241
-        ],
-        "type": "Point"
-      },
-      "id": "3719"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3725",
         "title": "高縣岡本店",
         "address": "高雄市岡山區本洲路５５-４７號",
@@ -21557,6 +21540,23 @@
         "type": "Point"
       },
       "id": "4839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4844",
+        "title": "三芝天涯店",
+        "address": "新北市三芝區田心子２號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.5017045261592,
+          25.2044784288672
+        ],
+        "type": "Point"
+      },
+      "id": "4844"
     },
     {
       "type": "Feature",
