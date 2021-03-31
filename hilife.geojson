@@ -21544,6 +21544,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4841",
+        "title": "湖口波羅店",
+        "address": "新竹縣湖口鄉三元路二段３號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.0213267796532,
+          24.8900896794072
+        ],
+        "type": "Point"
+      },
+      "id": "4841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "4844",
         "title": "三芝天涯店",
         "address": "新北市三芝區田心子２號",
@@ -22073,7 +22090,7 @@
       "properties": {
         "id": "C216",
         "title": "北縣南勢店",
-        "address": "新北市中和區興南路二段１１８號",
+        "address": "新北市中和區興南路二段１１６、１１８號",
         "marker-color": "#01ac50"
       },
       "geometry": {
