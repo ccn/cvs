@@ -27307,23 +27307,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "161424",
-        "title": "國府",
-        "address": "新北市板橋區國光路184號186號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.460963,
-          25.018378
-        ],
-        "type": "Point"
-      },
-      "id": "161424"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "161491",
         "title": "黃埔",
         "address": "高雄市鳳山區鎮東里光遠路73號",
@@ -38323,23 +38306,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "180838",
-        "title": "十九甲",
-        "address": "台中市大里區東昇里新仁路二段92號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.694568,
-          24.111639
-        ],
-        "type": "Point"
-      },
-      "id": "180838"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "180849",
         "title": "明月",
         "address": "高雄市楠梓區楠梓加工區第二園區創意北路1號",
@@ -45085,23 +45051,6 @@
         "type": "Point"
       },
       "id": "186825"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "186836",
-        "title": "鳳明",
-        "address": "高雄市大寮區新厝里鳳林二路160號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.302599598344,
-          22.5916703659179
-        ],
-        "type": "Point"
-      },
-      "id": "186836"
     },
     {
       "type": "Feature",
@@ -55935,23 +55884,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "198231",
-        "title": "縣道",
-        "address": "新北市板橋區縣民大道二段200巷1號3號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.46973,
-          25.017215
-        ],
-        "type": "Point"
-      },
-      "id": "198231"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "198242",
         "title": "高竹",
         "address": "桃園市蘆竹區大竹北路737號",
@@ -56067,23 +55999,6 @@
         "type": "Point"
       },
       "id": "198334"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "198345",
-        "title": "新埔站",
-        "address": "新北市板橋區民生路二段232之14號1樓2樓232之15號1樓2樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.468888,
-          25.022418
-        ],
-        "type": "Point"
-      },
-      "id": "198345"
     },
     {
       "type": "Feature",
@@ -60164,23 +60079,6 @@
         "type": "Point"
       },
       "id": "201955"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "201966",
-        "title": "金美",
-        "address": "新北市金山區中山路143號145號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.6389,
-          25.220131
-        ],
-        "type": "Point"
-      },
-      "id": "201966"
     },
     {
       "type": "Feature",
@@ -65281,23 +65179,6 @@
         "type": "Point"
       },
       "id": "210203"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "210214",
-        "title": "治平",
-        "address": "澎湖縣馬公市治平路26-1號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          119.567973,
-          23.569636
-        ],
-        "type": "Point"
-      },
-      "id": "210214"
     },
     {
       "type": "Feature",
@@ -73683,6 +73564,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "228558",
+        "title": "鑫馬偕",
+        "address": "新北市淡水區民權路47號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.460461,
+          25.139527
+        ],
+        "type": "Point"
+      },
+      "id": "228558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "236593",
         "title": "鑫馬偕(臨時櫃)",
         "address": "新北市淡水區民權路47號",
@@ -74261,6 +74159,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238599",
+        "title": "國府",
+        "address": "新北市板橋區國光路184號186號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.460963,
+          25.018378
+        ],
+        "type": "Point"
+      },
+      "id": "238599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238603",
         "title": "布拉諾",
         "address": "新北市淡水區坪頂路56-8號56-9號1樓",
@@ -74274,6 +74189,23 @@
         "type": "Point"
       },
       "id": "238603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238614",
+        "title": "內鑫",
+        "address": "台中市大里區東昇里新仁路二段92號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.694568,
+          24.111639
+        ],
+        "type": "Point"
+      },
+      "id": "238614"
     },
     {
       "type": "Feature",
@@ -74308,6 +74240,23 @@
         "type": "Point"
       },
       "id": "238636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238647",
+        "title": "裕興",
+        "address": "台南市東區復興里裕文路76號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.241584,
+          22.982521
+        ],
+        "type": "Point"
+      },
+      "id": "238647"
     },
     {
       "type": "Feature",
@@ -74448,6 +74397,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238751",
+        "title": "鳳明",
+        "address": "高雄市大寮區新厝里鳳林二路160號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.302599598344,
+          22.5916703659179
+        ],
+        "type": "Point"
+      },
+      "id": "238751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238773",
         "title": "華榮",
         "address": "高雄市鼓山區明倫路149號",
@@ -74465,6 +74431,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238809",
+        "title": "治平",
+        "address": "澎湖縣馬公市治平路26-1號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          119.567973,
+          23.569636
+        ],
+        "type": "Point"
+      },
+      "id": "238809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238821",
         "title": "天健",
         "address": "高雄市新興區中山一路279號",
@@ -74478,6 +74461,23 @@
         "type": "Point"
       },
       "id": "238821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238832",
+        "title": "新埔站",
+        "address": "新北市板橋區民生路二段232之14號1樓2樓232之15號1樓2樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468888,
+          25.022418
+        ],
+        "type": "Point"
+      },
+      "id": "238832"
     },
     {
       "type": "Feature",
@@ -74512,6 +74512,40 @@
         "type": "Point"
       },
       "id": "238898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238902",
+        "title": "金美",
+        "address": "新北市金山區中山路143號145號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.6389,
+          25.220131
+        ],
+        "type": "Point"
+      },
+      "id": "238902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238913",
+        "title": "縣道",
+        "address": "新北市板橋區縣民大道二段200巷1號3號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46973,
+          25.017215
+        ],
+        "type": "Point"
+      },
+      "id": "238913"
     },
     {
       "type": "Feature",
@@ -74563,6 +74597,23 @@
         "type": "Point"
       },
       "id": "238980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "239019",
+        "title": "麗池",
+        "address": "新北市林口區中山路583號1樓.文化二路二段120號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.37983,
+          25.082243
+        ],
+        "type": "Point"
+      },
+      "id": "239019"
     },
     {
       "type": "Feature",
@@ -90666,23 +90717,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "951379",
-        "title": "裕興",
-        "address": "台南市東區復興里裕文路76號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.241584,
-          22.982521
-        ],
-        "type": "Point"
-      },
-      "id": "951379"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "951405",
         "title": "安河",
         "address": "台中市西屯區河南路二段14號",
@@ -93433,23 +93467,6 @@
         "type": "Point"
       },
       "id": "960166"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "960203",
-        "title": "麗池",
-        "address": "新北市林口區中山路583號1樓.文化二路二段120號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.37983,
-          25.082243
-        ],
-        "type": "Point"
-      },
-      "id": "960203"
     },
     {
       "type": "Feature",
