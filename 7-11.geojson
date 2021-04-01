@@ -2997,23 +2997,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "113953",
-        "title": "正心",
-        "address": "高雄市苓雅區正大里輔仁路一段145號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.332881,
-          22.630138
-        ],
-        "type": "Point"
-      },
-      "id": "113953"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "113986",
         "title": "至富",
         "address": "新北市林口區中湖里14鄰中湖40號之9",
@@ -32210,8 +32193,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.282614,
+          24.992161
         ],
         "type": "Point"
       },
@@ -34352,8 +34335,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.565534,
+          25.050247
         ],
         "type": "Point"
       },
@@ -36687,23 +36670,6 @@
         "type": "Point"
       },
       "id": "177463"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "177474",
-        "title": "勝利",
-        "address": "高雄市左營區勝利路123號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.290016,
-          22.680388
-        ],
-        "type": "Point"
-      },
-      "id": "177474"
     },
     {
       "type": "Feature",
@@ -49169,23 +49135,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "192679",
-        "title": "番路",
-        "address": "嘉義縣番路鄉下坑村菜公店92號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.552231,
-          23.46433
-        ],
-        "type": "Point"
-      },
-      "id": "192679"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "192680",
         "title": "本鈿",
         "address": "彰化縣花壇鄉文德村彰員路二段臨1138號",
@@ -54728,23 +54677,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "197342",
-        "title": "鑫城",
-        "address": "新北市土城區中華路一段100號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.444329,
-          24.987179
-        ],
-        "type": "Point"
-      },
-      "id": "197342"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "197353",
         "title": "懷生",
         "address": "台北市大安區忠孝東路三段248巷9號",
@@ -58774,23 +58706,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "200664",
-        "title": "鑫廣",
-        "address": "台中市南區福順里忠明南路787號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.66092977849799,
-          24.123517714407203
-        ],
-        "type": "Point"
-      },
-      "id": "200664"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "200697",
         "title": "嘉新",
         "address": "新北市中和區員山路419號421號1樓",
@@ -62786,23 +62701,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "208370",
-        "title": "巃頭",
-        "address": "嘉義縣番路鄉公田村龍頭18號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.671536,
-          23.442931
-        ],
-        "type": "Point"
-      },
-      "id": "208370"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "208381",
         "title": "高蓉",
         "address": "桃園市大園區高鐵北路三段96號1樓",
@@ -62963,8 +62861,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.305496,
+          25.000817
         ],
         "type": "Point"
       },
@@ -67444,6 +67342,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "212184",
+        "title": "昱廣",
+        "address": "高雄市左營區自由二路398號1樓400號1樓402號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.30938,
+          22.66694
+        ],
+        "type": "Point"
+      },
+      "id": "212184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "212195",
         "title": "康葫",
         "address": "台北市內湖區民權東路六段296巷33號",
@@ -67644,6 +67559,23 @@
         "type": "Point"
       },
       "id": "212450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212472",
+        "title": "尊南",
+        "address": "台南市南區尊南街268.270號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.189175,
+          22.980638
+        ],
+        "type": "Point"
+      },
+      "id": "212472"
     },
     {
       "type": "Feature",
@@ -68685,23 +68617,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "214157",
-        "title": "雅客",
-        "address": "屏東縣恆春鎮墾丁里墾丁路166號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.798892,
-          21.945269
-        ],
-        "type": "Point"
-      },
-      "id": "214157"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "214168",
         "title": "中農",
         "address": "台中市東區台中路195號197號199號",
@@ -69446,6 +69361,23 @@
         "type": "Point"
       },
       "id": "214641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214663",
+        "title": "鑫廣",
+        "address": "台中市南區福順里忠明南路787號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.66092977849799,
+          24.123517714407203
+        ],
+        "type": "Point"
+      },
+      "id": "214663"
     },
     {
       "type": "Feature",
@@ -73520,8 +73452,8 @@
       },
       "geometry": {
         "coordinates": [
-          0,
-          0
+          121.356549,
+          23.493824
         ],
         "type": "Point"
       },
@@ -73560,6 +73492,23 @@
         "type": "Point"
       },
       "id": "228112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "228204",
+        "title": "后成",
+        "address": "台中市后里區成功路231巷2號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.718406,
+          24.310933
+        ],
+        "type": "Point"
+      },
+      "id": "228204"
     },
     {
       "type": "Feature",
@@ -73900,6 +73849,23 @@
         "type": "Point"
       },
       "id": "238382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238393",
+        "title": "勝利",
+        "address": "高雄市左營區勝利路123號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.290016,
+          22.680388
+        ],
+        "type": "Point"
+      },
+      "id": "238393"
     },
     {
       "type": "Feature",
@@ -74414,6 +74380,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238762",
+        "title": "雅客",
+        "address": "屏東縣恆春鎮墾丁里墾丁路166號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.798892,
+          21.945269
+        ],
+        "type": "Point"
+      },
+      "id": "238762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "238773",
         "title": "華榮",
         "address": "高雄市鼓山區明倫路149號",
@@ -74495,6 +74478,23 @@
         "type": "Point"
       },
       "id": "238843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238887",
+        "title": "正心",
+        "address": "高雄市苓雅區正大里輔仁路145號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "238887"
     },
     {
       "type": "Feature",
@@ -74601,6 +74601,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "238991",
+        "title": "鑫城",
+        "address": "新北市土城區中華路一段100號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.444329,
+          24.987179
+        ],
+        "type": "Point"
+      },
+      "id": "238991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "239019",
         "title": "麗池",
         "address": "新北市林口區中山路583號1樓.文化二路二段120號1樓",
@@ -74614,6 +74631,40 @@
         "type": "Point"
       },
       "id": "239019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "239042",
+        "title": "番路",
+        "address": "嘉義縣番路鄉下坑村菜公店92號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.552231,
+          23.46433
+        ],
+        "type": "Point"
+      },
+      "id": "239042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "239053",
+        "title": "巃頭",
+        "address": "嘉義縣番路鄉公田村龍頭18號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.671536,
+          23.442931
+        ],
+        "type": "Point"
+      },
+      "id": "239053"
     },
     {
       "type": "Feature",
@@ -84718,13 +84769,13 @@
       "properties": {
         "id": "921231",
         "title": "東京",
-        "address": "台東縣台東市卑南里更生北路198號",
+        "address": "台東縣台東市卑南里更生北路196號198號",
         "marker-color": "#01ac50"
       },
       "geometry": {
         "coordinates": [
-          121.122869070807,
-          22.7803860302165
+          0,
+          0
         ],
         "type": "Point"
       },
