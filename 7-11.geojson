@@ -18518,23 +18518,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "142995",
-        "title": "仁化",
-        "address": "台中市大里區仁化路657號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.696035,
-          24.096551
-        ],
-        "type": "Point"
-      },
-      "id": "142995"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "143002",
         "title": "明道二",
         "address": "台中市烏日區中山路一段497號地下室1樓",
@@ -20384,23 +20367,6 @@
         "type": "Point"
       },
       "id": "147989"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "148041",
-        "title": "埔站",
-        "address": "新北市板橋區民生路二段247號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.468037,
-          25.022053
-        ],
-        "type": "Point"
-      },
-      "id": "148041"
     },
     {
       "type": "Feature",
@@ -24549,23 +24515,6 @@
         "type": "Point"
       },
       "id": "154873"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "154884",
-        "title": "詠豐",
-        "address": "台中市南屯區永春東路1230號",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          120.634343,
-          24.136609
-        ],
-        "type": "Point"
-      },
-      "id": "154884"
     },
     {
       "type": "Feature",
@@ -43130,23 +43079,6 @@
         "type": "Point"
       },
       "id": "185279"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "185280",
-        "title": "中愛",
-        "address": "台北市中正區寧波東街17號1樓",
-        "marker-color": "#01ac50"
-      },
-      "geometry": {
-        "coordinates": [
-          121.520249,
-          25.033082
-        ],
-        "type": "Point"
-      },
-      "id": "185280"
     },
     {
       "type": "Feature",
@@ -72289,6 +72221,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "216887",
+        "title": "詠豐",
+        "address": "台中市南屯區永春東路1230號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.634343,
+          24.136609
+        ],
+        "type": "Point"
+      },
+      "id": "216887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "216898",
         "title": "向興",
         "address": "台中市西區向上路一段95號",
@@ -73362,7 +73311,7 @@
       "properties": {
         "id": "227706",
         "title": "沿山道",
-        "address": "苗栗縣公館鄉尖山村尖山224-9號",
+        "address": "苗栗縣公館鄉尖山村尖山244-9號",
         "marker-color": "#01ac50"
       },
       "geometry": {
@@ -73513,6 +73462,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "228466",
+        "title": "新中榮",
+        "address": "台中市西屯區台灣大道四段1650號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.60371,
+          24.183744
+        ],
+        "type": "Point"
+      },
+      "id": "228466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "228558",
         "title": "鑫馬偕",
         "address": "新北市淡水區民權路47號",
@@ -73577,6 +73543,40 @@
         "type": "Point"
       },
       "id": "237219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "237220",
+        "title": "中愛",
+        "address": "台北市中正區寧波東街17號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.520249,
+          25.033082
+        ],
+        "type": "Point"
+      },
+      "id": "237220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "237231",
+        "title": "埔站",
+        "address": "新北市板橋區民生路二段247號1樓",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          121.468037,
+          25.022053
+        ],
+        "type": "Point"
+      },
+      "id": "237231"
     },
     {
       "type": "Feature",
@@ -74410,6 +74410,23 @@
         "type": "Point"
       },
       "id": "238773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238795",
+        "title": "仁化",
+        "address": "台中市大里區仁化路657號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.696035,
+          24.096551
+        ],
+        "type": "Point"
+      },
+      "id": "238795"
     },
     {
       "type": "Feature",
