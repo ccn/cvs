@@ -73496,6 +73496,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "228879",
+        "title": "美科",
+        "address": "台中市后里區后科路二段309號",
+        "marker-color": "#01ac50"
+      },
+      "geometry": {
+        "coordinates": [
+          120.732445,
+          24.319268
+        ],
+        "type": "Point"
+      },
+      "id": "228879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "236593",
         "title": "鑫馬偕(臨時櫃)",
         "address": "新北市淡水區民權路47號",
